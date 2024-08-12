@@ -73,7 +73,7 @@
 | 67 | [SD]内蒙古卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/325ee158a9026a625e36ada7cab8bf4606657903a9312e1c19a2af5e7a73d1b7.m3u8> |
 | 68 | [BD]内黄新闻综合频道 | stream1.freetv.fun | <https://stream1.freetv.fun/be7e252270432ee9f17312a39a1f303c3d89f55594ed1d36f9ba46cc61e7a1a5.m3u8> |
 | 69 | [BD]兵团卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/4a8abda1e84955b569ee1083bd382f5246d6e746277e0dc61a6f9af14a0032f1.m3u8> |
-| 70 | [BD]刘德华 | stream1.freetv.fun | <https://stream1.freetv.fun/8848575026ebd3c19258f79bc476986d87d68dd75fc6d2ae65eb99163ca4883d.ctv> |
+| 70 | [HD]刘德华 | stream1.freetv.fun | <https://stream1.freetv.fun/7beb142ac0e042f1fe010898c410d88a3bd1e0fd260a34d50a08ba80dec005e4.ctv> |
 | 71 | [BD]动漫秀场[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/116b072fce86ad7fb72e6cb782fc5e85b72e4bae044922c23b702e6aa5a3adb8.m3u8> |
 | 72 | [BD]北京卫视[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/58ada9296c1cd8c98929d12386749a6748a6ed09bda28980e0909fff792e95fc.m3u8> |
 | 73 | [HD]十堰新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/9447224f27b995b42e5354aa08915b6d16e66f4805b7ff8f5b797cf4cd5b6402.m3u8> |
@@ -418,4 +418,4 @@
 | 412 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/a10b52e4c438586deca319570f445a4c9ebb6dea4ceb3b204f9bc9ae93fcbc58.m3u8> |
 | 413 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **Mon Aug 12 2024 16:23:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Aug 12 2024 18:26:10 GMT+0000 (Coordinated Universal Time)**

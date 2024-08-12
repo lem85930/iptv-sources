@@ -111,7 +111,7 @@
 | 105 | [BD]abu dhabi emirates | stream1.freetv.fun | <https://stream1.freetv.fun/97304b4fe1aab1703716bf673499656d464e904587e72fe343d8ac5eedc25bf2.m3u8> |
 | 106 | [BD]abu dhabi aloula | stream1.freetv.fun | <https://stream1.freetv.fun/7bc7106ce97f1c763b234375b54daf7514aa93abfcafc7dcddce17e7a3c45bfd.m3u8> |
 | 107 | [BD]accuweather now | stream1.freetv.fun | <https://stream1.freetv.fun/f379997c6cac053e98f9c1745cd248ce3eb42cb467892854afb1b097363d42bb.m3u8> |
-| 108 | [SD]action | stream1.freetv.fun | <https://stream1.freetv.fun/8c695253de2d0c9a4961fa74e820d1121ce35af7bac16b625d4bb16c010a6171.m3u8> |
+| 108 | [HD]kli action fhd | stream1.freetv.fun | <https://stream1.freetv.fun/e798f28a96fd3e77ea1765823cdc89ff22f33289ecc129ba329a7438a45f186c.m3u8> |
 | 109 | [HD]free x tv | stream1.freetv.fun | <https://stream1.freetv.fun/1d6cc071dd89cf8fc22bfd723812763982088c23a56d2a4a53027377a463d30a.m3u8> |
 | 110 | [BD]afarin tv | stream1.freetv.fun | <https://stream1.freetv.fun/8b3d1fafa3123b65acd1461db56b2e023b4fba2f9535b6abe7d4e41e2c3c7857.m3u8> |
 | 111 | [SD]africa 24 | stream1.freetv.fun | <https://stream1.freetv.fun/e5243a7613193186ea58ce5ebe579186a84b922afdb113a4e980576929d40e87.m3u8> |
@@ -167,7 +167,7 @@
 | 161 | [VGA]antena 3 cnn | stream1.freetv.fun | <https://stream1.freetv.fun/ee10c39f626f6efa60f88996b64249ee2fdefbf592d5df5632dee4237aeff1a4.m3u8> |
 | 162 | [BD]latina | stream1.freetv.fun | <https://stream1.freetv.fun/5f0ef890588df5893be3462cd1116f41ecca2ea4563a92c0076d8828e4b66cf5.m3u8> |
 | 163 | [BD]haunt tv | stream1.freetv.fun | <https://stream1.freetv.fun/fc55217c87b372f278570e066e4408bad54b4992ecb1a21ae18c7b896d986797.m3u8> |
-| 164 | [HD]aragon tv | stream1.freetv.fun | <https://stream1.freetv.fun/a531944347ad296dcbf786b0487b62bd54657ad2d4ab2a8588d976b2bba9df1e.m3u8> |
+| 164 | [VGA]aragon tv | stream1.freetv.fun | <https://stream1.freetv.fun/a531944347ad296dcbf786b0487b62bd54657ad2d4ab2a8588d976b2bba9df1e.m3u8> |
 | 165 | [HD]antenasport | stream1.freetv.fun | <https://stream1.freetv.fun/bfab7d0b95775f2472753a0d22a75de29bba230da3f0d3e085b5d09ab252b4a0.m3u8> |
 | 166 | [HD]arena sport 1 | stream1.freetv.fun | <https://stream1.freetv.fun/0c7c4d0d5080283e60ce6a40e4e157f15f36d6b006ef3e0ee59c0237b07a4fd3.ctv> |
 | 167 | [BD]arirangtv | stream1.freetv.fun | <https://stream1.freetv.fun/8963d898f011f84edadd6373426b55067700ec185cc9c7b020df29ab7adbe5bb.m3u8> |
@@ -894,7 +894,7 @@
 | 888 | [BD]mtv live | stream1.freetv.fun | <https://stream1.freetv.fun/c002c9b28b6167d7680b917f40eb9fb53cb135a6942e3b23073923fcd8561edc.m3u8> |
 | 889 | [HD]mtv live | stream1.freetv.fun | <https://stream1.freetv.fun/b3cdb6f76f83a37d3dd6777793d5c299c76de98d0c509d0d472a3ded813d4e8d.m3u8> |
 | 890 | [HD]pulse | stream1.freetv.fun | <https://stream1.freetv.fun/51374f9efdf28566886b4c59d88b64c44be4726f0720d7855818ac9be177b1d2.m3u8> |
-| 891 | [BD]usa | stream1.freetv.fun | <https://stream1.freetv.fun/8a04e19f5f313843e7b6461f1663a84da91ea444ab64e5e527d5aa7c8b0d8052.m3u8> |
+| 891 | [HD]usa | stream1.freetv.fun | <https://stream1.freetv.fun/8a04e19f5f313843e7b6461f1663a84da91ea444ab64e5e527d5aa7c8b0d8052.m3u8> |
 | 892 | [HD]tv romana | stream1.freetv.fun | <https://stream1.freetv.fun/08fd57140b07f353ec95c9bc5efde0126dc83becf93151675d7d5e488870a26e.m3u8> |
 | 893 | [SD]music japan tv | stream1.freetv.fun | <https://stream1.freetv.fun/a39634f59279a0997a23dc790f27f00c960370c53a7e68409bb202ad0c8ea1f0.m3u8> |
 | 894 | [HD]mutv | stream1.freetv.fun | <https://stream1.freetv.fun/92b75e64e59e9cc9da72caf7a8a584f331e3ca955f890a08932b5660557fc885.m3u8> |
@@ -1878,7 +1878,7 @@
 | 1872 | [VGA]安阳新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/354f570ec6eb1743546fe8536f8e228adf293d8c79a7ae5fcc1fa8065faa8a1f.m3u8> |
 | 1873 | [BD]家庭影院 | stream1.freetv.fun | <https://stream1.freetv.fun/315b1aba17c13b0b01f6c5d016d8c1daf278331f2533c2b87fdf32713d17cc66.m3u8> |
 | 1874 | [SD]家庭影院 | stream1.freetv.fun | <https://stream1.freetv.fun/7c5b292249b1bcb11d0e105649d2ea47b7719aacbb70df60bdea61510a1a4ff0.ctv> |
-| 1875 | [BD]家庭影院 | stream1.freetv.fun | <https://stream1.freetv.fun/3c0c2b0bc4548e4d82f0f0e87c4256d3d93b72d8d227b075f97001b5cdc58422.m3u8> |
+| 1875 | [SD]家庭影院 | stream1.freetv.fun | <https://stream1.freetv.fun/03f67d0e0fa947765e1aec78406a6a085ee9f3b4bb2d4f6c6947dd70a6c40296.ctv> |
 | 1876 | [BD]宁夏吴忠公共 | stream1.freetv.fun | <https://stream1.freetv.fun/9831c9bb9138784a97ecf8250101bb35a27c736df2e5d5c0b640e349168ccc17.m3u8> |
 | 1877 | [SD]宁夏卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/c3a22585493b5fbb62ab4b873bbf60ce767e779781bf178117fcf0918e2de201.m3u8> |
 | 1878 | [HD]咸宁经济生活 | stream1.freetv.fun | <https://stream1.freetv.fun/91aa26e5f08c654b7d2ea59dbfa50d5d5b4bfd4cdd7cbde4eae417575f18f510.m3u8> |
@@ -1889,9 +1889,9 @@
 | 1883 | [SD]山东教育卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/e6c5a3b4a3abab17ed38ac4d29a75598163f67386dff8689c900f00616fe7842.ctv> |
 | 1884 | [BD]山东文旅 | stream1.freetv.fun | <https://stream1.freetv.fun/71b214b84fa1214e6c77ebb53184b53c3f6cf861f4f48b2faba49c64e8a0d9a6.ctv> |
 | 1885 | [BD]山东新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/af2c2ee3135deb52b58c752e9dbb489a8ebc0653c2f967b3147242cf24be1852.m3u8> |
-| 1886 | [BD]山东综艺 | stream1.freetv.fun | <https://stream1.freetv.fun/1d514768bc06c7e3b2f812082f0f89cadfef559f158bd25490af6ef0f107356b.ctv> |
+| 1886 | [VGA]山东综艺 | stream1.freetv.fun | <https://stream1.freetv.fun/1d514768bc06c7e3b2f812082f0f89cadfef559f158bd25490af6ef0f107356b.ctv> |
 | 1887 | [BD]山东卫视高清 | stream1.freetv.fun | <https://stream1.freetv.fun/fdd7bef030372acf9ed806a591021390fac55ba88222c01613b1f2608a38fd8c.ctv> |
-| 1888 | [BD]山东体育 | stream1.freetv.fun | <https://stream1.freetv.fun/7662bf20ec19b22bc26a118f1918354e92b986fc3ad7e2a76884fac7791e0021.ctv> |
+| 1888 | [VGA]山东体育 | stream1.freetv.fun | <https://stream1.freetv.fun/7662bf20ec19b22bc26a118f1918354e92b986fc3ad7e2a76884fac7791e0021.ctv> |
 | 1889 | [BD]山东齐鲁 | stream1.freetv.fun | <https://stream1.freetv.fun/39855823c03804715a09a0edbb2274a5a73f776010ecd22551bc45159cb5f4e2.ctv> |
 | 1890 | [BD]山西公共 | stream1.freetv.fun | <https://stream1.freetv.fun/d6797d4ddf5574aec69b1a45c4ff2f6ce18bf46f465156618a86da7f41912570.m3u8> |
 | 1891 | [HD]山西影视 | stream1.freetv.fun | <https://stream1.freetv.fun/b493ddd1a113751d7924062be602f98313d60185dea9c5ffd516f727300f4a58.m3u8> |
@@ -2222,7 +2222,7 @@
 | 2216 | [VGA]云南卫视g | stream1.freetv.fun | <https://stream1.freetv.fun/906ac31054e353763f846d2cf354203dde5481cf2b1c71420ec0626181369e5e.m3u8> |
 | 2217 | [SD]云南都市 | stream1.freetv.fun | <https://stream1.freetv.fun/a6af8fd41000454e582492b10d1a42dff273782da70b83376b1f4a8a3ff2478b.m3u8> |
 | 2218 | [BD]电影01 | stream1.freetv.fun | <https://stream1.freetv.fun/b609f9ba92814ec781d1ed8bd7ce5d87be36984fe6e619bb12cd16664dd5e216.m3u8> |
-| 2219 | [SD]电影 | stream1.freetv.fun | <https://stream1.freetv.fun/1630e52cc867497ad90cd0642403d6f93ad5ed70d8f10279acecbfa3b7ddc856.ctv> |
+| 2219 | [HD]电影 | stream1.freetv.fun | <https://stream1.freetv.fun/1630e52cc867497ad90cd0642403d6f93ad5ed70d8f10279acecbfa3b7ddc856.ctv> |
 | 2220 | [SD]青岛新闻综合[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/52247d75a0d4056938f440965edb33e5bc7582911b83208d131a4271a0414634.m3u8> |
 | 2221 | [HD]青海经视 | stream1.freetv.fun | <https://stream1.freetv.fun/03e1e02577811b993390d7e8c0a9e061b847c3aaf344af8042569a48e12da9b5.m3u8> |
 | 2222 | [HD]青海综合 | stream1.freetv.fun | <https://stream1.freetv.fun/482cdc2e123e44b991b4a0c8b099bca3178a7f78833e6c90d7c4301caae4433a.m3u8> |
@@ -2257,4 +2257,4 @@
 | 2251 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2252 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Mon Aug 12 2024 16:23:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Aug 12 2024 18:26:10 GMT+0000 (Coordinated Universal Time)**

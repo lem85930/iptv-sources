@@ -337,7 +337,7 @@
 [VGA]1905国内电影,https://stream1.freetv.fun/c90deb63a57dd1f999a2c662d45ca501c5f271dcc46bf2b3d1384f7a3c498c35.ctv
 [BD]上虞文化影院,https://stream1.freetv.fun/fed964756a0d4e488e79e95415e911f8f4cf3e5c6e66d654736747fa55856154.m3u8
 [HD]佛山影视,https://stream1.freetv.fun/12028c95c01d46c778f3028e38eae9698c26afabc5a1363b77e7154cc74b9018.ctv
-[BD]刘德华,https://stream1.freetv.fun/8848575026ebd3c19258f79bc476986d87d68dd75fc6d2ae65eb99163ca4883d.ctv
+[HD]刘德华,https://stream1.freetv.fun/7beb142ac0e042f1fe010898c410d88a3bd1e0fd260a34d50a08ba80dec005e4.ctv
 [VGA]哈尔滨影,https://stream1.freetv.fun/4761681fab1275b2d0237e83813c4845effdd80a8575a346ed32a092aaab0872.m3u8
 [BD]安徽影视,https://stream1.freetv.fun/ead31f3cab11d4081b354fc79dee6c240bcb398a03a8d08b897d21f00c718441.m3u8
 [BD]家庭影院,https://stream1.freetv.fun/315b1aba17c13b0b01f6c5d016d8c1daf278331f2533c2b87fdf32713d17cc66.m3u8
