@@ -203,7 +203,7 @@
 | 197 | [SD]昆明科教 | stream1.freetv.fun | <https://stream1.freetv.fun/b3be5545e79269f533d5f0fce35312fb5a5466e9e97aaa22a93381f4ad32cb03.m3u8> |
 | 198 | [BD]晋城公共 | stream1.freetv.fun | <https://stream1.freetv.fun/906138969e04bb17662c36afe229862daf7f6d4f21e727ef3f9c2e6647a82435.m3u8> |
 | 199 | [BD]晋城新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/b7f44c7cf0937773ca350ff513cb1bb9e8a89a1c39b4834fa72e6c41695ebcc5.m3u8> |
-| 200 | [BD]杭州萧山综合 | stream1.freetv.fun | <https://stream1.freetv.fun/0e16350e6591564462f440facdfd22c54a2b0c52e5b018196c16762eac5bb60c.m3u8> |
+| 200 | [HD]杭州萧山综合 | stream1.freetv.fun | <https://stream1.freetv.fun/0e16350e6591564462f440facdfd22c54a2b0c52e5b018196c16762eac5bb60c.m3u8> |
 | 201 | [BD]东南卫视[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/d3a633f9603e282ecb78c53b3220a5cc6d4ae302a789711407a0794bc0c79c00.m3u8> |
 | 202 | [BD]东方影视 | stream1.freetv.fun | <https://stream1.freetv.fun/772a3f614df22e236a632996d17934432030a5daa5c6c76e91c7a6c438dee3f5.m3u8> |
 | 203 | [BD]东方卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9e1e70e2658595a0ffea37f1243a80e16b18ab7ae87c1931474e6f79828f05cc.m3u8> |
@@ -474,4 +474,4 @@
 | 468 | [BD]黑龙江视 | stream1.freetv.fun | <https://stream1.freetv.fun/c54ba741d71c6c3f6c22dc41896aa4d8305e6d66e2faaba5e985415427810291.ctv> |
 | 469 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **Sat Aug 17 2024 06:24:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 17 2024 08:21:44 GMT+0000 (Coordinated Universal Time)**
