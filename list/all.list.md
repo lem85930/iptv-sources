@@ -985,7 +985,7 @@
 | 979 | [SD]mbc sports | stream1.freetv.fun | <https://stream1.freetv.fun/647b195229c8b970c84df7ad5feb4fe181e816846990dbec1f89ff8e0b885b84.m3u8> |
 | 980 | [VGA]mbn | stream1.freetv.fun | <https://stream1.freetv.fun/816ac9508f672285e9bbfb25025e0388e1c63cdfd76c892ef0043340848f18e2.m3u8> |
 | 981 | [SD]mbs | stream1.freetv.fun | <https://stream1.freetv.fun/7e49f14aba122e7395bb8c1a3400142511d8d71fe2781861453f2b3af30ac3af.m3u8> |
-| 982 | [HD]mcot | stream1.freetv.fun | <https://stream1.freetv.fun/b3fbd6b79a129f36cc0281a9a2a03690f2e401b409038851c719b7856184d7da.m3u8> |
+| 982 | [HD]mcot | stream1.freetv.fun | <https://stream1.freetv.fun/6944901434e42f6878861664f509a5fd71030badac271aded02c7a573685579d.m3u8> |
 | 983 | [BD]kanal 33 mersin | stream1.freetv.fun | <https://stream1.freetv.fun/62819a12c4babb9a86c872dd222a778fbb955cdb9b9a58a7c288659c6030af81.m3u8> |
 | 984 | [VGA]tv7 meteo | stream1.freetv.fun | <https://stream1.freetv.fun/afb4994a599333023ffaa080fad399b0068d6640346deb163e0fa9a18a6a7879.m3u8> |
 | 985 | [BD]metropola tv | stream1.freetv.fun | <https://stream1.freetv.fun/881fd462f8d3d381dbee1271dda4b3956c46759019bcd3dec532a2159c330f6c.m3u8> |
@@ -2561,4 +2561,4 @@
 | 2555 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2556 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 
-Updated at **Sun Aug 25 2024 12:34:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 25 2024 14:15:32 GMT+0000 (Coordinated Universal Time)**

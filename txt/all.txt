@@ -833,7 +833,7 @@ Generic,#genre#
 [BD]mbc_masr_1,https://stream1.freetv.fun/5c1a3eb335b13949278d1c6b005f38a0e4a2a9d29345b118259d21ca9f50e6cc.m3u8
 [VGA]mbn,https://stream1.freetv.fun/816ac9508f672285e9bbfb25025e0388e1c63cdfd76c892ef0043340848f18e2.m3u8
 [SD]mbs,https://stream1.freetv.fun/7e49f14aba122e7395bb8c1a3400142511d8d71fe2781861453f2b3af30ac3af.m3u8
-[HD]mcot,https://stream1.freetv.fun/b3fbd6b79a129f36cc0281a9a2a03690f2e401b409038851c719b7856184d7da.m3u8
+[HD]mcot,https://stream1.freetv.fun/6944901434e42f6878861664f509a5fd71030badac271aded02c7a573685579d.m3u8
 [BD]metropola_tv,https://stream1.freetv.fun/881fd462f8d3d381dbee1271dda4b3956c46759019bcd3dec532a2159c330f6c.m3u8
 [BD]mitv,https://stream1.freetv.fun/5da7a628a46d48bb8f31461c3068903e5c1c80aabcfb6503aba8b997fc11b046.m3u8
 [HD]medi_1_maghreb,https://stream1.freetv.fun/f6f67a0c0c392192f159e1c5b4154fdec80919b185b4c8c5791114e786f0a9bd.m3u8
