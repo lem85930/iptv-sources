@@ -101,7 +101,7 @@
 | 95 | [BD]ASSP2 | stream1.freetv.fun | <https://stream1.freetv.fun/689a84a505ee70134b971f1e0e5fd818321ce1e6bcae1a8c0582785d763e1492.ctv> |
 | 96 | [HD]assp3 | stream1.freetv.fun | <https://stream1.freetv.fun/60b6150199fa7c65f65e884cbe60fd10292e6d8400d8c287bd0d0b32bc006dbb.m3u8> |
 | 97 | [BD]ASSP 4 | stream1.freetv.fun | <https://stream1.freetv.fun/01f8a5e0c284c1aea7886456b92fcdaec23e8c9d77d33cbf5876622df006ddf9.m3u8> |
-| 98 | [BD]aod | stream1.freetv.fun | <https://stream1.freetv.fun/9cb6f19cebd15a810f0452204292e95b942210293f589be9534cb6caedbae2d6.ctv> |
+| 98 | [BD]astro aod 311 粤语 | stream1.freetv.fun | <https://stream1.freetv.fun/2be323e3577564a1eacb771a666ccba38b15f0e5774fe99a3807043e22afcb03.ctv> |
 | 99 | [HD]astro awani | stream1.freetv.fun | <https://stream1.freetv.fun/713903e82f60673886c11803f5ef077c54e07b01544eef0d15e564e6fdba4421.m3u8> |
 | 100 | [HD]astro arena 2 | stream1.freetv.fun | <https://stream1.freetv.fun/303016deb41c56bcab39e837c3639610821ec5bc0cb7b9ff0f682387e9cb1ee6.ctv> |
 | 101 | [SD]astro cricket | stream1.freetv.fun | <https://stream1.freetv.fun/bf38672390dade7640265fcf4e434a04e33408ff8f22977013267f8cc6f75360.ctv> |
@@ -792,7 +792,7 @@
 | 786 | [HD]hbo hits | stream1.freetv.fun | <https://stream1.freetv.fun/62f4bb7c0b24528dfd93e2a8b74e435bd5e94605e06414b6b31b2bc882a02636.m3u8> |
 | 787 | [BD]travelxp netherlands | stream1.freetv.fun | <https://stream1.freetv.fun/53e62294ee965e9234d47cf2f3288922200c1a51603cb6bff8b668b5ad29ac70.m3u8> |
 | 788 | [VGA]plus | stream1.freetv.fun | <https://stream1.freetv.fun/38d270a6b5979a0523aedca5ad02e0b2a72c0266259cc7f586f944ffe7398006.m3u8> |
-| 789 | [HD]now hbo signature | stream1.freetv.fun | <https://stream1.freetv.fun/6876a818594bd49a4f0338eaf2d2cf7d475c7ffedb8eac0d9d27b035d62211ae.ctv> |
+| 789 | [HD]hbo signature | stream1.freetv.fun | <https://stream1.freetv.fun/87506f962b90c1e6a534a2768eec4e2caa0b75d1453dedd5b28b87f812cd11c4.m3u8> |
 | 790 | [HD]hbosignature | stream1.freetv.fun | <https://stream1.freetv.fun/5eb51723ccb18d09963f14c58b68dfa890412d1a0fcff1b2147ebb2826b18339.m3u8> |
 | 791 | [BD]HBO Zone | stream1.freetv.fun | <https://stream1.freetv.fun/5faa06793aa4441e1388e13c9e50f67fcf399ff1a8cccb9b87191566f59fd345.ctv> |
 | 792 | [BD]myx philippines | stream1.freetv.fun | <https://stream1.freetv.fun/8319fc3f6b1ec72b9a74b8fdcf740fb5ad36d94eff7c9c35f531726d7c94c30b.m3u8> |
@@ -2597,4 +2597,4 @@
 | 2591 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2592 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 
-Updated at **Tue Aug 27 2024 14:17:29 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Aug 27 2024 16:23:27 GMT+0000 (Coordinated Universal Time)**
