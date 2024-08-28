@@ -5,7 +5,7 @@
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
 | 1 | [HD]btv卡通少儿 | stream1.freetv.fun | <https://stream1.freetv.fun/cdb5eb0210780e8c53b732dac94cb3ae2f414cd08c296598ce51d44dd23b23c4.m3u8> |
-| 2 | [BD]brtv新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/13cb39d2f444a839197c61aa47e4d383f5b6b487802e94d45530366ecfbb9040.ctv> |
+| 2 | [VGA]brtv新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/13cb39d2f444a839197c61aa47e4d383f5b6b487802e94d45530366ecfbb9040.ctv> |
 | 3 | [BD]brtv财经 | stream1.freetv.fun | <https://stream1.freetv.fun/f20a462bf25d3b2960966e0ad553ff26887ae7716adf2c096806856d838ad217.ctv> |
 | 4 | [SD]香港卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/b6770f832d6bc1d61b9d574880da41458a581489c8922b70c1b4aaa97c3aecc1.m3u8> |
 | 5 | [VGA]cctvnews | stream1.freetv.fun | <https://stream1.freetv.fun/0866222a6bd6679e584d645784a8621d4e67a00a01171a512ee5b8bba148e7aa.m3u8> |
@@ -426,4 +426,4 @@
 | 420 | [BD]黑龙江视 | stream1.freetv.fun | <https://stream1.freetv.fun/6e7e2ce60b35f196871c0dbc89fc0adaea8f23d50baadfb76c8cd769821d150a.ctv> |
 | 421 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **Wed Aug 28 2024 04:23:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Aug 28 2024 06:26:49 GMT+0000 (Coordinated Universal Time)**
