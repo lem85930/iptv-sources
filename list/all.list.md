@@ -409,7 +409,7 @@
 | 403 | [BD]cnn | stream1.freetv.fun | <https://stream1.freetv.fun/e5667906c5c0fc0d1a7327e49a649f1e28cfd74bfb9a96c0844156fbec16ab64.m3u8> |
 | 404 | [BD]cnn int | stream1.freetv.fun | <https://stream1.freetv.fun/9f463291046b9c3130a1e747dc613fcf057cf99115cb9ae0abd4d54710430b39.m3u8> |
 | 405 | [HD]hln (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/c944966d71f2a97bfea2d957ae59051819d482f7acdcbe2187cbbea67ef7c68f.m3u8> |
-| 406 | [HD]cnbc indonesia | stream1.freetv.fun | <https://stream1.freetv.fun/f98d026ac1f33ad869aec4b1099116a9fc94cd8fc290a48e07a38d5a3852db00.m3u8> |
+| 406 | [HD]cnn indonesia | stream1.freetv.fun | <https://stream1.freetv.fun/f191ec7cc112647770f9e08d5a19b774056a2504d9a03e331245253a336df324.m3u8> |
 | 407 | [HD]cnn international | stream1.freetv.fun | <https://stream1.freetv.fun/c9725c9e988494a303ea9309f4460381169e69c3de0500c96df2c6eb1679986e.ctv> |
 | 408 | [HD]cnn usa (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/8f00cf1e1b9e5033eb0981c4133b321c3812c3bb977c3f497eb2762ca045a075.m3u8> |
 | 409 | [HD]afv en español (720p) [not 24/7] | stream1.freetv.fun | <https://stream1.freetv.fun/4f570d28949e431d4eef29824ef39425c9319fbb729dffc953ef58bb5c78fbc9.m3u8> |
@@ -1950,7 +1950,7 @@
 | 1944 | [SD]радость моя | stream1.freetv.fun | <https://stream1.freetv.fun/92a276d2eb8a61bafe4f69e2aee82e74d3000ce32c1a92b0f82723551b000d55.m3u8> |
 | 1945 | [HD]россия 1 hd | stream1.freetv.fun | <https://stream1.freetv.fun/3d522c107d3db11a76f9c7d3e2c7ffc5d959597fa24cf92196c7ee2553cb4cb9.m3u8> |
 | 1946 | [VGA]россия к | stream1.freetv.fun | <https://stream1.freetv.fun/7c9facd47ec9f433a7c103ae8b6cf60674ba0b8fb996e42c1f404e9c39da8654.m3u8> |
-| 1947 | [SD]русский бестселлер | stream1.freetv.fun | <https://stream1.freetv.fun/c804d9e21fc97ab37d86d67302637ca01ddaca36e57431ee36852415a60d0d51.m3u8> |
+| 1947 | [SD]русский бестселлер | stream1.freetv.fun | <https://stream1.freetv.fun/1b1983fa7e783a033c2e4b33aa9e793fce70b89e76a20627f27774c231720d18.m3u8> |
 | 1948 | [VGA]рыжий | stream1.freetv.fun | <https://stream1.freetv.fun/f5320379985010e9d6533d9c927c77082acf73ceeece6fdd5180bfa45d3720ce.m3u8> |
 | 1949 | [SD]стс | stream1.freetv.fun | <https://stream1.freetv.fun/2f46f095c4f1077aa128cf90dfb0949213ff7e8fb354273eaaa956b6b9064050.m3u8> |
 | 1950 | [BD]сибирь 24 | stream1.freetv.fun | <https://stream1.freetv.fun/8af12d99d8d106959b013af4756c844bd785eafd1ff3636f69bc828d05e2f2a9.m3u8> |
@@ -2040,7 +2040,7 @@
 | 2034 | [BD]北京卫视[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/58ada9296c1cd8c98929d12386749a6748a6ed09bda28980e0909fff792e95fc.m3u8> |
 | 2035 | [HD]十堰新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/9447224f27b995b42e5354aa08915b6d16e66f4805b7ff8f5b797cf4cd5b6402.m3u8> |
 | 2036 | [HD]十堰经济 | stream1.freetv.fun | <https://stream1.freetv.fun/ee00033c62a5696b97d3522d93bb515c860a3d176e3639e1c118f5b2fe1dee2f.m3u8> |
-| 2037 | [BD]半岛电视台 | stream1.freetv.fun | <https://stream1.freetv.fun/a3e9470f702f8ff6626704f86f0fd2ca6faf9e2cb3545edf1b59aca984593f13.m3u8> |
+| 2037 | [BD]半岛电视台 | stream1.freetv.fun | <https://stream1.freetv.fun/53038c1b820c78bd02d8b62c558c2940a15f421f8b9110a6fc8da1b271c19f95.m3u8> |
 | 2038 | [HD]南京教科 | stream1.freetv.fun | <https://stream1.freetv.fun/73e62a6254d05a20d3447b163d893e662346c2a9cf7ea43dd8f0bfe5ef194d14.m3u8> |
 | 2039 | [HD]南京新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/b91a2f184d4562d381e6fee45b5bcdb6e90bdda92a8ab18bd0546b77456fdeff.m3u8> |
 | 2040 | [BD]广州南国都市 | stream1.freetv.fun | <https://stream1.freetv.fun/6a602a89e0c4b88dd7d8762303fb89b2b96bdd5e578ef935e975f32590f5e39b.m3u8> |
@@ -2530,4 +2530,4 @@
 | 2524 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2525 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 
-Updated at **Sun Sep 01 2024 22:19:03 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Sep 02 2024 01:26:44 GMT+0000 (Coordinated Universal Time)**
