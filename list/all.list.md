@@ -1357,7 +1357,7 @@
 | 1351 | [HD]ช่อง sky sports arena | stream1.freetv.fun | <https://stream1.freetv.fun/62d26606d9eabe527ec18ab2b2187b2eae939d7797495d54de5928e2ad9237c9.m3u8> |
 | 1352 | [HD]ช่อง sky sports football | stream1.freetv.fun | <https://stream1.freetv.fun/7b5aa5336d372a0f13ea96e900d63d682dc8be30a43034ab6893daae65926e63.m3u8> |
 | 1353 | [HD]ช่อง sky sports mix | stream1.freetv.fun | <https://stream1.freetv.fun/a66aee59844fc6c9c3a0a53c6d27032bd519af3eeadb1330d7b7942e5ce098e3.m3u8> |
-| 1354 | [BD]sony ten 4 | stream1.freetv.fun | <https://stream1.freetv.fun/97a87397dc1bee512cce92fec609ad6590a415580dc157dadbdc6007b15c70f5.ctv> |
+| 1354 | [HD]sny | stream1.freetv.fun | <https://stream1.freetv.fun/41e787bfeaa452751fdf70111efa018743e24cc250c46e9aee933d8ac790cae8.ctv> |
 | 1355 | [HD]space | stream1.freetv.fun | <https://stream1.freetv.fun/d780d85ffb8ce3b8e233739370a05d4a5900dc2c696c2765bde2df23132751fa.m3u8> |
 | 1356 | [HD]yes sport 5 live hd il | stream1.freetv.fun | <https://stream1.freetv.fun/183ded53e795581a19d90af66124330f105b4a948f1ece535204fa144095007d.m3u8> |
 | 1357 | [HD]sport club | stream1.freetv.fun | <https://stream1.freetv.fun/f56c508acac01b299ef869ac175f82a0b28e71e7bc511b108ffb58ebd18914e3.m3u8> |
@@ -2505,4 +2505,4 @@
 | 2499 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2500 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 
-Updated at **Fri Sep 20 2024 16:24:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Sep 20 2024 18:26:53 GMT+0000 (Coordinated Universal Time)**

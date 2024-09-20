@@ -945,7 +945,7 @@ Generic,#genre#
 [BD]sctv-2高清,https://stream1.freetv.fun/c9bbaace41e71f7e1f4d553a5b373ca09f3081a13a2e4dc7c75760cc04da526f.ctv
 [HD]frikanalen,https://stream1.freetv.fun/1ca1818decc9a2c1392b45aab62c69d846ddec92b639423b840e7767d4038249.m3u8
 [HD]sic,https://stream1.freetv.fun/a322f4f4fbcbb04f8b2e9b7058bbdd808d0b0eb927c47c01fb7e66ba8359e76b.m3u8
-[BD]sony_ten_4,https://stream1.freetv.fun/97a87397dc1bee512cce92fec609ad6590a415580dc157dadbdc6007b15c70f5.ctv
+[HD]sny,https://stream1.freetv.fun/41e787bfeaa452751fdf70111efa018743e24cc250c46e9aee933d8ac790cae8.ctv
 [HD]srf_1,https://stream1.freetv.fun/d2bc73758662f20072cf7be20fc3a428a0a60d9546b48ce0009de8edaea65504.m3u8
 [BD]stb,https://stream1.freetv.fun/7bc7135468bb41ad63c85fa5af241c8d3d2c8a21895af0c2b8c25131382fd3b1.ctv
 [HD]safari_tv,https://stream1.freetv.fun/7ff598a551801d00f0c9eb92140b9ea2f5b514a3fff6148a6a24ac52e1b2eb34.m3u8
