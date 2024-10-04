@@ -1160,7 +1160,6 @@ Generic,#genre#
 [BD]长春综合,https://stream1.freetv.fun/27dc547501ec1e531d48a1a0fa5505c49b299c871d367a6f6d0712547c1e61e1.ctv
 [SD]开封公共,https://stream1.freetv.fun/86f3b76beb6122838ce3043e47974bd622715afaea497fe1170a1769f2106ff6.m3u8
 [SD]陕西卫视[ipv6],https://stream1.freetv.fun/eb1d7157459fe4c37bbfad23252b85ab628f4e3d14d81aea7b4a014d2658ae41.m3u8
-[SD]陕西都市青春,https://stream1.freetv.fun/024389305a6ef54c28521b414b472c61bcc418abbcd1d98a3f69d0dbc07642ce.m3u8
 [VGA]云南卫视高清,https://stream1.freetv.fun/30135411f5b3811afad6d788a3e120fc0aba35830e64881c47984a7bd8624bcd.m3u8
 [VGA]青海卫视,https://stream1.freetv.fun/fad5348a9b285c835736b9f812f4785acff0120fc543ca59063b87dca13e7229.ctv
 [BD]靖天国际,https://stream1.freetv.fun/902b5823978b9e331b27a9e926374b0a883d89d14935c660ff445cdbaa285b3f.m3u8
