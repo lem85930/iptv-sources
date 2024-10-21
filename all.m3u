@@ -5,8 +5,8 @@ https://stream1.freetv.fun/d18c0bb4e0457e4f2cb28566605223b3570dd6129181158d0b4b9
 https://stream1.freetv.fun/65c9b80067184f07174697b487d4b3ecb5d02fdab1de0db075dc05fa04d701d0.m3u8
 #EXTINF:-1 tvg-name="1+1 Ukraine" tvg-id="" tvg-country="Ukraine" tvg-language="Ukrainian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174725923216_74.png" group-title="Generic",[VGA]2s tv
 https://stream1.freetv.fun/40ce4fc6af6ccc74f10fe0131417c3cec6df17d90f79ab13b2a2783d87ede00d.m3u8
-#EXTINF:-1 tvg-name="1.RT Doc" tvg-id="" tvg-country="Russia" tvg-language="Русский" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/28/20170128054248168491_56.png" group-title="Knowledge",[VGA]real vision (720p)
-https://stream1.freetv.fun/6a80d1e3d001a2d4113d9ce6856e5f69090cd1bd062c05763764cf3951200ec2.m3u8
+#EXTINF:-1 tvg-name="1.RT Doc" tvg-id="" tvg-country="Russia" tvg-language="Русский" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/28/20170128054248168491_56.png" group-title="Knowledge",[VGA]central tv chosica
+https://stream1.freetv.fun/ff1f38b4b6d1013962f470b03760a1f09f20bcaa2b384e38c94c5f19c0445277.m3u8
 #EXTINF:-1 tvg-name="1.VIASAT NATURE/HISTORY HD" tvg-id="" tvg-country="Russia" tvg-language="Русский" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/07/20170107031243990916_56.png" group-title="Knowledge",[VGA]охотник и рыболов
 https://stream1.freetv.fun/ca115448920b2df145b899096511a67c10c7bbc09e802bef0410086868d18822.m3u8
 #EXTINF:-1 tvg-name="1.Астрахань 24" tvg-id="" tvg-country="Russia" tvg-language="Русский" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175024802191_13.png" group-title="Movies",[BD]radio aktual tv
@@ -775,8 +775,6 @@ https://stream1.freetv.fun/68d7f6a9f51b658f7a63ae11d69b87f73d74aa2bd71d94e6e6020
 https://stream1.freetv.fun/4ac59f42649a7ecdc40e5223117f8fe35ed2d0ffeb17157f75baeff5fba3ca85.m3u8
 #EXTINF:-1 tvg-name="Canal Institucional" tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/01/20141201114946737247_45.jpg" group-title="Entertainment",[BD]canal institucional
 https://stream1.freetv.fun/7444f8b0394f9c829d31c1d746c325772cf6c696267a9c048d338f271a74f3a3.m3u8
-#EXTINF:-1 tvg-name="Canal Parlamento Portugal" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/" group-title="News",[VGA]canal parlamento (360p) [not 24/7]
-https://stream1.freetv.fun/d7148974fc571f71cce6a4180a6b192077de5614b8e4e970045452e53156f7f7.m3u8
 #EXTINF:-1 tvg-name="Canal Plus Sport" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722030713205499_25.jpg" group-title="Sports",[HD]canal + sport
 https://stream1.freetv.fun/8333719f4d2f10dcb76ef504a7e548f233fc1b8b54c809b4381b5de73f5501fc.ctv
 #EXTINF:-1 tvg-name="Canal Rural Argentina" tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/" group-title="Generic",[HD]canal rural
@@ -1223,8 +1221,8 @@ https://stream1.freetv.fun/034d50bcc98fb07abe8bd8d33b9f8f1670da2cf167b6f5c393799
 https://stream1.freetv.fun/13532905bee6be28af5b98f9d1e8ee5bd6c5aeaf15a6b35f4cd4eb24e98716b7.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 1" tvg-id="" tvg-country="United States" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2019/05/05/large/20190505202745477845_94.jpg" group-title="Sports",[HD]fox sports 1
 https://stream1.freetv.fun/cb8ac4259b8a7d19f09a31233d5f97cb19eed53e33484c7c24abb3575b51c602.ctv
-#EXTINF:-1 tvg-name="Fox Sports Racing" tvg-id="12991" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417173126365437_36.jpg" group-title="Sports",[VGA]three angels broadcasting network praise him music network (3abn) (720p)
-https://stream1.freetv.fun/dc25210123c35aff781bb27250f3fe7a272bd33af2397d0ed890380e97e89b27.m3u8
+#EXTINF:-1 tvg-name="Fox Sports Racing" tvg-id="12991" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417173126365437_36.jpg" group-title="Sports",[HD]pluto tv game show central (480p)
+https://stream1.freetv.fun/a9c65fbee3c9c6229f5cb6d014bce712ba1a024b5770cbd2a967975a565d9a04.m3u8
 #EXTINF:-1 tvg-name="Fox Weather" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318085622677897_24.png" group-title="News",[HD]fox weather
 https://stream1.freetv.fun/8df8e2faf92100ad5594f783260f44d1ba58748fe5b466a3400887a972381eca.m3u8
 #EXTINF:-1 tvg-name="France 24 (French)" tvg-id="" tvg-country="France" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821104841185612_92.png" group-title="News",[BD]france 24 en
