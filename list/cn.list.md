@@ -182,7 +182,7 @@
 | 176 | [BD]晋城公共 | stream1.freetv.fun | <https://stream1.freetv.fun/8541f17cd6081bc041d504cd6edbc1803cb1162e1ce2207d4d4486a98b3769d2.m3u8> |
 | 177 | [BD]晋城新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/b7f44c7cf0937773ca350ff513cb1bb9e8a89a1c39b4834fa72e6c41695ebcc5.m3u8> |
 | 178 | [BD]郸城新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/784d3bb3ca72d439a9c8495970b2435839cb68713f9e48518d4612aa459a1ae3.m3u8> |
-| 179 | [BD]杭州4影视 | stream1.freetv.fun | <https://stream1.freetv.fun/9506f2dc51e3387442126db93eefae673de18fe244a7f3713e4f253545dd6478.ctv> |
+| 179 | [BD]杭州影视 | stream1.freetv.fun | <https://stream1.freetv.fun/eacfa181a42c549f00c51da39d3e9bb8a256e7b145d9c787d3b8cdd15eb17a92.ctv> |
 | 180 | [BD]杭州明珠 | stream1.freetv.fun | <https://stream1.freetv.fun/f4d3cf07fef647405506f59e802ffec1fa076cdb1b03535bdb398588a6af6fc8.ctv> |
 | 181 | [BD]杭州生活 | stream1.freetv.fun | <https://stream1.freetv.fun/612c148cb9395dfc3d60bfcb37ca7de7180ae4bc53d91447643dc83bf1589e2e.ctv> |
 | 182 | [BD]杭州综合 | stream1.freetv.fun | <https://stream1.freetv.fun/6fb28b3f31cd927a048f858d9a53b12e1c272472810709bca2056941286c9cd4.ctv> |
@@ -394,4 +394,4 @@
 | 388 | [BD]黑龙江视 | stream1.freetv.fun | <https://stream1.freetv.fun/113695d3da46c69b1345add05522320e92e79f9780860615516cf565d247642e.m3u8> |
 | 389 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **Mon Nov 04 2024 10:23:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Nov 04 2024 12:41:09 GMT+0000 (Coordinated Universal Time)**
