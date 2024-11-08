@@ -110,7 +110,7 @@
 | 104 | [HD]ASTRO AWANI | stream1.freetv.fun | <https://stream1.freetv.fun/e49834ce3542f840e4c4c98c33ca752702b1fb98c2a36459febee7138577394c.ctv> |
 | 105 | [BD]ASTRO AURA | stream1.freetv.fun | <https://stream1.freetv.fun/14d0cdcfbafffc04b5236bfdec055158e5d6caf632ac841c367fe60459766079.ctv> |
 | 106 | [HD]ASTRO OASIS | stream1.freetv.fun | <https://stream1.freetv.fun/f747e96b44ceaa1eebb844661c143102e193589467ce178e38efabb8df246441.ctv> |
-| 107 | [HD]Astro Ria | stream1.freetv.fun | <https://stream1.freetv.fun/c093b74172cfcbc8a6b3cfd37ccbd8c41bf7944a8405164f41b2559c92942e17.ctv> |
+| 107 | [HD]Astro Ria | stream1.freetv.fun | <https://stream1.freetv.fun/81caf7636f6a3e639355710f709019aa0e450c6f2fc0de543bc41a9a595e53a3.ctv> |
 | 108 | [BD]ASTRO 华丽台 | stream1.freetv.fun | <https://stream1.freetv.fun/aa09005f835585b5a0736a6719f5b345b42267d103341eebcb3b470288886720.ctv> |
 | 109 | [BD]atfal & mawaheb tv | stream1.freetv.fun | <https://stream1.freetv.fun/e63ce3cfa960af2f9afe942fd44351071b625b0949afe12feb4790a99343c076.m3u8> |
 | 110 | [VGA]atv az | stream1.freetv.fun | <https://stream1.freetv.fun/bffe36bc2cbcb2b36eab73c5c69b6f93ce9e8dc73ff55dc7bc28b2fbfc57cc65.m3u8> |
@@ -1609,7 +1609,7 @@
 | 1603 | [HD]polsat viasat nature | stream1.freetv.fun | <https://stream1.freetv.fun/4a2ddd56d7c76624c1f8788adb364104ea68406fae10e6f2f2bbad4833f363ca.m3u8> |
 | 1604 | [HD]video star tv sicilia | stream1.freetv.fun | <https://stream1.freetv.fun/de5227218c62086e5df2f3e81457cd86176e39132fb50fadb57bc1ba12661c7c.m3u8> |
 | 1605 | [HD]tv 4 | stream1.freetv.fun | <https://stream1.freetv.fun/68603825f1373e9b1ee72711fcf734a6b31fc18ba8d073a954cac2b4d3d38125.m3u8> |
-| 1606 | [SD]swr 3 visual radio (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/68db7842909f3ae10e14cb0ad22ad3ecd4d5a36bc506a763e5a809164dc453fe.m3u8> |
+| 1606 | [BD]swr 3 visual radio (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/68db7842909f3ae10e14cb0ad22ad3ecd4d5a36bc506a763e5a809164dc453fe.m3u8> |
 | 1607 | [HD]360 tv (720p) [not 24/7] | stream1.freetv.fun | <https://stream1.freetv.fun/813fe962130bf27d85d2a8f6114a7fb066f40b7323165ce8c3bc26ff0cb5ef7f.m3u8> |
 | 1608 | [BD]viutv | stream1.freetv.fun | <https://stream1.freetv.fun/44fe1ef1166499f23d6012cb76b8bbaddb2653a401919ee25af38fd8458329e9.ctv> |
 | 1609 | [BD]viutv six | stream1.freetv.fun | <https://stream1.freetv.fun/45b27a70bdfeddd4dc4563c9dd5afd63cc16e148e44295432841f43f24209e62.ctv> |
@@ -1845,7 +1845,7 @@
 | 1839 | [HD]台视 | stream1.freetv.fun | <https://stream1.freetv.fun/6343a9f5faa4503789d87f9b034c6882454f3a5c47036b35685700a28fd30270.ctv> |
 | 1840 | [HD]台视新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/c1e80466d09b16dbba231914e7d90e38b5ad564c5c34497819f0b65b3c0c8ea2.ctv> |
 | 1841 | [HD]台视新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/7f1d166a41126957e96dff47fc3de03d00db800090ed4f23f086c58062f606ac.ctv> |
-| 1842 | [BD]吉林卫视[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/20ec706dec67b36d8bd933921ddc77d953bdbb5db85ceb51b4235469b7fa23b2.m3u8> |
+| 1842 | [SD]吉林卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/657b3cc8f2106d0e0b52d0bc7f0e15db544b37b3e86bf5f486f351b9db61fa2e.m3u8> |
 | 1843 | [VGA]吉林乡村 | stream1.freetv.fun | <https://stream1.freetv.fun/68f640f2cdee48101b0a69e627390343ba0503653b29ec294a2c172a3b742ee8.m3u8> |
 | 1844 | [VGA]哆啦a梦 | stream1.freetv.fun | <https://stream1.freetv.fun/559216a4ad6e3e905ca6e0b87dd6d600e1a4256ac1cfa6b642af56fe10b875ac.ctv> |
 | 1845 | [SD]哈哈炫动[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/18b97d80dae6d5df7cf63ec50092e0cf5efeac5f41f1a7178f59c01f710668d0.m3u8> |
@@ -1988,7 +1988,7 @@
 | 1982 | [SD]枣庄新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/7996424bc3c1787a3b73efd84dac13f864e07b3bff8353ccfac13dc3f465bb25.m3u8> |
 | 1983 | [SD]枣庄新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/c96d12ec316e8297973a210e94860e269e8797986e6a6223f3be444387c32341.m3u8> |
 | 1984 | [SD]枣庄经济 | stream1.freetv.fun | <https://stream1.freetv.fun/9174fcfec0bf7ef0e616aa8e6941ddfc16364caecc57179c2dbd077b4d47caa0.m3u8> |
-| 1985 | [HD]武汉外语频道 | stream1.freetv.fun | <https://stream1.freetv.fun/7d6f0bf46970d632f2114819f82f87d6b6635f78c38f5e060d9cd4012d9b1b4b.m3u8> |
+| 1985 | [VGA]武汉外语频道 | stream1.freetv.fun | <https://stream1.freetv.fun/7d6f0bf46970d632f2114819f82f87d6b6635f78c38f5e060d9cd4012d9b1b4b.m3u8> |
 | 1986 | [HD]武汉教育 | stream1.freetv.fun | <https://stream1.freetv.fun/c5bc53591db0451f2626ddff43e2de1460de1cbb8d7225d9d8c45e9660e9cb51.m3u8> |
 | 1987 | [BD]武汉5文体 | stream1.freetv.fun | <https://stream1.freetv.fun/dbab9dfd3da619826bd99d804a8840c996788a7d26c969da9059b1e2dcce69f1.m3u8> |
 | 1988 | [SD]武义新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/0077dd0cdd20b184ff9fa9291950b02b0129a68b7d7ca9b1e14da5be96046007.m3u8> |
@@ -2084,7 +2084,7 @@
 | 2078 | [SD]漳浦综合 | stream1.freetv.fun | <https://stream1.freetv.fun/ff3549ebf49eb87c7e359aa56d8ad9c10666b06d5be05ec1781068bdc732d745.m3u8> |
 | 2079 | [BD]潮州公共 | stream1.freetv.fun | <https://stream1.freetv.fun/0d0629b2cf270d0ec07a04d51653744a1559555348a1a8a3fd32d44a7d44825b.m3u8> |
 | 2080 | [SD]澳亚卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/272b491cb7edf448a56c75a2677cdfa0f9427bc87d01f02765f5aff658dadeba.m3u8> |
-| 2081 | [BD]澳视澳门 | stream1.freetv.fun | <https://stream1.freetv.fun/56e911076120ba8a4639f7446c639591da9423eba3a14212acc42648d2bfb473.m3u8> |
+| 2081 | [HD]澳视澳门 | stream1.freetv.fun | <https://stream1.freetv.fun/03548f52945ed6c816a972deb0746e7e30892babff59c022f2927b21ed3baed0.m3u8> |
 | 2082 | [HD]澳门综艺 | stream1.freetv.fun | <https://stream1.freetv.fun/7168df2b953d3427282ee18a7ed70314364d489570e3fd98cc30119138b73a5f.m3u8> |
 | 2083 | [HD]澳视葡文 | stream1.freetv.fun | <https://stream1.freetv.fun/470cc9f6910f54f75c4800037462a15e29c9a5e1239b8481209a25a18865d21f.m3u8> |
 | 2084 | [HD]澳门体育 | stream1.freetv.fun | <https://stream1.freetv.fun/9aef8e8f1c01b226c1f385bd2dc68af304041a908154aa383914763a3634011a.m3u8> |
@@ -2261,4 +2261,4 @@
 | 2255 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2256 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Fri Nov 08 2024 10:20:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Nov 08 2024 12:38:44 GMT+0000 (Coordinated Universal Time)**
