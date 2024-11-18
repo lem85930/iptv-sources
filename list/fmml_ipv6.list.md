@@ -1,4 +1,4 @@
-# List for **fanmingming/live ipv6**(Rollback)
+# List for **fanmingming/live ipv6**
 
 > M3U: [fmml_ipv6.m3u](/fmml_ipv6.m3u), TXT: [fmml_ipv6.txt](/txt/fmml_ipv6.txt)
 
@@ -143,4 +143,4 @@
 | 137 | CGTN西语 | 0472.org | <https://0472.org/hls/cgtnx.m3u8> |
 | 138 | CGTN阿语 | 0472.org | <https://0472.org/hls/cgtna.m3u8> |
 
-Updated at **Mon Nov 18 2024 12:43:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Nov 18 2024 13:44:43 GMT+0000 (Coordinated Universal Time)**
