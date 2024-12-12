@@ -82,7 +82,7 @@ Movies,#genre#
 [BD]HBO_Signature,https://stream1.freetv.fun/685f22817f1d83154dc6aa0c7017b455edc858038cccb813d88e412ccd09c081.ctv
 [HD]hbo_signature,https://stream1.freetv.fun/87506f962b90c1e6a534a2768eec4e2caa0b75d1453dedd5b28b87f812cd11c4.ctv
 [BD]HBO_West,https://stream1.freetv.fun/7b09352220d8357607f160d8e30a90a79ce0d5fcf67284020370ac3f5a75d234.ctv
-[BD]HBO_Zone,https://stream1.freetv.fun/6117f863f3304737897db11f2d00c848d0d5b1ea9e72f665852c827b86a7c43e.ctv
+[BD]HBO_Zone,https://stream1.freetv.fun/7cd154d8daff74158eb173a823ffd18b206b39887bf5732e3bf9afa9b2ebfb89.ctv
 [HD]HBO,https://stream1.freetv.fun/896153e21084846ff890166a24b5028a6b12fea3d6c20dd8b2c0057f5a1b4705.ctv
 [BD]HBO,https://stream1.freetv.fun/649a472bd50c922e0bf0679628f262b9755e973e9662be9516fe06ba79ec95bf.ctv
 [HD]HITS,https://stream1.freetv.fun/e1daaa1dfc2511ab61bb5b9609e15548352a4c3e3ed1e9aa57e7ac1e4518edc4.ctv
@@ -436,7 +436,7 @@ Entertainment,#genre#
 [VGA]bip_tv,https://stream1.freetv.fun/c323096ca83c05feb2039420b66db035c5ed95c612375bff462cabbc1e9c204d.m3u8
 [BD]virgin_radio_tv_ⓖ,https://stream1.freetv.fun/a6931c90c9c04e33936b596d48bb95923d4dc06cf122a70eb56b6281123766a3.m3u8
 [BD]q-music,https://stream1.freetv.fun/b70e3736f322473ccb2e5da51035cbf444db7fa4b78bd5b33bb025151c7acdf1.m3u8
-[BD]▬_turkey_▬,https://stream1.freetv.fun/07fcdf240c7261b17fe0ee9bf4bb2da6fe7a218a42b6a1b6f0c89a1b25148a76.m3u8
+[BD]▬_turkey_▬,https://stream1.freetv.fun/1a94d375745ba3404b3e37d2b6c35376eeaaee980caf78997ad531c7fa4fb8f1.m3u8
 [BD]swr_3_visual_radio,https://stream1.freetv.fun/98bf93ddb270c2a12f576860d186e6ffdb297f4769cf64ca8d49d517cad67b3f.m3u8
 [BD]VIUTV,https://stream1.freetv.fun/496e7279abb9e878cbd7f71a15585617a62eb7628fa84be0122762b470345622.m3u8
 [BD]viutv_six,https://stream1.freetv.fun/cb6936a6a03e9cdba87f09f8c97ccae50a0011906decda5203322522a78c0b8d.ctv

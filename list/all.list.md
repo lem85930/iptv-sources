@@ -634,7 +634,7 @@
 | 628 | [BD]HBO Signature | stream1.freetv.fun | <https://stream1.freetv.fun/685f22817f1d83154dc6aa0c7017b455edc858038cccb813d88e412ccd09c081.ctv> |
 | 629 | [HD]hbo signature | stream1.freetv.fun | <https://stream1.freetv.fun/87506f962b90c1e6a534a2768eec4e2caa0b75d1453dedd5b28b87f812cd11c4.ctv> |
 | 630 | [BD]HBO West | stream1.freetv.fun | <https://stream1.freetv.fun/7b09352220d8357607f160d8e30a90a79ce0d5fcf67284020370ac3f5a75d234.ctv> |
-| 631 | [BD]HBO Zone | stream1.freetv.fun | <https://stream1.freetv.fun/6117f863f3304737897db11f2d00c848d0d5b1ea9e72f665852c827b86a7c43e.ctv> |
+| 631 | [BD]HBO Zone | stream1.freetv.fun | <https://stream1.freetv.fun/7cd154d8daff74158eb173a823ffd18b206b39887bf5732e3bf9afa9b2ebfb89.ctv> |
 | 632 | [HD]HBO | stream1.freetv.fun | <https://stream1.freetv.fun/896153e21084846ff890166a24b5028a6b12fea3d6c20dd8b2c0057f5a1b4705.ctv> |
 | 633 | [BD]HBO | stream1.freetv.fun | <https://stream1.freetv.fun/649a472bd50c922e0bf0679628f262b9755e973e9662be9516fe06ba79ec95bf.ctv> |
 | 634 | [HD]bcu media hd old | stream1.freetv.fun | <https://stream1.freetv.fun/acdff409c872289fb16fe37e95f2f1f6ab3d12e6ae89fabfceeb51f6e82cb3ce.m3u8> |
@@ -1448,7 +1448,7 @@
 | 1442 | [BD]vtc6 | stream1.freetv.fun | <https://stream1.freetv.fun/e26e810111f7a189cd8126af3b3f05c1840be19cd3faa02f13484d541f4e8f6e.ctv> |
 | 1443 | [HD]ivtv | stream1.freetv.fun | <https://stream1.freetv.fun/09e9d15348805555696caedb5d630d9b6848157a6bad0510361f7f63f971372a.m3u8> |
 | 1444 | [VGA]vtv cần thơ | stream1.freetv.fun | <https://stream1.freetv.fun/852a9f0fef516e650f5954e50e2da800332e5b19e984d66dce30900c8ddc0ed6.ctv> |
-| 1445 | [BD]▬ turkey   ▬ | stream1.freetv.fun | <https://stream1.freetv.fun/07fcdf240c7261b17fe0ee9bf4bb2da6fe7a218a42b6a1b6f0c89a1b25148a76.m3u8> |
+| 1445 | [BD]▬ turkey   ▬ | stream1.freetv.fun | <https://stream1.freetv.fun/1a94d375745ba3404b3e37d2b6c35376eeaaee980caf78997ad531c7fa4fb8f1.m3u8> |
 | 1446 | [BD]th đà nẵng | stream1.freetv.fun | <https://stream1.freetv.fun/b6b4e7b5fef3935c55068cfa8ab4980146001c5292c2203b1004de66268bd7a1.m3u8> |
 | 1447 | [VGA]vtv1 | stream1.freetv.fun | <https://stream1.freetv.fun/b94afa1b87c0fcab6cccfe75e5b4e8dc1aaa5682a00eecc14cb2e438ea577fa9.m3u8> |
 | 1448 | [VGA]vtv2 | stream1.freetv.fun | <https://stream1.freetv.fun/526c2ce543814f11b2e48b138582963f19d2e18b0fa906068ea27538f28e4644.ctv> |
@@ -2081,4 +2081,4 @@
 | 2075 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2076 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Thu Dec 12 2024 04:26:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Dec 12 2024 06:31:47 GMT+0000 (Coordinated Universal Time)**
