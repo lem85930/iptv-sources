@@ -1,4 +1,4 @@
-# List for **YueChan-Live IPTV**(Rollback)
+# List for **YueChan-Live IPTV**
 
 > M3U: [ycl_iptv.m3u](/ycl_iptv.m3u), TXT: [ycl_iptv.txt](/txt/ycl_iptv.txt)
 
@@ -75,4 +75,4 @@
 | 69 | 睛彩青少 | IPv4 直链 | <rtp://239.3.1.127:8001> |
 | 70 | 睛彩场舞 | IPv4 直链 | <rtp://239.3.1.128:8001> |
 
-Updated at **Sat Dec 14 2024 20:22:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Dec 14 2024 22:19:26 GMT+0000 (Coordinated Universal Time)**
