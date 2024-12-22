@@ -170,7 +170,7 @@
 | 164 | [BD]astro | stream1.freetv.fun | <https://stream1.freetv.fun/c474b7801d7794729fb020b62a5ab6c3381983906ef0ca33223469b58126c210.ctv> |
 | 165 | [HD]kto | stream1.freetv.fun | <https://stream1.freetv.fun/1ce95e521ea9be1e395750267caf8aa7c9aef3d1e9c4860d7d0d00ab1a5e204b.m3u8> |
 | 166 | [HD]ASRTO PREMIER | stream1.freetv.fun | <https://stream1.freetv.fun/76315032fcbcfbce84b71b38eed12a9a8fd2a70f087060652834f2b1cb63f48d.ctv> |
-| 167 | [HD]Astro Premier League | stream1.freetv.fun | <https://stream1.freetv.fun/ffa1e93d76fc205a97a4eccd47989e438282179c1bd1cb1be57c08037e316b3f.ctv> |
+| 167 | [HD]Astro Premier League | stream1.freetv.fun | <https://stream1.freetv.fun/7bb13646f78d7626e224d150695de317d3202962d7e543aef1c7de7127c347a7.ctv> |
 | 168 | [HD]ASTRO QJ | stream1.freetv.fun | <https://stream1.freetv.fun/517fa68edf2081745929b2ccb270f1abfcfca80982eb2c1c7d42718a52ca8fe5.ctv> |
 | 169 | [HD]tvs | stream1.freetv.fun | <https://stream1.freetv.fun/b06f4f7ee850aa3993066e2896a3b07623a0dab968486d44108f2fd5501d0585.m3u8> |
 | 170 | [BD]Astro KPlus | stream1.freetv.fun | <https://stream1.freetv.fun/450ef4144a0caf4a4feff6b2e68f93f530445fd174b4056a2c5bb5248fa6c604.ctv> |
@@ -2096,4 +2096,4 @@
 | 2090 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2091 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sun Dec 22 2024 16:22:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Dec 22 2024 18:25:32 GMT+0000 (Coordinated Universal Time)**
