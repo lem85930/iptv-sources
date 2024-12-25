@@ -11,7 +11,7 @@
 | 5 | [VGA]cctv法语 | stream1.freetv.fun | <https://stream1.freetv.fun/ad1197ab2f3ff0c598ad85bb45587afa2adccbe20e2d5fb21c32480a20c14dd5.ctv> |
 | 6 | [BD]cctv-1[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/95c70e53c47b0cb90051b94dcd57f11feedcf44e7c713baeb05127b5c424a1b3.m3u8> |
 | 7 | [BD]cctv10 | stream1.freetv.fun | <https://stream1.freetv.fun/6f4489c5bc615294be1c5af5c9abd1f0b3d4e9728da4a010e6385f2ca11facb0.m3u8> |
-| 8 | [HD]cctv11[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1980a78116511f29dafdfa41489fce7e543496c6b77c79ae56edeb3406470caa.m3u8> |
+| 8 | [SD]cctv11 | stream1.freetv.fun | <https://stream1.freetv.fun/b080c852cb9670eadf04695aab611f33f4519bde026b7ac507c3001ca818ff01.m3u8> |
 | 9 | [VGA]cctv12 | stream1.freetv.fun | <https://stream1.freetv.fun/61ec8e0d4e9bc58f9bcf51be1930765b2a6a982ecd21f383dc33cb85d1422a72.m3u8> |
 | 10 | [BD]cctv-13 | stream1.freetv.fun | <https://stream1.freetv.fun/34fbc5f05ca6f9ff49d8e4be183757ab5936d39882ca13667ab98c425ffc2f09.m3u8> |
 | 11 | [SD]cctv14 | stream1.freetv.fun | <https://stream1.freetv.fun/6cef7d3d168de641b9fa97248d8218d2a9c07e92b96af6a0d921878fe93582a8.m3u8> |
@@ -326,7 +326,7 @@
 | 320 | [SD]玉林新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/5498db2d128bff50a3f77d2e2d04c719472ac41a09526e1c12b8b4363ea4e6ee.m3u8> |
 | 321 | [SD]现代教育 | stream1.freetv.fun | <https://stream1.freetv.fun/b13e3fbde159502f76dd9c8b760707ec27b1cf563e832c456a502da349784638.ctv> |
 | 322 | [HD]公共应急 | livein.gstv.com.cn | <rtmp://livein.gstv.com.cn/49048r/2v86i8.flv> |
-| 323 | [BD]甘肃卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/bc85e128433e82a8d2b5d1d64af3f70aab6416637d3c2ccb436199ce8f7fd7a6.m3u8> |
+| 323 | [VGA]甘肃卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/3bc3229d80d33420ce90ca97cb4ee6e8b270dc9a54d6e5e1a1debf86bb31bb5b.m3u8> |
 | 324 | [BD]生活时尚 | stream1.freetv.fun | <https://stream1.freetv.fun/9d62fc46bb74c3eb66fdba1935da47edd87f2751f434f9d082bf0b036503db29.ctv> |
 | 325 | [BD]眉山综合 | stream1.freetv.fun | <https://stream1.freetv.fun/7d103bd39ef50c71372e1c8ca9f7f50296d9d185fa088be1370bbdec1bb34e92.m3u8> |
 | 326 | [BD]睛彩河北 | stream1.freetv.fun | <https://stream1.freetv.fun/67cbcd8a3ddcbb1d33892466dfee63499ed84d791343e02c4ce75f94e3b2dca4.ctv> |
@@ -444,4 +444,4 @@
 | 438 | [BD]黑龙江视 | stream1.freetv.fun | <https://stream1.freetv.fun/113695d3da46c69b1345add05522320e92e79f9780860615516cf565d247642e.m3u8> |
 | 439 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **Wed Dec 25 2024 02:49:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 25 2024 04:24:36 GMT+0000 (Coordinated Universal Time)**
