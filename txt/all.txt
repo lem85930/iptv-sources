@@ -1945,7 +1945,7 @@ Sports,#genre#
 [BD]pptv3,https://stream1.freetv.fun/dea0ad451509c01649fc7f0191063a0400f97f773882c793b164339a2da65cb2.m3u8
 [BD]pptv4,https://stream1.freetv.fun/ac7053a0b1640926f5d167b6db12787a053f1281904a4c64b2ab0b5ebea4e1a4.m3u8
 [HD]wpix-tv,https://stream1.freetv.fun/57db83dd5081929ff4679c9ce131b5f98cc19036426224811b5807dc35bf0db1.m3u8
-[HD]polsat_sport_fight_hd_pl,https://stream1.freetv.fun/06c7756743fe1118f5422793e8807f587085702f549bee59f4f169f074067a4b.m3u8
+[HD]polsat_sport_fhd_pl,https://stream1.freetv.fun/51d90d0c7683e7014db84f75d86f87b57508bf244285e7110d0c9ceacf4361db.m3u8
 [BD]sky_sport_premier_leage,https://stream1.freetv.fun/b44c9fc4798cd4b6991bc6b8208d55777a0eaae2569475005ac2ac1a299ddb78.m3u8
 [HD]ช่อง_premier_sports,https://stream1.freetv.fun/0e6b899e5cb7a68f7b92c76089f74d5ac60e6538adb44a94a16ea172f0847eab.m3u8
 [HD]premier_sports_1_fhd_vip_uk,https://stream1.freetv.fun/e7ca2237c03ff0f6e9e67d0b56e13914051d4f091b340f382dd88b1d3f0b9233.m3u8
