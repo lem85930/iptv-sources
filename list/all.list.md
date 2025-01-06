@@ -497,7 +497,7 @@
 | 491 | [HD]Discovery Life | stream1.freetv.fun | <https://stream1.freetv.fun/37e2ef4228a15646f332bb3e44522b73f610849f7dc121f9182b3c6aa8fb48bf.m3u8> |
 | 492 | [BD]discovery | stream1.freetv.fun | <https://stream1.freetv.fun/5d6c81c3e9b6a8f7903ffec17167c6e110d691241fd47860a1b0abcf52da7b5e.m3u8> |
 | 493 | [HD]discovery h h | stream1.freetv.fun | <https://stream1.freetv.fun/c9c060d0b10ceeb34a9b87ca8d8dc3bf29df30b8858063113ae0a1e68553161c.ctv> |
-| 494 | [HD]DISNEY CHANNEL | stream1.freetv.fun | <https://stream1.freetv.fun/2c6c450aa734b377072a17340d3047e3e671e0523f2bfaa83295df91ab078280.ctv> |
+| 494 | [HD]DISNEY CHANNEL | stream1.freetv.fun | <https://stream1.freetv.fun/c409856cc6e3f512e3ec134f0e8b28f20955a3c43252cd87de16042c46fe358b.ctv> |
 | 495 | [HD]tennis channel deutschland | stream1.freetv.fun | <https://stream1.freetv.fun/f82118a4e993103792dddb0423fa5eaa31664c90a4318eebd6f4a87119157285.m3u8> |
 | 496 | [BD]disney channel pl | stream1.freetv.fun | <https://stream1.freetv.fun/e4ca4a58f110cb7b6a4ab8fbec48072ca30cd5d1a45865fac411528672d6ab0a.ctv> |
 | 497 | [HD]美国disneyjr | stream1.freetv.fun | <https://stream1.freetv.fun/4c4d0ab4840052d9b73f055a276f609252bc79af17644e5241c73b56ea8b6bcd.m3u8> |
@@ -1125,7 +1125,7 @@
 | 1119 | [HD]ช่อง radio kiss kiss italia | stream1.freetv.fun | <https://stream1.freetv.fun/d890212fe12deb91b5ecc59faf8d166ebde0d7066cd6e0b4799fa12b63cd0aa6.m3u8> |
 | 1120 | [VGA]radio norba tv | stream1.freetv.fun | <https://stream1.freetv.fun/61e361f17f8264380da120cae20302bea7bebe2db3bc48d80ec4bb159476f6fc.m3u8> |
 | 1121 | [BD]rhema tv | stream1.freetv.fun | <https://stream1.freetv.fun/a0a5b14386cb9b21531cae8bbce1c5548e5c881c7da0044882fdb2d68e042100.m3u8> |
-| 1122 | [HD]rai 3 | stream1.freetv.fun | <https://stream1.freetv.fun/93cc11f182cf12f63b88df6874b4f3cafa1908bca8aa8b9c36c2cc522596c441.m3u8> |
+| 1122 | [BD]rai 3 | stream1.freetv.fun | <https://stream1.freetv.fun/0b0031dd4e75e2266f77af6f679c16ddb22002a3054516596081ebee218a6880.m3u8> |
 | 1123 | [SD]rai italia asia | stream1.freetv.fun | <https://stream1.freetv.fun/1864ddb18dc4da154767a383f2b77bbc5c238033e19222f7d4940f8211796cfb.ctv> |
 | 1124 | [HD]rai news 24 | stream1.freetv.fun | <https://stream1.freetv.fun/96d4b9169a30fe4c413ff7ef993f01c4951b32292fb4e29e90f976e5c7f300fd.m3u8> |
 | 1125 | [SD]realmadrid tv | stream1.freetv.fun | <https://stream1.freetv.fun/3fcaa986de2770fe0656916bcd9aab1f60fec4cdb40a2643f00df77ece698f89.m3u8> |
@@ -2197,4 +2197,4 @@
 | 2191 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2192 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sun Jan 05 2025 22:18:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jan 06 2025 01:42:25 GMT+0000 (Coordinated Universal Time)**
