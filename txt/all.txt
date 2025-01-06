@@ -15,7 +15,7 @@ Movies,#genre#
 [BD]ACTION_MAX,https://stream1.freetv.fun/28305862f3175197bcadbe84c18d4abbc9bcc6303b3cf1066d817d16369b76b3.ctv
 [BD]cinema_hd,https://stream1.freetv.fun/04bbc79af90fdea63c4f4557d4e9810d7df53d9525cf22356a28248dc7557e6f.m3u8
 [HD]kto,https://stream1.freetv.fun/1ce95e521ea9be1e395750267caf8aa7c9aef3d1e9c4860d7d0d00ab1a5e204b.m3u8
-[BD]astro_premier_leage_1,https://stream1.freetv.fun/2900143460481b1876b530cf9dabfaadb94f20d91f34dbb81d68774cd1686411.m3u8
+[BD]astro_premier_leage2,https://stream1.freetv.fun/e9b1f880d149b0ce65e389b72afa1fc2f9bbc9e1e7fad3be1b3be79edf4dcd0b.m3u8
 [HD]Astro欢喜台,https://stream1.freetv.fun/3477ce33672e503cf0a4776e09388b7ec8d4a28a985e1de2baf174d7abf7c9e9.ctv
 [SD]B4U_PLUS,https://stream1.freetv.fun/6161e0d6a31dda6f87060d367ddc7f4199e71a16d061556f94114ac05a4a65cb.ctv
 [HD]bbc_first,https://stream1.freetv.fun/f9fcfe98b97535d5358234e7da46afa57c57dcbbe08ceaae1eba97469c11e18f.m3u8
@@ -1314,7 +1314,7 @@ Other,#genre#
 [HD]rtve_24h,https://stream1.freetv.fun/6b8b589718f2bd31ed94809abeb37c8257e38608d95dab9ab97fc21cb5787fa0.m3u8
 [BD]cruz_tv,https://stream1.freetv.fun/e4705b1263859ab1d7cdcf1dfb61b6af976f42f9a0df9badb47cb8cb7e269d16.m3u8
 [BD]俄国russiatoday,https://stream1.freetv.fun/ddbecacaa798fb4b6ff9937c33f6759696780067d615c5410181b5fe520e929a.m3u8
-[BD]rhema_tv,https://stream1.freetv.fun/a0a5b14386cb9b21531cae8bbce1c5548e5c881c7da0044882fdb2d68e042100.m3u8
+[BD]praha_tv,https://stream1.freetv.fun/615dacf6109deac08a2fd97dd49875a52b59428e35a0fa5613dd9824e410a45f.m3u8
 [SD]mtv,https://stream1.freetv.fun/c2263cc5e70792340379584151d2e3e171175bd76a2d461f1bf0c9c398f43324.m3u8
 [BD]sharjah_hd,https://stream1.freetv.fun/b1227ca6429443124fbec1c8749fd87faa14d9771d25828195e587dbbb3b29c9.ctv
 [BD]food,https://stream1.freetv.fun/c2d60367e180553add7c9c4d7d769a589f4fba3a3dfba2e96019a3afa683a0ed.m3u8
