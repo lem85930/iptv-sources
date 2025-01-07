@@ -1828,7 +1828,7 @@ Sports,#genre#
 [HD]arena_sport_hr_5,https://stream1.freetv.fun/d39456166677577e91342d08cac87fca9c6feecdbd2f7dca4473d12e38bf4bc5.ctv
 [HD]arena_sport_1,https://stream1.freetv.fun/0c7c4d0d5080283e60ce6a40e4e157f15f36d6b006ef3e0ee59c0237b07a4fd3.ctv
 [HD]Astro_Football,https://stream1.freetv.fun/c4b0b92d1e9e2d87a804bb19e179dee2b2b73db6f34df62f8549841ff4c60959.ctv
-[BD]Astro_Grandstand,https://stream1.freetv.fun/2cbdb6a4d5fe046e84088df3e7af0edb171af9ac29c7b3e32b27ea8e033178a4.ctv
+[BD]Astro_Grandstand,https://stream1.freetv.fun/6b8716ebf53796db72b4833438c3bbf0780d4bc80be5e417f4ec23f42dff3725.ctv
 [BD]Astro_Premier_League,https://stream1.freetv.fun/512c248c829e9b965091b78c7b94e5a85c12893af77e0b84e875979ced963fe4.ctv
 [BD]Astro_Premier_League_2,https://stream1.freetv.fun/06f2dd65026242508059ae9acf0e372249beceea396292ecfdf8792f7fc9bd84.ctv
 [HD]bahrainsports2,https://stream1.freetv.fun/29a51104869c4708f335449e469bfa5db6d08831f49a2e0da12a8918ae20df35.m3u8

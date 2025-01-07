@@ -169,7 +169,7 @@
 | 163 | [BD]artn tv | stream1.freetv.fun | <https://stream1.freetv.fun/b8c6d8f514366a0910c2261c7df7b30f08e783c198e0357690a3a44cc180f1c7.m3u8> |
 | 164 | [HD]ASTRO AEC | stream1.freetv.fun | <https://stream1.freetv.fun/340c763e65cc8e93a372ddf6250ed44f68e51e52b956e4223017e6764e3fdc0f.ctv> |
 | 165 | [HD]Astro Football | stream1.freetv.fun | <https://stream1.freetv.fun/c4b0b92d1e9e2d87a804bb19e179dee2b2b73db6f34df62f8549841ff4c60959.ctv> |
-| 166 | [BD]Astro Grandstand | stream1.freetv.fun | <https://stream1.freetv.fun/2cbdb6a4d5fe046e84088df3e7af0edb171af9ac29c7b3e32b27ea8e033178a4.ctv> |
+| 166 | [BD]Astro Grandstand | stream1.freetv.fun | <https://stream1.freetv.fun/6b8716ebf53796db72b4833438c3bbf0780d4bc80be5e417f4ec23f42dff3725.ctv> |
 | 167 | [HD]kto | stream1.freetv.fun | <https://stream1.freetv.fun/1ce95e521ea9be1e395750267caf8aa7c9aef3d1e9c4860d7d0d00ab1a5e204b.m3u8> |
 | 168 | [HD]ASRTO PREMIER | stream1.freetv.fun | <https://stream1.freetv.fun/2d587eae694f012b41d1d5591dcb7879d6312982870bc0052f6b9fc50a17391c.ctv> |
 | 169 | [BD]Astro Premier League | stream1.freetv.fun | <https://stream1.freetv.fun/512c248c829e9b965091b78c7b94e5a85c12893af77e0b84e875979ced963fe4.ctv> |
@@ -2195,4 +2195,4 @@
 | 2189 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2190 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Tue Jan 07 2025 18:28:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jan 07 2025 20:21:42 GMT+0000 (Coordinated Universal Time)**
