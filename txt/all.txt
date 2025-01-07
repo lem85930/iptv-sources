@@ -1161,7 +1161,7 @@ Knowledge,#genre#
 [HD]dmax,https://stream1.freetv.fun/eb807f8c4e68c02e8e35e264696099df9179f6846342d037f59de21b541575a8.m3u8
 [HD]dtx,https://stream1.freetv.fun/3af63f2a8332ea6e08fa8a8b9d23d0a22df3772c885f0d5f35d22992c91ac1f1.m3u8
 [SD]davinci,https://stream1.freetv.fun/1db0e96072e7bc6c36c2a754047e2a7eb5728b37f4d321f4f7aa08c477aa06b0.m3u8
-[VGA]discovery_asia,https://stream1.freetv.fun/ce3ead1104ba665822969381a25359cdfced1e173755c14e8a8969991e8a11ef.m3u8
+[BD]DISCOVE_ASIA,https://stream1.freetv.fun/f52fd3e3b3c30eb167e5fc00aaa6ed22ebcadbf1d454c442aec690dcfb8db484.ctv
 [VGA]discovery,https://stream1.freetv.fun/2e8d085db864b7877cfce3927ef07b816f4b1672c6f8a757f0373f224e26ae02.m3u8
 [HD]Discovery_Channel,https://stream1.freetv.fun/45ddf7a6b5f5c29c48072943fa21aa45a907528b0469abcf5049cec650a16354.m3u8
 [HD]DISCOVERY_HD,https://stream1.freetv.fun/5177b7139e58f2f9dcb9219ffe62991078a93576da242a35903e07ffcce577f2.ctv

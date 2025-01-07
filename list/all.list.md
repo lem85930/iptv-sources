@@ -487,7 +487,7 @@
 | 481 | [BD]didiktv kpm | stream1.freetv.fun | <https://stream1.freetv.fun/7240b77d44f1378dc63ab89484fd949be7a8210a73959c1157e67bab6a92dc08.m3u8> |
 | 482 | [BD]dijlah tv | stream1.freetv.fun | <https://stream1.freetv.fun/3ee5c8a75de95ac6d0a49bad2337cc067b1e30ca12c2af96c1daab0c2f6d4bc8.m3u8> |
 | 483 | [HD]wion news | stream1.freetv.fun | <https://stream1.freetv.fun/a846f11a73f15778b855f58e5db1b2a19da702dc9c72193b4b71bc3d59ebceb1.m3u8> |
-| 484 | [VGA]discovery asia | stream1.freetv.fun | <https://stream1.freetv.fun/ce3ead1104ba665822969381a25359cdfced1e173755c14e8a8969991e8a11ef.m3u8> |
+| 484 | [BD]DISCOVE ASIA | stream1.freetv.fun | <https://stream1.freetv.fun/f52fd3e3b3c30eb167e5fc00aaa6ed22ebcadbf1d454c442aec690dcfb8db484.ctv> |
 | 485 | [VGA]discovery | stream1.freetv.fun | <https://stream1.freetv.fun/2e8d085db864b7877cfce3927ef07b816f4b1672c6f8a757f0373f224e26ae02.m3u8> |
 | 486 | [HD]Discovery Channel | stream1.freetv.fun | <https://stream1.freetv.fun/45ddf7a6b5f5c29c48072943fa21aa45a907528b0469abcf5049cec650a16354.m3u8> |
 | 487 | [HD]Discovery Family | stream1.freetv.fun | <https://stream1.freetv.fun/a0c015a72e07b71ff0b0845f6877ad5e0dd3599da9861e2eddaf85edc5a3f29b.m3u8> |
@@ -2197,4 +2197,4 @@
 | 2191 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2192 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Mon Jan 06 2025 22:19:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jan 07 2025 01:39:20 GMT+0000 (Coordinated Universal Time)**
