@@ -143,6 +143,7 @@
 [HD]can_news,https://stream1.freetv.fun/5402a0174b2a8f8714c024555a4e818fa25a6e9a478c240927f1a3616c393941.m3u8
 [BD]news24,https://stream1.freetv.fun/cfc575e40eb2044721b52cad4159d361c3e8473a29724966a494e13ef125ccf6.m3u8
 [SD]cetv-4,https://stream1.freetv.fun/32f526edf68b2b7c04e59c02928d80161e4f3f6faf76a634f7629b1b61550a98.m3u8
+[VGA]柱子yang,https://stream1.freetv.fun/719861452afc98b0b77e68c7d4aa7f86acd8c101a3770ea18a267a8f75182715.ctv
 [BD]三明综合,https://stream1.freetv.fun/da6e540dadccd95ddaaa04c1bf9ad049d7f7a63819941d7f77d79484711769f0.m3u8
 [BD]上海新闻综合[ipv6],https://stream1.freetv.fun/a1eaea53c62db66253fdc24ad1d30132350d540d47a9f215654d2e2eb9523f20.m3u8
 [BD]上虞1新闻综合,https://stream1.freetv.fun/cc9b034338cd7d9d50e7f933bab05f013a19ad08b1afdd3380985b13665e09fe.m3u8
@@ -356,7 +357,7 @@
 [SD]济南影视,https://stream1.freetv.fun/6406e602a97cac4f40cb83b2721e3e9f659119e68cd57bde0b3c91ee39946fd8.m3u8
 [VGA]福建电视剧,https://stream1.freetv.fun/1357c2b6a3ca5af32ff688f9171fcb377137fb088268436bb49fa4f3854c2cea.m3u8
 [HD]绍兴文化影院,https://stream1.freetv.fun/69e2feb3fc54896357a380d344242de12ee1bd360a98ab33d465e8688593081e.m3u8
-[BD]老巴电影,https://stream1.freetv.fun/d2f9b6e98c7610f5204e9139227d298a7509895f4b8e8685001332a6198693e9.ctv
+[HD]老卓电影,https://stream1.freetv.fun/714adb9b6cfa9f93a984312719ce17cfeaae37aec1d6e90cdd25c16cc66336e3.ctv
 [HD]苏州电影娱乐信息,https://stream1.freetv.fun/fafde2e2ddce7ed44d060788cdfccda12ab98d779fb6b89eedf45b52f71bcb9d.m3u8
 [BD]辽宁影视剧,https://stream1.freetv.fun/c95dd728fdbfb30db14c894fcb29e18f20755506c2604a18f0df7b0a4be7845d.m3u8
 [VGA]重庆影视,https://stream1.freetv.fun/8190b9b44502f6f3fa5d452106b2facb600047ca0d6388c0dc629809f2e9d1d3.m3u8

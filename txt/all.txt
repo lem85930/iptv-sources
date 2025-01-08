@@ -252,7 +252,7 @@ Movies,#genre#
 [BD]纬来电影,https://stream1.freetv.fun/9e136afb1dc4118ba8ebb860706c3dd76e3991d9f9acf3a9abdeee8e1f0261f2.ctv
 [HD]美亚电影,https://stream1.freetv.fun/2cb279c9a42cd826e8afb1da83ad153bc8e4dfdef7ac294f7f521f6f8f116c1b.ctv
 [HD]美亚电影,https://stream1.freetv.fun/364ab897bc6f681e9a63a87348e5234e25e3582b43777c2f449bd4081b94f578.ctv
-[BD]老巴电影,https://stream1.freetv.fun/d2f9b6e98c7610f5204e9139227d298a7509895f4b8e8685001332a6198693e9.ctv
+[HD]老卓电影,https://stream1.freetv.fun/714adb9b6cfa9f93a984312719ce17cfeaae37aec1d6e90cdd25c16cc66336e3.ctv
 [BD]台湾戏剧,https://stream1.freetv.fun/798c2f4318e74ea3fcb547668f2a534db13cca465aadb11463ffad5219484fe8.ctv
 [HD]苏州电影娱乐信息,https://stream1.freetv.fun/fafde2e2ddce7ed44d060788cdfccda12ab98d779fb6b89eedf45b52f71bcb9d.m3u8
 [BD]辽宁影视剧,https://stream1.freetv.fun/c95dd728fdbfb30db14c894fcb29e18f20755506c2604a18f0df7b0a4be7845d.m3u8
@@ -1675,6 +1675,7 @@ News,#genre#
 [VGA]vtv1,https://stream1.freetv.fun/b94afa1b87c0fcab6cccfe75e5b4e8dc1aaa5682a00eecc14cb2e438ea577fa9.m3u8
 [BD]vtv2_s1,https://stream1.freetv.fun/2840d5e14d615a1836cb24e5412f46f5dc464557db144ab4b99574b6289cda52.ctv
 [HD]weathernation,https://stream1.freetv.fun/82dbd0d0b18c2ccf5d3b2963728df94366ebd7c7067d00dc4b78fbde2c05f967.m3u8
+[VGA]柱子yang,https://stream1.freetv.fun/719861452afc98b0b77e68c7d4aa7f86acd8c101a3770ea18a267a8f75182715.ctv
 [BD]ztv,https://stream1.freetv.fun/faaabf818ce51e619cbe6896fc68911b4b4852bbf39285d10a75beee1755e738.m3u8
 [HD]zee_news,https://stream1.freetv.fun/33851f26c9f396caa06466c75ee1fe478607550651d8422654e45b022baa816a.m3u8
 [HD]piura_tv,https://stream1.freetv.fun/e7e6abe957ad948aeef98c46530c8fae8e3ac36eb5447eb4f1d0b3108594b149.m3u8
@@ -2023,7 +2024,7 @@ Sports,#genre#
 [BD]sky_it_tennis,https://stream1.freetv.fun/8401707193f41eecc53353ae16ca8354e42fbf56ea5a71926193dc1e11f1894d.m3u8
 [BD]trace_sport_stars,https://stream1.freetv.fun/96fe92536ccba4facd03ed8e987e8f759f751c0963ab2294a5bcc21bc757edd8.m3u8
 [BD]trace_sports_stars,https://stream1.freetv.fun/b87c074835b09476fe36f575a20aa0c8da12677d93ad2f4d0980263b90f4ef0f.m3u8
-[HD]sport_2,https://stream1.freetv.fun/602fe53d605e59f92068b511319d86f02f7c24e4da55f7f9f6b6e73c8ea47148.m3u8
+[BD]tring_sport_2,https://stream1.freetv.fun/47b47ae4b421dac949ce5d2de38e11958e9755fe4c24e890fc478bee6bb5124f.m3u8
 [VGA]news_24_albania,https://stream1.freetv.fun/120dbc30245854de44c6d6246173247507e73f9f8b6eb86745279d9ea205b531.m3u8
 [VGA]rusport,https://stream1.freetv.fun/1f597cff550b50477587857330f9e2407967800a05cc5564097d7970a78b720d.m3u8
 [VGA]tvn_movies,https://stream1.freetv.fun/d06647fea0bb14da2b59605450e81b9e7f28064ae33e577c7449d74a4342ec51.m3u8
