@@ -1730,7 +1730,7 @@
 | 1724 | [HD]中天亚洲台 | stream1.freetv.fun | <https://stream1.freetv.fun/d84cb6763e9f78a08e990c95d3e7679dff7ca587707ec57569d7e63d351b7e36.ctv> |
 | 1725 | [BD]中天亚洲 | stream1.freetv.fun | <https://stream1.freetv.fun/50db06a05294a8b40199a190f986cc943927a74f1530cc59563cb4f7c87632c6.m3u8> |
 | 1726 | [HD]中天娱乐 | stream1.freetv.fun | <https://stream1.freetv.fun/08ca6c16595aafae7799132dfa8db8bad88e08a635ad3367ace67e6b5576e116.m3u8> |
-| 1727 | [BD]中天新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/0acae9c9b7bde09dca23c0e22a3850d47f1906143f348f03bc24c9406ff02f21.m3u8> |
+| 1727 | [BD]中天新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/bfb7b86acc1136ab146f878d754799a8b773de71f219492906c27268cf08d721.m3u8> |
 | 1728 | [VGA]中天综合 | stream1.freetv.fun | <https://stream1.freetv.fun/448ea05fe06ec8f25e5f6123b02c9bd2d8747c0414d79b36f054d69e58a4301c.m3u8> |
 | 1729 | [HD]中视 | f13h.mine.nu:1935 | <rtmp://f13h.mine.nu:1935/sat/tv091> |
 | 1730 | [BD]中视HD | stream1.freetv.fun | <https://stream1.freetv.fun/558923c3639ae3c46c1a691cb4ad3c4bcf9d7a2411c6a850b0d82f059fd572fd.m3u8> |
@@ -2236,4 +2236,4 @@
 | 2230 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2231 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Thu Jan 09 2025 14:18:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jan 09 2025 16:26:10 GMT+0000 (Coordinated Universal Time)**
