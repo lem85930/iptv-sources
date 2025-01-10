@@ -98,7 +98,7 @@
 | 92 | [BD]ASSP2 | stream1.freetv.fun | <https://stream1.freetv.fun/d22c18c7ce933974bd4ecdf6588ee44da580694b58088ff592ab79beeb285c31.ctv> |
 | 93 | [SD]ASTRO AOD 311 | stream1.freetv.fun | <https://stream1.freetv.fun/bba67b75e9f83f6137bd0c400b36b1dfb800903589d516aa3329c51ecba05556.ctv> |
 | 94 | [HD]ASTRO AWANI | stream1.freetv.fun | <https://stream1.freetv.fun/c41a138a42da76d7ab8966feebad9c3571f8260a79a8c8998df0855e7d9837c7.ctv> |
-| 95 | [HD]Astro ARENA | stream1.freetv.fun | <https://stream1.freetv.fun/1b57b4b44d5b9ca8c5b3262ded7d4661c2d06c8631beb130432ab6a445d13ed7.ctv> |
+| 95 | [BD]Astro ARENA | stream1.freetv.fun | <https://stream1.freetv.fun/b95654d2939d38ac1cb118a1e536a8ae2462f26502b9757fbf0053033b30b49a.ctv> |
 | 96 | [BD]Astro Arena 2 | stream1.freetv.fun | <https://stream1.freetv.fun/e90c104d49ba05bcd580b9920bd32a3ac7b6a813ed1fb35f5bd13813f3bde19b.ctv> |
 | 97 | [HD]ASTRO AURA | stream1.freetv.fun | <https://stream1.freetv.fun/b301daf95087ef5f0b204aacdf42c5798b83b03c26c069139ca8d730e360d1d0.ctv> |
 | 98 | [HD]ASTRO CERIA | stream1.freetv.fun | <https://stream1.freetv.fun/8ef234ae2d1aab3116ee9def0c5ce49ad432adb6e83a7ae6fd50d1de78c0a8b1.ctv> |
@@ -1473,7 +1473,7 @@
 | 1467 | [BD]tvt | stream1.freetv.fun | <https://stream1.freetv.fun/bd701f6d938c7fd9012997ec0f27dc52e7d226c08379b9683293ad85023e87ff.m3u8> |
 | 1468 | [BD]tvu | stream1.freetv.fun | <https://stream1.freetv.fun/80a2cbb08a2604fce899b2ab5a570329ab9fe27d995b9c343ded5cea99cedee3.m3u8> |
 | 1469 | [HD]tagesschau 24 | stream1.freetv.fun | <https://stream1.freetv.fun/667907409622214df5093663a6993a8647e3a040fd72f43407eef699e98c3b8e.m3u8> |
-| 1470 | [BD]taiwan plus tv | stream1.freetv.fun | <https://stream1.freetv.fun/65c6d14ddb6590312cdeebb366155362457320f338e06fcd5e7c5f089bc88156.m3u8> |
+| 1470 | [SD]taiwan plus | stream1.freetv.fun | <https://stream1.freetv.fun/ecfed8f20ec485a2af04f088f04b9ed1edca3ce122824570bcf51895aad79fd3.m3u8> |
 | 1471 | [BD]antara | stream1.freetv.fun | <https://stream1.freetv.fun/7d91f8da4f77ca5741952cbc0a35f1ba9d124e943bf24abddc7b7eada71f43f7.m3u8> |
 | 1472 | [SD]deen tv (576p) [not 24/7] | stream1.freetv.fun | <https://stream1.freetv.fun/8726b5f8c36a3f66b7101e452d1aa0a0edad1933a741ede176e6cd85699934ed.m3u8> |
 | 1473 | [SD]tek rumeli tv ᴴᴰ⁺ | stream1.freetv.fun | <https://stream1.freetv.fun/6eac8790c6da0461a18d80339f78ab360efaee5536e83759f400e285e73c0deb.ctv> |
@@ -2259,4 +2259,4 @@
 | 2253 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2254 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Fri Jan 10 2025 16:26:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 10 2025 18:28:14 GMT+0000 (Coordinated Universal Time)**
