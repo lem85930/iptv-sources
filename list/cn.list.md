@@ -409,4 +409,4 @@
 | 403 | [BD]黑龙江卫视 50 fps | stream1.freetv.fun | <https://stream1.freetv.fun/7e118a9a23ec7f770a7bb9646a05267e59cf45f1da34bad27223781c1e1a9644.m3u8> |
 | 404 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **Mon Jan 13 2025 06:30:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jan 13 2025 08:27:58 GMT+0000 (Coordinated Universal Time)**
