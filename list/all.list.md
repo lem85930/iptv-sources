@@ -94,7 +94,7 @@
 | 88 | [HD]Astro ARENA | stream1.freetv.fun | <https://stream1.freetv.fun/1b57b4b44d5b9ca8c5b3262ded7d4661c2d06c8631beb130432ab6a445d13ed7.ctv> |
 | 89 | [HD]Astro Aura | stream1.freetv.fun | <https://stream1.freetv.fun/3b6a9ae29f1c53e5ded1dd99790e37e43e93ccad388e17faa962e02097e7336a.ctv> |
 | 90 | [HD]ASTRO OASIS | stream1.freetv.fun | <https://stream1.freetv.fun/fbf8b3039efddcab75721cca99ed0b612afb300cffeaf5620a781dcd794a9bb9.ctv> |
-| 91 | [SD]Astro Ria | stream1.freetv.fun | <https://stream1.freetv.fun/dfc6ae8d7692cd2afe33c1f1ff136d422c1fe608f5beef137d840ceac90de064.ctv> |
+| 91 | [SD]Astro Ria | stream1.freetv.fun | <https://stream1.freetv.fun/e41f56b7fd6e60800b93233dcdf8479ad2d9907842ec02f0db08c609969c9445.ctv> |
 | 92 | [VGA]Astro Rania | stream1.freetv.fun | <https://stream1.freetv.fun/9c204e10785078c753d25350d0826fafe7f5f430d3a0c5f41158a99a9f554b3c.ctv> |
 | 93 | [BD]atfal & mawaheb tv | stream1.freetv.fun | <https://stream1.freetv.fun/e63ce3cfa960af2f9afe942fd44351071b625b0949afe12feb4790a99343c076.m3u8> |
 | 94 | [VGA]tvri world | stream1.freetv.fun | <https://stream1.freetv.fun/08f572e03fb04a0e394febb2e2d08082cedc4ecba339019008f471731e6a8f88.m3u8> |
@@ -1723,7 +1723,7 @@
 | 1717 | [SD]中天亚洲 | stream1.freetv.fun | <https://stream1.freetv.fun/2580d9d3718b52dcb78c621a684857b811492de1e61b2d76b9489784f18df62b.m3u8> |
 | 1718 | [BD]中天亚洲 | stream1.freetv.fun | <https://stream1.freetv.fun/50db06a05294a8b40199a190f986cc943927a74f1530cc59563cb4f7c87632c6.m3u8> |
 | 1719 | [HD]中天娱乐 | stream1.freetv.fun | <https://stream1.freetv.fun/6e731a583558b18aeb638aee1225a4c8cdab6f367c51130697829a789f8a6134.m3u8> |
-| 1720 | [BD]中天新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/bfb7b86acc1136ab146f878d754799a8b773de71f219492906c27268cf08d721.m3u8> |
+| 1720 | [BD]中天新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/0acae9c9b7bde09dca23c0e22a3850d47f1906143f348f03bc24c9406ff02f21.m3u8> |
 | 1721 | [VGA]中天新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/eb88cb77ff6f1b75b463cb0f142b77990985e32f14a2015cc1708d381adabd3c.ctv> |
 | 1722 | [HD]中视 | f13h.mine.nu:1935 | <rtmp://f13h.mine.nu:1935/sat/tv091> |
 | 1723 | [VGA]中视 | stream1.freetv.fun | <https://stream1.freetv.fun/3a97a88cf15e1e174479d014c7edb027fea163ce215a12cf95e5cf3e525750f4.ctv> |
@@ -2222,4 +2222,4 @@
 | 2216 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2217 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Mon Jan 13 2025 14:20:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jan 13 2025 16:27:06 GMT+0000 (Coordinated Universal Time)**
