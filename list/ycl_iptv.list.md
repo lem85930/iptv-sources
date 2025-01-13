@@ -75,4 +75,4 @@
 | 69 | 睛彩青少 | IPv4 直链 | <rtp://239.3.1.127:8001> |
 | 70 | 睛彩场舞 | IPv4 直链 | <rtp://239.3.1.128:8001> |
 
-Updated at **Mon Jan 13 2025 12:42:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jan 13 2025 14:20:05 GMT+0000 (Coordinated Universal Time)**
