@@ -174,7 +174,7 @@
 | 168 | [BD]astro | stream1.freetv.fun | <https://stream1.freetv.fun/c474b7801d7794729fb020b62a5ab6c3381983906ef0ca33223469b58126c210.ctv> |
 | 169 | [HD]tvs | stream1.freetv.fun | <https://stream1.freetv.fun/b06f4f7ee850aa3993066e2896a3b07623a0dab968486d44108f2fd5501d0585.m3u8> |
 | 170 | [BD]Astro KPlus | stream1.freetv.fun | <https://stream1.freetv.fun/2e6428c6b983019bae6edd033cf6ce1910d02251d84cabfea07f2f590fa443c7.ctv> |
-| 171 | [HD]Astro欢喜台 | stream1.freetv.fun | <https://stream1.freetv.fun/282c6877d627a11600a9e36f621cc1d5c0cb759ded10c161673d507372a5e984.ctv> |
+| 171 | [HD]Astro欢喜台 | stream1.freetv.fun | <https://stream1.freetv.fun/6eebc5f7a2b289af7dbc86bac09f7c4a50c8115243a526609f69ba5565fcc497.ctv> |
 | 172 | [HD]atlanta channel (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/b0518fe83cb68fa4ab6b5d85e747485e312545c26ad3b3d862c7d8126185a2c5.m3u8> |
 | 173 | [VGA]atomic tv | stream1.freetv.fun | <https://stream1.freetv.fun/85ddedaa475650ac306c30032de5f9083ed0ad1afe3fde086144f8c9926e77f2.m3u8> |
 | 174 | [BD]attica tv | stream1.freetv.fun | <https://stream1.freetv.fun/586f925d6316c961423641548f1a538525e046efed619681b1af728cd486a594.m3u8> |
@@ -2002,7 +2002,7 @@
 | 1996 | [BD]河南新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/8e29f64d99103ce461bf6231556f47046bab5f109f1074fcd6e5e4a03fc20c3a.m3u8> |
 | 1997 | [VGA]河南民生 | stream1.freetv.fun | <https://stream1.freetv.fun/3dba1aa77b00ec70e21ad288b975e283cf64dbfa98374eae276ffad9be33b1cf.m3u8> |
 | 1998 | [SD]河南卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/ea842ab34e6da31e0eae5bd8be6c4b7d67f0b0c214efaca7ff2c5a1718f7fe55.m3u8> |
-| 1999 | [BD]河南都市 | stream1.freetv.fun | <https://stream1.freetv.fun/6dc9e4a590574d9fb54e497b819802b14df0783403be0c32bb3d00611d6b4d43.m3u8> |
+| 1999 | [VGA]河南都市 | stream1.freetv.fun | <https://stream1.freetv.fun/6dc9e4a590574d9fb54e497b819802b14df0783403be0c32bb3d00611d6b4d43.m3u8> |
 | 2000 | [BD]泉州综合 | stream1.freetv.fun | <https://stream1.freetv.fun/a42dbc38f09e91405c92a848f0190e8042818671ae7edd27a824078752091953.m3u8> |
 | 2001 | [BD]泰州一套新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/326b5752af75293d56824c952f9b04d445c2727311e16f02237d4b20b374f0a0.m3u8> |
 | 2002 | [BD]浙江国际 | stream1.freetv.fun | <https://stream1.freetv.fun/a041e801956c3df4cbaa834c53c29c7474114c4b7e5fe66fe7c1f4bbef15c3fc.m3u8> |
@@ -2234,4 +2234,4 @@
 | 2228 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2229 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Tue Jan 14 2025 12:38:29 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jan 14 2025 14:18:51 GMT+0000 (Coordinated Universal Time)**
