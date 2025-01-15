@@ -53,7 +53,7 @@
 | 47 | [VGA]1905电影网 | stream1.freetv.fun | <https://stream1.freetv.fun/afb04190f4e569215b1983abc29e11f04d7b95045a637f6fecb7f0d41dcb666c.ctv> |
 | 48 | [VGA]ebs少儿 | stream1.freetv.fun | <https://stream1.freetv.fun/7b369240e011d542225ec2d39a2d746fb66c086f999a9d411d1cd276e1bc7681.m3u8> |
 | 49 | [SD]cetv-4 | stream1.freetv.fun | <https://stream1.freetv.fun/32f526edf68b2b7c04e59c02928d80161e4f3f6faf76a634f7629b1b61550a98.m3u8> |
-| 50 | [VGA]shenzen tv | stream1.freetv.fun | <https://stream1.freetv.fun/6b35fe448a5a5a0c815fb4b9c8527200408e2f77f63c107b4e5cc50260d80bf8.m3u8> |
+| 50 | [SD]shenzen tv | stream1.freetv.fun | <https://stream1.freetv.fun/6b35fe448a5a5a0c815fb4b9c8527200408e2f77f63c107b4e5cc50260d80bf8.m3u8> |
 | 51 | [BD]三明综合 | stream1.freetv.fun | <https://stream1.freetv.fun/da6e540dadccd95ddaaa04c1bf9ad049d7f7a63819941d7f77d79484711769f0.m3u8> |
 | 52 | [SD]三沙卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/2f29bdf337cfd1004d4deb54a8f7ab4476ca8a0d740651bb6e9f8b71fdbdb60e.m3u8> |
 | 53 | [BD]上海新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/2b3b36dd227d142db8855cc758211b46912e7aa38aa5f46e5fc02a6be3a06bb2.m3u8> |
@@ -401,4 +401,4 @@
 | 395 | [BD]黑龙江卫视 50 fps | stream1.freetv.fun | <https://stream1.freetv.fun/7e118a9a23ec7f770a7bb9646a05267e59cf45f1da34bad27223781c1e1a9644.m3u8> |
 | 396 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **Wed Jan 15 2025 04:23:29 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 15 2025 06:27:45 GMT+0000 (Coordinated Universal Time)**
