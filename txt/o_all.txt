@@ -1258,20 +1258,11 @@ PBS_New_Jersey_NJ_(WNJT)_(1080p)_[Not_24/7],https://wnjtdt.lls.pbs.org/out/v1/e6
 PBS_New_York_NY_(WNET)_(1080p)_[Not_24/7],https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
 PBS_Retro_(1080p),https://d2spdq8rliqjem.cloudfront.net/v1/master/43fcaa28f618f06de1eb896cc4c2469172c85466/ac2206ef-c654-4325-8725-85d995901b62/live.m3u8
 PeekFlick_(1080p),https://lte.wiseplayout.com/WiseM3U8_26/master.m3u8
-Pelis_y_Popcorn,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f7b47b7-a2d8-4c61-847a-02818046001b
-Pella_TV_(576p)_[Not_24/7],https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 Pensacola_–_Flügel_aus_Stahl,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca4b94261ca00080b38d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f3875-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7ff305c6-7021-481f-90e3-c8c05fde5a04
 Pensacola_Flügel_aus_Stahl,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca4b94261ca00080b38d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc852c00-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bfe362b2-033e-4a01-a8b5-0e2496eec320
-Pent_TV_(576p),https://iptv-trans.ecntv.net/live/penttv.m3u8
-Pequeradio_(720p)_[Not_24/7],https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-Peravía_Visión_(480p),https://ss5.domint.net:3048/pvv_str/peravia/playlist.m3u8
 Perform_by_Lifetime,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656538bb635c3c0008695660/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f25-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=45e6a446-ffdc-462d-8390-f228e5abc25c
 Perry_Mason,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64eddc3485efec00085b0369/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f3876-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=09f836b5-3c59-462d-95a2-726c229b62d4
-Persiana_Science,https://scihls.persiana.live/hls/stream.m3u8
 Peru_Visual_TV,https://stmv5.voxtvhd.com.br/peruvisual/peruvisual/playlist.m3u8
-PeruvianRadio_TV,https://vdo.grupolimalive.com:3399/stream/play.m3u8
-Pervyy_gorodskoy_Krivoy_Rog_(720p),http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr/playlist.m3u8
-Pet_Club_TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 Pet_Collective,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92b5fca869f00078f0162/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6617-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b4fceb2-10ba-4e0e-b055-2002afd89dc2
 PFL_MMA,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654a620d53fc9700083b2e21/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e074d40-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f8fcc86-3a94-4ce2-9955-c103e94fd2b9
 Phoenix_(720p),https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
@@ -3039,9 +3030,7 @@ Zylo_ScreamIN,https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenA
 НТВ_+7,https://cdn.ntv.ru/ntv7/playlist.m3u8
 НТВ_Право,https://cdn.ntv.ru/th_pravo/playlist.m3u8
 ОТВ_(Днепр)_(576p),http://91.193.128.233:1935/live/otv.stream/playlist.m3u8
-Первый_городской_(Одесса)_(1080p)_[Not_24/7],http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 Первый_информационный_(1080p),https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
-Первый_космический,http://stream01.vnet.am/Evrika/mono.m3u8
 Первый_Ярославский,https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 Плюс_ТВ,http://178.124.179.122:8088/PlusTV/index.m3u8
 Полтавское_ТВ,http://cdn10.live-tv.od.ua:8081/hrpl/hrpl-abr/playlist.m3u8
@@ -5026,9 +5015,12 @@ Partenope_TV_(1080p),https://streamlive.arcapuglia.it:8080/live/partenope/index.
 PAT_La_Paz_(720p)_[Not_24/7],https://w8.redpat.tv:7777/play/120/index.m3u8
 PAT_Santa_Cruz_(720p)_[Not_24/7],https://w8.redpat.tv:7777/play/110/index.m3u8
 Payam-e-Afghan_TV_(480p)_[Not_24/7],https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
+Pella_TV_(576p)_[Not_24/7],https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
+Peravía_Visión_(480p),https://ss5.domint.net:3048/pvv_str/peravia/playlist.m3u8
 Persiana_Latino_(720p),https://latinohls.persiana.live/hls/stream.m3u8
 Persiana_Two_(720p),https://twohls.persiana.live/hls/stream.m3u8
 Perú_Channel_(720p),https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
+Pervyy_gorodskoy_Krivoy_Rog_(720p),http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr/playlist.m3u8
 Pétange_Info_TV_(720p),https://streamer20.multimedia.blue/Eltrona/PetangeTV/playlist.m3u8
 PilisTV_(1080p),https://stream.streaming4u.hu/PilisTV/index.m3u8
 Pinole_Community_Television_(PCTV)_Channel_28_(Pinole_CA)_(480p),https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8
@@ -5706,6 +5698,7 @@ Zurquí_TV_(720p),https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpam
 Осетия_Ирыстон,https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
 ОСН,http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 Ош_Пирим_(1080p)_[Not_24/7],http://gohoski.fvds.ru:3000/mediabay/697/playlist.m3u8
+Первый_городской_(Одесса)_(1080p)_[Not_24/7],http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 Первый_канал,https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 Первый_канал_Евразия_(720p),https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/playlist.m3u8
 Россия_1,http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
@@ -6060,10 +6053,12 @@ P2M_TV_(720p),https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 Panik_TV_(1080p),https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 Panorama_FM_(1080p),https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
 Pauta_(720p),https://unlimited1-us.dps.live/pautatv/pautatv.smil/playlist.m3u8
+Pequeradio_(720p)_[Not_24/7],https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 Persiana_4Kurd,https://4kuhls.persiana.live/hls/stream.m3u8
 Persiana_Music,https://musichls.persiana.live/hls/stream.m3u8
 Persiana_Rap,https://raphls.persiana.live/hls/stream.m3u8
 Persiana_Sonnati,https://sonhls.persiana.live/hls/stream.m3u8
+PeruvianRadio_TV,https://vdo.grupolimalive.com:3399/stream/play.m3u8
 Planet_100.9_FM_(1080p),https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
 PlanetaTV_Music_(720p),https://scl.edge.grupoz.cl/music/live/music.m3u8
 Play_TV_(480p)_[Not_24/7],http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
@@ -7485,6 +7480,7 @@ Pemptousia_TV_(1080p)_[Not_24/7],https://svs.itworkscdn.net/pemptousialive/pempt
 Peniel_Kids_&_Young_(480p),https://s.emisoras.tv:8081/penielkids/index.m3u8
 Peniel_Musical_(480p),https://s.emisoras.tv:8081/penielmusical/index.m3u8
 Peniel_TV_Biblia_Abierta_(480p),https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
+Pent_TV_(576p),https://iptv-trans.ecntv.net/live/penttv.m3u8
 Phenomenal_Life_TV_(1080p),https://5be80bd118c27.streamlock.net:433/phenomenaltv/phenomenal/playlist.m3u8
 Pillar_TV_(720p)_[Not_24/7],https://goliveafrica.media:9998/live/627e198474bd1/index.m3u8
 Plenitud_TV_(360p),https://stream.oursnetworktv.com/latin/PlenitudGtm/playlist.m3u8
@@ -7972,6 +7968,7 @@ Passion_Novelas,https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d
 Passione_Lotto_(300p),http://185.63.52.103:8080/hls/passionelotto/1_2/index.m3u8
 People_are_Awesome,https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
 Persiana_Turkiye,https://turkhls.persiana.live/hls/stream.m3u8
+Pet_Club_TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 Play_Television_(720p),https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 PlayMedios_Digital_(1080p),https://rpn3.bozztv.com/ssh101/ssh101/playmedios/playlist.m3u8
 PLEX_TV_(360p)_[Not_24/7],http://connectiktv.ddns.me:8080/live/61f1a681f3a0e-1/index.m3u8
@@ -8663,6 +8660,7 @@ NETV_Toronto_(720p),https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/
 Nolly_Africa,https://amg02784-nollyafricafast-amg02784c1-cineverse-us-1124.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-cineverseus/playlist.m3u8
 Paramount_Movie_Channel,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
 Paramount+_Picks,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=86df5336-6268-4928-9b7d-3af618ca807b
+Pelis_y_Popcorn,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f7b47b7-a2d8-4c61-847a-02818046001b
 Persian_Film_(720p)_[Not_24/7],https://pfilmhls.wns.live/hls/stream.m3u8
 Persiana_Cinema,https://cinehls.persiana.live/hls/stream.m3u8
 Persiana_Family,https://familyhls.persiana.live/hls/stream.m3u8
@@ -9784,10 +9782,12 @@ Explosión_Creativa_(720p)_[Not_24/7],https://vcp.myplaytv.com/explosioncreativa
 Hiperconectados_TV,https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 Ilm_va_Tabiat_(1080p),https://live.teleradiocom.tj/15/3m.m3u8
 InWonder,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwondernz-samsungnz/playlist.m3u8
+Persiana_Science,https://scihls.persiana.live/hls/stream.m3u8
 Pluto_TV_Ciencia_(720p),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 Smithsonian_Channel_Selects,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb094-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=984e1d1d-6d7f-4f0b-98a5-825ccb67a891
 TEC_TV_(720p)_[Not_24/7],https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 TechScience_365_(360p),https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
+Первый_космический,http://stream01.vnet.am/Evrika/mono.m3u8
 山东农科_(406p),http://livealone302.iqilu.com/iqilu/nkpd.m3u8
 
 Culture;Travel,#genre#
