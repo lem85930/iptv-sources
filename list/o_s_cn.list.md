@@ -511,4 +511,4 @@
 | 505 | Nei Monggol TV 2 Mongolian Culture Channel | IPv4 直链 | <http://1.183.141.194:8001/hls/54/index.m3u8> |
 | 506 | Hunan Entertainment Channel | 1732e975z9.zicp.fun:8082 | <http://1732e975z9.zicp.fun:8082/hls/20/index.m3u8> |
 
-Updated at **Mon Jan 20 2025 22:18:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jan 21 2025 01:35:34 GMT+0000 (Coordinated Universal Time)**
