@@ -209,7 +209,7 @@
 | 203 | [BD]影视娱乐 | stream1.freetv.fun | <https://stream1.freetv.fun/6c326adb5bc41e369dc27e92cbaa66e9b8917b6a5ed8f294ca830bf31f25a197.m3u8> |
 | 204 | [BD]永嘉新闻综合频道 | stream1.freetv.fun | <https://stream1.freetv.fun/29fc67623c9edde852604acf8f0048e7162ad8dda10d4817ea61788ebd4ae7e5.m3u8> |
 | 205 | [BD]求索纪录 | stream1.freetv.fun | <https://stream1.freetv.fun/44c45dcee137e4e5f1a9ffab3fed99382bed4c4dab6937ec642e945621111004.m3u8> |
-| 206 | [BD]新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/c31740c7b4676312bcb9533748e7b3c6f4dd987c85caccc1dd6e5632363f6d2c.m3u8> |
+| 206 | [BD]包头新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/d0c36c88a6f7cd3334f0b600aa9cabbf45ea00db1b13abd0380557230cc2c911.m3u8> |
 | 207 | [BD]汕头经济 | stream1.freetv.fun | <https://stream1.freetv.fun/4165df5d240a705da7c501b31098dfbb5ae7458242cb61ccc3d988831b716c4a.ctv> |
 | 208 | [BD]汕头综合 | stream1.freetv.fun | <https://stream1.freetv.fun/cdf64bf08ac852913d8ab8d6a9a392d2cb832089984a7f7d1aecf63d5c64c5ff.ctv> |
 | 209 | [BD]江苏新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/6ec5a2c8546f0418f31d1ee70a61440102ea1a079982271d554b9443290859cb.ctv> |
@@ -385,4 +385,4 @@
 | 379 | [BD]黑龙江视 | stream1.freetv.fun | <https://stream1.freetv.fun/6e7e2ce60b35f196871c0dbc89fc0adaea8f23d50baadfb76c8cd769821d150a.ctv> |
 | 380 | [BD]黑龙江｜都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/e8aab8e96ab29ac96cc392943d54a947eb57591f4a0fdaf6267345e76a54f209.m3u8> |
 
-Updated at **Sun Jan 26 2025 16:22:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jan 26 2025 18:25:22 GMT+0000 (Coordinated Universal Time)**
