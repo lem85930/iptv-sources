@@ -326,7 +326,7 @@
 [BD]福建电视剧,https://stream1.freetv.fun/1357c2b6a3ca5af32ff688f9171fcb377137fb088268436bb49fa4f3854c2cea.m3u8
 [HD]绍兴文化影院,https://stream1.freetv.fun/69e2feb3fc54896357a380d344242de12ee1bd360a98ab33d465e8688593081e.m3u8
 [HD]苏州电影娱乐信息,https://stream1.freetv.fun/fafde2e2ddce7ed44d060788cdfccda12ab98d779fb6b89eedf45b52f71bcb9d.m3u8
-[BD]辽宁影视剧,https://stream1.freetv.fun/c95dd728fdbfb30db14c894fcb29e18f20755506c2604a18f0df7b0a4be7845d.m3u8
+[SD]辽宁影视,https://stream1.freetv.fun/0eff564a8e82e06495aec77af080d9293fcd5ad8d8b998def9cf7cc6e4b4bffe.m3u8
 [SD]开封文化,https://stream1.freetv.fun/c817b2785a751056c51b23f2b26173b0f0bb6aac43c1cd0fe8ef5bf94112e97a.m3u8
 
 儿童,#genre#
@@ -356,12 +356,12 @@
 运动,#genre#
 [BD]cctv16,https://stream1.freetv.fun/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
 [BD]cctv_5,https://stream1.freetv.fun/a478c20b7710cbceef5dce9d846cf7e7c862d6d15d3c778c99778c3f1e86c93e.m3u8
-[BD]cctv5,https://stream1.freetv.fun/8e49f86b23d779f6cfa2d65ae6e12a1b6b0a802b67926faf9896e6c44611f256.m3u8
+[BD]cctv5,https://stream1.freetv.fun/27fc38ea7c9a3c8529051906fafc03100c9f3d83716ea5e7c7111f83259f7999.m3u8
 [BD]cctv5,https://stream1.freetv.fun/4e9113a8bf162abe4071e89e4037c6dd2cf1554ab4e2e1851c9367ebe09b3827.m3u8
 [BD]cctv5_plus,https://stream1.freetv.fun/0f7997a9c1542d6a120fa0b438502b1d74023e88e38b3555ab20aaa0bf0b591d.m3u8
 [BD]cctv5_plus,https://stream1.freetv.fun/868c99ace470de0abdff05f60cba865d70d34665e9f0cc9f4a08837b18618323.m3u8
 [BD]cctv风云足球,https://stream1.freetv.fun/6fd6c5da601b6c9625a4e0a214f061c0f1fd507f6cebde538c652e7b58e01475.m3u8
-[BD]五星体育,https://stream1.freetv.fun/398b9ce99d62a8c449e19f5439082333a387c9f1f78e681e9ce1a6c3a5b92b5b.m3u8
+[BD]上海五星体育,https://stream1.freetv.fun/797dbcd109266b067eccb120b01268961dcce70660853d9c2cedb9808bba3841.m3u8
 [SD]先锋乒羽,https://stream1.freetv.fun/2fee76669bfcda8fd05cfb4cff2c0481c0d06d8473505d01a65234aa0e906b8e.ctv
 [BD]天津体育,https://stream1.freetv.fun/c6b4c9e054f4a00fb94a7b9b7616b9ff2acf7f9aca0988efb050b3930123f7d8.ctv
 [BD]山东体育,https://stream1.freetv.fun/cdeb0d33557acdc2f53d7d6309e5f93d847e70a977778e55c1535d1690342dd4.m3u8
