@@ -348,6 +348,7 @@
 [BD]福建少儿,https://stream1.freetv.fun/d3d5c6629ffc45ab0d90a89af37dd37cbc26efd65978c2086ace2ec67c32c2bd.m3u8
 [BD]辽宁教育青少,https://stream1.freetv.fun/a360bc9b60dc31208f2a3d5ef620b514b73ba818af72cefb072e4568bad3a300.m3u8
 [BD]金鹰卡通,https://stream1.freetv.fun/10c162a19187277452e11fbe6cc81e691467a45e9aaa62427d2ba9ed3d5254b9.ctv
+[BD]黑龙江少儿,https://stream1.freetv.fun/6f4cb5c9e41e23171ee84e73bdc7c28fa3bbe73e291f122dfa3b9d68c018fe7a.m3u8
 
 音乐,#genre#
 [BD]cctv15,https://stream1.freetv.fun/3f80345388aa4a2e62eb34aca5ee6a6279e539802916382dd0be8b5dc66f9898.m3u8
