@@ -9775,4 +9775,4 @@
 | 9769 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 9770 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Tue Jan 28 2025 22:18:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 29 2025 01:35:51 GMT+0000 (Coordinated Universal Time)**
