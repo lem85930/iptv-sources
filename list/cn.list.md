@@ -380,4 +380,4 @@
 | 374 | [BD]黑龙江视 | stream1.freetv.fun | <https://stream1.freetv.fun/6e7e2ce60b35f196871c0dbc89fc0adaea8f23d50baadfb76c8cd769821d150a.ctv> |
 | 375 | [BD]黑龙江都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/41ed0a78c76893cb75c29c68b8b6679f91d1ef736876d6ba582378499c1409f9.m3u8> |
 
-Updated at **Thu Jan 30 2025 12:38:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jan 30 2025 14:18:48 GMT+0000 (Coordinated Universal Time)**
