@@ -343,7 +343,7 @@ https://stream1.freetv.fun/b8c6d8f514366a0910c2261c7df7b30f08e783c198e0357690a3a
 https://stream1.freetv.fun/9dbfedf8bc53fe25b27b7d8e332c547b6684e075d148c2692865a91fc4656f8c.ctv
 #EXTINF:-1 tvg-name="Astro Football" tvg-id="397399" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/10/19/large/20241019181752911817_82.png" group-title="Sports",[HD]Astro Football
 https://stream1.freetv.fun/514d2757f9b1e8210cb96205d22527adf5d99045a65fd0d44dbefc402c4e15d7.ctv
-#EXTINF:-1 tvg-name="Astro Premier" tvg-id="" tvg-country="Malaysia" tvg-language="Tamil" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922161447393378_46.png" group-title="Movies",[BD]astro premier league 2
+#EXTINF:-1 tvg-name="Astro Premier" tvg-id="" tvg-country="Malaysia" tvg-language="Tamil" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922161447393378_46.png" group-title="Movies",[HD]astro premier league 2
 https://stream1.freetv.fun/86918a2d3728f597c794ae10f13e193aad09e9bbf902f25d5c6aedba562b0a4a.ctv
 #EXTINF:-1 tvg-name="Astro Premier League2" tvg-id="397397" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/10/28/large/20241028154354983236_16.png" group-title="Sports",[HD]Astro Premier League 2
 https://stream1.freetv.fun/a5ff763abb1a85dd51a93d69b8f76a4e0f591ef41280fd92ba7163db43d1740a.ctv
@@ -717,8 +717,6 @@ https://stream1.freetv.fun/fd762934a09e1f4310d1b5777f1f0df6accaea9d93f00560766ac
 https://stream1.freetv.fun/b68287fa6a974b85132e9ff7eaad6edce36c8920428bad38308d299910c2a69f.m3u8
 #EXTINF:-1 tvg-name="CTN" tvg-id="" tvg-country="Cambodia" tvg-language="Khmer" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175014274355_59.png" group-title="Generic",[HD]ctn
 https://stream1.freetv.fun/983ebe2a2055818667b415e43a56ad5cb64ba5a455badb3b9ac8f207b6149f76.m3u8
-#EXTINF:-1 tvg-name="CTS기독교TV" tvg-id="" tvg-country="Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2022/12/24/large/20221224165119691213_15.jpeg" group-title="News",[BD]cts기독교tv
-https://stream1.freetv.fun/ca4768d304a958656a9440e518f0129b55afbb8dfb24f684ab0f3e32d3730bcd.m3u8
 #EXTINF:-1 tvg-name="CTV" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_86.jpg" group-title="Other",[BD]92 ctv
 https://stream1.freetv.fun/b499a2f5aaa9cce7788fa9cab586e6c574d57801c3f8d8f84306af4721139623.m3u8
 #EXTINF:-1 tvg-name="CW" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/03/05/large/20200305130508483757_21.png" group-title="Generic",[VGA]cw
@@ -827,7 +825,7 @@ https://stream1.freetv.fun/9ca2cba5c84235f62a979b3685776ed310aa27a62f4c54aca87cd
 https://stream1.freetv.fun/a48a8b11ebb01a9d4c68bd8391d009394159977bcc2a4e0c9a05d4ec75ece42f.ctv
 #EXTINF:-1 tvg-name="Cinemax Moviemax East" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/06/20151206122531576654_58.jpg" group-title="Movies",[HD]Cinemax Moviemax
 https://stream1.freetv.fun/bf8d4f8d97e30ce770df07c4770a18b3ba785b9444e7b83291567c0f315a8b02.ctv
-#EXTINF:-1 tvg-name="Cinemax ThrillerMax" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/12/30/large/20231230015125561700_87.png" group-title="Movies",[HD]CINEMAX THRILLERMAX
+#EXTINF:-1 tvg-name="Cinemax ThrillerMax" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/12/30/large/20231230015125561700_87.png" group-title="Movies",[BD]CINEMAX THRILLERMAX
 https://stream1.freetv.fun/bf63b9fd10efa62adfc3ca17a3232706fedf788e893d200d18bd0d23565a9159.ctv
 #EXTINF:-1 tvg-name="City TV" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/14/large/20220414154904496870_95.png" group-title="Generic",[BD]lnktv city
 https://stream1.freetv.fun/c3fe1f682e042507a4532e236db240ca312d1c9d3c420a0d5d4d068bf14f3ff8.m3u8
