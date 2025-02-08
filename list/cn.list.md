@@ -32,7 +32,7 @@
 | 26 | [BD]cctv9 | stream1.freetv.fun | <https://stream1.freetv.fun/6e15c93f3f9b1acaf6783b0b1a81b84b81181db27b7541281cbeff4d45aa96f5.m3u8> |
 | 27 | [SD]cctv第一剧场 | stream1.freetv.fun | <https://stream1.freetv.fun/31cbe2ad06dc69104322ab8dc32fd094b5bc855f9e9a7f2efbdb34f91a819be0.ctv> |
 | 28 | [SD]cctv风云足球 | stream1.freetv.fun | <https://stream1.freetv.fun/f5984a4a5c2d0b153f783bfe5878209ce03902d76521ede65c4c52f54d50284b.m3u8> |
-| 29 | [SD]cctv风云音乐 | stream1.freetv.fun | <https://stream1.freetv.fun/c731f03c8f67b95135c7a2eea364a35b9b8e67c03b78f7f4781e29dd99ecff15.ctv> |
+| 29 | [VGA]cctv音乐 | stream1.freetv.fun | <https://stream1.freetv.fun/2b8d7f241cc69b8f2c05743118d1c67efc21054e38b4578509d60df27ba88a31.ctv> |
 | 30 | [SD]Celestial Classic Movies | stream1.freetv.fun | <https://stream1.freetv.fun/55e77d5f0da464e06bb4084e82a09f26b7434b42ecd3e0b3cb429e168403a9d7.ctv> |
 | 31 | [BD]cetv-1 | stream1.freetv.fun | <https://stream1.freetv.fun/d582d0e0e0629f5b0954cb400a6ceab1559d3feae2de9693a15dfb23ea3587d5.m3u8> |
 | 32 | [HD]cgtn | stream1.freetv.fun | <https://stream1.freetv.fun/6121b01fb26a5be3ae517a1ab7310fb51948d1de596bb0f3cead41297bfa84b7.m3u8> |
@@ -201,7 +201,7 @@
 | 195 | [BD]武陟新闻综合频道 | stream1.freetv.fun | <https://stream1.freetv.fun/cd08d0f0a20c0e2b316abb40e9f8a810465d639683ac46eeeeb93fa200585ed7.m3u8> |
 | 196 | [HD]武汉生活 | stream1.freetv.fun | <https://stream1.freetv.fun/18f7c26b70e5295cc8dc8fad6efd8a9eeae913b6befe7ecdc13b0c4e2038bf11.m3u8> |
 | 197 | [HD]武汉经济 (360p) | stream1.freetv.fun | <https://stream1.freetv.fun/60692e28a9cf28d4d2bc7f266c2bca9418f30b3ffdc15f5f702871690d35acfa.m3u8> |
-| 198 | [BD]武汉电视剧 | stream1.freetv.fun | <https://stream1.freetv.fun/9326d683f7021092180933125ed82537eda4ad6db06ba780ff5b13b39704c1a0.m3u8> |
+| 198 | [VGA]武汉电视剧 | stream1.freetv.fun | <https://stream1.freetv.fun/453349f87c7f953c1def3cb52e7a9312505eed5ed2fbaa97d9b928c3f582d392.m3u8> |
 | 199 | [HD]影视娱乐 | stream1.freetv.fun | <https://stream1.freetv.fun/bc1f9566f50a11fe1459d1c4b36cfc4237c9c49dff7520abe16999f3fcee06d2.m3u8> |
 | 200 | [BD]永嘉新闻综合频道 | stream1.freetv.fun | <https://stream1.freetv.fun/29fc67623c9edde852604acf8f0048e7162ad8dda10d4817ea61788ebd4ae7e5.m3u8> |
 | 201 | [BD]求索纪录 | stream1.freetv.fun | <https://stream1.freetv.fun/44c45dcee137e4e5f1a9ffab3fed99382bed4c4dab6937ec642e945621111004.m3u8> |
@@ -367,4 +367,4 @@
 | 361 | [BD]黑龙江卫视 50 fps | stream1.freetv.fun | <https://stream1.freetv.fun/7e118a9a23ec7f770a7bb9646a05267e59cf45f1da34bad27223781c1e1a9644.m3u8> |
 | 362 | [SD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/94d03a6c6397805046161297bb2e0e23493fa49311e5aad1c467e550a6c1b8ff.m3u8> |
 
-Updated at **Sat Feb 08 2025 08:24:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Feb 08 2025 10:18:34 GMT+0000 (Coordinated Universal Time)**
