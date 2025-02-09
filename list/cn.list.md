@@ -7,7 +7,7 @@
 | 1 | [BD]cctv-08 | stream1.freetv.fun | <https://stream1.freetv.fun/125a2778e91d7d340cd5226f3fda0a2a0f5724d97faa6daf05a5380040bb59ad.ctv> |
 | 2 | [SD]cctvnews | stream1.freetv.fun | <https://stream1.freetv.fun/ef27adc014bb833df42c474d953bd82494b2dac17a44f234bf492d826a2abd10.m3u8> |
 | 3 | [HD]asharq documentary | stream1.freetv.fun | <https://stream1.freetv.fun/6533e4430f9a9db4767409224aa980b2cb4c8b58deaa849c12ca4b6e644d448d.m3u8> |
-| 4 | [HD]cctv1 | stream1.freetv.fun | <https://stream1.freetv.fun/d6bfd8367a905e4c7d8f024b5d501f81a0dec4e08379ce380ca66ca9ab5f46dd.ctv> |
+| 4 | [BD]cctv1 | stream1.freetv.fun | <https://stream1.freetv.fun/9f70f5d60b14bb1ef93886f17fa8f20f55f4a36ac45206f6c5a5bf9654d6e4fb.m3u8> |
 | 5 | [BD]cctv10 | stream1.freetv.fun | <https://stream1.freetv.fun/eda703fff53e38655071972d02dbb7b599faa57b720e828bd35d8db2f4dff147.m3u8> |
 | 6 | [BD]cctv11 | stream1.freetv.fun | <https://stream1.freetv.fun/616b4d014e0a73846bdb9ddddfdd777f9e0f2c132b2e00e12ad171e2081b0dbb.m3u8> |
 | 7 | [BD]cctv12 | stream1.freetv.fun | <https://stream1.freetv.fun/606785673559b89523ae9a7b643efa266ff08386ce678c2a204216cc78c3efdd.m3u8> |
@@ -370,4 +370,4 @@
 | 364 | [BD]黑龙江卫视 50 fps | stream1.freetv.fun | <https://stream1.freetv.fun/7e118a9a23ec7f770a7bb9646a05267e59cf45f1da34bad27223781c1e1a9644.m3u8> |
 | 365 | [SD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/94d03a6c6397805046161297bb2e0e23493fa49311e5aad1c467e550a6c1b8ff.m3u8> |
 
-Updated at **Sun Feb 09 2025 10:20:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Feb 09 2025 12:35:20 GMT+0000 (Coordinated Universal Time)**

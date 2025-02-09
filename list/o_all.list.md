@@ -9933,4 +9933,4 @@
 | 9927 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 9928 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Sun Feb 09 2025 10:20:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Feb 09 2025 12:35:25 GMT+0000 (Coordinated Universal Time)**
