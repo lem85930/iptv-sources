@@ -183,7 +183,7 @@
 | 177 | [BD]automotion | stream1.freetv.fun | <https://stream1.freetv.fun/77a71c518eabfe8567e5ffa4f488995174100a8cbd0979fafd74a0f6f3585c7a.m3u8> |
 | 178 | [HD]people are awesome | stream1.freetv.fun | <https://stream1.freetv.fun/c454a7dc6f44a4ff3ce58cb68fe101597817f500e33d3cc94fb0f810695d470d.m3u8> |
 | 179 | [SD]B4U MUSIC | stream1.freetv.fun | <https://stream1.freetv.fun/6ffaa728b0e4ec7fa985dd3fd740d6a56f54b8fab18487f25a9edecd4efee7cc.ctv> |
-| 180 | [SD]B4U PLUS | stream1.freetv.fun | <https://stream1.freetv.fun/4cfe494f60ea1dbcb8d838aca6650dd0e80ab4eccd283ac76afb25e76c3b4d0e.ctv> |
+| 180 | [SD]B4U PLUS | stream1.freetv.fun | <https://stream1.freetv.fun/526d433326affd0afc571890c5b75893a257b622d069834f172aa90ee7412f03.ctv> |
 | 181 | [BD]baby shark tv (1080p) | stream1.freetv.fun | <https://stream1.freetv.fun/c29c9fd8279a911743a086a56dbac682f0d714a821fcbaea4981ea145bdb2511.m3u8> |
 | 182 | [VGA]baby time | stream1.freetv.fun | <https://stream1.freetv.fun/81988e67c1a402c693febd3f031646bb366ce2e684112723a6d28dc6732a66b1.m3u8> |
 | 183 | [HD]bahrainsports2 | stream1.freetv.fun | <https://stream1.freetv.fun/29a51104869c4708f335449e469bfa5db6d08831f49a2e0da12a8918ae20df35.m3u8> |
@@ -1992,4 +1992,4 @@
 | 1986 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 1987 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Mon Feb 17 2025 08:27:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Feb 17 2025 10:23:07 GMT+0000 (Coordinated Universal Time)**
