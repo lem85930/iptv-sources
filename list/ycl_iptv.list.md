@@ -83,4 +83,4 @@
 | 77 | 家有购物 | IPv4 直链 | <rtp://239.3.1.185:8001> |
 | 78 | 聚鲨环球 | IPv4 直链 | <rtp://239.3.1.179:8001> |
 
-Updated at **Wed Feb 19 2025 22:18:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 20 2025 01:39:08 GMT+0000 (Coordinated Universal Time)**

@@ -99,8 +99,8 @@ https://stream1.freetv.fun/6fea37cf10648190254d3befb117d9930ba70cac5f9939cfec4e7
 https://stream1.freetv.fun/ea48fd6a6ccf4b3cfdb0db91c4ea913429bae67ce10ad4172a34329f42447732.m3u8
 #EXTINF:-1 tvg-name="ABC Australia" tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/28/large/20200428152920288821_56.png" group-title="News",[BD]abc australia
 https://stream1.freetv.fun/1b6285653f4fe5545e4e4aa4811354a8f5cd2f673fff51e9eb7ed879c91f450a.ctv
-#EXTINF:-1 tvg-name="ABC NEWS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/10/09/20171009012506131666_63.png" group-title="News",[SD]abc news us hd
-https://stream1.freetv.fun/5e04f2bef9c3f4368586a8bcbc892a9f559a5285caffee245e5bb1a43ab8c737.m3u8
+#EXTINF:-1 tvg-name="ABC NEWS" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/10/09/20171009012506131666_63.png" group-title="News",[BD]a news
+https://stream1.freetv.fun/589c998000702792d939bfa687e064d5bf96d7147257c91c75474d79be05841b.ctv
 #EXTINF:-1 tvg-name="ABC NEWS 24" tvg-id="" tvg-country="Australia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/03/13/large/20240313191616421716_57.png" group-title="News",[HD]la c news 24
 https://stream1.freetv.fun/5843872596afe2cb45d198314871ee40c1a0821e1afcd508c0ec883eb210ecdd.m3u8
 #EXTINF:-1 tvg-name="ABC News Live" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/" group-title="News",[BD]abc news live
@@ -111,8 +111,6 @@ https://stream1.freetv.fun/e8bda9d1144d1107d4e5cc721df9fd91d0b24bb6546c384f225df
 https://stream1.freetv.fun/f9bc8ffbf32f26b4931202f84c885eeaa785b91a8f9c825854201649fa723361.m3u8
 #EXTINF:-1 tvg-name="ABN TV" tvg-id="" tvg-country="Kurdistan" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/06/20160106034442314754_15.png" group-title="Entertainment",[HD]ช่อง abn tv
 https://stream1.freetv.fun/8d3cba26290f9a07f148359af19b6950cf6797af110b9deb8491638ef8486031.m3u8
-#EXTINF:-1 tvg-name="ABP News India" tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163645983935_10.png" group-title="News",[VGA]first india news
-https://stream1.freetv.fun/12fbb9835036ecbe2a1d1df58fac97d80d903a4eabd304697183c76fbde9e3e7.m3u8
 #EXTINF:-1 tvg-name="ACTION 24" tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/" group-title="Other",[HD]action 24
 https://stream1.freetv.fun/3dd6d17d15824219f2a4c7f06925a64059bdd09058a1d892b00cd159d7530f91.m3u8
 #EXTINF:-1 tvg-name="AD Emarat" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/20/20150820150724316904_39.jpg" group-title="Generic",[BD]al emarat
@@ -393,8 +391,8 @@ https://stream1.freetv.fun/f9dfdbe5f4d0bfc2f151fe5f1f1f36c7328143f3cfc0ff8d75980
 https://stream1.freetv.fun/f9fcfe98b97535d5358234e7da46afa57c57dcbbe08ceaae1eba97469c11e18f.m3u8
 #EXTINF:-1 tvg-name="BBC Four" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164106975673_55.png" group-title="Generic",[BD]bbc four
 https://stream1.freetv.fun/aeeef8bc58831ca6b8f4c5682837c78b96d04feac0b3014469dbb4a942651684.m3u8
-#EXTINF:-1 tvg-name="BBC Lifestyle" tvg-id="4030" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718011830806342_49.png" group-title="Generic",[HD]bbc lifestyle
-https://stream1.freetv.fun/7da14b93f070bb08fd471d54b3b098f92a846aa5a5e7e3ad3ed2db54cc43014a.m3u8
+#EXTINF:-1 tvg-name="BBC Lifestyle" tvg-id="4030" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718011830806342_49.png" group-title="Generic",[BD]bbc lifestyle
+https://stream1.freetv.fun/a396c44df912832006985fe42a684848037dd1780c8d1d84a9660a0999632893.ctv
 #EXTINF:-1 tvg-name="BBC News" tvg-id="12162" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164717897792_32.png" group-title="News",[BD]BBC News
 https://stream1.freetv.fun/702be80a69932d8979f4e80eed1572ce2ee9fb19a64d25db9694fdc53a863ace.ctv
 #EXTINF:-1 tvg-name="BBC News HD" tvg-id="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/06/13/large/20160613215356459079_10.png" group-title="News",[BD]bbc news
@@ -461,8 +459,8 @@ https://stream1.freetv.fun/1a08fea9ef23bda9e50d47ae68c24939e16e36226bc8f6443a92c
 https://stream1.freetv.fun/d2e8fe7267f55daa0468a8cc73a3c0f7207882e27131a09fb9e00041ee34b23b.m3u8
 #EXTINF:-1 tvg-name="Bahrain Sports TV" tvg-id="" tvg-country="Bahrain" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205521953052_11.png" group-title="Sports",[BD]sports tv
 https://stream1.freetv.fun/8b542f463961901e5178c1d634f596cec2da16d01a1b9fc01a974ffd1416e1a1.m3u8
-#EXTINF:-1 tvg-name="Band" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174314612171_11.png" group-title="News",[HD]band sp
-https://stream1.freetv.fun/97179cdf0d56f00c379b10deb0ce9687047b9985465c2d6973f0af7a86ee43ee.m3u8
+#EXTINF:-1 tvg-name="Band" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174314612171_11.png" group-title="News",[HD]band news
+https://stream1.freetv.fun/49d502264eeb4648cdb46eb08b7e7ef426f0d1220aa40cc749cb97bc15aebf8e.ctv
 #EXTINF:-1 tvg-name="Band Sports" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105222730944950_63.png" group-title="Sports",[HD]band sports
 https://stream1.freetv.fun/c177bcf52d4823d9a7d0737d639960b94602bde4af05a0fef7afc6563f869985.m3u8
 #EXTINF:-1 tvg-name="Barca TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/" group-title="Entertainment",[BD]baraza tv
@@ -715,6 +713,8 @@ https://stream1.freetv.fun/bafe651ef076d0d9d16e55f43bfc635184c20eba38eecd2fe7fe9
 https://stream1.freetv.fun/3f94ebee705d2e74672d68aa8efe2c6d65e8634bb6090692acc81416fef134dc.m3u8
 #EXTINF:-1 tvg-name="Campo Televisión" tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205533259530_93.png" group-title="Sports",[VGA]impacto televisión
 https://stream1.freetv.fun/31aca6384f80fe991e8627f92ec78a4e0be004c3c0f96584005e24bb26fbcbe3.m3u8
+#EXTINF:-1 tvg-name="Canal 13, Chile" tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175049459722_82.png" group-title="Entertainment",[BD]canal 18
+https://stream1.freetv.fun/7c49a8a54d324daa1b836589619fc797a411d57e93cf6db5ff1d7a43326f45d6.m3u8
 #EXTINF:-1 tvg-name="Canal 2 Africa" tvg-id="" tvg-country="Africa" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174932817014_86.png" group-title="Generic",[BD]canal 2
 https://stream1.freetv.fun/b279a9cf32299179fcbbde6d8dc7241907b8eb30fa27d970d03c44cc14899745.m3u8
 #EXTINF:-1 tvg-name="Canal 2 Argentina" tvg-id="" tvg-country="Argentina" tvg-language="Spanish" tvg-logo="https://epg.pw/media/" group-title="Generic",[VGA]canal 2
@@ -761,8 +761,6 @@ https://stream1.freetv.fun/50c4b6e5cacfb54e9049c533c95bb6a2648d5dbb92f75d65ec528
 https://stream1.freetv.fun/11ee5894ddd7f88691b512e977ab23e351524f6f4d8747d2193e1d6248a68c1b.m3u8
 #EXTINF:-1 tvg-name="Capul TV" tvg-id="" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/23/20140523220041863275_32.jpg" group-title="Entertainment",[VGA]campus tv
 https://stream1.freetv.fun/34f9940ca6651acb6d01a9bfc63fa3315cd34d82cd983b192da98fae2a5a28f0.m3u8
-#EXTINF:-1 tvg-name="Caracol" tvg-id="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/12/27/20141227024711323020_24.jpg" group-title="Entertainment",[HD]caracol tv
-https://stream1.freetv.fun/e78cd2db84557a05d8861235ff9558dacd56f28655ef0754631caf484946bb74.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-id="403499" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128060650320978_43.jpg" group-title="Kids",[BD]cartoon network
 https://stream1.freetv.fun/ad6c22c4cce666a7a26c11b329c04a47cdbe9947b2fd0873454d785f36ded886.m3u8
 #EXTINF:-1 tvg-name="Cartoon Nitro" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/19/20140519060914687800_16.png" group-title="Kids",[VGA]retro cartoon
@@ -779,7 +777,7 @@ https://stream1.freetv.fun/f93fdf50fe457ccd284d0c89b3c601a9bd94e5edb9ccfc6b56016
 https://stream1.freetv.fun/8fec28164f4e0ef3179c6c34b3c100e5c15fb7b6bfb2c872cd8669d03460f0f5.m3u8
 #EXTINF:-1 tvg-name="Channel 7" tvg-id="" tvg-country="Myanmar" tvg-language="Burmese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174605027053_87.png" group-title="Entertainment",[BD]channel 7
 https://stream1.freetv.fun/e1d6524b55fcba77216f384960a9d665e49af8d4a74291da53293731363d049e.m3u8
-#EXTINF:-1 tvg-name="Channel 8" tvg-id="369820" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movies",[BD]channel 8 kurdish
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="369820" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movies",[HD]channel 8 kurdish
 https://stream1.freetv.fun/f79f944c6f37409c33e3c5e688d146de4333c0a8b1872d3721fb787504c5eda2.m3u8
 #EXTINF:-1 tvg-name="Channel V HD" tvg-id="" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222742976801_49.png" group-title="Entertainment",[BD]channelv
 https://stream1.freetv.fun/77a21a5151073158af47fd5176324d7455541ae4797966d55b4e20b0ca3ee115.m3u8
@@ -811,7 +809,7 @@ https://stream1.freetv.fun/2b01ddcd39e1a12428128bcc63b0e9a76463d57a9e59f8348b27a
 https://stream1.freetv.fun/bf63b9fd10efa62adfc3ca17a3232706fedf788e893d200d18bd0d23565a9159.ctv
 #EXTINF:-1 tvg-name="City TV" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/14/large/20220414154904496870_95.png" group-title="Generic",[BD]lnktv city
 https://stream1.freetv.fun/c3fe1f682e042507a4532e236db240ca312d1c9d3c420a0d5d4d068bf14f3ff8.m3u8
-#EXTINF:-1 tvg-name="Classic Movies" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/19/20140519075921354843_41.png" group-title="Movies",[VGA]tvs classic movies
+#EXTINF:-1 tvg-name="Classic Movies" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/19/20140519075921354843_41.png" group-title="Movies",[SD]tvs classic movies
 https://stream1.freetv.fun/6c4a90739d03d298600e12221137b0edada1acf8069832b7ba9b469bb99451cf.m3u8
 #EXTINF:-1 tvg-name="Clubbing TV" tvg-id="5771" tvg-country="Israel" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174803292147_74.png" group-title="Entertainment",[HD]clubbing tv
 https://stream1.freetv.fun/5918a8ac49bbc5a8dd18a587f178325c8dfc02d4607d62479c7fb81e59d5e888.m3u8
@@ -885,6 +883,8 @@ https://stream1.freetv.fun/9240f7418eeaa2331e0749ecf17946efda4c5160477130ab8a4fb
 https://stream1.freetv.fun/041990d54e58bad8316c0900a38a8f0da575519ef5ad2ad2e32fd95becfbef28.m3u8
 #EXTINF:-1 tvg-name="Deluxe Music" tvg-id="" tvg-country="Germany" tvg-language="German" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613202258799759_56.png" group-title="Entertainment",[HD]deluxe music lounge extra
 https://stream1.freetv.fun/00c67e31a77ccd66391300e8f0fd6c69eb923596437068da1264d436de50c8b1.m3u8
+#EXTINF:-1 tvg-name="Diario" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020456304001_82.png" group-title="Generic",[HD]tv diario
+https://stream1.freetv.fun/48ec3d736708755ce9ea873fb95e3d694930ec1e6050f16f49cf6453156de709.ctv
 #EXTINF:-1 tvg-name="DidikTV KPM" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2021/10/25/large/20211025105432162350_17.png" group-title="Kids",[BD]didiktv kpm
 https://stream1.freetv.fun/7240b77d44f1378dc63ab89484fd949be7a8210a73959c1157e67bab6a92dc08.m3u8
 #EXTINF:-1 tvg-name="Dijlah" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174601163962_10.png" group-title="News",[BD]dijlah tv
@@ -973,7 +973,7 @@ https://stream1.freetv.fun/b0071b71c41630a04047123536e6962a5a90e7996838637297146
 https://stream1.freetv.fun/5bb8e56c5d246aafe8f979ef229250c578cf09a37a73d2bc9fda00ec22286237.m3u8
 #EXTINF:-1 tvg-name="ESPN" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304234949121822_43.png" group-title="Sports",[HD]espn
 https://stream1.freetv.fun/1feb00c8dfa4f135e1f00a93533eeaca5650c3b96c647d96e729008e13833d5e.m3u8
-#EXTINF:-1 tvg-name="ESPN 2" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/11/14/large/20201114212523756889_54.png" group-title="Sports",[HD]espn brasil 2
+#EXTINF:-1 tvg-name="ESPN 2" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/11/14/large/20201114212523756889_54.png" group-title="Sports",[VGA]espn brasil 2
 https://stream1.freetv.fun/061f3e34ba5e80ee6d1ff538e495724cfbe5a3daff59c289972f8186855ec50f.ctv
 #EXTINF:-1 tvg-name="EST TV" tvg-id="" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175046544857_64.png" group-title="News",[BD]qwest tv
 https://stream1.freetv.fun/9a73117bd031f37453f3f6040d12176f8efc1c4c50c3925a9f1ba3abb57c9e72.m3u8
@@ -1353,6 +1353,8 @@ https://stream1.freetv.fun/83df10561ac292161c5a39406bc77f1edb4d2bbf9e4965fb97544
 https://stream1.freetv.fun/d646822df568b55085a3bdab446e015423a44f24757baeb3c731c7139a6cc8a3.m3u8
 #EXTINF:-1 tvg-name="India TV" tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163757283506_37.png" group-title="News",[HD]india tv
 https://stream1.freetv.fun/1c972b4b8618d0c1577ad3d8f96a60274168c3cd7e2067f951dd297224f82b97.m3u8
+#EXTINF:-1 tvg-name="Indosiar" tvg-id="171847" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/images/channel/2022/11/25/large/20221125163852938017_36.png" group-title="Generic",[SD]indosiar
+https://stream1.freetv.fun/5e25257489456675f27dd05d89910576272ebd5a4ff9d2a408d6cdd5744b4ca5.ctv
 #EXTINF:-1 tvg-name="Inet TV" tvg-id="" tvg-country="Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2022/12/24/large/20221224163613116034_96.jpeg" group-title="Entertainment",[BD]diyanet tv
 https://stream1.freetv.fun/296765e221a7abdbf2e60528671f6d70dd6641dea5cd1a8b3ff5e43dfd3c20b8.m3u8
 #EXTINF:-1 tvg-name="Investigation Discovery" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/11/large/20220411222823732042_44.png" group-title="Knowledge",[BD]investigation
@@ -1449,6 +1451,8 @@ https://stream1.freetv.fun/a992b263d211da0f7c57121aabb62e549492fdc255e3abaef655a
 https://stream1.freetv.fun/221588d3d9848ec699889f662f06cceb1c21e700c829e1ddd20dffe4ebeca471.ctv
 #EXTINF:-1 tvg-name="Kanal 3 Eskisehir Türkiye" tvg-id="" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="https://epg.pw/media/" group-title="Generic",[BD]kanal 3
 https://stream1.freetv.fun/dcf2729260ed84ef2a40cf28bcb15798da82e42ffe2cce9edc6a1dae7988d719.m3u8
+#EXTINF:-1 tvg-name="Kanal 32 Türkiye" tvg-id="" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="https://epg.pw/media/" group-title="Generic",[HD]kanal 32
+https://stream1.freetv.fun/d8741b55e833a4748b5662e4779d25f14736871fc7fb0fc00f26a32336121904.ctv
 #EXTINF:-1 tvg-name="Kanal 5 Plus Macedonia" tvg-id="" tvg-country="Macedonia" tvg-language="Macedonian" tvg-logo="https://epg.pw/media/" group-title="Generic",[HD]sos kanal plus
 https://stream1.freetv.fun/486470584a891ea66f028a1da37addc5bff7d75a890edb9e2f6a77b13d92749b.m3u8
 #EXTINF:-1 tvg-name="Kanal 7 Avrupa (TR)" tvg-id="" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174049247040_79.png" group-title="Generic",[BD]kanal 7
@@ -1924,7 +1928,7 @@ https://stream1.freetv.fun/d27214d113d78d9fba88ede35e978b4bfaea67070bca5676f10cc
 #EXTINF:-1 tvg-name="PRIMEtime" tvg-id="" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/04/29/large/20220429222547123972_13.PNG" group-title="Movies",[BD]crime time
 https://stream1.freetv.fun/75d1b67ac4ad9445eab18dbaf587a87fb5498807cb1206ea3ed9587b4613cab9.m3u8
 #EXTINF:-1 tvg-name="PTV WORLD" tvg-id="" tvg-country="Pakistan" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/22/20160122193747231587_42.png" group-title="News",[BD]tvp world
-https://stream1.freetv.fun/4cd2deb99160048f11698f2e35ff56c9fbd3efb30878617aa750ba785896ca6a.ctv
+https://stream1.freetv.fun/f4706bb592e7346fdb56740cdf9e18634cb9eba7cf6ab290bec89b76162c99d1.ctv
 #EXTINF:-1 tvg-name="PUBLIC TV" tvg-id="" tvg-country="India" tvg-language="فارسی" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175017403710_81.png" group-title="Generic",[HD]wcgtv public
 https://stream1.freetv.fun/6c92ca335c680a8217b718c65552ebdf65d41182ef15b9e6bc07b9bbef1ab321.m3u8
 #EXTINF:-1 tvg-name="Palestine" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/25/20140825101959902543_83.jpg" group-title="News",[BD]palestine tv ᴴᴰ
@@ -2057,7 +2061,7 @@ https://stream1.freetv.fun/99cfaa4f3b4147f1864892345210da2996ff5dcdffc99b828275e
 https://stream1.freetv.fun/6b8b589718f2bd31ed94809abeb37c8257e38608d95dab9ab97fc21cb5787fa0.m3u8
 #EXTINF:-1 tvg-name="RTi" tvg-id="6257" tvg-country="Ukraine" tvg-language="Ukrainian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/18/20170218022902068072_16.png" group-title="Generic",[HD]rti 2
 https://stream1.freetv.fun/48e7521a13d72f6a4a656cd3af1ce01fc7f7f897cf2a59fae52979e53485d2ff.m3u8
-#EXTINF:-1 tvg-name="RU TV" tvg-id="" tvg-country="Russia" tvg-language="Русский" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/23/20140523215106359917_70.jpg" group-title="Other",[BD]ru tv
+#EXTINF:-1 tvg-name="RU TV" tvg-id="" tvg-country="Russia" tvg-language="Русский" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/23/20140523215106359917_70.jpg" group-title="Other",[HD]ru tv
 https://stream1.freetv.fun/c1c8be17a2cddec5dbdcf9bdbfbba88d1db90acd35c4dfaa805bc05537350e87.m3u8
 #EXTINF:-1 tvg-name="RUSSIA TODAY: GLOBAL" tvg-id="" tvg-country="Russia" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d626799cf2e4bf98042678da1de2e284.png" group-title="Other",[BD]俄国russiatoday
 https://stream1.freetv.fun/ddbecacaa798fb4b6ff9937c33f6759696780067d615c5410181b5fe520e929a.m3u8
@@ -2195,7 +2199,7 @@ https://stream1.freetv.fun/a6734f930d0f0ef65579f3406f6941510f2692d2daf088c2ba5cf
 https://stream1.freetv.fun/d914470c8cde0bbc180e79f50dc52727b08ab5b9312ec84d72f96e06d6f9632c.ctv
 #EXTINF:-1 tvg-name="STAR MOVIES HD" tvg-id="" tvg-country="India" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/02/large/20230602163754766966_23.png" group-title="Movies",[HD]star movies india
 https://stream1.freetv.fun/8e90ce3c8078667bcf5f6839657cfc7bd094f3b824ea7f0dbab23cbcfb71dde7.m3u8
-#EXTINF:-1 tvg-name="STUDIO UNIVERSAL" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Knowledge",[BD]studio universal
+#EXTINF:-1 tvg-name="STUDIO UNIVERSAL" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Knowledge",[HD]studio universal
 https://stream1.freetv.fun/9cd4f78ed67f68e3cebfafec0d291a3bfda93f793679f8cbadacfc4daa169185.ctv
 #EXTINF:-1 tvg-name="STV" tvg-id="9266" tvg-country="Turkey" tvg-language="Turkish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174752690075_12.png" group-title="Entertainment",[HD]istv
 https://stream1.freetv.fun/17df60c7176900a6638d68427be5484424b7de8bafdb2403e4c02a0b77a0239f.m3u8
@@ -2473,8 +2477,8 @@ https://stream1.freetv.fun/9661c84e2dae6a4ca54be8ab8c58a36421d7188483a80daaa1b8e
 https://stream1.freetv.fun/19eca1e84050fd7c296ecb69c7e0696a85d99a71874072ea60bc1930b6395817.m3u8
 #EXTINF:-1 tvg-name="TV 9" tvg-id="9557" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163809830170_51.png" group-title="Generic",[BD]dltv 9
 https://stream1.freetv.fun/0793c8963c12c5fcd194ba1ce3717445356da5dd8c4386e4d0ab10d9249a6c0b.m3u8
-#EXTINF:-1 tvg-name="TV ABCD" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015629458977_44.jpg" group-title="Generic",[HD]tvp abc
-https://stream1.freetv.fun/bc2b70dfbe4ae08183ff3eabf896e2d78b4285207540c907f5b591cccbfd0ed5.m3u8
+#EXTINF:-1 tvg-name="TV ABCD" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015629458977_44.jpg" group-title="Generic",[BD]tvp abc
+https://stream1.freetv.fun/542487a8dd115029542d4e25c0e246ceb8ea4e4263106921a38dc57a0b43ad14.ctv
 #EXTINF:-1 tvg-name="TV Anak Spacetoon" tvg-id="" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152223264999_39.png" group-title="Kids",[BD]spacetoon
 https://stream1.freetv.fun/e7538ba3ef158b5c8796ede528c28252cb404f9503b484f569661e9376fc1e3f.m3u8
 #EXTINF:-1 tvg-name="TV Aparecida" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174836266287_33.png" group-title="Generic",[BD]tv aparecida
@@ -2597,6 +2601,10 @@ https://stream1.freetv.fun/852ffae5e06dfa294e5c2dde5b5e3237522c142199e83e6e27969
 https://stream1.freetv.fun/1cc896e6796d4bea4a6eb3e0196f30458e5a64e11f514043032ffe60285b522f.m3u8
 #EXTINF:-1 tvg-name="TVP 2 Poland" tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/" group-title="Generic",[HD]tvp 2
 https://stream1.freetv.fun/68f1e07732767e66f62b648b557c4b4ac7d3a7af69bf074a7a6b51f063eedd2b.m3u8
+#EXTINF:-1 tvg-name="TVP Historia Poland" tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/" group-title="Knowledge",[BD]tvp historia
+https://stream1.freetv.fun/b749431f98b6fefb95aa854d16f10aee73a4bccb637bb5518db2efad11d1b764.ctv
+#EXTINF:-1 tvg-name="TVP Kultura Poland" tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/" group-title="Knowledge",[BD]tvp kultura
+https://stream1.freetv.fun/df3c96e13392da00d04fc946c23f9e6420d415239484e289dda73adbb74b0d2c.ctv
 #EXTINF:-1 tvg-name="TVP Seriale Poland" tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/" group-title="Movies",[BD]polsat seriale
 https://stream1.freetv.fun/d74e8f07e083c08092d044866cbda13272541ea86253e2e2d7086c140d1252c6.ctv
 #EXTINF:-1 tvg-name="TVP Sport Poland" tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/" group-title="Sports",[HD]tvp sport
@@ -2794,7 +2802,7 @@ https://stream1.freetv.fun/3618b85a2ba77a8ae6769334c7defbe990ebff20ece71db8873fe
 #EXTINF:-1 tvg-name="VTV1 HD" tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/images/channel/2018/03/15/large/20180315205810483529_91.png" group-title="News",[VGA]vtv1
 https://stream1.freetv.fun/b94afa1b87c0fcab6cccfe75e5b4e8dc1aaa5682a00eecc14cb2e438ea577fa9.m3u8
 #EXTINF:-1 tvg-name="VTV3" tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/images/channel/2015/12/23/large/20151223174700434539_61.png" group-title="Sports",[BD]vtv3
-https://stream1.freetv.fun/e4174833f09f720923d70de90bcf989e0f7362cf686d39917c3b7532d91230a6.ctv
+https://stream1.freetv.fun/201c02f4acada60fefb9e637c2c9478cba6dacbca99c8c74befcc65d8c830613.ctv
 #EXTINF:-1 tvg-name="VTV4" tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/images/channel/2022/06/02/large/20220602005046296608_53.jpg" group-title="Kids",[BD]vtv4
 https://stream1.freetv.fun/5470461ad9af414e1ddb443a00c3df6971b244338237698fa8f47211d87a235e.ctv
 #EXTINF:-1 tvg-name="VTV5" tvg-id="" tvg-country="Vietnam" tvg-language="Tiếng Việt" tvg-logo="https://epg.pw/media/" group-title="Generic",[BD]vtv5
@@ -3065,8 +3073,6 @@ https://stream1.freetv.fun/a3ca38fb91fd56e2343e6a7d81d5ffef159082e5490452af76110
 https://stream1.freetv.fun/921e3e06004a0a83a5d84a7b27e2adc6f858ddfddebc129adc6431a5eb1dd0da.m3u8
 #EXTINF:-1 tvg-name="Настоящее Время" tvg-id="45693" tvg-country="Russia" tvg-language="Russian" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601234920168591_85.png" group-title="Generic",[BD]настоящее время
 https://stream1.freetv.fun/a06ccabfa9bc691875bff38ec41b7d39be7c746a6e6078bd2e90e9ed15baf0ad.m3u8
-#EXTINF:-1 tvg-name="Наш Футбол Россия" tvg-id="" tvg-country="Russia" tvg-language="Русский" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/20/20150220200917914308_36.jpg" group-title="Sports",[SD]футбол
-https://stream1.freetv.fun/52e7724163104b9b6cd76f1b4ea36a2e098f6c8e1655de7d1a168c1becb3c1a0.m3u8
 #EXTINF:-1 tvg-name="О!" tvg-id="6695" tvg-country="Russia" tvg-language="Russian" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210221533264715_73.png" group-title="Kids",[SD]о!
 https://stream1.freetv.fun/0fa445b05889b613a4b798c3b23556c52952f960e54ec3e916bfa757e5aaf64a.m3u8
 #EXTINF:-1 tvg-name="ПРОСВЕЩЕНИЕ" tvg-id="7055" tvg-country="Russia" tvg-language="Русский" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174237220246_75.png" group-title="Knowledge",[SD]просвещение
@@ -3377,8 +3383,8 @@ https://stream1.freetv.fun/497dbc858ac950752aedd19e6ab943e3752516e9a937601969741
 https://stream1.freetv.fun/8596262d4deaa9e82de7276248b7b996d7f7c42f07ed5996e3daa8373a18a0ac.m3u8
 #EXTINF:-1 tvg-name="山东新闻" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2021/10/07/large/20211007154720908703_91.png" group-title="News",[BD]山东新闻
 https://stream1.freetv.fun/2b0d72ba144f3735a8ca03d1f10df1f52836738380603422e07aeba14daf1ae0.m3u8
-#EXTINF:-1 tvg-name="山东生活" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527215105239497_56.jpg" group-title="Generic",[BD]山东生活
-https://stream1.freetv.fun/4f53643c228eae0bab98a8827358ce7585c3fe13a9c409c87888788d56784b39.m3u8
+#EXTINF:-1 tvg-name="山东生活" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527215105239497_56.jpg" group-title="Generic",[SD]山东生活
+https://stream1.freetv.fun/78b52dd6e306fc85903331b0e9841f1d70469104d6fc7c86c7316f423ae18b93.m3u8
 #EXTINF:-1 tvg-name="山东综艺" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527215621636170_46.jpg" group-title="Entertainment",[BD]山东综艺
 https://stream1.freetv.fun/1d514768bc06c7e3b2f812082f0f89cadfef559f158bd25490af6ef0f107356b.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/12/06/large/20221206010643232132_38.jpg" group-title="Generic",[BD]山东卫视高清
@@ -3556,7 +3562,7 @@ https://stream1.freetv.fun/bc1f9566f50a11fe1459d1c4b36cfc4237c9c49dff7520abe1699
 #EXTINF:-1 tvg-name="永嘉新闻综合频道" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/img/logo/1_333.jpg" group-title="News",[BD]永嘉新闻综合频道
 https://stream1.freetv.fun/29fc67623c9edde852604acf8f0048e7162ad8dda10d4817ea61788ebd4ae7e5.m3u8
 #EXTINF:-1 tvg-name="求索纪录 " tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/07/10/large/20240710025851280055_26.png" group-title="Knowledge",[BD]求索纪录
-https://stream1.freetv.fun/ca7a2161e32c51b69025f99041dfccd2cb16223b2bbadf6f96874dd83a8fd210.m3u8
+https://stream1.freetv.fun/44c45dcee137e4e5f1a9ffab3fed99382bed4c4dab6937ec642e945621111004.m3u8
 #EXTINF:-1 tvg-name="汕头新闻综合" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/img/logo/3_53.jpg" group-title="News",[BD]包头新闻综合
 https://stream1.freetv.fun/d0c36c88a6f7cd3334f0b600aa9cabbf45ea00db1b13abd0380557230cc2c911.m3u8
 #EXTINF:-1 tvg-name="汕头经济生活" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/10/07/large/20231007180745847184_87.jpg" group-title="Generic",[BD]汕头经济
@@ -3664,7 +3670,7 @@ https://stream1.freetv.fun/a968f766a86c2a7690ca00cd8d3467ef79b4266675256e0e1f5b3
 #EXTINF:-1 tvg-name="湖北卫视" tvg-id="13889" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2017/01/08/large/20170108220858481970_23.jpg" group-title="Generic",[SD]湖北卫视
 https://stream1.freetv.fun/f159656e972aa17ba9ff4e974713a0f92b152108582d298455b0bed215d2427b.m3u8
 #EXTINF:-1 tvg-name="湖南公共" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/03/13/large/20240313190904311042_50.png" group-title="Generic",[BD]湖南公共
-https://stream1.freetv.fun/48f53022c7d3e51a964c67143c2f0e819af27ccbd80f771a8df6630df3bc8746.m3u8
+https://stream1.freetv.fun/91d38880ed7f6b1d5e559039e9a7270f24c02b7bf18052b9286de3056f82b9e7.m3u8
 #EXTINF:-1 tvg-name="湖南国际" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/26/large/20220526142404304642_26.jpg" group-title="Generic",[SD]湖南国际
 https://stream1.freetv.fun/df9356904fb6bf5b9fe45453a6278c22743f958cd2f8d2b8d4d6d21ac0c87235.ctv
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/26/large/20220526213508482612_20.jpg" group-title="Entertainment",[BD]湖南娱乐
