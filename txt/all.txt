@@ -1,12 +1,12 @@
 Movies,#genre#
-[BD]koogi_tv,https://stream1.freetv.fun/9b93d0788e1b40f89b49bdebb369395d74837fc46e10e607ed2759ec2043cd91.m3u8
+[HD]tv_novo_tempo,https://stream1.freetv.fun/27ff2fe9cf0c045f0acded455f8b701150be0743bc766f0f4d305df62ec2d4e1.m3u8
 [VGA]midpen_media_center_youth_education_and_sports_channel_28,https://stream1.freetv.fun/ed7c5fe3d16c23bcb8dc8dd08144b5dde4db4317fe94543ebf3932dc806b2d19.m3u8
 [BD]「河南」嵩县综合新闻,https://stream1.freetv.fun/03278433b264223d8f96057734cfe40edb11789c2b6d85b538d11acd8ed5d6ca.m3u8
 [BD]5_Star_Max,https://stream1.freetv.fun/fdffaf221183ebe69dd70e5e0aee48225ed116a6da8eed90b38632100ffb985a.ctv
 [BD]amc,https://stream1.freetv.fun/46ce80f4a4792f6b69fb3119e11a8f19439e9c1644ba66cd54a3e5128aa990c2.m3u8
 [HD]amc最爱电影,https://stream1.freetv.fun/364e21133ea43460bcc895be1f7ea000065de402ecc572f985178bd5a9bf51f7.m3u8
 [BD]amedia_hit,https://stream1.freetv.fun/ae26faf56060732d326d00bc581728b1d8e9e4c806f7db3903dfbcf8fbf6c44b.m3u8
-[HD]Astro_AOD,https://stream1.freetv.fun/5cd8ab965ce82159fd00fd089b181880b375c6c8fcf98a16449d301e96149ddc.ctv
+[HD]astro_aod,https://stream1.freetv.fun/7fceca26aed4fe7e827b059236d4e345b109ba6ff5a02e118af3b44f504758f0.ctv
 [SD]ASTRO_WARNA,https://stream1.freetv.fun/218ce5c78bca30086d24a8ba561898d4e4838107c2fe1d15d454c24c444a1cde.ctv
 [HD]axn,https://stream1.freetv.fun/f960fb1159da64498caa89659e220366fcc0942cac0cc7c3cb2a8fbf80bbe826.m3u8
 [SD].black,https://stream1.freetv.fun/31c81faa4960af27bfb35b69a257482101da5ba3c0c888268ac7fb7b961a61a7.m3u8
@@ -1605,7 +1605,7 @@ News,#genre#
 [HD]广州新闻,https://stream1.freetv.fun/ce2e7e6464d84e68227189b299f83de79aa8d1b15a86d04702efef31854356b2.m3u8
 [SD]广东新闻,https://stream1.freetv.fun/5967041297602d0e4e8668d827d50cc812930e8f6fe371169e5a9420545af2d0.m3u8
 [BD]广西新闻,https://stream1.freetv.fun/de96225e50d54fc90e9b91576bd78c81e9c2d2a0e92b1060e4a6a79e961cc5e7.m3u8
-[HD]德阳新闻综合,https://stream1.freetv.fun/7843b376e8a499362dd7976083efa7a2176f8c6b95908b1467bf170bdfe17c06.m3u8
+[HD]德阳新闻综合,https://stream1.freetv.fun/9a04d47b7df3b4cbcaebf6cc3982cb4f73a2b70e142e99f0cb79a110c9a6fbac.m3u8
 [BD]新野新闻综合频道,https://stream1.freetv.fun/d38dc6f5a0e5f98bc9d6a91e18a3f2b12d60a091e6b04dff0fc1bdc3c1109a55.m3u8
 [BD]晋城新闻,https://stream1.freetv.fun/b7f44c7cf0937773ca350ff513cb1bb9e8a89a1c39b4834fa72e6c41695ebcc5.m3u8
 [BD]潞城新闻综合,https://stream1.freetv.fun/e6d5a02e5f9477541dc4288662c8b5739c0c79144bee8b105b83b4b0e4327a34.m3u8

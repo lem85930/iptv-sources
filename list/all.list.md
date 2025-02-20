@@ -4,7 +4,7 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | [BD]koogi tv | stream1.freetv.fun | <https://stream1.freetv.fun/9b93d0788e1b40f89b49bdebb369395d74837fc46e10e607ed2759ec2043cd91.m3u8> |
+| 1 | [HD]tv novo tempo | stream1.freetv.fun | <https://stream1.freetv.fun/27ff2fe9cf0c045f0acded455f8b701150be0743bc766f0f4d305df62ec2d4e1.m3u8> |
 | 2 | [BD]「河南」内黄综合频道 | stream1.freetv.fun | <https://stream1.freetv.fun/69c05c4b0e803a52801e31e1d37b93cee6170d8e1fa90b7125e19254affe468c.m3u8> |
 | 3 | [BD]「河南」鹿邑新闻频道 | stream1.freetv.fun | <https://stream1.freetv.fun/b661bd82091c4215587adb9ddce8a518aa20e15dab50cf218d88f305edac7213.m3u8> |
 | 4 | [VGA]rt doc | stream1.freetv.fun | <https://stream1.freetv.fun/ebcf51ee0a34cfbe73d48661bd908e9d6c11c15528e68b863f21be54b0cd7bf7.m3u8> |
@@ -85,7 +85,7 @@
 | 79 | [BD]arb | stream1.freetv.fun | <https://stream1.freetv.fun/734ff43f16227fd3f78878b1aa7f512488e98fef4b945c01d276a0d08b9d4b51.m3u8> |
 | 80 | [HD]brt 1 | stream1.freetv.fun | <https://stream1.freetv.fun/c43a8fbf02ffc918abd59071a278ca10b7feccf988415c5d8efd2dc852c0d035.m3u8> |
 | 81 | [HD]ASSP4 | stream1.freetv.fun | <https://stream1.freetv.fun/f3eae673400190239e800979f176a608f3ed821b632baa8b94e09d05ffdae28c.ctv> |
-| 82 | [HD]Astro AOD | stream1.freetv.fun | <https://stream1.freetv.fun/5cd8ab965ce82159fd00fd089b181880b375c6c8fcf98a16449d301e96149ddc.ctv> |
+| 82 | [HD]astro aod | stream1.freetv.fun | <https://stream1.freetv.fun/7fceca26aed4fe7e827b059236d4e345b109ba6ff5a02e118af3b44f504758f0.ctv> |
 | 83 | [HD]ASTRO AWANI | stream1.freetv.fun | <https://stream1.freetv.fun/e09face6b8c0526ab9b52dd6f172682e8f4c80951700ab9a2a4b122d58cef6f2.ctv> |
 | 84 | [HD]ASTRO AURA | stream1.freetv.fun | <https://stream1.freetv.fun/ad4f66eb1f5e521207815797c2ca82c5903ca99329fed7e742eca840ec885e5d.ctv> |
 | 85 | [HD]ASTRO CERIA | stream1.freetv.fun | <https://stream1.freetv.fun/280d0b5419cd7d4924c5144a3600823c5439a87892806dd7baea883794dba6f9.ctv> |
@@ -1739,7 +1739,7 @@
 | 1733 | [SD]延边卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/2c315ffc8f8501d31b82a47f0e65c47661e4f9fb6e45a5d9026fe47fe0563dba.m3u8> |
 | 1734 | [HD]恐怖电影 | stream1.freetv.fun | <https://stream1.freetv.fun/04d6904c89dc9ca2af51673730730672638a4a9e72f9775618048a5331394b72.ctv> |
 | 1735 | [HD]Astro 爱奇艺 | stream1.freetv.fun | <https://stream1.freetv.fun/68a0773b96872ab0b6e5e8cc2a3343bfe190293fbcdd76ea1445c8595702bc7e.ctv> |
-| 1736 | [HD]德阳新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/7843b376e8a499362dd7976083efa7a2176f8c6b95908b1467bf170bdfe17c06.m3u8> |
+| 1736 | [HD]德阳新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/9a04d47b7df3b4cbcaebf6cc3982cb4f73a2b70e142e99f0cb79a110c9a6fbac.m3u8> |
 | 1737 | [BD]新疆卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/ff50600dd45b1b1656f2f7535c04f361a6e8c33606e19dbc9b0316bd173f9408.m3u8> |
 | 1738 | [BD]新野新闻综合频道 | stream1.freetv.fun | <https://stream1.freetv.fun/d38dc6f5a0e5f98bc9d6a91e18a3f2b12d60a091e6b04dff0fc1bdc3c1109a55.m3u8> |
 | 1739 | [BD]新乡县电视台 | stream1.freetv.fun | <https://stream1.freetv.fun/6cc7c99efefc3de2dcee1a92628db8facaf5ec8ccf3f2e36496cf3f412499a9f.m3u8> |
@@ -2008,4 +2008,4 @@
 | 2002 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2003 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Thu Feb 20 2025 14:19:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 20 2025 16:27:33 GMT+0000 (Coordinated Universal Time)**
