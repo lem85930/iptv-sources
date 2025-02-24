@@ -614,7 +614,7 @@
 | 608 | [BD]nh tv | stream1.freetv.fun | <https://stream1.freetv.fun/ace53939ae82fa9ade48d73c9ffad2d771697b9a4dd9fe7ecb7872a72527131b.ctv> |
 | 609 | [BD]tve 24 h | stream1.freetv.fun | <https://stream1.freetv.fun/c1a7f9a3a5487a024d07c499341ff73da13f8a56660ac1b65625d99de11b1239.m3u8> |
 | 610 | [BD]hbo | stream1.freetv.fun | <https://stream1.freetv.fun/af6b81c69704e428f2bcb5f243cacf032289322bf4b989f5e3260f419a76ee94.m3u8> |
-| 611 | [HD]hbo 2 | stream1.freetv.fun | <https://stream1.freetv.fun/9efc1c10d3f4ab7f17862371c551d893b1a34b5e083f7f0c2af349add6bae14c.ctv> |
+| 611 | [BD]HBO 2 | stream1.freetv.fun | <https://stream1.freetv.fun/a468e42ce521cbf88cdb3705bee7429404af447b1dcf5eca5b451de14b4586a4.ctv> |
 | 612 | [HD]HBO 2 | stream1.freetv.fun | <https://stream1.freetv.fun/16f30aa1134076dcba4fd14aa1fca6ff7efdfa8af66813f6aaecb7d574603e96.ctv> |
 | 613 | [BD]hbo 3 | stream1.freetv.fun | <https://stream1.freetv.fun/982291b2502b763d85dc26d8ee5d002d0a5ab27cefae092e2d0770d32b2b34e9.ctv> |
 | 614 | [BD]HBO Comedy | stream1.freetv.fun | <https://stream1.freetv.fun/29450b9ca5dc0b3093a86873e3f7271fce7ad6e7e7cb57d6851279392aa7df9e.ctv> |
@@ -1320,7 +1320,7 @@
 | 1314 | [HD]teletoon | stream1.freetv.fun | <https://stream1.freetv.fun/37f0c699be072890c13ec865237fc705d7bd632991afd353eacfe88ece499e55.m3u8> |
 | 1315 | [BD]teletoon plus | stream1.freetv.fun | <https://stream1.freetv.fun/76abe68738a412502b4f621cc727fd4e2af9fd166fe6c39917d0e7219c03cb50.ctv> |
 | 1316 | [HD]telecine action | stream1.freetv.fun | <https://stream1.freetv.fun/a2a6e31f7b0580f038d7e4bd3ea663e59c0b6c27ed171deaed4bf62680d4ec05.ctv> |
-| 1317 | [VGA]telecine cult | stream1.freetv.fun | <https://stream1.freetv.fun/43a2f2ab6c7c66b0deaedd8ae08fefe5af3ce94addc78b62e22f9f536625c1cb.m3u8> |
+| 1317 | [BD]telecine cult | stream1.freetv.fun | <https://stream1.freetv.fun/7c8132ec2816ed3eb5b83a52fe6dca1c3646651efecadada6e3990e76d58b7e9.ctv> |
 | 1318 | [HD]telecine pipoca | stream1.freetv.fun | <https://stream1.freetv.fun/cd1359a33bd484c7e9e50bf9a2e3bafc5bc54a379f1c48f9aabf2399f35d00ed.ctv> |
 | 1319 | [VGA]telecine premium | stream1.freetv.fun | <https://stream1.freetv.fun/0ac2cd0906485e97d6e400336504d013f3a95a96b6a66c824f91e53e2fb2542f.m3u8> |
 | 1320 | [BD]telemax | stream1.freetv.fun | <https://stream1.freetv.fun/5a3ca6db586c34793ec73a5b885c4e35b4419a07befc0608396068531c6e13ca.m3u8> |
@@ -1994,4 +1994,4 @@
 | 1988 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 1989 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Mon Feb 24 2025 10:23:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Feb 24 2025 12:41:35 GMT+0000 (Coordinated Universal Time)**
