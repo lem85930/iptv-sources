@@ -2009,4 +2009,4 @@
 | 2003 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2004 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Tue Feb 25 2025 12:41:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Feb 25 2025 14:20:08 GMT+0000 (Coordinated Universal Time)**
