@@ -6289,6 +6289,7 @@ RFPtv_(360p),https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
 RHT_Guadeloupe_(720p),https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
 RLV_TV_(720p)_[Not_24/7],https://tv.mundostreaming.cl:3083/live/radiolatinavzlalive.m3u8
 Rock_TV_(720p),https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+Rotana_FM_KSA_(720p),rtmp://live.restream.io/pull/play_320121_94512612fd0e084bd284
 RTL_Today_Radio_(720p),https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
 RTV_Vida_(1080p),https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 RU_TV,https://hls-03-video.webcaramba.com/rutv/live.m3u8
@@ -6540,7 +6541,9 @@ Al_Jazeera_(1080p),https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
 Al_Jazeera_Balkans_(1080p),https://live-hls-apps-ajb-v3-fa.getaj.net/AJB/index.m3u8
 Al_Jazeera_Documentary_(1080p),https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
 Al_Jazeera_English,https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+Al_Jazeera_Mubasher_24_(1080p),https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 Al_Jazeera_Mubasher_(1080p),https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
+Al_Jazeera_Mubasher_Broadcast_2_(1080p),https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
 Al_Mamlaka_TV_(1080p),https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
 Al_Manar_(576p)_[Not_24/7],https://edge.fastpublish.me/live/index.m3u8
 Al_Masar_TV_(576p),https://starmenajo.com/hls/almasar/index.m3u8
