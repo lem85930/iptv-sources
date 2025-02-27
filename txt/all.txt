@@ -12,7 +12,7 @@ Movies,#genre#
 [SD]axn_black,https://stream1.freetv.fun/3c1a97510eb65f750dda2daaf6ab816fc538f79c5fd33d49c12d6930f4d633fc.ctv
 [HD]urban_movies,https://stream1.freetv.fun/a0d074c3f0eba4c90676cabd68eb4f038bfdd3d5fb127acf09e76d2565574f9e.m3u8
 [HD]axn_white,https://stream1.freetv.fun/54f83eed7ea3845b6157d4656a33c106c75337699e3051e05204f4c2e455e1f5.m3u8
-[HD]ACTION_MAX,https://stream1.freetv.fun/d1dc2e6c79e619b324fa487fff87c993798a5948e01e4b185baf16a44ac91861.ctv
+[BD]ACTION_MAX,https://stream1.freetv.fun/d1dc2e6c79e619b324fa487fff87c993798a5948e01e4b185baf16a44ac91861.ctv
 [BD]cinema_hd,https://stream1.freetv.fun/04bbc79af90fdea63c4f4557d4e9810d7df53d9525cf22356a28248dc7557e6f.m3u8
 [HD]astro_premier_league_1,https://stream1.freetv.fun/73ba163fe6fed4d7ed4e532bc315ad3fecd42e08020f3bb1ed8fe6c4b71ffa2c.ctv
 [HD]Astro欢喜台,https://stream1.freetv.fun/3688dbee8066d795945ffe9cbd82e2c3a1e5fa180a65c2b95e5e3ab957a46ebe.ctv
@@ -182,7 +182,7 @@ Movies,#genre#
 [BD]佛山影视,https://stream1.freetv.fun/4e733a28668128f906f9bf39d8f4bf79b100e9705729da9b3ec5ea6f0ab01bb1.ctv
 [BD]八大戏剧,https://stream1.freetv.fun/c7f872f6da5871c2bf37d3829e4aed2fc681e8f29d9b0f5bda748557979171c0.m3u8
 [HD]刘德华,https://stream1.freetv.fun/145828181728c436be98d67db1031e0e8a7154dfbc7d8357d607be9ad585a268.ctv
-[HD]哆啦a梦,https://stream1.freetv.fun/677ecb8f3ae4eceba19d13d7315d5a4b59987b87fbd8197f72ce1d2538a99e88.ctv
+[VGA]哆啦a梦,https://stream1.freetv.fun/677ecb8f3ae4eceba19d13d7315d5a4b59987b87fbd8197f72ce1d2538a99e88.ctv
 [VGA]哈尔滨影视,https://stream1.freetv.fun/27ca757fe87af150a2076d7f659619d05a24d65e3656f9a85c93a162adf7ab1c.m3u8
 [BD]四川影视文艺,https://stream1.freetv.fun/725078e0cd94d4317254909335711d242eba8dd2618a3cbac4af4de410284b62.ctv
 [SD]天映经典,https://stream1.freetv.fun/b14f188cf1a82fc7cf93a65ddde6971b6a502577029f3fc887e13e045033bc7b.ctv
@@ -1381,7 +1381,7 @@ News,#genre#
 [BD]bbc_news,https://stream1.freetv.fun/d9844cdaa8036a441e0b685103f523e98faf804094e0cf7bc7e96ed029b0ddc5.m3u8
 [BD]bbc_news,https://stream1.freetv.fun/0b6b9ae49ca9bf24e6fa0060f1be139ab3668ad367afa02fa5e7407c6eebddb4.m3u8
 [VGA]bbc_news_uk,https://stream1.freetv.fun/df3ccaf2408f48a849a29c91023046f5c7d7f7b49746975ddead3f77a80bbadb.m3u8
-[HD]BBC_World_News,https://stream1.freetv.fun/625b361eddb79d264b3c69da50ce07de64d239d9091bdd9f124cefd4ce4f7148.ctv
+[VGA]BBC_World_News,https://stream1.freetv.fun/625b361eddb79d264b3c69da50ce07de64d239d9091bdd9f124cefd4ce4f7148.ctv
 [BD]bbs,https://stream1.freetv.fun/7eb0bfb8b3d75a510ccbb0750f876f174ebd948a90664b2f619defaa938652da.m3u8
 [BD]BERITA_SATU,https://stream1.freetv.fun/723b9b8e408d0a29ffa0db6b18f30728c4c151a30d6f362b729f4f060dc52fdd.ctv
 [SD]BERNAMA,https://stream1.freetv.fun/f1b8f5cc4446f637213ebdc017450a5406621e23e237657c6468969d504a22da.ctv

@@ -100,7 +100,7 @@
 | 94 | [BD]abu dhabi sports 1 | stream1.freetv.fun | <https://stream1.freetv.fun/d1cb0db48c2afe8653234684c5e7ea96aeda55e5e757b0625afb99f60d48c4eb.m3u8> |
 | 95 | [BD]accuweather now | stream1.freetv.fun | <https://stream1.freetv.fun/f759f28b75b4d16914bc935859d299ee8ae44a86bd4d7b9a0785e442a86ce06c.m3u8> |
 | 96 | [VGA]action | stream1.freetv.fun | <https://stream1.freetv.fun/67f0b9d6e3391028b3e948a0c4f51225a7eac4bad6f29722c56b7c1114e653e7.m3u8> |
-| 97 | [HD]ACTION MAX | stream1.freetv.fun | <https://stream1.freetv.fun/d1dc2e6c79e619b324fa487fff87c993798a5948e01e4b185baf16a44ac91861.ctv> |
+| 97 | [BD]ACTION MAX | stream1.freetv.fun | <https://stream1.freetv.fun/d1dc2e6c79e619b324fa487fff87c993798a5948e01e4b185baf16a44ac91861.ctv> |
 | 98 | [HD]live tv | stream1.freetv.fun | <https://stream1.freetv.fun/5016ecdf25a13561aa885c4ecbd403d39dc4a64d78a04354981f1294f1420b9d.m3u8> |
 | 99 | [BD]afarin tv | stream1.freetv.fun | <https://stream1.freetv.fun/5f1c63e5090e5452424d658a2b20291d034d60d0fb76d8878cc825ee2f4df29f.m3u8> |
 | 100 | [SD]aflak | stream1.freetv.fun | <https://stream1.freetv.fun/58f8237823115aa4a4afe83703820366544a824ba9b3f5cd103836a2012c67b0.m3u8> |
@@ -201,7 +201,7 @@
 | 195 | [VGA]bbc news uk | stream1.freetv.fun | <https://stream1.freetv.fun/df3ccaf2408f48a849a29c91023046f5c7d7f7b49746975ddead3f77a80bbadb.m3u8> |
 | 196 | " tvg-id="" tvg-country="Iran" tvg-language="فارسی" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/18/20160118205636517119_29.jpg" group-title="News",[BD]mbc persia | stream1.freetv.fun | <https://stream1.freetv.fun/329f1553f78b90ad0ffb7622997aec003ef35f3a59fbd1ed733c61175eb2e25d.m3u8> |
 | 197 | [BD]BBC 2 | stream1.freetv.fun | <https://stream1.freetv.fun/6170b7a7acb609d4ff934489c07df30ad36aa954082e64b915392b3a378c22ee.ctv> |
-| 198 | [HD]BBC World News | stream1.freetv.fun | <https://stream1.freetv.fun/625b361eddb79d264b3c69da50ce07de64d239d9091bdd9f124cefd4ce4f7148.ctv> |
+| 198 | [VGA]BBC World News | stream1.freetv.fun | <https://stream1.freetv.fun/625b361eddb79d264b3c69da50ce07de64d239d9091bdd9f124cefd4ce4f7148.ctv> |
 | 199 | [BD]bbs | stream1.freetv.fun | <https://stream1.freetv.fun/7eb0bfb8b3d75a510ccbb0750f876f174ebd948a90664b2f619defaa938652da.m3u8> |
 | 200 | [BD]tvsn beauty | stream1.freetv.fun | <https://stream1.freetv.fun/396eecdd5391a444d47d1fe7f4c03e7e66ca31bbe108dfafaddf7613145bf82e.m3u8> |
 | 201 | [BD]BERITA SATU | stream1.freetv.fun | <https://stream1.freetv.fun/723b9b8e408d0a29ffa0db6b18f30728c4c151a30d6f362b729f4f060dc52fdd.ctv> |
@@ -1657,7 +1657,7 @@
 | 1651 | [BD]台视新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/d8108ac365f78a8a9a4987c625b145350ea69a0572ff6d74bb721820f2420525.m3u8> |
 | 1652 | [SD]吉林卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/657b3cc8f2106d0e0b52d0bc7f0e15db544b37b3e86bf5f486f351b9db61fa2e.m3u8> |
 | 1653 | [BD]名侦探柯南 | stream1.freetv.fun | <https://stream1.freetv.fun/3710efd8cc1ff57be57c545bac0240a43c776df32338262f0896d033783a1859.ctv> |
-| 1654 | [HD]哆啦a梦 | stream1.freetv.fun | <https://stream1.freetv.fun/677ecb8f3ae4eceba19d13d7315d5a4b59987b87fbd8197f72ce1d2538a99e88.ctv> |
+| 1654 | [VGA]哆啦a梦 | stream1.freetv.fun | <https://stream1.freetv.fun/677ecb8f3ae4eceba19d13d7315d5a4b59987b87fbd8197f72ce1d2538a99e88.ctv> |
 | 1655 | [SD]哈哈炫动 | stream1.freetv.fun | <https://stream1.freetv.fun/85aec22da72dbb69d4271fbde70b929f467b7d1b7c3c21639939b3d7865a00ac.m3u8> |
 | 1656 | [VGA]哈尔滨娱乐 | stream1.freetv.fun | <https://stream1.freetv.fun/2fc35c833b23774263a95e84dac67fd36e5f21101d7e3fcb72318ef7a1c6bb23.m3u8> |
 | 1657 | [VGA]哈尔滨影视 | stream1.freetv.fun | <https://stream1.freetv.fun/27ca757fe87af150a2076d7f659619d05a24d65e3656f9a85c93a162adf7ab1c.m3u8> |
@@ -2023,4 +2023,4 @@
 | 2017 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2018 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Thu Feb 27 2025 01:40:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 27 2025 02:54:20 GMT+0000 (Coordinated Universal Time)**
