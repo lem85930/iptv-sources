@@ -29,7 +29,7 @@
 | 23 | [HD]乌克兰2x2ukraine | stream1.freetv.fun | <https://stream1.freetv.fun/fde6a28b0fbb9fc42b7123155379322b723fa5e766f55d61e47582782f56bdff.m3u8> |
 | 24 | [HD]3abn kids | stream1.freetv.fun | <https://stream1.freetv.fun/853cd0122ef7607b1d2a8f8b528d1821078dae6bd9a0fb00413c688b967f3588.m3u8> |
 | 25 | [BD]yemen shabab | stream1.freetv.fun | <https://stream1.freetv.fun/40e2ea7943f886978654b89a17e3a407fd48c0d42730437d3329bbdac351f51a.ctv> |
-| 26 | [HD]sur noticias andalucía | stream1.freetv.fun | <https://stream1.freetv.fun/9db0f5c695236903cf3ad86a9caea483824990463555befd3828f592ce8a201c.m3u8> |
+| 26 | [BD]rt noticias hd | stream1.freetv.fun | <https://stream1.freetv.fun/28b0b1f01f4122abbef2222a5158e645bf4731022d615d76f4693afec8415551.m3u8> |
 | 27 | [HD]minimini+ | stream1.freetv.fun | <https://stream1.freetv.fun/789cf2058e8bf6a29700c137d6d0eba943c6c29c94c82ac09d0ec0646d84dcc7.m3u8> |
 | 28 | [BD]5 Star Max | stream1.freetv.fun | <https://stream1.freetv.fun/98229be570570fe6bf72cc71d22123e4a7407585e5864d1876c443e3b390ddc4.ctv> |
 | 29 | [SD]5 Star UK | stream1.freetv.fun | <https://stream1.freetv.fun/aa4d8ab9edba932fad0712a8d8ce3433647160f6e7f5966031886fc7d54db50c.ctv> |
@@ -1312,12 +1312,12 @@
 | 1306 | [HD]tele pavia | stream1.freetv.fun | <https://stream1.freetv.fun/4bce9cef64e8a05f92547ffc37deb3e49b8307732209b7778d60cd4d9e4ac14f.m3u8> |
 | 1307 | [HD]teletoon | stream1.freetv.fun | <https://stream1.freetv.fun/37f0c699be072890c13ec865237fc705d7bd632991afd353eacfe88ece499e55.m3u8> |
 | 1308 | [HD]telecine action | stream1.freetv.fun | <https://stream1.freetv.fun/0dc938f4c85b80b0dd4ef6999e5e091acc1de28fd234e331c49a22afd0c56d01.ctv> |
-| 1309 | [BD]telecine cult | stream1.freetv.fun | <https://stream1.freetv.fun/7c8132ec2816ed3eb5b83a52fe6dca1c3646651efecadada6e3990e76d58b7e9.ctv> |
+| 1309 | [VGA]telecine cult | stream1.freetv.fun | <https://stream1.freetv.fun/43a2f2ab6c7c66b0deaedd8ae08fefe5af3ce94addc78b62e22f9f536625c1cb.m3u8> |
 | 1310 | [BD]telecine pipoca | stream1.freetv.fun | <https://stream1.freetv.fun/cd1359a33bd484c7e9e50bf9a2e3bafc5bc54a379f1c48f9aabf2399f35d00ed.ctv> |
 | 1311 | [VGA]telecine premium | stream1.freetv.fun | <https://stream1.freetv.fun/0ac2cd0906485e97d6e400336504d013f3a95a96b6a66c824f91e53e2fb2542f.m3u8> |
 | 1312 | [BD]telemax | stream1.freetv.fun | <https://stream1.freetv.fun/5a3ca6db586c34793ec73a5b885c4e35b4419a07befc0608396068531c6e13ca.m3u8> |
 | 1313 | [BD]telemax | stream1.freetv.fun | <https://stream1.freetv.fun/38a215a01875bc3f18bb01ed4873d107ec0d3cbc7c15db6e28e1534f6f2fd16e.m3u8> |
-| 1314 | [BD]nbcu telemundo west | stream1.freetv.fun | <https://stream1.freetv.fun/d1586e6ddf157514e418d786dbe2fdc6903eab4d4addeb916ae94ac8c6dc44be.m3u8> |
+| 1314 | [BD]telemundo florida | stream1.freetv.fun | <https://stream1.freetv.fun/62dc663a6d703a6ad8b342562db2c0fb233d8c127d1a0bc89c13efd71215ee10.m3u8> |
 | 1315 | [SD]telepace trento | stream1.freetv.fun | <https://stream1.freetv.fun/3886a5955687756d3dfb3f4c314618d0a475df31e165b5fa276cefe48bd74f10.m3u8> |
 | 1316 | [BD]tvpacifico | stream1.freetv.fun | <https://stream1.freetv.fun/d559545292636e85b25011cf5367eb407452055b48c80b25f733cf4656432d51.m3u8> |
 | 1317 | [VGA]teleticino | stream1.freetv.fun | <https://stream1.freetv.fun/ef505f9bdb77b1cfee5a063184f92491de57ae2736f8a29d4a756087138a11fa.m3u8> |
@@ -1976,4 +1976,4 @@
 | 1970 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 1971 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Fri Feb 28 2025 16:26:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Feb 28 2025 18:28:57 GMT+0000 (Coordinated Universal Time)**
