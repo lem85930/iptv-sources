@@ -3904,6 +3904,7 @@ Barinas_TV_(720p)_[Not_24/7],https://vcp13.myplaytv.com/barinastv/barinastv/play
 Bayon_TV,https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
 Bayres_TV_(720p),https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 BBC_Alba_(720p),https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.mpd
+BBC_One,https://x.canlitvapp.com/u-bbc-1/index.m3u8
 BBC_One_Channel_Islands_(720p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/pc_hd_abr_v2.mpd
 BBC_One_East_Midlands_(720p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/pc_hd_abr_v2.mpd
 BBC_One_East_Yorkshire_(720p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.mpd
@@ -3922,6 +3923,7 @@ BBC_One_Yorkshire_&_Lincolnshire_(1080p),http://92.114.85.72:8000/play/a0mp
 BBC_Scotland_(1080p),http://92.114.85.72:8000/play/a0mf
 BBC_Three_HD_(720p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
 BBC_Toronto_Gaunda_Punjab_(720p)_[Not_24/7],http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+BBC_Two,https://x.canlitvapp.com/u-bbc2/index.m3u8
 BBC_Two_HD_(720p),https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd
 BBC_Two_Northern_Ireland_HD_(720p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_hd_abr_v1.mpd
 BBC_Two_Wales_(720p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_hd_abr_v1.mpd
