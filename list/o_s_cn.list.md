@@ -521,4 +521,4 @@
 | 515 | CHC Action | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 516 | CHC Home Theater | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Fri Mar 07 2025 10:22:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 07 2025 12:40:39 GMT+0000 (Coordinated Universal Time)**
