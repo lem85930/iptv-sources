@@ -843,7 +843,7 @@
 | 837 | [BD][美国]oan plus (1080p) | stream1.freetv.fun | <https://stream1.freetv.fun/864d92211e7f0ea0991e95bd404e2dc574575477daac99c2089560d9aacac9a7.m3u8> |
 | 838 | [SD]open tv | stream1.freetv.fun | <https://stream1.freetv.fun/4118854a74810fabece4f05ee0cb6aa1c306bebbf896fcb1afe51318b87385b9.m3u8> |
 | 839 | [HD]one 31 | stream1.freetv.fun | <https://stream1.freetv.fun/a7dea70ed254e90ddc9d7f09dd08e17f20bbf313e226fe3070b0c458f3b18cb0.m3u8> |
-| 840 | [BD]one | stream1.freetv.fun | <https://stream1.freetv.fun/0ce09f3108f77b3f63dc9cefc1c956d9a8999004b473dff75e4765957e945c9a.m3u8> |
+| 840 | [HD]zee one | stream1.freetv.fun | <https://stream1.freetv.fun/b4de0cbe70ec3e6a246e970d7d351d56d4cf99b61b2c4efe78769c816469504a.m3u8> |
 | 841 | [HD]coral tv | stream1.freetv.fun | <https://stream1.freetv.fun/4dd4ead07dd65f8377d7543281bd19c99637ad8ccc7405d4a9a170c1824e3d7c.m3u8> |
 | 842 | [HD]ora news | stream1.freetv.fun | <https://stream1.freetv.fun/1b1c47bddbc8addff2a5bc4cd4becda67fbbae575cb4c00030bf94e46bd3ff72.m3u8> |
 | 843 | [SD]orf 1 | stream1.freetv.fun | <https://stream1.freetv.fun/e133a64e7a23ec0e6b248fbc727da8f57e67f2ce85c71aafff677c29b514980e.m3u8> |
@@ -1046,7 +1046,7 @@
 | 1040 | [HD]sporting tv | stream1.freetv.fun | <https://stream1.freetv.fun/737a5044bd79f878ce9f280bc41857a019e6cc8a43628b00c3ce2541292e2dce.ctv> |
 | 1041 | [HD]lsn - lax sports network | stream1.freetv.fun | <https://stream1.freetv.fun/ce0c8495db4aa92e6d6a3fbbb2fb5acaaaa4dd8bb1701ea32362f7d363335755.m3u8> |
 | 1042 | [SD]sportsnet new york | stream1.freetv.fun | <https://stream1.freetv.fun/c9f46561df0866067438f972927c6ac6d891d2acdac8ac5fcbe58dcd8bc7feae.m3u8> |
-| 1043 | [BD]ca-sportsnet | stream1.freetv.fun | <https://stream1.freetv.fun/7d6f02ef9f01d9e4698899569dc8944e03225ecf5fe4e22c15ed4e04b35dd20b.ctv> |
+| 1043 | [HD]ca-sportsnet | stream1.freetv.fun | <https://stream1.freetv.fun/7d6f02ef9f01d9e4698899569dc8944e03225ecf5fe4e22c15ed4e04b35dd20b.ctv> |
 | 1044 | [SD]ช่อง star 2 | stream1.freetv.fun | <https://stream1.freetv.fun/61a586671dad13b933372fdecdfcb0ed223e27cce75a1b87506562966072eafa.m3u8> |
 | 1045 | [SD]ช่อง star 3 | stream1.freetv.fun | <https://stream1.freetv.fun/07a624bc9fbfad54cf60e181013f01e7629620e643e76ba52a938f61a01ac6e2.m3u8> |
 | 1046 | [BD]star | stream1.freetv.fun | <https://stream1.freetv.fun/30b0a85cfe3bc1f14f58e67de96dd617654f5f95c9e37100b216edc84bfe01f2.m3u8> |
@@ -1856,4 +1856,4 @@
 | 1850 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 | 1851 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sun Mar 09 2025 18:21:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Mar 09 2025 20:19:44 GMT+0000 (Coordinated Universal Time)**
