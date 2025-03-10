@@ -189,7 +189,7 @@
 | 183 | [BD]bbs | stream1.freetv.fun | <https://stream1.freetv.fun/7eb0bfb8b3d75a510ccbb0750f876f174ebd948a90664b2f619defaa938652da.m3u8> |
 | 184 | [BD]tvsn beauty | stream1.freetv.fun | <https://stream1.freetv.fun/396eecdd5391a444d47d1fe7f4c03e7e66ca31bbe108dfafaddf7613145bf82e.m3u8> |
 | 185 | [VGA]BERNAMA | stream1.freetv.fun | <https://stream1.freetv.fun/46999d3318aee3bd03bfad091c7f9e486030024b0f7bc4b72673baf98a73c4e4.ctv> |
-| 186 | [BD]bet | stream1.freetv.fun | <https://stream1.freetv.fun/f1ffadad9f59c53481dd143353cd696dbaf856186d80c0bd3cb2cf12fd9b5166.m3u8> |
+| 186 | [HD]bet | stream1.freetv.fun | <https://stream1.freetv.fun/f1ffadad9f59c53481dd143353cd696dbaf856186d80c0bd3cb2cf12fd9b5166.m3u8> |
 | 187 | [HD]法国bfmbusiness | stream1.freetv.fun | <https://stream1.freetv.fun/403ab7a5509213ee2112eaaf211d8581a160a84a591c91972d67c9239232e489.m3u8> |
 | 188 | [BD]bfm tv | stream1.freetv.fun | <https://stream1.freetv.fun/198aac046c1bb029a84469a7159598ee7d1c736bf68a4ca20aa87af22993f8d0.m3u8> |
 | 189 | [HD]BOO | stream1.freetv.fun | <https://stream1.freetv.fun/00edd03daa7e0a360dac988c54483dc52838ce9e3e8a036e9e4e308f8f19f6a3.ctv> |
@@ -257,7 +257,7 @@
 | 251 | [BD]asharq documentary | stream1.freetv.fun | <https://stream1.freetv.fun/6533e4430f9a9db4767409224aa980b2cb4c8b58deaa849c12ca4b6e644d448d.m3u8> |
 | 252 | [BD]cctv1 | stream1.freetv.fun | <https://stream1.freetv.fun/5bbc3404506a5bf8c5acf95d0ffb4d15166cfb11ba4ba1c3546e0c8665be81ee.m3u8> |
 | 253 | [BD]cctv1 | stream1.freetv.fun | <https://stream1.freetv.fun/eb34cc1175588b215eacbca08c8c6093bb646935ec08439562699224fc308389.m3u8> |
-| 254 | [BD]cctv10 | stream1.freetv.fun | <https://stream1.freetv.fun/9ff529699f3b6a0d5a7f0aae87d4944817ba39cc804d10262699252a5a624bf2.m3u8> |
+| 254 | [SD]cctv10 | stream1.freetv.fun | <https://stream1.freetv.fun/eda703fff53e38655071972d02dbb7b599faa57b720e828bd35d8db2f4dff147.m3u8> |
 | 255 | [SD]cctv11 | stream1.freetv.fun | <https://stream1.freetv.fun/616b4d014e0a73846bdb9ddddfdd777f9e0f2c132b2e00e12ad171e2081b0dbb.m3u8> |
 | 256 | [BD]cctv12 | stream1.freetv.fun | <https://stream1.freetv.fun/606785673559b89523ae9a7b643efa266ff08386ce678c2a204216cc78c3efdd.m3u8> |
 | 257 | [VGA]cctv13 | stream1.freetv.fun | <https://stream1.freetv.fun/f2306dc938a374481649dfb8c0cd797ab83abfaf988502de3b6d40a6ce6afdb0.ctv> |
@@ -1855,4 +1855,4 @@
 | 1849 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 | 1850 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Mon Mar 10 2025 12:42:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Mar 10 2025 14:21:05 GMT+0000 (Coordinated Universal Time)**
