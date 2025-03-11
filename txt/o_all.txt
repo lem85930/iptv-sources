@@ -5120,7 +5120,6 @@ On4_TV_(1080p),https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
 Öncü_TV_(1024p)_[Not_24/7],https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8
 Onda_Algeciras_TV_(576p),https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 Onda_Cádiz_24h_(720p),https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
-Onda_Gran_Canaria_(720p),https://live.cloudhostservers.com:3473/stream/play.m3u8
 Onda_Madrid_(720p),https://tvradio-1-23-secure2.akamaized.net/master.m3u8
 Onda_Novara_TV_(720p)_[Not_24/7],https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
 Onda_TV_(568p),https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8
@@ -5138,7 +5137,7 @@ Open_TV_(576p),http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/h
 Opinião_Play_TV_(360p),https://livefocamundo.com:8081/opiniaoplay/index.m3u8
 Orange_TV3,https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/cityoforange/G1025_004/playlist.m3u8
 ORBIT_TV_(480p)_[Not_24/7],https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-ORF_1_HD_(720p),https://s6.hopslan.com/orfx12/index.m3u8?token=cf047287f41e1ab2866bf517eb314b80f26ea1c4-9d0c133dedf3dd368c452f391b3bc18c-1733949261-173393
+ORF_1_HD,https://s6.hopslan.com/orfx1/index.m3u8
 ORF_2_(720p),https://strm.hdtvizlecanli.com/live/orf2.m3u8
 Oromar_TV_(720p),https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 Oroszlányi_Városi_Televízió_(720p),https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
@@ -5285,7 +5284,7 @@ RiversideTV_(Riverside_CA)_(720p),https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/rive
 Roma_TV_82_(576p),https://streaming.softwarecreation.it/RomaCH71/RomaCH71/playlist.m3u8
 ROS_TV-Krant_(1080p),https://server-67.stream-server.nl:1936/RosTVkrant/RosTVkrant/playlist.m3u8
 Rossini_TV_(720p),https://5cbd3bc28341f.streamlock.net:444/rossinitv_live/944A-63A6-9EB8-4492/playlist.m3u8
-Roya_TV_(1080p),https://roya.daioncdn.net/royatv/royatv.m3u8?app=8c1e143a-39cf-40b4-acb2-e78faa1f322d
+Roya_TV_(1080p)_[Not_24/7],https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 RPL_TV_Woerden_(720p),https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8
 RTA_(1080p),https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/index.m3u8
 RTB_Aneka_(720p),https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
@@ -9118,7 +9117,7 @@ Dubai_Sports_3_(1080p)_[Not_24/7],https://dmitwlvvll.cdn.mgmlcdn.com/dubaisports
 Dunia_Games_TV_(720p)_[Not_24/7],https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8
 EDGEsport_(1080p),https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 Egg_Network_(720p),http://210.210.155.37/uq2663/h/h22/index.m3u8
-Eleven_Sports_1_(1080p),http://109.233.89.166/Eleven_Sports_1_HD/index.m3u8
+Eleven_Sports_1_(2160p),http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/20068/index.m3u8
 Eleven_Sports_2_(1080p),http://109.233.89.166/Eleven_Sports_2_HD/index.m3u8
 Eleven_Sports_3_(1080p),http://109.233.89.166/Eleven_Sports_3_HD/index.m3u8
 Eleven_Sports_4_(1080p),http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
@@ -9352,7 +9351,6 @@ IDTV_(720p)_[Not_24/7],https://b1world.beritasatumedia.com/Beritasatu/B1World_ma
 IDX_Channel_(720p),http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch389)/index.m3u8
 Job_Plus_TV_(한국직업방송)_(480p),http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 JOB_TV_(720p),https://jobtvvideo.space/hls/stream/index.m3u8
-Krolus_TV_(1080p),https://vcnkrolustv.teleosmedia.com/linear/krolustv/krolustv/playlist.m3u8
 NDTV_Profit,https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.smil/playlist.m3u8
 Negocios_TV_(1080p),https://streaming013.gestec-video.com/hls/negociostv.m3u8
 NW_Economie_(576p),https://hls.newworldtv.com/nw-economie/video/live.m3u8
