@@ -117,7 +117,7 @@
 | 111 | [VGA]al eshraq tv | stream1.freetv.fun | <https://stream1.freetv.fun/8c32b44dc0b614b741608685ee5c55cfb25208229fe5aa15f283605ad27c18fb.m3u8> |
 | 112 | [BD]kanal hayat | stream1.freetv.fun | <https://stream1.freetv.fun/d7d3fa00547a8619e34ea4d17f8844d42cb1ee7081b17a8a084c172e7ba80dcf.m3u8> |
 | 113 | [HD]alhurra hd | stream1.freetv.fun | <https://stream1.freetv.fun/4a5e028db9cde85efd3c9c0d3bf1c3732167e0a1073ac17eef798b6ac392b343.ctv> |
-| 114 | [BD]al jazeera | stream1.freetv.fun | <https://stream1.freetv.fun/0a4a9c47cef792d723f62f3e91fb093077503e2ba79a6841d589b7d903f5f613.m3u8> |
+| 114 | [BD]al jazeera | stream1.freetv.fun | <https://stream1.freetv.fun/af16e13fc555e081b6dd57deec887d2dd12f2ccc23a6cf4c9e66eacf044c0a11.ctv> |
 | 115 | [SD]al jazeera mubasher | stream1.freetv.fun | <https://stream1.freetv.fun/3332c3a20133c0e985a527c76c2f20c7d212dfb817bf76773c78cc7d92138918.m3u8> |
 | 116 | [HD]al maaref | stream1.freetv.fun | <https://stream1.freetv.fun/faa6c2c49c0c07983cea1f10a8d39eb87f59f8b29b6608272b83e6cb77751e89.m3u8> |
 | 117 | [BD]al hadath tv | stream1.freetv.fun | <https://stream1.freetv.fun/4a4e61705e618c363e7973af3ad8bf1cdfbc660122c8ba00183dc344c52d6e5b.m3u8> |
@@ -1889,4 +1889,4 @@
 | 1883 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 | 1884 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Thu Mar 13 2025 10:23:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Mar 13 2025 12:42:24 GMT+0000 (Coordinated Universal Time)**
