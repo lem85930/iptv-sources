@@ -565,7 +565,7 @@
 | 559 | [SD]hope channel ukraine | stream1.freetv.fun | <https://stream1.freetv.fun/0fbf02e10d0b2c2552072539b8f98d3a3bfa13314ad99d587909edf07a0cad2f.m3u8> |
 | 560 | [HD]ช่อง horse and country | stream1.freetv.fun | <https://stream1.freetv.fun/98cf2f34227b4791009af41499ed931656b1f7542c5b329ca6d9432421b2a0e7.m3u8> |
 | 561 | [VGA]th hòa bình | stream1.freetv.fun | <https://stream1.freetv.fun/34e03eb9be3f1c43498209837476ad8757495f904f9bacf941a838c60a7e04db.m3u8> |
-| 562 | [BD]th hải phòng | stream1.freetv.fun | <https://stream1.freetv.fun/73a7cf50b6c0af97765aa6a17b881cae6c17a2582ce74fec4d69ad2f00509d84.m3u8> |
+| 562 | [BD]th hải phòng | stream1.freetv.fun | <https://stream1.freetv.fun/1a2d6afbe7eb2ede332deaecea1a23e8302f3a554fff1a62e8bf20f80657da27.m3u8> |
 | 563 | [HD]hau giang tv | stream1.freetv.fun | <https://stream1.freetv.fun/48d28b877b445ddd9e61982467916fb29aefe24724b4b2ecd9688878d7ab2faa.m3u8> |
 | 564 | [HD]24news | stream1.freetv.fun | <https://stream1.freetv.fun/b912ef09ab8d466371d4a34ef00df6f156f81e382a4281fba65cf7b3e4d404cb.m3u8> |
 | 565 | [BD]kicctv | stream1.freetv.fun | <https://stream1.freetv.fun/3574f320893e3f7bf4652b7066483089c11d0b149e1896134bd2122184096e97.m3u8> |
@@ -1817,4 +1817,4 @@
 | 1811 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 | 1812 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sat Mar 15 2025 02:53:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 15 2025 04:24:04 GMT+0000 (Coordinated Universal Time)**
