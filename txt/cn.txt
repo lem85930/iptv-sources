@@ -294,7 +294,7 @@
 [BD]杭州影视,https://stream1.freetv.fun/53763b0d97a4c3d8b05f3594d97cca031bf67df7ca29b52a626c24de7d985c1a.ctv
 [BD]东方影视,https://stream1.freetv.fun/9d3c9f7982bce6a6d8c61dee6b3533032537b84c1312b8bf2613be972edfc0df.m3u8
 [BD]神乐欧美影院,https://stream1.freetv.fun/e63cf46b65619eae78d56e63ab312f63fd3f0b8bb7cd094fbd7fd38ac9279cc1.ctv
-[VGA]武汉电视剧,https://stream1.freetv.fun/453349f87c7f953c1def3cb52e7a9312505eed5ed2fbaa97d9b928c3f582d392.m3u8
+[BD]武汉电视剧,https://stream1.freetv.fun/9326d683f7021092180933125ed82537eda4ad6db06ba780ff5b13b39704c1a0.m3u8
 [VGA]江苏影视,https://stream1.freetv.fun/3509a815e44cd426a5105ed642bb3b9929eea20b8c837aece1b4857550b09a9d.ctv
 [HD]洪金宝,https://stream1.freetv.fun/09a25a0227844d2df97417f469ffb19e19135c10df2bf93b4eaf8f46205fc19b.ctv
 [BD]湖北影视,https://stream1.freetv.fun/2cff0ac8920a3f759df9b980086acc49ff4a320df2241bd90fe8dc5ad836b2f8.m3u8
@@ -342,7 +342,7 @@
 [SD]先锋乒羽,https://stream1.freetv.fun/2fee76669bfcda8fd05cfb4cff2c0481c0d06d8473505d01a65234aa0e906b8e.ctv
 [BD]山东体育,https://stream1.freetv.fun/7662bf20ec19b22bc26a118f1918354e92b986fc3ad7e2a76884fac7791e0021.m3u8
 [HD]广州竞赛,https://stream1.freetv.fun/c3217266cc75ed76bb805aee90e67ad0b53075de724f41e687f3c0c8d4bcd4a1.m3u8
-[BD]广东体育,https://stream1.freetv.fun/e05d674500d8dcf73754cb11d4dcd8ef9e88f287888a1b71fd0766e90963db66.m3u8
+[BD]广东体育,https://stream1.freetv.fun/3864d41a409cbbbd8579e4ec03eb47e6cf65b15f5cae7c3cd44ccd4b9991a017.m3u8
 [BD]广东体育,https://stream1.freetv.fun/3bd56485c5f0d9c62b5c864695794e1ef946b46de7c1468e56ac2d4a12e1970d.ctv
 [SD]枣庄新闻,https://stream1.freetv.fun/e5dfbeb8bdf03f4724db2f355f694bfa52345faef500b52714dc4b6fd6438c59.m3u8
 [VGA]武汉文体,https://stream1.freetv.fun/f12f0f6fe516fc0e2e605252ced4d3e23fc6ce64aaaf5dd0141711b490ef109e.m3u8
