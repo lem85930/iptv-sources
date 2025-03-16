@@ -3791,6 +3791,7 @@ Aksu_TV_(720p),https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playl
 AKTV_(720p),https://e.siar.us/live/aktv.m3u8
 Al_Ahad_TV,http://63b03f7689049.streamlock.net:1935/live/7/playlist.m3u8
 Al_Aqsa_Channel_(416p)_[Not_24/7],http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
+Al_Dafrah_TV_(720p),https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/streams/dbb8ac05-a020-784c-3a95-6ed027941532.m3u8
 Al_Iraqia_(720p),https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 Al_Ittihad_(552p)_[Not_24/7],http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
 Al_Khalij_(720p)_[Not_24/7],https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
