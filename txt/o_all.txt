@@ -492,8 +492,8 @@ Cine_¡¡jaja!!,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitc
 Cine_Clásico,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28fb2aae-fcc1-4b39-a190-1ac70222ae41
 Cine_en_Espanol_(720p),https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-klowdtvus/playlist.m3u8
 Cine_Estrella_(1080p),https://apollo.production-public.tubi.io/live/ac-cine-estrella.m3u8
-Cinemax_2_(1080p),http://109.233.89.166/CINEMAX_2_HD/index.m3u8
-Cinemax_(1080p),http://109.233.89.166/CINEMAX_HD/index.m3u8
+Cinemax_2_(1080p),http://195.189.60.33:9013/play/a009
+Cinemax_(1080p),http://195.189.60.33:9012/play/a006
 Cinevault_Classics_(540p),https://gsn-cinevault-classics-1-us.roku.wurl.tv/playlist.m3u8
 Cinevault_Murder_and_Mayhem_(540p),https://gsn-cinevault-70s-2-us.roku.wurl.tv/playlist.m3u8
 CineView,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
@@ -1597,7 +1597,6 @@ Radio_Touch_TV_(480p),https://mediacpstreamchile.com:1936/8118/8118/playlist.m3u
 Radio_Tributo_Valentina_(720p),https://vdochile.com:3385/hybrid/play.m3u8
 Radio_TV_Neuquén_(720p)_[Not_24/7],https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 Radio_Veronica_(270p),https://radioveronica.prd1.talpatvcdn.nl/a1115cc610fd42418e2f6d7e29a01c3c/index.m3u8
-Radio_y_Televisión_Martí_(720p),https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
 Radio_Yaqeen_Jordan_City_View_(1080p)_[Not_24/7],http://45.63.116.205/hls4/stream1.m3u8
 Radio_Zeta_TV_(480p),https://unlimited1-cl.dps.live/radioztv/radioztv.smil/playlist.m3u8
 Rai_1_(720p),https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
@@ -5223,6 +5222,7 @@ Radio_Télévision_Shilo_(720p)_[Not_24/7],https://watch.haitilive.net/freehb/rt
 Radio_televizija_Rožaje_(614p)_[Not_24/7],https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8
 Radio_TV_Basse-Terre_(720p),https://vdo.ssl-stream.com:3412/stream/play.m3u8
 Radio_Uno_PST_(720p),https://master.tucableip.com/pstbolivia/video.m3u8
+Radio_y_Televisión_Martí_(720p),https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
 Radiocanal_San_Francisco_(1080p),http://204.199.3.2/.m3u8
 Rákosmente_TV_(720p),http://rakosmentetv.hu:8080/hls/rmtv.m3u8
 Raly_TV_(720p),https://cloudvideo.servers10.com:8081/8072/index.m3u8
@@ -5496,6 +5496,7 @@ Televizija_M_(1080p),https://live.tv-m.net/hls/stream.m3u8
 Telewizja_Jaslo_(720p),https://cdn01.sesja.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8
 Telewizja_Lubań_(720p)_[Not_24/7],http://stream.herissons.cloud/hls/tvluban.m3u8
 Temiscaming-Kipawa_Community_Television,https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvctklive.m3u8
+TeN_(720p),https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 Tenarenses_TV_(720p)_[Not_24/7],https://vdo2.streamgato.us:3305/live/tenarensestvrdlive.m3u8
 TEVEKA_(1080p)_[Not_24/7],https://www.teveka.net:8443/show/teveka/index.m3u8
 TFM_(720p),http://69.64.57.208/tfm/playlist.m3u8
