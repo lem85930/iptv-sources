@@ -958,7 +958,7 @@
 | 952 | [BD]roya music | stream1.freetv.fun | <https://stream1.freetv.fun/b168655df9d8445109cb6cbe18f5b28bd8ce6fc94f0f6efa1368aab92de5be1a.m3u8> |
 | 953 | [HD]garuda tv | stream1.freetv.fun | <https://stream1.freetv.fun/1ba04fa8dbf9c76346ce0f0c37c54cca2cf1e6b0a8f3eea1271c4c9f200069bd.m3u8> |
 | 954 | [HD]runtime | stream1.freetv.fun | <https://stream1.freetv.fun/f95eb3a5ea681b079d2fbd34204eb43d2a30f761e9d775fcfd34bdac0788a067.m3u8> |
-| 955 | [BD]russia today | stream1.freetv.fun | <https://stream1.freetv.fun/49d434d880a98ebcd90a8c803756c85721f7590f66239522d0f7410d2b87b4fd.m3u8> |
+| 955 | [BD]usa today | stream1.freetv.fun | <https://stream1.freetv.fun/ef54ed2d78c35cc5ad988ee2b43327c62990f51b50aba7cae4fe516b153691ea.m3u8> |
 | 956 | [BD]ryan and friends | stream1.freetv.fun | <https://stream1.freetv.fun/7f3478c383fe1356c6f56f10244ae49383284610052b9a88e10df7cb82b8f0dd.m3u8> |
 | 957 | [BD]24 tv | stream1.freetv.fun | <https://stream1.freetv.fun/dd1d131b205c9bc6f273f759af896cd083b5140fe3a8d3431664c9ba32a5b8e3.m3u8> |
 | 958 | [SD]sabz | stream1.freetv.fun | <https://stream1.freetv.fun/d2193368030dfe4fe06048b04f080cbacf006a4ddb7af7799cbb71fd57635eca.m3u8> |
@@ -1046,7 +1046,7 @@
 | 1040 | [BD]sporting tv | stream1.freetv.fun | <https://stream1.freetv.fun/737a5044bd79f878ce9f280bc41857a019e6cc8a43628b00c3ce2541292e2dce.ctv> |
 | 1041 | [HD]lsn - lax sports network | stream1.freetv.fun | <https://stream1.freetv.fun/ce0c8495db4aa92e6d6a3fbbb2fb5acaaaa4dd8bb1701ea32362f7d363335755.m3u8> |
 | 1042 | [SD]sportsnet new york | stream1.freetv.fun | <https://stream1.freetv.fun/c9f46561df0866067438f972927c6ac6d891d2acdac8ac5fcbe58dcd8bc7feae.m3u8> |
-| 1043 | [HD]ca-sportsnet | stream1.freetv.fun | <https://stream1.freetv.fun/7d6f02ef9f01d9e4698899569dc8944e03225ecf5fe4e22c15ed4e04b35dd20b.ctv> |
+| 1043 | [BD]ca-sportsnet | stream1.freetv.fun | <https://stream1.freetv.fun/7d6f02ef9f01d9e4698899569dc8944e03225ecf5fe4e22c15ed4e04b35dd20b.ctv> |
 | 1044 | [SD]ช่อง star 2 | stream1.freetv.fun | <https://stream1.freetv.fun/61a586671dad13b933372fdecdfcb0ed223e27cce75a1b87506562966072eafa.m3u8> |
 | 1045 | [SD]ช่อง star 3 | stream1.freetv.fun | <https://stream1.freetv.fun/07a624bc9fbfad54cf60e181013f01e7629620e643e76ba52a938f61a01ac6e2.m3u8> |
 | 1046 | [BD]star | stream1.freetv.fun | <https://stream1.freetv.fun/30b0a85cfe3bc1f14f58e67de96dd617654f5f95c9e37100b216edc84bfe01f2.m3u8> |
@@ -1762,7 +1762,7 @@
 | 1756 | [BD]泌阳新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/f503326abf80667038c137762490e29fa4ed48e0b602a48d12c775526f69308a.m3u8> |
 | 1757 | [BD]绵阳科技 | stream1.freetv.fun | <https://stream1.freetv.fun/471d1e1a5a8d3e5b1355b4734b8a642c4ff4ed21ef559bc5ec0e887a9f12f827.m3u8> |
 | 1758 | [BD]绵阳综合 | stream1.freetv.fun | <https://stream1.freetv.fun/0570b32b4f91623d130e4ee8b15edd7648a296fe2672c705ec5bd5c0dab2734b.m3u8> |
-| 1759 | [BD]纬来日本 | stream1.freetv.fun | <https://stream1.freetv.fun/3cd74587ba1c238ff02161b0be00701c89ca3a01ab27f78e3439a6a4acaebb9c.ctv> |
+| 1759 | [HD]纬来日本 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv771> |
 | 1760 | [HD]纬来育乐 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv701> |
 | 1761 | [BD]纬来电影 | stream1.freetv.fun | <https://stream1.freetv.fun/72eed2c8e30beebb70d7931478cf693b3e1c401ff3a17f11cd1e9e98f7d16ccd.ctv> |
 | 1762 | [HD]纬来体育 | f13h.mine.nu:1935 | <rtmp://f13h.mine.nu:1935/sat/tv721> |
@@ -1878,4 +1878,4 @@
 | 1872 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 | 1873 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Wed Mar 19 2025 06:30:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Mar 19 2025 08:28:50 GMT+0000 (Coordinated Universal Time)**
