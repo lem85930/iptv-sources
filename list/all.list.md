@@ -175,7 +175,7 @@
 | 169 | [HD]bbc news | stream1.freetv.fun | <https://stream1.freetv.fun/0b6b9ae49ca9bf24e6fa0060f1be139ab3668ad367afa02fa5e7407c6eebddb4.m3u8> |
 | 170 | " tvg-id="" tvg-country="Iran" tvg-language="فارسی" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/18/20160118205636517119_29.jpg" group-title="News",[BD]mbc persia | stream1.freetv.fun | <https://stream1.freetv.fun/329f1553f78b90ad0ffb7622997aec003ef35f3a59fbd1ed733c61175eb2e25d.m3u8> |
 | 171 | [BD]bbc two | stream1.freetv.fun | <https://stream1.freetv.fun/ecc10d90d3bcaafe16427d8cac1980be17b75c4045921b679c2df50576c5ddf2.ctv> |
-| 172 | [BD]bbc two | stream1.freetv.fun | <https://stream1.freetv.fun/6505c398977daef8c5be3c73fe2acc499e95a7ede713015321b1fe627ec33192.m3u8> |
+| 172 | [SD]bbc two | stream1.freetv.fun | <https://stream1.freetv.fun/6505c398977daef8c5be3c73fe2acc499e95a7ede713015321b1fe627ec33192.m3u8> |
 | 173 | [HD]bbc world news | stream1.freetv.fun | <https://stream1.freetv.fun/0c526b6b6c7d124000ff47cd2e506418c37ad209e2314efd728a10a6084bd07b.m3u8> |
 | 174 | [SD]bbc one | stream1.freetv.fun | <https://stream1.freetv.fun/9cb9cfde1c6180ac324e6e65b268a05226cffe0386a40ab0f0cbdbee8202060f.m3u8> |
 | 175 | [BD]bbs | stream1.freetv.fun | <https://stream1.freetv.fun/7eb0bfb8b3d75a510ccbb0750f876f174ebd948a90664b2f619defaa938652da.m3u8> |
@@ -1808,4 +1808,4 @@
 | 1802 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 | 1803 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Thu Mar 20 2025 20:23:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Mar 20 2025 22:19:49 GMT+0000 (Coordinated Universal Time)**

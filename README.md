@@ -29,16 +29,16 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 
 | HTTP Protocol | URL | Auto-update Frequence | Latest Updated | IDC | Provider |
 | ------------- | --- | --------------------- | --- | --- | -------- |
-| https | <https://iptv.b2og.com> | per 2h | Thu Mar 20 2025 18:40:06 GMT+0000 (Coordinated Universal Time) | 腾讯云 | [GrandDuke1106](https://github.com/GrandDuke1106) |
+| https | <https://iptv.b2og.com> | per 2h | Thu Mar 20 2025 20:40:06 GMT+0000 (Coordinated Universal Time) | 腾讯云 | [GrandDuke1106](https://github.com/GrandDuke1106) |
 | https | <https://iptv.helima.net> | per 2.5h | Get Updated Failed: **TypeError: fetch failed** | Oracle | [DobySAMA](https://github.com/DobySAMA) |
-| https | <https://m3u.002397.xyz> | per 2h | Thu Mar 20 2025 20:02:52 GMT+0000 (Coordinated Universal Time) | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
-| https | <https://iptv.002397.xyz> | per 2h | Thu Mar 20 2025 20:03:09 GMT+0000 (Coordinated Universal Time) | Amazon | [Eternal-Future](https://github.com/Eternal-Future) |
+| https | <https://m3u.002397.xyz> | per 2h | Thu Mar 20 2025 22:02:48 GMT+0000 (Coordinated Universal Time) | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
+| https | <https://iptv.002397.xyz> | per 2h | Thu Mar 20 2025 22:03:11 GMT+0000 (Coordinated Universal Time) | Amazon | [Eternal-Future](https://github.com/Eternal-Future) |
 
 ## Channel
 
 | channel | url | list | count | isRollback |
 | ------- | --- | ---- | ----- | ---------- |
-| fanmingming/live ipv6 | [fmml_ipv6.m3u](/fmml_ipv6.m3u) <br> [fmml_ipv6.txt](/txt/fmml_ipv6.txt) | [List for fanmingming/live ipv6](/list/fmml_ipv6.list) | 102 | ✅ |
+| fanmingming/live ipv6 | [fmml_ipv6.m3u](/fmml_ipv6.m3u) <br> [fmml_ipv6.txt](/txt/fmml_ipv6.txt) | [List for fanmingming/live ipv6](/list/fmml_ipv6.list) | 142 | ✅ |
 | fanmingming/live itv | [fmml_itv.m3u](/fmml_itv.m3u) <br> [fmml_itv.txt](/txt/fmml_itv.txt) | [List for fanmingming/live itv](/list/fmml_itv.list) | 189 | ✅ |
 | fanmingming/live index | [fmml_index.m3u](/fmml_index.m3u) <br> [fmml_index.txt](/txt/fmml_index.txt) | [List for fanmingming/live index](/list/fmml_index.list) | 94 | ✅ |
 | YueChan-Live IPTV | [ycl_iptv.m3u](/ycl_iptv.m3u) <br> [ycl_iptv.txt](/txt/ycl_iptv.txt) | [List for YueChan-Live IPTV](/list/ycl_iptv.list) | 78 | - |
@@ -69,10 +69,10 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | 112114.xyz | [112114_xyz.xml](/epg/112114_xyz.xml) | - |
 | fanmingming/live | [fmml.xml](/epg/fmml.xml) | ✅ |
 | 51zmt.top | [51zmt.xml](/epg/51zmt.xml) | ✅ |
-| 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
-| 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
+| 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | ✅ |
+| 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | ✅ |
 
-Updated at **Thu Mar 20 2025 20:23:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Mar 20 2025 22:19:52 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
