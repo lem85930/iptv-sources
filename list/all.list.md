@@ -537,7 +537,7 @@
 | 531 | [SD]gulli | stream1.freetv.fun | <https://stream1.freetv.fun/eb0577ecb3910f57041cdec0ab9e80eae6b56503b578899c44e3d5a82944bc0c.m3u8> |
 | 532 | [BD]nh tv | stream1.freetv.fun | <https://stream1.freetv.fun/ace53939ae82fa9ade48d73c9ffad2d771697b9a4dd9fe7ecb7872a72527131b.ctv> |
 | 533 | [HD]tve 24 h | stream1.freetv.fun | <https://stream1.freetv.fun/c1a7f9a3a5487a024d07c499341ff73da13f8a56660ac1b65625d99de11b1239.m3u8> |
-| 534 | [BD]hbo 1 | stream1.freetv.fun | <https://stream1.freetv.fun/32a4dcff0fa69cb6b54e7bbb7b192c6169d595f2dd1d2fb76b3cec6f1898fb97.ctv> |
+| 534 | [SD]hbo | stream1.freetv.fun | <https://stream1.freetv.fun/419f7c8de2912e89d3b53b7f943c0c82a076fdf6846327e4911e8af9b5fd1d18.ctv> |
 | 535 | [BD]hbo 2 | stream1.freetv.fun | <https://stream1.freetv.fun/a58fb939e95a931316e724be4d8412e1732a30b732530fbe22358af1be2555fa.ctv> |
 | 536 | [SD]HBO 2 HD USA | stream1.freetv.fun | <https://stream1.freetv.fun/ac56b1d4f215554e0abedebc30b5610b897dca8db6492415cbe95a42b2017037.ctv> |
 | 537 | [HD]HBO 3 | stream1.freetv.fun | <https://stream1.freetv.fun/457d377c6c6e5645cecb657bc0a55ad85de34e756b9474c06a9a1f01e0ee5d21.ctv> |
@@ -1837,4 +1837,4 @@
 | 1831 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 | 1832 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Fri Mar 21 2025 18:29:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 21 2025 20:22:35 GMT+0000 (Coordinated Universal Time)**
