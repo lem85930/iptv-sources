@@ -853,7 +853,7 @@
 | 847 | [BD]news max | stream1.freetv.fun | <https://stream1.freetv.fun/8ec165265e4afdeb388d3a457aeae5ebfd02cca609f04d6c175fd0b5a041bed7.m3u8> |
 | 848 | [BD]next tv | stream1.freetv.fun | <https://stream1.freetv.fun/d162ba1fb4d54393dfdcaedefbd05cb2390ac5d417152f1da9b52a41a090c195.ctv> |
 | 849 | [SD]nick jr | IPv4 直链 | <rtmp://212.0.213.132//NickJr> |
-| 850 | [HD]Nick Jr | stream1.freetv.fun | <https://stream1.freetv.fun/b21db77b28ecee4d1fd5bdeba737ead0391a2d61f3e51a4e5efd6868479091bf.m3u8> |
+| 850 | [HD]Nick Jr | stream1.freetv.fun | <https://stream1.freetv.fun/1d5e3ac3e63af8049eb34680651d09db5b6a5402d78b9d68667ee701b794102f.ctv> |
 | 851 | [VGA]nickmusic usa | stream1.freetv.fun | <https://stream1.freetv.fun/08e0d07db205685600345e043a70cb849a716d27b47bd4e28c929fe48aad0e55.m3u8> |
 | 852 | [BD]NICKELODEON | stream1.freetv.fun | <https://stream1.freetv.fun/84fa582eebee77dbf3461f408b60bb91c54a14072e40c30e79d9fc600a47629c.ctv> |
 | 853 | [BD]nickelodeon | stream1.freetv.fun | <https://stream1.freetv.fun/d00d1dc91160c8b49dd0bc4d70f48ee7f72aa1118505048b16d5d26f6736bb56.ctv> |
@@ -1918,4 +1918,4 @@
 | 1912 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 | 1913 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Wed Mar 26 2025 18:30:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Mar 26 2025 20:24:00 GMT+0000 (Coordinated Universal Time)**
