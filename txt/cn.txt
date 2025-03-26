@@ -316,7 +316,7 @@
 [BD]湖南电视剧,https://stream1.freetv.fun/96d19f46ad618558dd39059a170b0e8d441b920843e4f7653f7b7a4a9e82985b.m3u8
 [SD]济南影视,https://stream1.freetv.fun/6406e602a97cac4f40cb83b2721e3e9f659119e68cd57bde0b3c91ee39946fd8.m3u8
 [BD]福建电视剧,https://stream1.freetv.fun/1357c2b6a3ca5af32ff688f9171fcb377137fb088268436bb49fa4f3854c2cea.m3u8
-[HD]绍兴文化影院,https://stream1.freetv.fun/69e2feb3fc54896357a380d344242de12ee1bd360a98ab33d465e8688593081e.m3u8
+[HD]绍兴文化影院,https://stream1.freetv.fun/096a591970c993bd6990d4f2924866f28d3908dd2dbf815c0eb11c491cdafac6.m3u8
 [HD]苏州电影娱乐信息,https://stream1.freetv.fun/fafde2e2ddce7ed44d060788cdfccda12ab98d779fb6b89eedf45b52f71bcb9d.m3u8
 [BD]辽宁影视剧,https://stream1.freetv.fun/c95dd728fdbfb30db14c894fcb29e18f20755506c2604a18f0df7b0a4be7845d.m3u8
 [SD]黑龙江影视,https://stream1.freetv.fun/ed65f969b7a9fcca505d890fc0dab811065f49e4700ae421ce73ea683ddc4d04.m3u8
