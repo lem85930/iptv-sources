@@ -185,7 +185,7 @@
 | 179 | [HD]ASTRO TVS | stream1.freetv.fun | <https://stream1.freetv.fun/a4bfb9d7ac656adf79e81f63129f56272370b91555ed4bf3f678aeec2e601aa8.m3u8> |
 | 180 | [HD]Astro Vaanavil | stream1.freetv.fun | <https://stream1.freetv.fun/514103bd19b847618403da3e38dac3dc897e664994862a1c3e2f366030117d54.ctv> |
 | 181 | [HD]Astro Kplus | stream1.freetv.fun | <https://stream1.freetv.fun/025ca1be42aaf6e0c71ee9d6d96b6ffd9dda6eb66fe46dd27a6eb004cddf45ab.ctv> |
-| 182 | [HD]Astro欢喜台 | stream1.freetv.fun | <https://stream1.freetv.fun/583d30e49ff97e2fb1bd33d23321b5949ae60312be6edeb70fed9f767b6cfa49.ctv> |
+| 182 | [HD]Astro欢喜台 | stream1.freetv.fun | <https://stream1.freetv.fun/6d027dc450d6bbbf7dc679b409d961d5d98ae7971a7af3ab1b47e53da37cdc2a.ctv> |
 | 183 | [HD]atlanta channel (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/b0518fe83cb68fa4ab6b5d85e747485e312545c26ad3b3d862c7d8126185a2c5.m3u8> |
 | 184 | [VGA]atomic tv | stream1.freetv.fun | <https://stream1.freetv.fun/85ddedaa475650ac306c30032de5f9083ed0ad1afe3fde086144f8c9926e77f2.m3u8> |
 | 185 | [BD]attica tv | stream1.freetv.fun | <https://stream1.freetv.fun/586f925d6316c961423641548f1a538525e046efed619681b1af728cd486a594.m3u8> |
@@ -1937,4 +1937,4 @@
 | 1931 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 | 1932 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Thu Mar 27 2025 18:30:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Mar 27 2025 20:23:26 GMT+0000 (Coordinated Universal Time)**

@@ -18,7 +18,7 @@ Movies,#genre#
 [BD]cinema_hd,https://stream1.freetv.fun/04bbc79af90fdea63c4f4557d4e9810d7df53d9525cf22356a28248dc7557e6f.m3u8
 [HD]Astro_Bollyone,https://stream1.freetv.fun/5428222457dd3c8d01793757ee15338b6f5c77a87d96c3bf43884de16aec2ea3.ctv
 [HD]Star_Vijay,https://stream1.freetv.fun/f87c1682967a4961c800e3b56b1137c3bc6563e664b2dae648dda45cc7ccb157.ctv
-[HD]Astro欢喜台,https://stream1.freetv.fun/583d30e49ff97e2fb1bd33d23321b5949ae60312be6edeb70fed9f767b6cfa49.ctv
+[HD]Astro欢喜台,https://stream1.freetv.fun/6d027dc450d6bbbf7dc679b409d961d5d98ae7971a7af3ab1b47e53da37cdc2a.ctv
 [SD]B4U_PLUS,https://stream1.freetv.fun/58f60f032d6be53e786e2ac1fd161c4c04034f93f841ebb8bc695e6103f9eac4.ctv
 [HD]bbc_first,https://stream1.freetv.fun/f9fcfe98b97535d5358234e7da46afa57c57dcbbe08ceaae1eba97469c11e18f.m3u8
 [HD]Boo,https://stream1.freetv.fun/0158e6fc0f482c8dd2b482154dc98fb8a762eea17aaac79a15a255a5af836009.ctv
