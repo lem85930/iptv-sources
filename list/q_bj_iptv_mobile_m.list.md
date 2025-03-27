@@ -1,4 +1,4 @@
-# List for **qwerttvv/Beijing-IPTV IPTV Mobile Multicast**(Rollback)
+# List for **qwerttvv/Beijing-IPTV IPTV Mobile Multicast**
 
 > M3U: [q_bj_iptv_mobile_m.m3u](/q_bj_iptv_mobile_m.m3u), TXT: [q_bj_iptv_mobile_m.txt](/txt/q_bj_iptv_mobile_m.txt)
 
@@ -132,4 +132,4 @@
 | 126 | 音乐现场 | IPv4 直链 | <rtp://228.1.1.151:4120> |
 | 127 | 魅力时尚 | IPv4 直链 | <rtp://228.1.1.86:9012> |
 
-Updated at **Thu Mar 27 2025 10:22:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Mar 27 2025 12:43:34 GMT+0000 (Coordinated Universal Time)**

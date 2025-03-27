@@ -80,7 +80,7 @@
 | 74 | [HD]南宁都市生活频道 | stream1.freetv.fun | <https://stream1.freetv.fun/b88dce93757224c81c0b7cff4b276be147011588c24712add4fdd9c6e6eb59d5.m3u8> |
 | 75 | [BD]苍南新闻综合频道 | stream1.freetv.fun | <https://stream1.freetv.fun/26867513b7f55113a68877d1621cb693f3a0215871841c667b1eb55924ebafa7.m3u8> |
 | 76 | [BD]浙江新昌新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/117353e7f349e9841ea7d79852cc8cb8fa4449dd2ddffa9bec27e2babfdba2f9.m3u8> |
-| 77 | [HD]德阳新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/9a0ac741c616714bd84f497d566c39f4ea76e9b1dbb23aa046eb25b8f43c556d.m3u8> |
+| 77 | [BD]原阳新闻综合频道 | stream1.freetv.fun | <https://stream1.freetv.fun/34035d18278d3b4ea7b4ed4f94547d75a3440e5f74490c99458d9e881c990bf2.m3u8> |
 | 78 | [BD]合肥新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/009308bf4ff056f22afa71c8357cabb37543048af60e63dafc2a48e80b914501.m3u8> |
 | 79 | [SD]吉林卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/657b3cc8f2106d0e0b52d0bc7f0e15db544b37b3e86bf5f486f351b9db61fa2e.m3u8> |
 | 80 | [SD]名侦探柯南 | stream1.freetv.fun | <https://stream1.freetv.fun/3710efd8cc1ff57be57c545bac0240a43c776df32338262f0896d033783a1859.ctv> |
@@ -225,7 +225,7 @@
 | 219 | [BD]浙江钱江 | stream1.freetv.fun | <https://stream1.freetv.fun/05082d9d7e248c0872f00e2454fe815dfdc1312302b79a06e6db7e3daeec1c51.m3u8> |
 | 220 | [SD]海南卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/468b29e1bee51764e3cf09ee70bf730e44aaeead942f39c43e9010e9da7b7a4a.m3u8> |
 | 221 | [BD]乌海新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/70f34e395a3ad3bed2026b85d131ce4c546c1a90efbace5bdd88fc3ae6c7e27b.m3u8> |
-| 222 | [BD]海峡卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/f950666569a200f63d8bb4aebd7066fdf3deb459c84302c13e3949d71c17df29.ctv> |
+| 222 | [BD]海峡卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/6952b14b453dab09ad0ecb007d59372a5e622003284eb3f834df48db2950d18a.ctv> |
 | 223 | [SD]海绵宝宝 | stream1.freetv.fun | <https://stream1.freetv.fun/c52fae8fe3884641e5d0da50955607c238a00c3a49cc7769984b398d55e2ffc5.ctv> |
 | 224 | [BD]深圳少儿 | stream1.freetv.fun | <https://stream1.freetv.fun/254931a5bba466de9fa6d177494e351bec65bb69fa7ba32b91e295d603e72d4c.m3u8> |
 | 225 | [SD]移动电视 | livein.gstv.com.cn | <rtmp://livein.gstv.com.cn/49048r/y72q36.flv> |
@@ -353,4 +353,4 @@
 | 347 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/a10b52e4c438586deca319570f445a4c9ebb6dea4ceb3b204f9bc9ae93fcbc58.m3u8> |
 | 348 | [HD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/dc07729bf522e7df81f1254e9bcd017dfd0d0b30bb423ff51d0a01156017a819.m3u8> |
 
-Updated at **Thu Mar 27 2025 10:22:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Mar 27 2025 12:43:33 GMT+0000 (Coordinated Universal Time)**
