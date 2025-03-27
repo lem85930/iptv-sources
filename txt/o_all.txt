@@ -2942,7 +2942,6 @@ WIS-DT2_(360p),https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
 WJAX-DT1_(1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
 WJXT_News4JAX_(Jacksonville_FL)_(720p),https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
 WJXX-DT1_(1080p),https://livevideo01.firstcoastnews.com/hls/live/2014550/elvs/live.m3u8
-WKAQ-DT1_(Telemundo_PR)_(1080p),https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 WKAQ-DT2_(Punto_2)_(720p),https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 WKYC-DT1_(1080p),https://livevideo01.wkyc.com/hls/live/2015504/elvs/live.m3u8
 WLNG_Radio_(410p)_[Not_24/7],http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
@@ -5717,6 +5716,7 @@ Willax_TV_(480p),http://190.2.212.209:8050/play/a0p1
 Williams_TV_(480p),http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 Wir24_TV_(1080p),https://edge14.vedge.infomaniak.com/livecast/ik:wir24tv_hms/manifest.m3u8
 WITN_22_(Wilmington_DE)_(1080p)_[Not_24/7],https://edge-f.swagit.com/live/wilmingtonde/smil:std-4x3-1-a/playlist.m3u8
+WKAQ-DT1_(Telemundo_PR)_(1080p),https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 WOW_TV_(576p)_[Not_24/7],https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 WPAA_TV_(Wallingford_CT)_(1080p),https://streams.helnix.com/autoHLS/ce3a40274f01c8fc/ce3a40274f01c8fc.m3u8
 Wtv_(720p)_[Not_24/7],https://live.obslivestream.com/wtv/index.m3u8
