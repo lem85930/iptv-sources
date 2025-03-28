@@ -1,4 +1,4 @@
-# List for **iptv.org stream China**(Rollback)
+# List for **iptv.org stream China**
 
 > M3U: [o_s_cn.m3u](/o_s_cn.m3u), TXT: [o_s_cn.txt](/txt/o_s_cn.txt)
 
@@ -522,4 +522,4 @@
 | 516 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 | 517 | Xizang TV Chinese | php.jdshipin.com | <http://php.jdshipin.com/xztv.php?id=ws> |
 
-Updated at **Fri Mar 28 2025 12:42:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 28 2025 14:20:30 GMT+0000 (Coordinated Universal Time)**
