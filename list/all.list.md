@@ -850,12 +850,12 @@
 | 844 | [BD]nova sport 1 | stream1.freetv.fun | <https://stream1.freetv.fun/c41a84732746b8ed1da93a4988ce3f08490cf47a9b180e26728ad5e48bbce29b.ctv> |
 | 845 | [HD]brt 2 | stream1.freetv.fun | <https://stream1.freetv.fun/72b1635ba318b2035d377401c84ee671f286697ca43494dad2ea67c9a2b608d4.m3u8> |
 | 846 | [SD]brt 3 | stream1.freetv.fun | <https://stream1.freetv.fun/970a95ac03fc8b67b8adc37b997b75c2c28d5d4b68e1e744b24822720b82970a.ctv> |
-| 847 | [HD]ara | stream1.freetv.fun | <https://stream1.freetv.fun/d71dc9a70d3780d6358b56308641153ce27cb13263339e60ea93fbb1e96e7aef.m3u8> |
+| 847 | [VGA]ara | stream1.freetv.fun | <https://stream1.freetv.fun/d71dc9a70d3780d6358b56308641153ce27cb13263339e60ea93fbb1e96e7aef.m3u8> |
 | 848 | [BD]ntv | stream1.freetv.fun | <https://stream1.freetv.fun/5a01c8a37813600c80add5f723b06bc7770eac66099e07741a0b76e7f1226938.ctv> |
 | 849 | [HD]canal nets | stream1.freetv.fun | <https://stream1.freetv.fun/80b88130cda9f900d78d065a0eff5332f9ab4759a0561a462d0f5a46ddd57237.m3u8> |
 | 850 | [HD]ntv tr | stream1.freetv.fun | <https://stream1.freetv.fun/1ea4459d6f1556dd3b9d3a4a39b248e048c0f82dff65a9b71eef7bfd66f821d5.m3u8> |
 | 851 | [VGA]ntv mir | stream1.freetv.fun | <https://stream1.freetv.fun/3547f007d455567f6f79134d8d38580ce2235a04b3a71b160a5de9ef31c511e2.m3u8> |
-| 852 | [VGA]NTV NEWS 24 | stream1.freetv.fun | <https://stream1.freetv.fun/293259a13176bce43dc1ebe4fa6c1edbf5967ab22130996ea34a151030c4cc32.m3u8> |
+| 852 | [HD]ntv news 24 | stream1.freetv.fun | <https://stream1.freetv.fun/632cda750a1e81eae01c96b85f0f1e3e105a24f87686f074fccbfb0ac010f5eb.m3u8> |
 | 853 | [HD]NTV7 | stream1.freetv.fun | <https://stream1.freetv.fun/75c47be08f0a292f09bdac2037f875864245cc7954932c5b3d58bb90c673884f.ctv> |
 | 854 | [BD]on football | stream1.freetv.fun | <https://stream1.freetv.fun/6a0b9a6e1931b4324d3fe1234f2e2a9f01344b7839b6224031498ccc127dc48c.ctv> |
 | 855 | [HD]NatGeo HD | stream1.freetv.fun | <https://stream1.freetv.fun/0d23c4d4365014d8d88cf1ac0307551052d0ee6bbef6b9a9f20dc04458f5f079.ctv> |
@@ -1934,4 +1934,4 @@
 | 1928 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 | 1929 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Fri Mar 28 2025 10:23:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 28 2025 12:42:15 GMT+0000 (Coordinated Universal Time)**
