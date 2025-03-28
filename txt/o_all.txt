@@ -798,6 +798,7 @@ Global_News_Saskatoon,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv
 Global_News_Toronto,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cc00b3b821cf00070f82c3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c77ab85b-1b15-4a76-bcb6-d0e12396d41a
 Global_News_Winnipeg,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cc0120880c890007191016/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c0-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9bcdaa8b-3df2-47ca-abf7-ba093e2e6ca0
 Global_Social_TV_(720p),https://ss9.domint.net:3042/gstv_str/globalsocialtv/playlist.m3u8
+GlobalTV_(480p),https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8
 GO-TV_(720p),https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/playlist.m3u8
 Goal_TV,https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 Godzilla,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c8cee1979c0008608e27/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f179-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b8acb59-44f0-4bc0-9505-e2409188cc93
@@ -4987,7 +4988,6 @@ Nyota_TV_(360p)_[Not_24/7],http://51.254.199.122:8080/noyaTV/index.m3u8
 O'zbekiston_(480p),http://gohoski.fvds.ru:3000/mediabay/140/playlist.m3u8
 Oasis_RTV_(720p)_[Not_24/7],https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 Oasis_Televisión_(720p)_[Not_24/7],http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8
-Oberlausitz_TV_(1080p),https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
 Oberpfalz_TV_(1080p),https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
 OBS_Gyeongin_TV_(OBS경인TV)_(540p)_[Not_24/7],https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
 Óbuda_TV_(576p),https://stream.streaming4u.hu/ObudaTV/index.m3u8
@@ -5321,6 +5321,7 @@ SRF_(1080p),https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
 SRTV_PB_(720p),https://livefocamundo.com:8081/srtvpb/index.m3u8
 SSTV_(1080p),https://sstv.ssplay.mv/hls/sstv-live/index.m3u8
 Starnet_(480p),https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
+Steiermark_TV_(1080p),https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
 Streekstad_Alkmaar_Centraal_(1080p),https://videostreams.streekstadcentraal.nl/hls/streekstad_alkmaar/streekstad_alkmaar.m3u8
 Studio040_TV_(720p),https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8
 STV_(720p),http://89.201.163.244:8080/hls/hdmi.m3u8
@@ -7962,7 +7963,7 @@ Ind_TV_USA_(720p),https://indtv-pull.secure.footprint.net/indtv/stream.m3u8
 Indo_Oz_TV_(720p),https://stream.e2is.in/hls/indoztv.m3u8
 Indonesiana.TV_(720p),https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 INSP,http://fl2.moveonjoy.com/INSP/index.m3u8
-interTV_(1080p),https://streamtv.intervenhosting.net:3924/stream/play.m3u8
+interTV_(1080p),https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 ION_(720p),https://apollo.production-public.tubi.io/live/ac-ion.m3u8
 ION_Plus_East_(720p),http://fl3.moveonjoy.com/ION_Plus/index.m3u8
 Iris,https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
@@ -8399,6 +8400,7 @@ TVP_ABC_2_(1080p),https://irylek.ct8.pl/stream/tvpabc2
 TVP_ABC_(576p),http://185.236.229.62:9981/play/a02z
 TVS_Hi_Tops_(720p),https://bozztv.com/gusa/gusa-hitops/index.m3u8
 TVS_Pinball_Network_(480p),https://bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
+YAAAS!_(720p),https://jmp2.uk/sam-GB340000289.m3u8
 Zoo_Moo_(Australia)_(1080p),https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 Карусель_Int,http://stream02.vnet.am/Karusel/mono.m3u8
 Мульт,http://stream01.vnet.am/Mult/mono.m3u8
