@@ -4,7 +4,7 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | BRTV北京卫视[高清] | IPv4 直链 | <rtp://239.3.1.241:8000> |
+| 1 | BRTV北京卫视[超清HDR] | IPv4 直链 | <rtp://239.3.1.118:8001> |
 | 2 | BRTV新闻[高清] | IPv4 直链 | <rtp://239.3.1.159:8000> |
 | 3 | BRTV影视[高清] | IPv4 直链 | <rtp://239.3.1.158:8000> |
 | 4 | BRTV文艺[高清] | IPv4 直链 | <rtp://239.3.1.242:8000> |
@@ -142,4 +142,4 @@
 | 136 | 音乐现场 | IPv4 直链 | <rtp://239.3.1.70:4120> |
 | 137 | 魅力时尚 | IPv4 直链 | <rtp://239.3.1.196:9012> |
 
-Updated at **Sat Mar 29 2025 06:28:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 29 2025 08:26:02 GMT+0000 (Coordinated Universal Time)**
