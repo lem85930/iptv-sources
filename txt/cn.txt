@@ -16,7 +16,7 @@
 [BD]深圳少儿,https://stream1.freetv.fun/254931a5bba466de9fa6d177494e351bec65bb69fa7ba32b91e295d603e72d4c.m3u8
 [BD]福建少儿,https://stream1.freetv.fun/d3d5c6629ffc45ab0d90a89af37dd37cbc26efd65978c2086ace2ec67c32c2bd.m3u8
 [BD]辽宁教育青少,https://stream1.freetv.fun/8c2e12b5c1f9daeac52e522d7e59e3801e3b027284265ff69332c27f8684a752.m3u8
-[BD]金鹰卡通,https://stream1.freetv.fun/10c162a19187277452e11fbe6cc81e691467a45e9aaa62427d2ba9ed3d5254b9.m3u8
+[BD]金鹰卡通,https://stream1.freetv.fun/0b3c4d9067df4b0cb7b465cc379c09f327adf38928575fd7812b03df37aeb4aa.m3u8
 [SD]黑龙江少儿,https://stream1.freetv.fun/0f800b8b5e9734bb67933337637e463677087c33e1eb8680da514c68170e0e16.m3u8
 
 综合,#genre#
@@ -94,7 +94,7 @@
 [BD]海峡卫视,https://stream1.freetv.fun/6952b14b453dab09ad0ecb007d59372a5e622003284eb3f834df48db2950d18a.ctv
 [BD]深圳卫视,https://stream1.freetv.fun/20ecf771d6a0c9c6e7099a283186488d8baa598db43ae7e64ada39622eeb930a.ctv
 [BD]深圳财经生活,https://stream1.freetv.fun/0bfdeee7ac327218d61bc287842e7e26c78c9b54a77e65e91173906af31a4bde.m3u8
-[BD]深圳都市,https://stream1.freetv.fun/8c1177e00270c440056e291408af0215e06b0c78f6e4af4576d1069a82b17f64.ctv
+[BD]深圳都市,https://stream1.freetv.fun/440e07533de783540bebdb5b272bfb6d7d8437b2eba9f11e8b620142c4e44454.ctv
 [BD]湖北公共,https://stream1.freetv.fun/8c1b6fe77020c3e735423253173adb2eb9b8d3917b4d84a8e5ee1a6473c562f9.m3u8
 [SD]湖北卫视,https://stream1.freetv.fun/f159656e972aa17ba9ff4e974713a0f92b152108582d298455b0bed215d2427b.m3u8
 [BD]湖南公共,https://stream1.freetv.fun/48f53022c7d3e51a964c67143c2f0e819af27ccbd80f771a8df6630df3bc8746.m3u8
@@ -323,6 +323,7 @@
 
 音乐,#genre#
 [BD]cctv15,https://stream1.freetv.fun/3f80345388aa4a2e62eb34aca5ee6a6279e539802916382dd0be8b5dc66f9898.ctv
+[SD]cctv风云音乐,https://stream1.freetv.fun/51ee72b743342939c8dea8db9f5c7ec4dd3cac1bb0cde70fdda1d89b9f9e8c7a.m3u8
 
 运动,#genre#
 [BD]cctv16,https://stream1.freetv.fun/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
