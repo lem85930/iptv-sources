@@ -50,7 +50,7 @@
 [BD]山东齐鲁,https://stream1.freetv.fun/39855823c03804715a09a0edbb2274a5a73f776010ecd22551bc45159cb5f4e2.m3u8
 [SD]山西卫视,https://stream1.freetv.fun/f3585857f1474c6f9527ea29a7a99115a86855d9addb67619aa9a033299b48eb.m3u8
 [BD]康巴卫视,https://stream1.freetv.fun/4a7f901d517897aa0bf1ff684b61423b1e107da6ea3b0bccc233526fba9cdf99.m3u8
-[HD]厦门卫视,https://stream1.freetv.fun/a927444efa3d55d3d42d4d80fc9dd565caeae93fe0328d6e078367c2120df3d4.m3u8
+[SD]厦门卫视,https://stream1.freetv.fun/290a8bca44ad1293b71566925dfbc93eb391e4cc2232939561e1a3fb3bce9bd5.m3u8
 [HD]广元综合,https://stream1.freetv.fun/e115ad1ad555af4231de24edf51b85a967f85cd17d76c84f28198770e7e9600a.m3u8
 [BD]广州法治,https://stream1.freetv.fun/3e195d36eccfbedff221626afad355f50740f0303e4cbe246625e3df7e4f3155.ctv
 [HD]广州综合,https://stream1.freetv.fun/ccc0bddff57b8c467a86d60eb3d1207f4621bd91628371ced6d794ed1774481c.m3u8
@@ -94,7 +94,7 @@
 [BD]海峡卫视,https://stream1.freetv.fun/6952b14b453dab09ad0ecb007d59372a5e622003284eb3f834df48db2950d18a.ctv
 [BD]深圳卫视,https://stream1.freetv.fun/d279125a367f817103ab01e34e246154552a5a0a39555818b59a00a825a4560c.m3u8
 [BD]深圳财经生活,https://stream1.freetv.fun/0bfdeee7ac327218d61bc287842e7e26c78c9b54a77e65e91173906af31a4bde.m3u8
-[BD]深圳都市,https://stream1.freetv.fun/574bd8165472884655594f7596803b8bd73a2a163ae61e3811900b0192ebc96f.ctv
+[BD]深圳都市,https://stream1.freetv.fun/8c1177e00270c440056e291408af0215e06b0c78f6e4af4576d1069a82b17f64.ctv
 [BD]湖北公共,https://stream1.freetv.fun/8c1b6fe77020c3e735423253173adb2eb9b8d3917b4d84a8e5ee1a6473c562f9.m3u8
 [SD]湖北卫视,https://stream1.freetv.fun/f159656e972aa17ba9ff4e974713a0f92b152108582d298455b0bed215d2427b.m3u8
 [BD]湖南公共,https://stream1.freetv.fun/48f53022c7d3e51a964c67143c2f0e819af27ccbd80f771a8df6630df3bc8746.m3u8

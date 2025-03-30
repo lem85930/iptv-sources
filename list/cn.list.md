@@ -135,7 +135,7 @@
 | 129 | [SD]山西卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/f3585857f1474c6f9527ea29a7a99115a86855d9addb67619aa9a033299b48eb.m3u8> |
 | 130 | [BD]岭南戏曲 | stream1.freetv.fun | <https://stream1.freetv.fun/ce2380c715a2fa91d777e60fdfd51933b338065afd15bd1316ab37cabf3c3096.ctv> |
 | 131 | [BD]康巴卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/4a7f901d517897aa0bf1ff684b61423b1e107da6ea3b0bccc233526fba9cdf99.m3u8> |
-| 132 | [HD]厦门卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/a927444efa3d55d3d42d4d80fc9dd565caeae93fe0328d6e078367c2120df3d4.m3u8> |
+| 132 | [SD]厦门卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/290a8bca44ad1293b71566925dfbc93eb391e4cc2232939561e1a3fb3bce9bd5.m3u8> |
 | 133 | [HD]广元综合 | stream1.freetv.fun | <https://stream1.freetv.fun/e115ad1ad555af4231de24edf51b85a967f85cd17d76c84f28198770e7e9600a.m3u8> |
 | 134 | [BD]广州影视 | stream1.freetv.fun | <https://stream1.freetv.fun/00f34b5229acb38e8dbacc95349044efca70b8b4ced9d96bf61ff1a55af81d96.ctv> |
 | 135 | [BD]广州新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/ce2e7e6464d84e68227189b299f83de79aa8d1b15a86d04702efef31854356b2.ctv> |
@@ -232,7 +232,7 @@
 | 226 | [SD]移动电视 | livein.gstv.com.cn | <rtmp://livein.gstv.com.cn/49048r/y72q36.flv> |
 | 227 | [BD]深圳卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/d279125a367f817103ab01e34e246154552a5a0a39555818b59a00a825a4560c.m3u8> |
 | 228 | [BD]深圳财经生活 | stream1.freetv.fun | <https://stream1.freetv.fun/0bfdeee7ac327218d61bc287842e7e26c78c9b54a77e65e91173906af31a4bde.m3u8> |
-| 229 | [BD]深圳都市 | stream1.freetv.fun | <https://stream1.freetv.fun/574bd8165472884655594f7596803b8bd73a2a163ae61e3811900b0192ebc96f.ctv> |
+| 229 | [BD]深圳都市 | stream1.freetv.fun | <https://stream1.freetv.fun/8c1177e00270c440056e291408af0215e06b0c78f6e4af4576d1069a82b17f64.ctv> |
 | 230 | [BD]清镇新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/cc8729f442922254faa34a4c763cb1b5f7e8263489cde0a000d0d651b1a19908.m3u8> |
 | 231 | [BD]湖北公共 | stream1.freetv.fun | <https://stream1.freetv.fun/8c1b6fe77020c3e735423253173adb2eb9b8d3917b4d84a8e5ee1a6473c562f9.m3u8> |
 | 232 | [BD]湖北垄上 | stream1.freetv.fun | <https://stream1.freetv.fun/09e9c02f9cb812a4f4ccd37ba4c1e42816c9c30f1a93c73bbb72170b80860b10.m3u8> |
@@ -350,4 +350,4 @@
 | 344 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/a10b52e4c438586deca319570f445a4c9ebb6dea4ceb3b204f9bc9ae93fcbc58.m3u8> |
 | 345 | [HD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/dc07729bf522e7df81f1254e9bcd017dfd0d0b30bb423ff51d0a01156017a819.m3u8> |
 
-Updated at **Sun Mar 30 2025 10:20:44 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Mar 30 2025 12:39:22 GMT+0000 (Coordinated Universal Time)**
