@@ -1610,7 +1610,7 @@ Sports,#genre#
 [BD]s_sport_2,https://stream1.freetv.fun/da89059bf1f4177821df2ccd254234c93bd482ed9245a01477c0deb14daad177.m3u8
 [HD]Astro_Arena_Bola_1,https://stream1.freetv.fun/d2f6cdb6da607450c17afa37ab2ac59b403aa9d94be0d8ba6cfe75d875823913.ctv
 [HD]Astro_Arena_Bola_2,https://stream1.freetv.fun/064790152496c38ee160e6d129131da35524036d1084aca95b8f7ef2b3905058.ctv
-[HD]Astro_Football,https://stream1.freetv.fun/6725207dd7eb6fa42274d8d54196ca83e6f3262e4b1a45ad1e53ac8358e33545.ctv
+[HD]Astro_Football,https://stream1.freetv.fun/0e617584e6f3e47939108261873a3dfa3b65a435b295d49422f3f3927785427a.m3u8
 [HD]Astro_Grandstand,https://stream1.freetv.fun/7286d9238a6cba8a79ebc552b52b9722de01437054f06127ac282338d51c007e.ctv
 [HD]Astro_Premier_League,https://stream1.freetv.fun/09bdba6d296761486f554ed56888b204f96654432577191080d32450661620c8.m3u8
 [BD]Astro_Premier_League_2,https://stream1.freetv.fun/fc92a04e0a35a5598997f0612e433e3e4f05cef8ab7dd1c71291dd266e7eb857.ctv
