@@ -91,7 +91,7 @@
 | 85 | [HD]Astro Citra | stream1.freetv.fun | <https://stream1.freetv.fun/a3f09670e7d0bf9a8f6199365b70ae6c940284d7863ddf9d3c4e5557cf693afb.ctv> |
 | 86 | [HD]ASTRO OASIS | stream1.freetv.fun | <https://stream1.freetv.fun/bae47dcc6118d4c5c97fb994c95f3d1c9bb349c5bde53740c426b4db4ed225b3.ctv> |
 | 87 | [HD]Astro Prima | stream1.freetv.fun | <https://stream1.freetv.fun/ec59c03b1516bb27757d84e3ca9910bb6fea4b45c7c8b2128f6601a2d375a502.ctv> |
-| 88 | [HD]Astro Ria | stream1.freetv.fun | <https://stream1.freetv.fun/5bf67125c25389bd1e4f61f7809090a36468952fe29c02e45d6d47f9d45c1726.m3u8> |
+| 88 | [HD]Astro Ria | stream1.freetv.fun | <https://stream1.freetv.fun/d8a802a9272dc0f6e5e05da788f415a564cb58e4d357c6d595d0138044f71420.m3u8> |
 | 89 | [HD]Astro Rania | stream1.freetv.fun | <https://stream1.freetv.fun/46bfeb8961cf1e3f77c9199594725f9cb9f0951c5ffe929d4438c6d3fd1e508d.ctv> |
 | 90 | [SD]ASTRO WARNA | stream1.freetv.fun | <https://stream1.freetv.fun/951a55c623e95624f11bdd15da1eed06eeb21b610dac76e455b1691ac43f64bf.m3u8> |
 | 91 | [HD]Astro 华丽台 | stream1.freetv.fun | <https://stream1.freetv.fun/ce91f72845607e8e22f6e466a628d4f8d8de417b4afd3a24f0dfebe8dda21333.ctv> |
@@ -152,7 +152,7 @@
 | 146 | [HD]Animal Planet | stream1.freetv.fun | <https://stream1.freetv.fun/a72695ea1c60fb47f12fd5f24670d25def7f0fde2363ffccd7c82eff3130ac6e.ctv> |
 | 147 | [SD]animal | stream1.freetv.fun | <https://stream1.freetv.fun/6af0944c7c4b59e029590a95e4ccb85f96c1c8d5e5f0abd6a602642dac6330da.m3u8> |
 | 148 | [HD]animax | stream1.freetv.fun | <https://stream1.freetv.fun/8959c648275f5c9b5d29364c7797ce88802775c745d9c726ccee1773f599496d.m3u8> |
-| 149 | [HD]cctv-5 体育赛事 | stream1.freetv.fun | <https://stream1.freetv.fun/54d49cdebe67aac321212f07cd63f353fc6fb23eae7927a3df2222540f56313b.m3u8> |
+| 149 | [HD]cctv-5 体育赛事 | stream1.freetv.fun | <https://stream1.freetv.fun/4028b322e463e08500f702259ad5862e1dcd1698bd20d36badb4a74a411abb50.m3u8> |
 | 150 | [HD]hallo anime | stream1.freetv.fun | <https://stream1.freetv.fun/6a5fbca29cce3d5890f8b96d166ab9ceb5e9d2ff4c679e305703140624b80dc8.m3u8> |
 | 151 | [BD]antena 21 | stream1.freetv.fun | <https://stream1.freetv.fun/1343201a20a60addd8a41919d167d1d88d67a8daa680c01b0d1ed6147022a41c.m3u8> |
 | 152 | [VGA]ant1 cyprus | stream1.freetv.fun | <https://stream1.freetv.fun/3622f1a0b2d458e256380a4f705ebe603627b05a0c5df6c988635a8f8ec11108.m3u8> |
@@ -1903,4 +1903,4 @@
 | 1897 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 | 1898 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Mon Mar 31 2025 14:21:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Mar 31 2025 16:27:56 GMT+0000 (Coordinated Universal Time)**
