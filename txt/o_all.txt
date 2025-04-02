@@ -636,7 +636,6 @@ CSI:_Miami,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls
 CSI:_Miami_en_español,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b5950b515b000079e6b81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285534-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f56cc8-59b4-456a-bee7-c5cbe377e506
 CSI:_NY,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63f4e11c7533d80008a1d5f0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df72-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=619688bf-4e92-4933-ae80-a470b2c6493c
 CSI:_NY_en_español,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b606e12a67b0007c9e371/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285536-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fe6859ac-2fe0-4cfe-aa7f-b5f343d25841
-CTN,http://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8
 CTS_(HUA-CHI_CTS)_(1080p),rtmp://59.124.75.138:1935/sat/tv111
 CTV_9,https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
 CTV_Barranquilla_(1080p)_[Not_24/7],https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
@@ -1766,7 +1765,7 @@ Qazaqstan_TV_(720p)_[Not_24/7],https://qazaqstantv-stream.qazcdn.com/qazaqstantv
 Qazvin,https://lenz.splus.ir/PLTV/88888888/224/3221226888/index.m3u8
 Qello_Concerts,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240d3d466225000827412b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb439-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ba3de05-22ef-4ab2-8d11-c4a6c21d39ba
 Qostanai_(576p)_[Not_24/7],https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
-QPVN_(720p),http://27.76.137.122:1935/standard/smil:standard.smil/playlist.m3u8
+QPVN_(480p),https://ott1.nethubtv.vn/live/qpvn/playlist.m3u8
 Quang_Ngai_TV_(720p),http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8
 Quassar_TV_(720p),https://gnstreammedia.com:19360/4000/4000.m3u8
 Quatro_TV_(540p),https://stream.arcast.live/quatro/quatro/playlist.m3u8
@@ -5260,7 +5259,6 @@ Notioi_TV_(1080p),https://srv.streamserver.gr:3451/stream/play.m3u8
 Nova_TV_Brasov_(576p)_[Not_24/7],http://novapress.ro:2022/live/nova/playlist.m3u8
 Now_14_(720p),https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8
 Nowa_TV_(1080p),http://109.233.89.170/NOWA_TV_HD/index.m3u8
-NRK_1,https://nrk-nrk1.akamaized.net/21/0/hls/nrk_1/playlist.m3u8
 NRK_2,https://nrk-nrk2.akamaized.net/22/0/hls/nrk_2/playlist.m3u8
 NSTV_(1080p),https://cp.panelchs.com:1936/8162/8162/playlist.m3u8
 NTI_TV_(720p),https://helga.iptv2022.com/NTI_Television/index.m3u8
@@ -7528,6 +7526,7 @@ Cristiana_TV_(576p),https://cristianos2.todostreaming.es/live/malaga-livestream.
 Cristo_TV_(480p),https://stream.oursnetworktv.com/latin/CristoTV/playlist.m3u8
 Cristo_Visión_Canal_31_(720p),https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
 CSat_TV_(1080p)_[Not_24/7],http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
+CTN_(404p),https://ctntv.getstreamhosting.com:1936/CTNTV/CTNTV/playlist.m3u8
 CTNi_(Christian_Television_Network_International)_(480p)_[Not_24/7],https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
 CTS기독교TV_(720p),https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
 CVC_(720p)_[Not_24/7],https://5d00db0e0fcd5.streamlock.net/7034/7034/playlist.m3u8
@@ -9101,7 +9100,7 @@ Alkass_Three_(1080p),https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3
 Alkass_Two_(1080p),https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hef/master.m3u8
 All_Sports_(720p),https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 AntenaSport_(720p)_[Not_24/7],https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
-Arryadia_(1080p),http://154.197.91.168:7001/play/a0fa/index.m3u8
+Arryadia_(480p),https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8
 ATG_(432p),https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
 Awapa_Sports_TV_(1080p)_[Not_24/7],https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
 B1B_Box_(720p),https://e105-ts.cdn.bg/b1b/fls/b1btv.stream/playlist.m3u8
@@ -9511,7 +9510,6 @@ Multizonas_TV_(720p),https://cloudvideo.servers10.com:8081/8068/index.m3u8
 Napa_Valley_TV_Education_Access_Channel_27_(480p),https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/napatv/G0360_003/playlist.m3u8
 Nashua_ETV_Channel_22_Nashua_NH,https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 NBS_Korea_Agricultural_Broadcasting_(720p),https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-Nhan_Dan_TV_(720p),https://video.nhandan.thienvietjsc.net/live/nhandan720/playlist.m3u8
 NHK_E_(Tokyo)_(544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=4
 Nihon_Gakko_TV_(720p)_[Not_24/7],https://59ce1298bfb98.streamlock.net/ngtv/ngtv/playlist.m3u8
 NRWision_(1080p),https://fms.nrwision.de/live/livestreamHD.stream/playlist.m3u8
