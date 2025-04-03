@@ -90,7 +90,7 @@
 | 84 | [SD]ASTRO AOD 311 | stream1.freetv.fun | <https://stream1.freetv.fun/0fedfde861049ffd660c48c9fe883cf91f7d220970a993bc36b8a30a5a405564.m3u8> |
 | 85 | [HD]ASTRO AURA | stream1.freetv.fun | <https://stream1.freetv.fun/f1f752d79d3940325578e111e0f2b5649e1e49bbd1f95665845fec167a8110a7.ctv> |
 | 86 | [HD]ASTRO AWANI | stream1.freetv.fun | <https://stream1.freetv.fun/076de34219d45d6564ddcd96938915c1341d44b8021f5329dae5e0de5f8da306.m3u8> |
-| 87 | [HD]Astro Arena | stream1.freetv.fun | <https://stream1.freetv.fun/8191768c180a60a8baa993a868cfd0c1d2d646715c999f3c605359b9cda69cbd.ctv> |
+| 87 | [HD]Astro ARENA | stream1.freetv.fun | <https://stream1.freetv.fun/8c8bf7889c737d71a99172174da62cd6763b4e2f66854ab9c9c263b6f185c69a.m3u8> |
 | 88 | [HD]Astro Arena 2 | stream1.freetv.fun | <https://stream1.freetv.fun/1a6950c99bcbf8020e8202d98cb8788cb68c243767a792ba01ea57c892eb6b7c.ctv> |
 | 89 | [HD]ASTRO AURA | stream1.freetv.fun | <https://stream1.freetv.fun/0378dc4d556156aa51a868a533503c8b7af3a20897b456ed82b71bb3bdfb9a86.m3u8> |
 | 90 | [HD]ASTRO CERIA | stream1.freetv.fun | <https://stream1.freetv.fun/f64b6232ea1f4d5b4998fc48ccea6c1f0e09d11a7ccaa0987cb9fc0c2d78be5b.m3u8> |
@@ -524,7 +524,7 @@
 | 518 | [HD]fashion one | stream1.freetv.fun | <https://stream1.freetv.fun/1ac9f22c2f0607d39083d590e7c56028ca23de1c6d1961cbbf421d1e54d3a69a.m3u8> |
 | 519 | [BD]fashiontv asia | stream1.freetv.fun | <https://stream1.freetv.fun/d19bb027d41cab00a6c83b167269b6715be6e9d930c985c4e6fb5486496e9ff9.m3u8> |
 | 520 | [VGA]th hải dương | stream1.freetv.fun | <https://stream1.freetv.fun/bc46e144154a34bd76b145e5a5115989b9594d71d0cbe89ff1bcccfe3d18a7ba.m3u8> |
-| 521 | [HD]sport fishing tv | stream1.freetv.fun | <https://stream1.freetv.fun/99db6f1858a87aa25ee1af8c988df39004d99045accad003c22d70093d3d7292.m3u8> |
+| 521 | [VGA]sport fishing tv | stream1.freetv.fun | <https://stream1.freetv.fun/99db6f1858a87aa25ee1af8c988df39004d99045accad003c22d70093d3d7292.m3u8> |
 | 522 | [BD]lfm tv | stream1.freetv.fun | <https://stream1.freetv.fun/102adbd265ded0ab167fb16a7a419337a9e4af0a8626f6c2d282367a85e05d96.m3u8> |
 | 523 | [SD]4fun tv | stream1.freetv.fun | <https://stream1.freetv.fun/aedeea1f357012b2621a1d65ba0b390bbcfc857e50852fad12c65ead88ecdbaf.m3u8> |
 | 524 | [SD]Food Network | stream1.freetv.fun | <https://stream1.freetv.fun/0b8632801372d07b628ab00c8b1a39c7610eb2a383c64d325c080f692aff5938.m3u8> |
@@ -1374,7 +1374,7 @@
 | 1368 | [SD]wnbc-dt1 | stream1.freetv.fun | <https://stream1.freetv.fun/80a8c906d961ce686d756d501e075f4967834c925fad747e7f2a375d3fd9427d.m3u8> |
 | 1369 | [BD]wowow cinema | stream1.freetv.fun | <https://stream1.freetv.fun/35accdf8b9e311612dfe09c332822253653bb8484af105cabe7076b5d341f65e.m3u8> |
 | 1370 | [SD]wowow live | stream1.freetv.fun | <https://stream1.freetv.fun/abd0f37a544a5d07cf2302fab8319c1f4be79ba88f88654ed9975a4d859546df.m3u8> |
-| 1371 | [HD]wowow prime-test | stream1.freetv.fun | <https://stream1.freetv.fun/7d9f81b18624c8ec10669bfd806c65e94ef31859cefa13fe78e0057de888af79.m3u8> |
+| 1371 | [BD]wowow prime | stream1.freetv.fun | <https://stream1.freetv.fun/c86edaccad83b71f4a8e082810d5e8dee109e02df13eaff6c328a0a27fc7cb16.m3u8> |
 | 1372 | [SD]wowowシネマ | stream1.freetv.fun | <https://stream1.freetv.fun/c50b037fcf04c367a7dc0c660fa88f6e41e1d1b94ab91a705a103efe58c6405d.m3u8> |
 | 1373 | [SD]wowowプライム | stream1.freetv.fun | <https://stream1.freetv.fun/fa26daa7cdfd97dedb504c24a4abad73fde0064c0cf8763f9fac156ddbb1c4df.m3u8> |
 | 1374 | [HD]wowowライブ | stream1.freetv.fun | <https://stream1.freetv.fun/97551a04911c829c10c949b5da32e2b344a9547d97f7c38d233507ec9ae08af7.m3u8> |
@@ -1943,4 +1943,4 @@
 | 1937 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 | 1938 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Thu Apr 03 2025 10:23:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Apr 03 2025 12:44:47 GMT+0000 (Coordinated Universal Time)**
