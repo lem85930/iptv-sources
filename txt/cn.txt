@@ -1,7 +1,7 @@
 儿童,#genre#
 [SD]卡酷少儿,https://stream1.freetv.fun/c0cde06e723796c2b4ae97acf61d7e7be4ba85793fc938e955738551f1aec190.m3u8
 [BD]cctv14,https://stream1.freetv.fun/6dbe9409e344cd6ab113ba8cb1d0f675f7c9e00b968f8e80a5b2f344c22bb030.m3u8
-[SD]优漫卡通,https://stream1.freetv.fun/4f3e660db4b75f218546c35fbdf55813ca1cd497ebcaa5fa4d873cff81c402f5.m3u8
+[SD]优漫卡通,https://stream1.freetv.fun/3bda49a9b87833e1b55cceeda99a537ac38c2c0295598cf17c575a02e8459b0c.ctv
 [BD]内蒙少儿,https://stream1.freetv.fun/30162d993ed08b20fc3b6406450360bfe43e35e2b5ed92373619ae12d89c71c9.ctv
 [SD]动漫秀场,https://stream1.freetv.fun/116b072fce86ad7fb72e6cb782fc5e85b72e4bae044922c23b702e6aa5a3adb8.m3u8
 [BD]名侦探柯南,https://stream1.freetv.fun/3710efd8cc1ff57be57c545bac0240a43c776df32338262f0896d033783a1859.ctv
@@ -29,7 +29,7 @@
 [BD]cbn_español_(1080p),https://stream1.freetv.fun/b895c387cf1a7aadb946718916a88c3e6c42546c24e02b76f6f62634c74deb03.m3u8
 [BD]rt_français,https://stream1.freetv.fun/e980254b61ba471386476c3c7c9a52c66d26c31950e8f7adcc113d224d84a33f.m3u8
 [BD]cgtn_русский,https://stream1.freetv.fun/6ca06fc1489615cf31bdce2f8cb0f6c94a2f105e22a48d6e677cbef2f79a32d0.m3u8
-[BD]上海卫视,https://stream1.freetv.fun/ab07ffc5203b9270c350a82ad77e6aa7c16be00246d97f21fbfdb8cb1004d808.m3u8
+[SD]上海卫视,https://stream1.freetv.fun/c17856d17033f01745c8cc3bfdbdf4039b0932e257d3694ddd14f44814be1ab0.m3u8
 [BD]上虞新商都,https://stream1.freetv.fun/617f277b667f4460ab0b21935e30b1a458390006ec88c518ea940ebef16b05f7.m3u8
 [BD]佛山综合,https://stream1.freetv.fun/3e1c141b3f3c59d2ef44f6fa05d5e0d50da4f3cff4b2e7ff600d1043ad9b0b94.ctv
 [HD]内江综合,https://stream1.freetv.fun/a2d9af7861b4d6c636b5cbd9e96b2fca4c7ef8d44a663481dcb6abb5a4f00cc8.m3u8
@@ -85,6 +85,7 @@
 [HD]江西公共农业,https://stream1.freetv.fun/387be1cecea96ab25287c35cab991473a8e161bf7f938d97fb86d520b3ed1cbe.m3u8
 [BD]江西卫视,https://stream1.freetv.fun/bc4d49bde015fc24aafb924423536d9ec2f09ad3d55313e4a482ba85ae48b175.m3u8
 [HD]江西都市,https://stream1.freetv.fun/6934d54a550b33f2dc6a9b04d3dd33fcbe8654fbc8a50207debe101f4088932d.m3u8
+[BD]河北经济,https://stream1.freetv.fun/2f3e20b0a093944b3a7e1ef7ed192da3282b79b6d299c630f54f63855ad5648d.m3u8
 [BD]河北卫视,https://stream1.freetv.fun/3d72ae947c8d574411b9d26bc49ef1b6e8c2c5bf3a55c97df0b37f0af5080a99.m3u8
 [BD]河北农民,https://stream1.freetv.fun/4f4cba5155045fddb954f8a2f6b82d528df81defeda48aa406f9746a69f46337.m3u8
 [BD]河北都市,https://stream1.freetv.fun/9fc6507da49edb0268413134352e96785e137b8f2dec3c1bef337f62e1087c1b.m3u8
