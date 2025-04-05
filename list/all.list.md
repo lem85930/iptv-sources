@@ -634,7 +634,7 @@
 | 628 | [BD]HALLMARK MOVIES & MORE | stream1.freetv.fun | <https://stream1.freetv.fun/7c040cfbc03e807296e630b85f695ff87c4b928628c4984ea407e2d84cf1888d.ctv> |
 | 629 | [SD]halom tv | IPv4 直链 | <rtmp://212.92.13.108/live/livestream1> |
 | 630 | [BD]noa 4 hamburg | stream1.freetv.fun | <https://stream1.freetv.fun/a4945a72e9e893ce70f348a01d955144fa636e88cf413b7d3799e6cfd387b56b.m3u8> |
-| 631 | [HD]happy kids | stream1.freetv.fun | <https://stream1.freetv.fun/1188695349a3fed83112817491bdb6368382786986005d7290ebae1a6c3c074f.ctv> |
+| 631 | [BD]happy kids | stream1.freetv.fun | <https://stream1.freetv.fun/20adddc463f47559e540a555131c731344f567c6f6cd777ae87432cc2bd79ae4.m3u8> |
 | 632 | [HD]ava series | stream1.freetv.fun | <https://stream1.freetv.fun/7659f2a05ca94a7fd02556b167dd49fb67db29dc7f4507fdc8bc1d87aa8a4b70.m3u8> |
 | 633 | [SD]muzzik hiphop | stream1.freetv.fun | <https://stream1.freetv.fun/d2e3972a4a965b9930036a0414220e00438e6d80045fcf0e8188271abaac7625.m3u8> |
 | 634 | [HD]history | stream1.freetv.fun | <https://stream1.freetv.fun/34d0b6f7d027bd6dd28d43eaae812cd72cacc0ce1d18585222cb427d85a1801c.m3u8> |
@@ -1939,4 +1939,4 @@
 | 1933 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 | 1934 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Fri Apr 04 2025 22:20:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Apr 05 2025 01:44:00 GMT+0000 (Coordinated Universal Time)**
