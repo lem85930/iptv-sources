@@ -799,7 +799,7 @@
 | 793 | [BD]美国mysterysciencetheater3000 | stream1.freetv.fun | <https://stream1.freetv.fun/701ae0615140c377f2f8c09eb356ebd3239148bc8881f30886bb6fe0f3980e0c.m3u8> |
 | 794 | [BD]münchen tv | stream1.freetv.fun | <https://stream1.freetv.fun/006c62edcad39e3f53644726a475793a17781b53d951314ed76a6805168a31ea.m3u8> |
 | 795 | [BD]n4 | stream1.freetv.fun | <https://stream1.freetv.fun/65eaa5dee21b4070eb1a38308934c2f00f34276127ab30ccb76fa2f218870dba.ctv> |
-| 796 | [BD]nat tv | stream1.freetv.fun | <https://stream1.freetv.fun/2f67f84370ae056331d75ce1d231853f433e401bd4e6248ff960857659aad3e9.m3u8> |
+| 796 | [HD]nat tv | stream1.freetv.fun | <https://stream1.freetv.fun/2f67f84370ae056331d75ce1d231853f433e401bd4e6248ff960857659aad3e9.m3u8> |
 | 797 | [BD]nascar | stream1.freetv.fun | <https://stream1.freetv.fun/16173ed500f3a8e82d29a9dd0f431432b34ae3ea27d5f35d8bc06c7ab10e61c9.m3u8> |
 | 798 | [HD]natgeowild | stream1.freetv.fun | <https://stream1.freetv.fun/20873b9d86660dc6d5d6d82ed579724a03914190f54b2b0fe2570066fe468a8f.m3u8> |
 | 799 | [VGA]NAT GEO | stream1.freetv.fun | <https://stream1.freetv.fun/6b1be146fd43b1dddb5b086077e11fe8f895ac7477b7b520043b2f79ae60b7d2.ctv> |
@@ -1519,7 +1519,7 @@
 | 1513 | [HD]台视新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/d53ca0c34189f680ae61bf83b52ce3d5dee414238d66518e0243f768738d7724.m3u8> |
 | 1514 | [BD]合肥新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/009308bf4ff056f22afa71c8357cabb37543048af60e63dafc2a48e80b914501.m3u8> |
 | 1515 | [SD]吉林卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/657b3cc8f2106d0e0b52d0bc7f0e15db544b37b3e86bf5f486f351b9db61fa2e.m3u8> |
-| 1516 | [BD]名侦探柯南 | stream1.freetv.fun | <https://stream1.freetv.fun/3710efd8cc1ff57be57c545bac0240a43c776df32338262f0896d033783a1859.ctv> |
+| 1516 | [BD]名侦探柯南 | stream1.freetv.fun | <https://stream1.freetv.fun/e2890ee3e5bfb34dc4cc3db976c95f9d10a7c1996ef5f7b3937f39ead8e65eaf.ctv> |
 | 1517 | [SD]周星驰 | stream1.freetv.fun | <https://stream1.freetv.fun/eadbbbc48830ea9942ac1dbdd6678183b53494f95f8f5932a9aa90fa1c36f101.ctv> |
 | 1518 | [SD]哆啦a梦 | stream1.freetv.fun | <https://stream1.freetv.fun/559216a4ad6e3e905ca6e0b87dd6d600e1a4256ac1cfa6b642af56fe10b875ac.ctv> |
 | 1519 | [SD]哈哈炫动 | stream1.freetv.fun | <https://stream1.freetv.fun/d9a16722c4303668abc9aea4c13e51f52951071e4028eaeb6e9639b72d61f063.m3u8> |
@@ -1906,4 +1906,4 @@
 | 1900 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 | 1901 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sun Apr 06 2025 01:51:17 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 06 2025 03:05:40 GMT+0000 (Coordinated Universal Time)**
