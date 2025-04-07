@@ -87,7 +87,7 @@
 | 81 | [HD]ASTRO CERIA | stream1.freetv.fun | <https://stream1.freetv.fun/bc82e18e95d2ff5afd0b5cc3b4095e65fd8c7bbb9a541916da67b14df179869c.m3u8> |
 | 82 | [HD]Astro Citra | stream1.freetv.fun | <https://stream1.freetv.fun/a3f09670e7d0bf9a8f6199365b70ae6c940284d7863ddf9d3c4e5557cf693afb.ctv> |
 | 83 | [HD]ASTRO OASIS | stream1.freetv.fun | <https://stream1.freetv.fun/bae47dcc6118d4c5c97fb994c95f3d1c9bb349c5bde53740c426b4db4ed225b3.ctv> |
-| 84 | [HD]Astro Ria | stream1.freetv.fun | <https://stream1.freetv.fun/116af61ca627481589beb2a797cd6d5b7062aaab2773f4028e180ba7655c3435.ctv> |
+| 84 | [HD]Astro Ria | stream1.freetv.fun | <https://stream1.freetv.fun/63d0e17a09c4b4f0641cf9dd9e4504c0ae91bf59ce1629db11516a54b2522c21.ctv> |
 | 85 | [HD]Astro Rania | stream1.freetv.fun | <https://stream1.freetv.fun/46bfeb8961cf1e3f77c9199594725f9cb9f0951c5ffe929d4438c6d3fd1e508d.ctv> |
 | 86 | [HD]Astro 华丽台 | stream1.freetv.fun | <https://stream1.freetv.fun/ce91f72845607e8e22f6e466a628d4f8d8de417b4afd3a24f0dfebe8dda21333.ctv> |
 | 87 | [BD]atfal & mawaheb tv | stream1.freetv.fun | <https://stream1.freetv.fun/e63ce3cfa960af2f9afe942fd44351071b625b0949afe12feb4790a99343c076.m3u8> |
@@ -1884,4 +1884,4 @@
 | 1878 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 | 1879 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Mon Apr 07 2025 16:27:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Apr 07 2025 18:30:27 GMT+0000 (Coordinated Universal Time)**
