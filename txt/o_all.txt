@@ -2496,6 +2496,7 @@ Telenord_8_(1080p)_[Not_24/7],https://rdn.essastream.com:3170/live/telenord8live
 Telenord_10_(720p)_[Not_24/7],https://rdn.essastream.com:3676/live/telenord10live.m3u8
 Telenord_12_(720p)_[Not_24/7],https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
 Telenord_(576p)_[Not_24/7],https://5db313b643fd8.streamlock.net/Telenord/Telenord/playlist.m3u8
+Telenova_(720p),https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
 Telenovela_ZDF,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb5d043a461406ffe3fb2de/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b213444-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fda1fa47-8519-4bbe-89e7-e4541c5d325d
 Teleonuba_(1080p),https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
 Telepace_Roma_(720p),https://live.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/index.m3u8
@@ -2932,7 +2933,6 @@ TVP_3_Warszawa_(1080p),http://185.236.229.62:9981/play/a060
 TVP_3_Wrocław_(576p),https://cdndai.pl/tvp3wroclawsd/index.m3u8
 TVP_Dokument_(1080p),http://109.233.89.166/TVP_Dokument_HD/index.m3u8
 TVP_HD_(1080p),http://109.233.89.166/TVP_HD/index.m3u8
-TVP_Historia_2_(1080p),https://irylek.ct8.pl/stream/tvphistoria2
 TVP_Historia_(1080p),http://109.233.89.170/TVP_Historia/index.m3u8
 TVP_Info_(1080p),http://109.233.89.166/TVP_INFO_HD/index.m3u8
 TVP_Kobieta_(1080p),http://109.233.89.170/TVP_Kobieta_HD/index.m3u8
@@ -4202,7 +4202,6 @@ BCS_StarCross_TV_(576p),https://webstreaming.viewmedia.tv/web_001/Stream/playlis
 BD_Televisión_(720p),https://stream.oursnetworktv.com/latin/telegtmb/playlist.m3u8
 Beb_TV_(720p),https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.m3u8
 Bebeto_TV_(1080p),https://ss5.domint.net:3170/cotv_str/colometv/playlist.m3u8
-Belsat_TV_(1080p),https://irylek.ct8.pl/stream/belsat
 Bem_TV_(720p),http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 Berente_TV_(1080p),https://stream.streaming4u.hu/BerenteTV/index.m3u8
 BF1_(540p)_[Not_24/7],https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index.m3u8
@@ -5147,7 +5146,8 @@ MMTV_(1080p),https://sendlive.online/hls/mmtv.m3u8
 MN_TV_(720p),https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 MNB_(1080p),https://cdn3.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd
 MNB_World_(1080p),https://live.mnb.mn/hls/mnb_world.stream.m3u8
-Moldova_2_(1080p),http://62.233.57.226:8001/play/a00a
+Moldova_1_(1080p),https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
+Moldova_2_(1080p),https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
 Moldova_TV_(576p)_[Not_24/7],http://89.38.8.130:39435
 Monaco_Info_(720p)_[Not_24/7],https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 Monagas_Visión_(720p)_[Not_24/7],https://cloud2.streaminglivehd.com:1936/monagasvision-2/monagasvision-2/playlist.m3u8
@@ -7314,7 +7314,6 @@ TVídeoNews_(720p)_[Not_24/7],https://video01.logicahost.com.br/tvideonews/tvide
 TVM_El_Salvador,http://201.247.102.189/tmp_hls/stream/index.m3u8
 TVM_News+,http://80.79.6.221:25461/smash/public/20
 TVN-Bulgaria_(1080p),https://obs.friendshipchurch.eu/tvn/mystream.m3u8
-TVP_Wilno_(1080p),https://irylek.ct8.pl/stream/tvpwilno
 TVP_World_(1080p),http://178.219.128.68:64888/TVPWORLHD
 Twenty_Four_News_(396p),https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 UGF_TV_(720p)_[Not_24/7],https://ugftv.stream/live/myStream/playlist.m3u8
@@ -8140,7 +8139,6 @@ TVG_Infantil_(720p),https://infantil-crtvg.flumotion.com/playlist.m3u8
 TVG_Mociñ@s_(720p),https://xabarintv-r3-crtvg.flumotion.com/playlist.m3u8
 TVG_Pequerrech@s_(720p),https://xabarintv-r1-crtvg.flumotion.com/playlist.m3u8
 TVOKids,https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
-TVP_ABC_2_(1080p),https://irylek.ct8.pl/stream/tvpabc2
 TVP_ABC_(1080p),http://109.233.89.170/TVP_ABC/index.m3u8
 TVS_Hi_Tops_(720p),https://bozztv.com/gusa/gusa-hitops/index.m3u8
 TVS_Pinball_Network_(480p),https://bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
@@ -9657,7 +9655,6 @@ TV_das_Artes_(360p),http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/pla
 TV_Omindaré_(360p),https://video01.kshost.com.br/lourdes52007/lourdes52007/playlist.m3u8
 TV+_Canal_54_(480p),https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8
 TVG_Cultural_(720p),https://cultural-crtvg.flumotion.com/playlist.m3u8
-TVP_Kultura_2_(1080p),https://irylek.ct8.pl/stream/tvpkultura2
 USMPTV_(720p)_[Not_24/7],https://streamusmptv.ddns.net/live/stream.m3u8
 Wedding_TV,https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8
 Yakaar_TV_(1080p),https://strhls.streamakaci.tv/yakaartv/yakaartv-multi/playlist.m3u8
@@ -9943,6 +9940,7 @@ Tastemade_Travel,https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playout
 
 Animation;Kids,#genre#
 Animation_Show_Channel,http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authid=0&key=txiptv&playlive=1
+Disney_Jr._(1080p),https://saran-live.ercdn.net/disneyjunior/index.m3u8
 Japanim_TV_(1080p),https://foxkidstv.be:3369/stream/play.m3u8
 Multimania_(Latvia)_(576p),https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8
 Pingviin_(576p),https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8
