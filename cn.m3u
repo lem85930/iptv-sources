@@ -32,7 +32,7 @@ https://stream1.freetv.fun/f6e760220823c23e76064af294c797e6a5f5219d492314b02f28a
 #EXTINF:-1 tvg-name="CCTV4" tvg-id="378822" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001925822086_33.png" group-title="新闻",[BD]cctv-4
 https://stream1.freetv.fun/6d19794fef14f9a74dd039d5a158cc0d7dd1788c2ba0066bf6d60d696a933d51.m3u8
 #EXTINF:-1 tvg-name="CCTV4 FHD" tvg-id="378822" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001917639668_91.png" group-title="新闻",[BD]cctv4
-https://stream1.freetv.fun/b63a68be649bcafd5eb83649bff752868ac7b9809a1d7978f2f39ccaf34b84ec.ctv
+https://stream1.freetv.fun/ce75cb26c3c92bd5f97e003c8bb34c3c3b81be5bfd2e9261d854a5b0f3bbb61a.ctv
 #EXTINF:-1 tvg-name="CCTV5" tvg-id="378823" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001827124534_66.png" group-title="运动",[BD]cctv5
 https://stream1.freetv.fun/6377510fdeea9d525ff8638849bb8166e38d87928614eb4f21cf24fcf5e42b54.m3u8
 #EXTINF:-1 tvg-name="CCTV5(backup)" tvg-id="378823" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001815951580_60.jpg" group-title="运动",[BD]cctv5-体育
@@ -139,6 +139,8 @@ https://stream1.freetv.fun/9447224f27b995b42e5354aa08915b6d16e66f4805b7ff8f5b797
 https://stream1.freetv.fun/c1c113aa615b9ddf7c8fd3673e8405a46e96077dcfe8163a241717fa6d658273.m3u8
 #EXTINF:-1 tvg-name="南京少儿" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531150427982993_75.jpg" group-title="其它",[SD]南京少儿
 https://stream1.freetv.fun/8d17d15885e74533248a4fb286e51d8e5c71e47a273ea3d83b427914879e8b95.m3u8
+#EXTINF:-1 tvg-name="南京影视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531150722154019_18.jpg" group-title="电影",[SD]南京影视
+https://stream1.freetv.fun/4f3f689e105befa0734728b2e613138f64a626d66a3e85de0542f6dd58c5018f.ctv
 #EXTINF:-1 tvg-name="南京教科" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531150246604427_70.jpg" group-title="其它",[BD]南京教科
 https://stream1.freetv.fun/099504532189fa96f1dab2c0ae07e17c6401d9fcccd45fb61fbdbc48b76c67fc.m3u8
 #EXTINF:-1 tvg-name="南京新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531150344913095_13.jpg" group-title="新闻",[HD]南京新闻综合
