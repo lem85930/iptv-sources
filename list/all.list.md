@@ -304,7 +304,7 @@
 | 298 | [BD]cctv4 | stream1.freetv.fun | <https://stream1.freetv.fun/ce75cb26c3c92bd5f97e003c8bb34c3c3b81be5bfd2e9261d854a5b0f3bbb61a.ctv> |
 | 299 | [BD]cctv5 | stream1.freetv.fun | <https://stream1.freetv.fun/d375740fd4efa498a08a30f7856f08b0be6201fec9d5d8b5f4915f40cbc844d1.m3u8> |
 | 300 | [BD]cctv5-体育 | stream1.freetv.fun | <https://stream1.freetv.fun/8c0a0439191a3ba401897378bc2226a7edda1e571cb356ac7c7f4c15f6a2f380.m3u8> |
-| 301 | [BD]cctv5 | stream1.freetv.fun | <https://stream1.freetv.fun/0773bfa31084bbac64728f58f0160726c87014e8d40ed79a1921b1f8227f0a1e.m3u8> |
+| 301 | [BD]cctv5 | stream1.freetv.fun | <https://stream1.freetv.fun/57f6d93bd0efecdc5e7211d3da89e618bad97e16adbda2da38b2a7efc39582ad.m3u8> |
 | 302 | [BD]cctv5 plus | stream1.freetv.fun | <https://stream1.freetv.fun/8156da2fe8060843daeeda9f71f11a274b5bca4a1e75bbd2762fac959fffce22.ctv> |
 | 303 | [BD]cctv5 plus | stream1.freetv.fun | <https://stream1.freetv.fun/60a57ea259b425dce30d72645626504992c07fae5a9d2efa7b0a5fd236086e23.m3u8> |
 | 304 | [BD]cctv6 | stream1.freetv.fun | <https://stream1.freetv.fun/74f09b564503549683e4d1da5f68a95f4d34337c3b48004415eec78a1ec0f489.m3u8> |
@@ -601,7 +601,7 @@
 | 595 | [BD]nh tv | stream1.freetv.fun | <https://stream1.freetv.fun/ace53939ae82fa9ade48d73c9ffad2d771697b9a4dd9fe7ecb7872a72527131b.ctv> |
 | 596 | [HD]tve 24 h | stream1.freetv.fun | <https://stream1.freetv.fun/c1a7f9a3a5487a024d07c499341ff73da13f8a56660ac1b65625d99de11b1239.m3u8> |
 | 597 | [HD]hbo | stream1.freetv.fun | <https://stream1.freetv.fun/0bdcc3a50973b24d87ea727540020cd0b96d6d4ec65751ee18ff86f2e9af5c68.ctv> |
-| 598 | [BD]HBO 2 | stream1.freetv.fun | <https://stream1.freetv.fun/4c92dcb7a6842feed641c23585e7c8699f5ed62eeef327a5b9a0d5fb576bd0b7.ctv> |
+| 598 | [BD]HBO 2 | stream1.freetv.fun | <https://stream1.freetv.fun/f17dd751ce69656fc3b73131c0b91b33aef05308d0cee60231c55ef25cd36a50.ctv> |
 | 599 | [HD]hbo 3 | stream1.freetv.fun | <https://stream1.freetv.fun/73ac749dd962ff6095987bdc252366bf56b0b299676de46928935e9ec98f6ab5.m3u8> |
 | 600 | [BD]HBO | stream1.freetv.fun | <https://stream1.freetv.fun/ca38481f4b5ff01e9a6c73d84bfccf2780a942e3970b12a3f2907f1ac402da8d.m3u8> |
 | 601 | [BD]HBO Comedy | stream1.freetv.fun | <https://stream1.freetv.fun/0c667a605546b3754be2f8ef68e1c27d54681d14bca30152b036425a94ac6fda.ctv> |
@@ -713,7 +713,7 @@
 | 707 | [SD]kanal b | stream1.freetv.fun | <https://stream1.freetv.fun/e42071aa47c6398891dcb53e4ed541e161fec290dfa4f9afe3e75bf87208b702.ctv> |
 | 708 | [SD]kanal 15 | stream1.freetv.fun | <https://stream1.freetv.fun/7899f2df8590c49a7c0de81fe4b2ee660f19a6f21a3ed9f1ca4bd45ad102a016.ctv> |
 | 709 | [SD]kansai tv | stream1.freetv.fun | <https://stream1.freetv.fun/f04d26c2a1b5c84a58056df1dc6282b223db794988811352c80df5ebb7e8d049.m3u8> |
-| 710 | [SD]kerman | stream1.freetv.fun | <https://stream1.freetv.fun/c160f058974a432fc823f80b02021cb90ade6d6d70f194823eca847e82a0ff05.m3u8> |
+| 710 | [VGA]kerman | stream1.freetv.fun | <https://stream1.freetv.fun/c160f058974a432fc823f80b02021cb90ade6d6d70f194823eca847e82a0ff05.m3u8> |
 | 711 | [BD]kika | stream1.freetv.fun | <https://stream1.freetv.fun/1e6140ff0740849cc57a4568d0319d928a37fca0eb5030ef93a5b86667d279ea.m3u8> |
 | 712 | [HD]kino tv | stream1.freetv.fun | <https://stream1.freetv.fun/bb777f44d28dc4287327e7eb61879148439fc65dab637932e54eb76bb627fd67.m3u8> |
 | 713 | [HD]kiss kiss tv | stream1.freetv.fun | <https://stream1.freetv.fun/b2f5a9c86f0355aae0a3fda24336b26a8a3a5bdc6394e2a1990a667bd256e2e2.m3u8> |
@@ -2000,4 +2000,4 @@
 | 1994 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 | 1995 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Wed Apr 16 2025 22:21:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Apr 17 2025 01:47:57 GMT+0000 (Coordinated Universal Time)**
