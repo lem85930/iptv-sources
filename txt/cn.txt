@@ -264,7 +264,7 @@
 
 电影,#genre#
 [BD]cctv11,https://stream1.freetv.fun/c23a4f52a9d9d0b34759b80498722011be190bd0d11d4425312946cb5f42cc75.m3u8
-[SD]cctv6,https://stream1.freetv.fun/483f95c06363d35374705eefa8d221d1391eb074c14e133910680c1fe202065b.m3u8
+[BD]cctv6,https://stream1.freetv.fun/3cab25a60ac094845e569d82dc316f27fe13385f3a0f3507a896860fc69f703d.m3u8
 [BD]cctv8,https://stream1.freetv.fun/14bae10c7014448f2b4034f90a3dbf33e4d1900fbbe468a41cf155948680b72f.m3u8
 [SD]celestial_classic_*wj,https://stream1.freetv.fun/fa88d9f83ba9ef6954b1d3107ceda5f4baa3f16002adc748358a2d3efe4812f6.ctv
 [BD]chc动作电影,https://stream1.freetv.fun/2522efdef1606bf100dc474e08eed75036e6f33bd62a47a54ddf6a00b79b0ce7.ctv
