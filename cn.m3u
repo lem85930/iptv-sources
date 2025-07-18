@@ -444,7 +444,7 @@ https://stream1.freetv.fun/78ff2a1906b458cac0f424556a4d75cad5a332397e9f103400ef6
 #EXTINF:-1 tvg-name="湛江新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101000354616391_13.jpg" group-title="新闻",[HD]靖江新闻综合
 rtmp://visit.jjbctv.com:1935/live/xwzhmb?zjiangsd
 #EXTINF:-1 tvg-name="湛江综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/3_381.jpg" group-title="其它",[BD]湛江综合
-https://stream1.freetv.fun/56f592451293015c3767ddff31a6936f08dca2f1975b011e1736ebb6e8a31aca.ctv
+https://stream1.freetv.fun/089570643717446d18f6a989d8111374ae99d72806d0363059e281282ec92042.m3u8
 #EXTINF:-1 tvg-name="温州新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101015137550175_53.jpg" group-title="新闻",[VGA]温岭新闻综合
 rtmp://35813.hlsplay.aodianyun.com/tv_radio_35813/tv_channel_911
 #EXTINF:-1 tvg-name="济南教育" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/03/13/large/20230313162238707551_69.jpeg" group-title="其它",[BD]济南教育
@@ -481,7 +481,7 @@ https://stream1.freetv.fun/47005073e3361b90a8598f0e7a9072c87ecf5b1de34c9e8aaf6df
 https://stream1.freetv.fun/16791ecdbd5767550485d676548dc9129773b87c77b2ac3913aba5f8769dd827.ctv
 #EXTINF:-1 tvg-name="福建旅游" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530233208605714_26.jpg" group-title="其它",[BD]福建旅游
 https://stream1.freetv.fun/d81f63a76a3547bd8255c5bffc25a2c4b3868792fcec6304b25de1996a048b3e.ctv
-#EXTINF:-1 tvg-name="福建经济" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530233046478108_97.jpg" group-title="新闻",[VGA]福建经济
+#EXTINF:-1 tvg-name="福建经济" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530233046478108_97.jpg" group-title="新闻",[BD]福建经济
 https://stream1.freetv.fun/4ab0230fd9daedb31bf892b75f6fea877ed54b752fad76c74a037904877292f3.ctv
 #EXTINF:-1 tvg-name="福建综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530233623778528_85.jpg" group-title="综合",[VGA]福建综合
 https://stream1.freetv.fun/42b67abbc249a421e753fbd73afac2670b878452594a9040ca775b56de80a68c.ctv

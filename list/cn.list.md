@@ -226,7 +226,7 @@
 | 220 | [HD]湖州娱乐 | stream1.freetv.fun | <https://stream1.freetv.fun/8c0deff913dc9e1f960f84c0c8ffd1fca0db4a05a1670e16bc6eac393e9c8f7d.m3u8> |
 | 221 | [HD]泸州新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/78ff2a1906b458cac0f424556a4d75cad5a332397e9f103400ef6d2264c97b95.m3u8> |
 | 222 | [HD]靖江新闻综合 | visit.jjbctv.com:1935 | <rtmp://visit.jjbctv.com:1935/live/xwzhmb?zjiangsd> |
-| 223 | [BD]湛江综合 | stream1.freetv.fun | <https://stream1.freetv.fun/56f592451293015c3767ddff31a6936f08dca2f1975b011e1736ebb6e8a31aca.ctv> |
+| 223 | [BD]湛江综合 | stream1.freetv.fun | <https://stream1.freetv.fun/089570643717446d18f6a989d8111374ae99d72806d0363059e281282ec92042.m3u8> |
 | 224 | [VGA]温岭新闻综合 | 奥点云 | <rtmp://35813.hlsplay.aodianyun.com/tv_radio_35813/tv_channel_911> |
 | 225 | [BD]济南教育 | stream1.freetv.fun | <https://stream1.freetv.fun/64575cd487b482025698f9d005c1c4ccf24965bf6ba46cc7483e773192000c76.m3u8> |
 | 226 | [BD]济源电视一套 | stream1.freetv.fun | <https://stream1.freetv.fun/c607ae84f4c7fab6b975a2af17c7778ad8d09bcbd4cd13b6f6b518a5bfddd050.m3u8> |
@@ -245,7 +245,7 @@
 | 239 | [BD]福建公共 | stream1.freetv.fun | <https://stream1.freetv.fun/47005073e3361b90a8598f0e7a9072c87ecf5b1de34c9e8aaf6df5a5cc429249.ctv> |
 | 240 | [BD]福建新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/16791ecdbd5767550485d676548dc9129773b87c77b2ac3913aba5f8769dd827.ctv> |
 | 241 | [BD]福建旅游 | stream1.freetv.fun | <https://stream1.freetv.fun/d81f63a76a3547bd8255c5bffc25a2c4b3868792fcec6304b25de1996a048b3e.ctv> |
-| 242 | [VGA]福建经济 | stream1.freetv.fun | <https://stream1.freetv.fun/4ab0230fd9daedb31bf892b75f6fea877ed54b752fad76c74a037904877292f3.ctv> |
+| 242 | [BD]福建经济 | stream1.freetv.fun | <https://stream1.freetv.fun/4ab0230fd9daedb31bf892b75f6fea877ed54b752fad76c74a037904877292f3.ctv> |
 | 243 | [VGA]福建综合 | stream1.freetv.fun | <https://stream1.freetv.fun/42b67abbc249a421e753fbd73afac2670b878452594a9040ca775b56de80a68c.ctv> |
 | 244 | [VGA]福建电视剧 | stream1.freetv.fun | <https://stream1.freetv.fun/f40696c45d95b0223924ffa91dfe645a8e3292227f8f3cf9e0b890e65c81ab5b.ctv> |
 | 245 | [BD]纪录片 | stream1.freetv.fun | <https://stream1.freetv.fun/c0dec1421fbf3a4fab18f540b4cdc02c4f93e630a581613e45d6858b504e46d0.m3u8> |
@@ -316,4 +316,4 @@
 | 310 | [BD]溧水新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/1a079c059eb130d33f8a0b23c616b77e1390d13bed99002dda920d83163b8808.m3u8> |
 | 311 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8> |
 
-Updated at **Thu Jul 17 2025 22:24:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jul 18 2025 02:05:51 GMT+0000 (Coordinated Universal Time)**
