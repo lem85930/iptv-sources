@@ -83,8 +83,6 @@ https://stream1.freetv.fun/3304d40ab080cfdc62386a8b26bd04cdbc7330f96858e3e1a6932
 https://stream1.freetv.fun/78f55f361d865fb3a113720e11fded9307bb9cb180fe731826736d2f5df8ca0b.m3u8
 #EXTINF:-1 tvg-name="丹东新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101014703270530_22.jpg" group-title="新闻",[BD]丹东新闻综合
 https://stream1.freetv.fun/45e425dc9ed08bb01487e2c2715d639f9ee5aba47f4939aa5d82154f7090553f.m3u8
-#EXTINF:-1 tvg-name="五星体育" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/10/29/large/20241029101130777003_66.png" group-title="运动",[HD][MSR]五星体育
-https://stream1.freetv.fun/ce9968c28b17052e47b6a9a31518de22bda3d4260fe6ca8c561eb63066bb1ab7.ctv
 #EXTINF:-1 tvg-name="佛山公共" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/06/11/large/20220611224108495634_55.jpg" group-title="其它",[BD]佛山公共
 https://stream1.freetv.fun/c881ad0a2c1a5c32af3f9bb4b3ce8e52f88f0203e977410083afd0bd7448b27c.ctv
 #EXTINF:-1 tvg-name="佛山影视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/06/11/large/20220611224157576355_65.jpg" group-title="电影",[BD]佛山影视
@@ -481,8 +479,6 @@ https://stream1.freetv.fun/00909c8772c675c91921b5257ff3451d08dd8933baf914e66ffd5
 https://stream1.freetv.fun/16791ecdbd5767550485d676548dc9129773b87c77b2ac3913aba5f8769dd827.ctv
 #EXTINF:-1 tvg-name="福建旅游" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530233208605714_26.jpg" group-title="其它",[BD]福建旅游
 https://stream1.freetv.fun/d81f63a76a3547bd8255c5bffc25a2c4b3868792fcec6304b25de1996a048b3e.ctv
-#EXTINF:-1 tvg-name="福建经济" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530233046478108_97.jpg" group-title="新闻",[BD]福建经济
-https://stream1.freetv.fun/4ab0230fd9daedb31bf892b75f6fea877ed54b752fad76c74a037904877292f3.ctv
 #EXTINF:-1 tvg-name="福建综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530233623778528_85.jpg" group-title="综合",[VGA]福建综合
 https://stream1.freetv.fun/ac432f5852f51e8885e4954e3d7729691e8ae7dbd899b13a027f1cb2ad0740ca.ctv
 #EXTINF:-1 tvg-name="福建电视剧" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530232528048400_14.jpg" group-title="电影",[VGA]福建电视剧

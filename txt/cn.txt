@@ -249,7 +249,6 @@
 [HD]黄石新闻综合,https://stream1.freetv.fun/ba7406bfd608b8ca8e904efdfd83e9f60516e79bc603419a1eabad73073e4029.m3u8
 [BD]池州新闻综合,https://stream1.freetv.fun/6159f892ca992b81c7cd08dcbb44542c43f04f7b53d4ae41ba8133d855d49b90.ctv
 [BD]福建新闻,https://stream1.freetv.fun/16791ecdbd5767550485d676548dc9129773b87c77b2ac3913aba5f8769dd827.ctv
-[BD]福建经济,https://stream1.freetv.fun/4ab0230fd9daedb31bf892b75f6fea877ed54b752fad76c74a037904877292f3.ctv
 [SD]绍兴新闻,https://stream1.freetv.fun/3ebead7dcef07f7ea24dbdf1f24299de2dec8ddecf20737e5a00dce01b26cc3c.m3u8
 [BD]泌阳新闻综合,https://stream1.freetv.fun/f503326abf80667038c137762490e29fa4ed48e0b602a48d12c775526f69308a.m3u8
 [BD]义马新闻综合,https://stream1.freetv.fun/234cda484314d01cf6c68b3a13997dba4daeaa532d4cecc9e1ca4df18196d410.m3u8
@@ -299,7 +298,6 @@
 [BD]cctv5_plus,https://stream1.freetv.fun/a738860ec7fcaf655c7db23c3d6ef52d023e652b5486379db530287184dad292.ctv
 [HD]cctv-5_plus体育赛事,https://stream1.freetv.fun/46426c5508230b3191d6e2f8741db45084d30a8dff4b789fbcf7ec48bdce110a.m3u8
 [HD]cctv-风云足球,https://stream1.freetv.fun/2938fff94d8309aabb9c1df0ab8668be2a326e05c78df4d3a20a6c0a976f3724.m3u8
-[HD][MSR]五星体育,https://stream1.freetv.fun/ce9968c28b17052e47b6a9a31518de22bda3d4260fe6ca8c561eb63066bb1ab7.ctv
 [BD]山东体育,https://stream1.freetv.fun/7662bf20ec19b22bc26a118f1918354e92b986fc3ad7e2a76884fac7791e0021.m3u8
 [HD]广州竞赛,https://stream1.freetv.fun/c3217266cc75ed76bb805aee90e67ad0b53075de724f41e687f3c0c8d4bcd4a1.m3u8
 [BD]广东体育,https://stream1.freetv.fun/869475cf6ab5d187816a1b7fbd8649cfc0b41c452e5595eabb2a36e51a61eecf.ctv
