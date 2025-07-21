@@ -6,4 +6,4 @@
 | --- | ------------ | ---- | ------ |
 | 1 | 宁夏卫视 | IPv4 直链 | <http://113.57.93.165:9900/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sun Jul 20 2025 22:23:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jul 21 2025 02:10:29 GMT+0000 (Coordinated Universal Time)**
