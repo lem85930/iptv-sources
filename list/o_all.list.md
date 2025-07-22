@@ -3307,7 +3307,7 @@
 | 3301 | Horror Machine (720p) | naviofrequency-horrormachine-klowdtv.amagi.tv | <https://naviofrequency-horrormachine-klowdtv.amagi.tv/playlist.m3u8> |
 | 3302 | Horror TV | streams2.sofast.tv | <https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8> |
 | 3303 | Horse and Country (720p) | hncfree-samsungau.amagi.tv | <https://hncfree-samsungau.amagi.tv/playlist.m3u8> |
-| 3304 | HorseTV (720p) | a-cdn.klowdtv.com | <https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8> |
+| 3304 | Horse TV (720p) | a-cdn.klowdtv.com | <https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8> |
 | 3305 | Hosanna Vision (720p) [Not 24/7] | 1206618505.rsc.cdn77.org | <https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8> |
 | 3306 | Host TV (720p) | panel.freedomflixtv.org:3994 | <https://panel.freedomflixtv.org:3994/hybrid/play.m3u8> |
 | 3307 | Hot Bench | cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv | <http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6036e6e7ac69c400072afca2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f94-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7b2a6dda-f21b-4de6-9d06-1457daf9aa31> |
@@ -9664,4 +9664,4 @@
 | 9658 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
 | 9659 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 
-Updated at **Mon Jul 21 2025 22:24:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 22 2025 02:04:57 GMT+0000 (Coordinated Universal Time)**
