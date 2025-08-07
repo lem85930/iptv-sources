@@ -1998,4 +1998,4 @@
 | 1992 | [HD]龙华洋片 *c | stream1.freetv.fun | <https://stream1.freetv.fun/0fd3e34bc9e5730c43f1ee3552e6a5e31778e8c361503dca23ee8618a4cdeb7f.ctv> |
 | 1993 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.m3u8> |
 
-Updated at **Thu Aug 07 2025 14:28:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 07 2025 16:34:10 GMT+0000 (Coordinated Universal Time)**
