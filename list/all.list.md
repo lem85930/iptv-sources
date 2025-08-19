@@ -1214,7 +1214,7 @@
 | 1208 | [HD]tbmm tv | stream1.freetv.fun | <https://stream1.freetv.fun/c4cf5d8597d24d81687cf5b4aff899a486bfdca8834a03526f2da8f1c9dcafa7.m3u8> |
 | 1209 | [HD]tbn | stream1.freetv.fun | <https://stream1.freetv.fun/0a733db4cb729e61ffde3caa91734e75a31a4dbc53dfa38050de5cf7bdadf230.ctv> |
 | 1210 | [HD]tbs | stream1.freetv.fun | <https://stream1.freetv.fun/83f99ed8de2dae4806a002472dfdd3d7b3d5ddf6054ed221949b18b6694e09d7.m3u8> |
-| 1211 | [HD]tbs channel 1 | stream1.freetv.fun | <https://stream1.freetv.fun/a44cb9da92e7aa7f2dbdc943998b45dcf27da4c83cad1328b3469851e38a43e3.m3u8> |
+| 1211 | [BD]tbs channel 1 | stream1.freetv.fun | <https://stream1.freetv.fun/b5a61dd27c5ed8aa1348daed43028b02910214fb7932277118ed0ac2eb25cfaa.m3u8> |
 | 1212 | [BD]cctv-2[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/cd5157545b82f5dd9d883d92e2a9604dc937707818140cc89c4358c48e5374d0.m3u8> |
 | 1213 | [HD]tcm | stream1.freetv.fun | <https://stream1.freetv.fun/b0ff2d0dcef8d40b98776058ccfc83fcfbfeaa24596a48495b4b88d57d4d1653.m3u8> |
 | 1214 | [HD]tcm usa *e | stream1.freetv.fun | <https://stream1.freetv.fun/8a711c697dde08b7066f738a86ca3c31809380c4feec157015ad6fa294963269.ctv> |
@@ -1986,4 +1986,4 @@
 | 1980 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.m3u8> |
 | 1981 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/66c2819a6d6159881e8bdfe88f1bd048bbae6df9ceaa34472d317615c13f15cf.m3u8> |
 
-Updated at **Mon Aug 18 2025 22:19:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Aug 19 2025 01:53:19 GMT+0000 (Coordinated Universal Time)**

@@ -840,7 +840,7 @@ Generic,#genre#
 [HD]supersports_1,https://stream1.freetv.fun/44f03bb1eef980464bb4b80692a7f9d3d06be77ecff11b6fcc42316f38216ac1.ctv
 [HD]syria_tv,https://stream1.freetv.fun/f7864f25766ea4661229ef8db67dfdce57f6b0619ff242cf73f39624d4a349c4.m3u8
 [HD]tbs,https://stream1.freetv.fun/83f99ed8de2dae4806a002472dfdd3d7b3d5ddf6054ed221949b18b6694e09d7.m3u8
-[HD]tbs_channel_1,https://stream1.freetv.fun/a44cb9da92e7aa7f2dbdc943998b45dcf27da4c83cad1328b3469851e38a43e3.m3u8
+[BD]tbs_channel_1,https://stream1.freetv.fun/b5a61dd27c5ed8aa1348daed43028b02910214fb7932277118ed0ac2eb25cfaa.m3u8
 [HD]telecanal,https://stream1.freetv.fun/7c218fcfd2b843678d1a3d0380aa4d30fd5efb9c8f7e26462ea0d18cd4c8eecd.m3u8
 [BD]tele_friuli,https://stream1.freetv.fun/c609d1c221a7d703eb5a9cd07703b1f1ede0e1107ac9f79f55c9ed5c46d713ee.m3u8
 [HD]telemadrid,https://stream1.freetv.fun/b1c7174712890fb1f1968db2a6795a1727a83b2e4f11a4c03e138a619200c562.m3u8

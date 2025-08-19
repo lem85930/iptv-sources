@@ -2419,8 +2419,8 @@ https://stream1.freetv.fun/c4cf5d8597d24d81687cf5b4aff899a486bfdca8834a03526f2da
 https://stream1.freetv.fun/0a733db4cb729e61ffde3caa91734e75a31a4dbc53dfa38050de5cf7bdadf230.ctv
 #EXTINF:-1 tvg-name="TBS" tvg-id="10693" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2024/02/28/large/20240228000838252623_72.jpg" group-title="Generic",[HD]tbs
 https://stream1.freetv.fun/83f99ed8de2dae4806a002472dfdd3d7b3d5ddf6054ed221949b18b6694e09d7.m3u8
-#EXTINF:-1 tvg-name="TBS Channel" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/10/13/large/20231013210123853810_86.png" group-title="Generic",[HD]tbs channel 1
-https://stream1.freetv.fun/a44cb9da92e7aa7f2dbdc943998b45dcf27da4c83cad1328b3469851e38a43e3.m3u8
+#EXTINF:-1 tvg-name="TBS Channel" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/10/13/large/20231013210123853810_86.png" group-title="Generic",[BD]tbs channel 1
+https://stream1.freetv.fun/b5a61dd27c5ed8aa1348daed43028b02910214fb7932277118ed0ac2eb25cfaa.m3u8
 #EXTINF:-1 tvg-name="TCCTV-2" tvg-id="" tvg-country="Thailand" tvg-language="Chinese" tvg-logo="https://epg.pw/media/img/logo/1_124.jpg" group-title="Other",[BD]cctv-2[ipv6]
 https://stream1.freetv.fun/cd5157545b82f5dd9d883d92e2a9604dc937707818140cc89c4358c48e5374d0.m3u8
 #EXTINF:-1 tvg-name="TCM Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/22/20170722213857688953_46.png" group-title="Entertainment",[HD]tcm
