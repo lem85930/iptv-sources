@@ -697,6 +697,8 @@ https://stream1.freetv.fun/730215b9799efeb31ab164f0a60d4ffa98a8e16469ae183be75bc
 https://stream1.freetv.fun/f20cb652c27db2bb639fa9cdd118626b96b6eb79335386c2517254d631673758.ctv
 #EXTINF:-1 tvg-name="CSI Web Tv" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205540041026_31.png" group-title="Sports",[SD]csi
 https://stream1.freetv.fun/c2f253c769bba204bd075e3610c8d1ce87c64be7ca4ffb9d31411a8063e78a20.m3u8
+#EXTINF:-1 tvg-name="CTS" tvg-id="" tvg-country="Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/16/20170216025156378252_53.jpg" group-title="Other",[BD]cts
+rtmp://59.124.75.138:1935/sat/tv111
 #EXTINF:-1 tvg-name="CTV" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_86.jpg" group-title="Other",[HD]actv
 https://stream1.freetv.fun/d3346d6afb137de6ac0129cf8cbe56d324bac71b3f859b46b49da3a2b77611bf.m3u8
 #EXTINF:-1 tvg-name="CTV8 CAMBODIA" tvg-id="" tvg-country="Cambodia" tvg-language="Khmer" tvg-logo="https://epg.pw/media/images/channel/2021/06/26/large/20210626150016912658_96.png" group-title="Movies",[HD]ctv8
@@ -3348,7 +3350,7 @@ rtmp://f13h.mine.nu/sat/tv071
 #EXTINF:-1 tvg-name="台视新闻FHD" tvg-id="" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724094914581648_75.png" group-title="News",[HD]台视新闻
 https://stream1.freetv.fun/303a4e4b8b9c669547f4860a119882a0a5636bb5390c74bcb2ab1ac3f8985fc7.ctv
 #EXTINF:-1 tvg-name="吉林卫视" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728163659540434_96.png" group-title="Generic",[BD]吉林卫视
-https://stream1.freetv.fun/20ec706dec67b36d8bd933921ddc77d953bdbb5db85ceb51b4235469b7fa23b2.m3u8
+https://stream1.freetv.fun/657b3cc8f2106d0e0b52d0bc7f0e15db544b37b3e86bf5f486f351b9db61fa2e.ctv
 #EXTINF:-1 tvg-name="名侦探柯南频道" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/09/11/20180911125535604697_64.jpg" group-title="Kids",[HD]名侦探柯南
 https://stream1.freetv.fun/d47045ecb6c97cf2b7b01d0d3031bc982228f3ca2e0c11eff79b603aee28eb80.ctv
 #EXTINF:-1 tvg-name="周星驰专辑" tvg-id="" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/04/05/large/20190405223557361641_51.jpg" group-title="Movies",[BD]周星驰
