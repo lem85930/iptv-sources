@@ -170,4 +170,4 @@
 | 164 | 金鹰卡通 | IPv4 直链 | <http://221.13.235.169:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 165 | 金鹰卡通 | IPv4 直链 | <http://101.66.199.161:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Fri Aug 22 2025 18:32:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Aug 22 2025 20:25:13 GMT+0000 (Coordinated Universal Time)**
