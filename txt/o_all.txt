@@ -1771,7 +1771,7 @@ Shenzhen_Satellite_TV_(2160p),https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u
 Shine_Star_TV_(720p)_[Not_24/7],https://f-tx-edge-87.christianworldmedia.com/shinetvpak2/mp4:shinetvpak2/playlist.m3u8
 Shots!_(1080p),https://live-nationalworld-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/shotstv-live/index.m3u8
 Shout!_TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55a6a3275616b6240c26f393/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb090-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=404cd788-0921-444d-9eeb-2ae676a6a291
-Show_Turk,https://canlitvulusal.xyz/live/showturk/index.m3u8
+Show_Turk,https://showturk.blutv.com/blutv_showturk2/live.m3u8
 Show_TV_(1080p),https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 Showtime_2_East,https://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
 Showtime_East,https://fl3.moveonjoy.com/SHOWTIME/index.m3u8
@@ -3384,6 +3384,7 @@ Anadolu_Net_TV_(1080p),https://live.artidijitalmedya.com/artidijital_anadolunet/
 Anand_TV_(720p)_[Not_24/7],https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 Andorra_TV_(1080p),https://live-edge-eu-1.cdn.enetres.net/56495F77FD124FECA75590A906965F2C022/live-3000/index.m3u8
 Antena_1_(720p)_[Not_24/7],https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
+Antena_3_Internacional_(480p),http://38.180.133.31:8000/play/a0ki/index.m3u8
 Antena_7_(480p),https://cors-proxy.cooks.fyi/http://190.123.76.22:8000/play/a044/index.m3u8
 Antena_Seis_TV_(720p),https://video1.azulstream.com:8081/antenaseistv/index.m3u8
 Antena_TV_(1080p),https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
@@ -3880,6 +3881,7 @@ Efarina_TV,https://live.efarinatv.net/hls/stream.m3u8
 EGM_Channel_(480p),https://paneltv.online:1936/8186/8186/playlist.m3u8
 Ekin_Turk_(576p),http://185.234.111.229:8000/play/a025
 El_15_TV_(720p),https://stream.oursnetworktv.com/latin/encoder32/playlist.m3u8
+El_Fadjer_TV_(720p),https://stream.wsla.top/play/1.m3u8
 El_Medina,https://dvrfl06.bozztv.com/astv-elmedina/index.m3u8
 El_Mehwar_Channel,https://fl1002.bozztv.com/ga-elmehwar/tracks-v1a1/mono.m3u8
 El_Oussra_TV,https://dvrfl06.bozztv.com/astv-elousra/index.m3u8
@@ -7589,6 +7591,7 @@ Bahrain_Sports_1_(720p)_[Not_24/7],https://5c7b683162943.streamlock.net/live/ngr
 Bahrain_Sports_2_(720p)_[Not_24/7],https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 Barca_TV,https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
 beIN_Sports_Haber,https://canlitvulusal3.xyz/live/beinsportshaber/index.m3u8
+beIN_Sports_USA,http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
 beIN_SPORTS_XTRA,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62b97ef310e33f0007eea65f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c794334-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=01b4faa7-f3ac-4f6d-9967-3f409d4c6863
 BeIN_SPORTS_XTRA_en_Espanol_(720p),https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
 BEK_TV_Sports_West_(720p),https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
