@@ -138,7 +138,6 @@
 [BD]洛阳综合,https://stream1.freetv.fun/bb623d9df441f9ba90275d3cfe6de7cb59f62ebdeddabdca55ed51b13f81f3f5.m3u8
 [BD]洛阳科教,https://stream1.freetv.fun/6bdd74e821a4c6d6cc8474e9acf9267f121dbaa61b4b72e7f2700bf00f59a4de.m3u8
 [VGA]浙江教育,https://stream1.freetv.fun/57773a18169f6029e35023d1caad61cedca9c5ad6467d2aae0d79daaded1b53f.m3u8
-[BD]乌海新闻综合,rtmp://play1-qk.nmtv.cn/live/1735546358166026
 [HD]湖州公共,https://stream1.freetv.fun/94f93241eec509bb5096d7980b36fe86b4c4d7de2ee93272030c2c62d34e9553.m3u8
 [HD]湖州娱乐,https://stream1.freetv.fun/8c0deff913dc9e1f960f84c0c8ffd1fca0db4a05a1670e16bc6eac393e9c8f7d.m3u8
 [BD]湛江公共,https://stream1.freetv.fun/adfc16e4589a2c2fd85be2958f63332ed13a33be42aa67efc30669a246834b5b.m3u8
@@ -228,7 +227,6 @@
 [HD]平湖新闻综合,https://stream1.freetv.fun/9ecb68ad1808381e1cbd5f827e3624a8dc7592f17dbeeefae49a870435eb4ec1.m3u8
 [HD]泸州新闻综合,https://stream1.freetv.fun/78ff2a1906b458cac0f424556a4d75cad5a332397e9f103400ef6d2264c97b95.m3u8
 [BD]夹江新闻综合,https://stream1.freetv.fun/41c2c3a7d2084d602947a7b1bcf6951cb286308a64e1d8777980bd55cf234190.m3u8
-[VGA]温岭新闻综合,rtmp://35813.hlsplay.aodianyun.com/tv_radio_35813/tv_channel_911
 [SD]吉林新闻综合,https://stream1.freetv.fun/f229007f325ee603d39a4a6ef3046dd9140433eebfb43d2dfdbc410f22e6ad0a.m3u8
 [HD]黄石新闻综合,https://stream1.freetv.fun/ba7406bfd608b8ca8e904efdfd83e9f60516e79bc603419a1eabad73073e4029.m3u8
 [BD]池州新闻综合,https://stream1.freetv.fun/6159f892ca992b81c7cd08dcbb44542c43f04f7b53d4ae41ba8133d855d49b90.ctv
