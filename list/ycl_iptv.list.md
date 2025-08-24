@@ -85,4 +85,4 @@
 | 79 | 央广购物 | IPv4 直链 | <rtp://239.3.1.223:8001> |
 | 80 | 家有购物 | IPv4 直链 | <rtp://239.3.1.185:8001> |
 
-Updated at **Sat Aug 23 2025 22:20:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 24 2025 02:01:00 GMT+0000 (Coordinated Universal Time)**

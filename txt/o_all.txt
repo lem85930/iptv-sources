@@ -3508,6 +3508,7 @@ Beb_TV_(720p),https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.m
 Bebeto_TV_(720p),https://television.essastream.com:3502/live/bebetotelevisionlive.m3u8
 Bem_TV_(720p),http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 Berente_TV_(1080p),https://stream.streaming4u.hu/BerenteTV/index.m3u8
+Bergamo_TV_(1080p),https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8
 BF1,https://cdn-u.bozztv.com/usn1/cdntulix-astv33/bf1tv/playlist.m3u8
 Binge,https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8
 BL-TV/TV_Storbyen_(720p)_[Not_24/7],https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8
@@ -3686,6 +3687,7 @@ CBS_9_Oklahoma_City_OK_(KWTV-DT1)_(720p)_[Not_24/7],https://fuel-streaming-prod0
 CBS_East_(720p),https://fl3.moveonjoy.com/CBS_News/index.m3u8
 CCTV1_(1080p),http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?Contentid=reallive-hdcctv1&channel-id=ystenlive&livemode=1&stbId=3
 CCTV-4_America_(1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4_Europe,https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
 CCV_(480p),https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 CCX_Media_North_Brooklyn_Park_MN_(1080p),https://reflect-ccx.cablecast.tv/live-9/live/live.m3u8
 CDN_(720p),http://138.36.24.8:8000/play/a02w/index.m3u8
@@ -7865,6 +7867,7 @@ ArubaTV_+_(1080p),https://livertmptwo.com:19360/atvplusrelay/atvplusrelay.m3u8
 Asian_TV_(720p),https://mtlivestream.site/asian/ytlive/index.m3u8
 AsianBox_(720p),https://cdn3.skygo.mn/live/disk1/AsianBOX/HLS-FTA/AsianBOX.m3u8
 AsianCrush,https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+Asianet_Plus_(1080p),http://217.20.112.199/asianet/index.m3u8
 Aspire,https://fl3.moveonjoy.com/Aspire/index.m3u8
 Astro_Vinmeen,https://live20.bozztv.com/akamaissh101/ssh101/sungo544/playlist.m3u8
 AVT_Khyber,https://trn03.tulix.tv/gf-khybertv/index.m3u8
@@ -7901,6 +7904,7 @@ Carac_1_(1080p),https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m
 Carac_2_(1080p),https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
 Carac_3_(1080p),https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
 Carac_4_(1080p),https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
+Carac_5_SD_(1080p),https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
 Caribbean_World_Channel,https://live-us-cdn-1.tvstartupengine.com/live/playlist-prod-da1ba36f-39ba-4347-acce-c3a31de907f3/index.m3u8
 CeeJay_TV_(480p)_[Not_24/7],https://asiakwa.com/ceejaytv/index.fmp4.m3u8
 CG_Entertainment,https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
@@ -7909,6 +7913,7 @@ Channel_82,https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eBmnWbRkKKsu3nqa
 Channel_200_(540p),https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
 Channel_K_(720p),https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8
 Chroma_TV_(480p),https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+Chumbak_TV_(720p),https://cdn-1.pishow.tv/live/1451/master.m3u8
 Cibaeña_TV_(720p),https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
 Circle,https://amg00432-circletvfast-amg00432c1-cineverse-us-1112.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-cineverseus/playlist.m3u8
 City_Theater_Channel,http://49.113.179.174:4022/udp/238.125.1.60:5140
@@ -8171,6 +8176,7 @@ Persiana_Turkiye,https://turkhls.persiana.live/hls/stream.m3u8
 Pet_Club_TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 Play_Television_(720p),https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 PlayMedios_Digital_(1080p),https://rpn3.bozztv.com/ssh101/ssh101/playmedios/playlist.m3u8
+PLEX_TV,http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 Pluto_TV_Animales_(288p),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 Pluto_TV_Anime_Italy_(720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 Pluto_TV_British_TV_(720p),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b68a18823ecb93393cba2f1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=154&terminate=false&userId=
@@ -8335,6 +8341,7 @@ Antena_Monden_(720p),https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3
 Antiques_Road_Trip_(1080p),https://amg02333-pbs-amg02333c9-firetv-us-4249.playouts.now.amagi.tv/playlist.m3u8
 Ayush_TV_(360p)_[Not_24/7],https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 BBC_Home_&_Garden,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=844b6663-bad2-462b-9aef-d0f33d5dfaa0
+BBC_Lifestyle_Asia_(1080p),https://tv.ddns.vn/tv/bbclifestyle/index.m3u8
 Better_Health_TV_(480p),https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
 Biz_TV_(1080p),https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
 Biznet_Lifestyle_(480p),http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
@@ -8995,6 +9002,7 @@ CNBC_Africa_(480p),https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.sm
 CNBC_Arabiya_(1080p),https://cnbc-live.akamaized.net/cnbc/master.m3u8
 CNBC_Asia_(576p),https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 CNBC_Bajar_(504p),https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
+CNBC_Europe_HD_(1080p),https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 CNBC_Indonesia_(720p),https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 CNBC_TV18_(1080p),https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8
 CNBC_World,https://fl3.moveonjoy.com/CNBC_World/index.m3u8
@@ -9556,6 +9564,7 @@ Documentary,#genre#
 Asharq_Documentary_(1080p),https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 Backstage,https://fuse-backstage-xumo.amagi.tv/playlist.m3u8
 BBC_Earth_(1080p),https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
+BBC_Earth_Vietnam_(1080p),https://tv.ddns.vn/tv/bbcearth/index.m3u8
 BritBox_Mysteries,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f5d389985a0c0007357304/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7df7400e-1d21-4d2c-9534-db1c6d847a42
 CCTV_兵器科技,http://117.161.133.51:81/gitv_live/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ.m3u8?p=GITV
 CETV-4,http://49.113.179.174:4022/udp/238.125.3.92:5140
@@ -9896,7 +9905,7 @@ Red+_(1080p),https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/chann
 TV_Modelo_(720p),https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u
 
 Animation;Classic,#genre#
-Retro_Crush,https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8
+RetroCrush_(1080p),https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8
 
 Family;Kids,#genre#
 RiC_(1080p),https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
