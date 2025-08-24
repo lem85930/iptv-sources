@@ -288,4 +288,4 @@
 | 282 | [BD]黑龙江新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/7dd215c9f166208cd88c7d3807f2899e00819ef112fb02d0f6b4d0b3ec6c5d80.m3u8> |
 | 283 | [BD]黑龙江卫视高清 | stream1.freetv.fun | <https://stream1.freetv.fun/0342355911b1783929522a5f6ba3f359188afd79f7b1e837d5cf6a9a9050f085.ctv> |
 
-Updated at **Sun Aug 24 2025 08:26:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 24 2025 10:21:47 GMT+0000 (Coordinated Universal Time)**
