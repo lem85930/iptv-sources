@@ -3425,7 +3425,6 @@ ARTN_TV_(1080p)_[Not_24/7],https://streamer1.connectto.com/ARTN_mobile/index.m3u
 Aşgabat_(406p)_[Not_24/7],https://alpha.tv.online.tm/hls/ch006.m3u8
 Así_Sucede_Guanajuato_(720p)_[Not_24/7],https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8
 Assen_TV_(720p),https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&output=playlist.m3u8&protocol=https&service=webdav&type=live
-Astro_Vaanavil,https://live20.bozztv.com/akamaissh101/ssh101/sungo543/playlist.m3u8
 AT5,https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 Atabal_TV_[Not_24/7],https://vdopanel.jlahozconsulting.com:3648/live/atabaltvlive.m3u8
 ATB_La_Paz_(614p)_[Not_24/7],http://186.121.206.197/live/daniel/index.m3u8
@@ -4523,6 +4522,7 @@ Nova_TV_Brasov_(576p)_[Not_24/7],http://novapress.ro:2022/live/nova/playlist.m3u
 Now_14_(720p),https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8
 NRK_1_(1080i),https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8
 NRK_2_(1080i),https://nrk-live-no.akamaized.net/nrk2/muxed.m3u8
+NRTV,https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-HLS8/nrtv.m3u8
 NSTV_(720p),http://138.186.23.7:22281/nstv/nstv/playlist.m3u8
 NTD_TV_(1080p),https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
 NTN_(720p),https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
@@ -6057,7 +6057,6 @@ Asianet_News_(360p),https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m
 Asianet_News_Kannada_(360p)_[Not_24/7],https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8
 Asianet_News_Tamil_(360p)_[Not_24/7],https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
 Astra_TV_(480p)_[Not_24/7],https://ssh101.bozztv.com/ssh101/astratv/playlist.m3u8
-Astro_Awani_(720p),https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 ASTV_News_1_(720p)_[Not_24/7],http://news1.live14.com/stream/news1.m3u8
 Atacama_Noticias_(720p)_[Not_24/7],https://v2.tustreaming.cl/atacamanoticias/index.m3u8
 ATN_(480p),https://tv2.ifastekpanel.com:3013/live/atntvlive.m3u8
@@ -6070,6 +6069,7 @@ Bansal_News_(576p),https://yuppftalive.akamaized.net/080823/bansalnews/playlist.
 BBC_Arabic_(720p),https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 BBC_News_(1080p),https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 BBC_News_Asia_Pacific_(1080p),https://tv.ddns.vn/tv/bbcworldnews/index.m3u8
+BBC_News_Europe,https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
 BBC_Persian_(720p),https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
 BCI_24_News_(720p),https://eu1.vectromdigital.com:1936/bci24news/bci24news/playlist.m3u8
 BEK_TV_News_(720p),https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
@@ -7855,6 +7855,7 @@ Aakaash_Aath_(720p),https://cdn-4.pishow.tv/live/969/master.m3u8
 Aamar_Bangla_(720p),https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 Aathavan_TV_(720p)_[Not_24/7],http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 AB1,https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
+AB3_HD,https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
 ABC_TV_Plus_(720p),https://c.mjh.nz/abc-tv-plus.m3u8
 Acasa_TV_(576p),http://hls.protv.md/acasatv/acasatv.m3u8
 ACS_Network_(480p),https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
@@ -7886,7 +7887,6 @@ AsianBox_(720p),https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u
 AsianCrush,https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
 Asianet_Plus_(1080p),http://217.20.112.199/asianet/index.m3u8
 Aspire,https://fl3.moveonjoy.com/Aspire/index.m3u8
-Astro_Vinmeen,https://live20.bozztv.com/akamaissh101/ssh101/sungo544/playlist.m3u8
 AVT_Khyber,https://trn03.tulix.tv/gf-khybertv/index.m3u8
 Azteca_Internacional_(1080p),https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 B+_TV_(480p),https://tv.btnrwanda.com:3432/live/bpluslive.m3u8
@@ -8676,7 +8676,6 @@ Alfa_Dramas_(226p)_[Not_24/7],https://www.hellasnet.tv/rest2.live.hn/w2r.alf/pla
 AMC_East_(1080p),https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 American_Horrors_(480p),http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 Armenia_Premium,https://live20.bozztv.com/gin-trn09/gt-ampremium/index.m3u8
-Astro_Box_Office_Thangathirai_(720p),https://live20.bozztv.com/akamaissh101/ssh101/sungo546/playlist.m3u8
 Aurora_Media_Films_(720p),https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 AXN_Asia_(576p),http://125hvt.ddns.net:21585/axn/index.m3u8
 B4U_Bhojpuri_(1080p),https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
