@@ -99,7 +99,7 @@
 [BD]广东民生,https://stream1.freetv.fun/d45cfd603f67abdfb3f969833688b1ca785e22eccc790bf520bd8f89927f2f4b.ctv
 [BD]广东珠江,https://stream1.freetv.fun/943a56c1980ac8d65adeb0603437a8cd8da6241b019e93bba89c37ff050946e5.ctv
 [BD]广东珠江,https://stream1.freetv.fun/7f7f3d093404d862c4a47c81731ae346d9ad177ccd8c91326ec459db90b8a64a.ctv
-[HD]广东经济科教,https://stream1.freetv.fun/272f480373e2268c9b4f3cd9ad175b46eeee306c5d99103bcfff8990744f0967.m3u8
+[BD]广东经济科教,https://stream1.freetv.fun/f41adcdbb2f2580b0043573de7732c17d90611e0fbc0c579e6a453aa4f0c28ff.ctv
 [BD]广东卫视,https://stream1.freetv.fun/6787e35b48df7529fb25c86cd92936335e75d68881015ff99c3e969f57177987.m3u8
 [HD]广西卫视_*r,https://stream1.freetv.fun/35aef665adca1bd8bc00f219c88a3ce63e6b66a68c2a68d5802abe83cf9894e9.m3u8
 [SD]延边卫视[ipv6],https://stream1.freetv.fun/d2ea3a364fa453b29060ebccb5a06a1941755859c0182ab0f071473c08738fc2.m3u8

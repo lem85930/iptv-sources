@@ -2018,4 +2018,4 @@
 | 2012 | [BD]龙华经典 *c | stream1.freetv.fun | <https://stream1.freetv.fun/408e21b8a132cac58fbd987fc7b14fd691eda7c092cc617f9196e1d9a8028636.ctv> |
 | 2013 | [HD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/66c2819a6d6159881e8bdfe88f1bd048bbae6df9ceaa34472d317615c13f15cf.ctv> |
 
-Updated at **Thu Aug 28 2025 08:30:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 28 2025 10:24:35 GMT+0000 (Coordinated Universal Time)**
