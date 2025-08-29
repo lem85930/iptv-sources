@@ -1990,4 +1990,4 @@
 | 1984 | [HD]龙华戏剧 *p | stream1.freetv.fun | <https://stream1.freetv.fun/974879181be18ba600ab0263dfa0d734d7dbbcfaaa77fb4a84c3bbc86fdef930.ctv> |
 | 1985 | [BD]龙华日韩 | stream1.freetv.fun | <https://stream1.freetv.fun/9c2920df490df6a08c307894de50ccb79ac68fb82eebf6b8d6e8f2b1a3dc3509.m3u8> |
 
-Updated at **Fri Aug 29 2025 12:45:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Aug 29 2025 14:20:55 GMT+0000 (Coordinated Universal Time)**
