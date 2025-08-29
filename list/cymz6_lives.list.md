@@ -14,4 +14,4 @@
 | 8 | 陕西卫视 | IPv4 直链 | <http://1.197.250.137:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 9 | 河南法制 | IPv4 直链 | <http://1.197.250.137:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Fri Aug 29 2025 10:23:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Aug 29 2025 12:45:36 GMT+0000 (Coordinated Universal Time)**
