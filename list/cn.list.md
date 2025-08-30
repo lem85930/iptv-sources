@@ -201,7 +201,7 @@
 | 195 | [BD]湖北卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/f159656e972aa17ba9ff4e974713a0f92b152108582d298455b0bed215d2427b.m3u8> |
 | 196 | [VGA]湖南国际 | stream1.freetv.fun | <https://stream1.freetv.fun/0a73013e3d5583d05515fd78f36af0d3a20499a25d5137ea1f09b85b72ae9ba3.ctv> |
 | 197 | [VGA]湖南娱乐 | stream1.freetv.fun | <https://stream1.freetv.fun/d823f63f178d27fa744c94a23baa86fac9d249923cf03843d769b3bae2e70a8a.ctv> |
-| 198 | [VGA]湖南经视 | stream1.freetv.fun | <https://stream1.freetv.fun/6f0b31518346cada296803b419dcfd9e60a0b9f5ffd192a057e3e8747264db55.ctv> |
+| 198 | [VGA]湖南经视 | stream1.freetv.fun | <https://stream1.freetv.fun/1d2b4b06eef3abc6c1b98a0138deb14125490cc43e502454d6689fba490232fd.m3u8> |
 | 199 | [BD]湖南卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/e1910a9b3c2ca17b5fca11206d336d9d733bd97f158ac90ac2bd6d84f7ad7438.m3u8> |
 | 200 | [BD]湖南电影 | stream1.freetv.fun | <https://stream1.freetv.fun/c7e6a8a71c28e0e74e51baab7dbdf7e6d79876b8979a90b3ab56a831bd54001a.m3u8> |
 | 201 | [VGA]湖南电视剧 | stream1.freetv.fun | <https://stream1.freetv.fun/04681be00a082456d4aa9991265615bd0818f38d2e042c22b8ad47b6e05c615b.ctv> |
@@ -264,7 +264,7 @@
 | 258 | [BD]重庆卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/2af0c7392453c9de383e05a4ae3af9a959fb2ed1172733a27f7b5286bd6be067.m3u8> |
 | 259 | [BD]金川新闻综合 | IPv4 直链 | <rtmp://139.203.180.9/live/zhxw> |
 | 260 | [BD]金鹰卡通 | stream1.freetv.fun | <https://stream1.freetv.fun/ed9479fae0bb879ac3e59c7480d35e1c0400c77f234e1c7b01ea2a84c2ec1246.m3u8> |
-| 261 | [BD]金鹰纪实[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/06673863c75bdea703152b8e55d90f19cbfaac578651d2b60871d5aa3c0990f7.m3u8> |
+| 261 | [BD]金鹰纪实[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/d6b15180fe0097814389920ed87611f2db457a8b145f7107a8c1a941c44445d1.m3u8> |
 | 262 | [BD]银川公共 | stream1.freetv.fun | <https://stream1.freetv.fun/096f3c98d99ce18753051dee013066ad103124d9b977cf69140b6e32f550ff28.m3u8> |
 | 263 | [BD]银川文体 | stream1.freetv.fun | <https://stream1.freetv.fun/9be8cb1b9ede34dd35a89a4e532a7e7309dd6d50372cd759079b6abfff41fe16.m3u8> |
 | 264 | [BD]银川生活 | stream1.freetv.fun | <https://stream1.freetv.fun/b848663804a2a5109b99f997df1175985ecc20abb8989e3f3e4104a9dd4e0ba5.m3u8> |
@@ -287,4 +287,4 @@
 | 281 | [BD]溧水新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/1a079c059eb130d33f8a0b23c616b77e1390d13bed99002dda920d83163b8808.m3u8> |
 | 282 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8> |
 
-Updated at **Sat Aug 30 2025 02:58:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 30 2025 04:25:43 GMT+0000 (Coordinated Universal Time)**
