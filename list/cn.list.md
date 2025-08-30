@@ -56,7 +56,7 @@
 | 50 | [SD]内蒙古卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/1e5dc1f802d7775ea9cde7b7b874b914365797c6718c5e95448aa26648e136e6.ctv> |
 | 51 | [BD]内蒙古农牧 | stream1.freetv.fun | <https://stream1.freetv.fun/9de3712db8adc1163caba9b15f0ba365f944fcb44bcf406d2a69fc0cf741c50b.m3u8> |
 | 52 | [BD]兵团卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/7e0d9638f60dca70ddc3a2437eb10e874587f11f9d3efd833e71acfbdf2de2d6.m3u8> |
-| 53 | [HD]刘德华 | stream1.freetv.fun | <https://stream1.freetv.fun/d7ae37797f59d18fdfaf571d9cfb36e9cf3d51e36e9c47e405f7bfba5d0c5bec.m3u8> |
+| 53 | [SD]刘德华 | stream1.freetv.fun | <https://stream1.freetv.fun/d7ae37797f59d18fdfaf571d9cfb36e9cf3d51e36e9c47e405f7bfba5d0c5bec.m3u8> |
 | 54 | [BD]动漫秀场[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/92770c17901d40448d85aff2a2a1a7d5df7bc2d11a45e6c1aeb260b8172f99fe.m3u8> |
 | 55 | [BD]北京卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/58ada9296c1cd8c98929d12386749a6748a6ed09bda28980e0909fff792e95fc.m3u8> |
 | 56 | [HD]十堰新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/e31a0870e833a67561b7a9e71a79eab9628527045810ff365195e6a7e6f0dce9.m3u8> |
@@ -282,10 +282,11 @@
 | 276 | [HD]云南都市 | stream1.freetv.fun | <https://stream1.freetv.fun/c7f89783268c13760aff864a0e464360ea9335ac3ef8a5ef52a354d7fd305ef2.m3u8> |
 | 277 | [HD]电影 | stream1.freetv.fun | <https://stream1.freetv.fun/10de74f91dd169c8bd0cb2aff7a68b2fa319fe4d4ea58d0e37f04ec603896bf6.ctv> |
 | 278 | [BD]青海卫视[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/6e10a4a54db3f7f59614ab6de9f66a2a0b678e551e77ef9040af1d5fc2ceae2e.m3u8> |
-| 279 | [HD]盐城城市公共 | stream1.freetv.fun | <https://stream1.freetv.fun/d2e27cd1428bdf3af3cefdd45f4558b6a21aa4040d875ccf8c5d5c78e36642f6.m3u8> |
-| 280 | [HD]盐城新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/ee730abf7f00cf19da98b49f0f8cfe02c2c6a9ce62eaa9b1e3a5ba0510bc4168.m3u8> |
-| 281 | [HD]盐城法制生活 | stream1.freetv.fun | <https://stream1.freetv.fun/6bcd9c2342c87236ecb7159f98e4377a5b2b9e1ad3215982e71b34be08ede917.m3u8> |
-| 282 | [BD]溧水新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/1a079c059eb130d33f8a0b23c616b77e1390d13bed99002dda920d83163b8808.m3u8> |
-| 283 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8> |
+| 279 | [BD]韶关综合 | stream1.freetv.fun | <https://stream1.freetv.fun/13ed16dda5256856a43863b3e3840c0cf70753842c7b2f184474628f653afd3d.m3u8> |
+| 280 | [HD]盐城城市公共 | stream1.freetv.fun | <https://stream1.freetv.fun/d2e27cd1428bdf3af3cefdd45f4558b6a21aa4040d875ccf8c5d5c78e36642f6.m3u8> |
+| 281 | [HD]盐城新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/ee730abf7f00cf19da98b49f0f8cfe02c2c6a9ce62eaa9b1e3a5ba0510bc4168.m3u8> |
+| 282 | [HD]盐城法制生活 | stream1.freetv.fun | <https://stream1.freetv.fun/6bcd9c2342c87236ecb7159f98e4377a5b2b9e1ad3215982e71b34be08ede917.m3u8> |
+| 283 | [BD]溧水新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/1a079c059eb130d33f8a0b23c616b77e1390d13bed99002dda920d83163b8808.m3u8> |
+| 284 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8> |
 
-Updated at **Sat Aug 30 2025 18:28:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 30 2025 20:21:50 GMT+0000 (Coordinated Universal Time)**

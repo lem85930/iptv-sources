@@ -170,7 +170,7 @@
 [SD]chc家庭影院,https://stream1.freetv.fun/30e7efa4c034e24a10a61bfba3c71da9adb551d98446fb0256065bda01ba90e1.m3u8
 [BD]chc电影,https://stream1.freetv.fun/735ed037f61b0ded719041d7ad56c44c0e92e69c974d0e2b81e90cf2ae69de82.m3u8
 [BD]上虞文化,https://stream1.freetv.fun/a3b95f8cec871798479e1b30f604863644527ac9182220e2ac8650dc0ecbc211.m3u8
-[HD]刘德华,https://stream1.freetv.fun/d7ae37797f59d18fdfaf571d9cfb36e9cf3d51e36e9c47e405f7bfba5d0c5bec.m3u8
+[SD]刘德华,https://stream1.freetv.fun/d7ae37797f59d18fdfaf571d9cfb36e9cf3d51e36e9c47e405f7bfba5d0c5bec.m3u8
 [VGA]哈尔滨影视,https://stream1.freetv.fun/b681acfb3d9cf5bc9d056d8513a6f1ef9ead223fe349f541e02a39edfabbd88a.m3u8
 [BD]嘉兴文化影视,https://stream1.freetv.fun/b0d4e3fe32a5adbf4ed63b9b50b13bc86840f7405bb434598108f98c57717127.m3u8
 [BD]安徽影视,https://stream1.freetv.fun/8d9fb9f7088f6bc05408016d5ea0fe419bf2389c24fe343598fb1c02b3d5150c.m3u8
@@ -253,6 +253,7 @@
 [VGA]靖江新闻综合,https://stream1.freetv.fun/6c3be19fbdf8e6ad7dacfe528293b05960570b96a64e4369298d7e6e0997197e.m3u8
 [HD]开化新闻综合,https://stream1.freetv.fun/f55cb1177ae83711f2b3cf802e00b6afb23d4c79924e193e8554d5b6e8d38fd8.m3u8
 [HD]云南都市,https://stream1.freetv.fun/c7f89783268c13760aff864a0e464360ea9335ac3ef8a5ef52a354d7fd305ef2.m3u8
+[BD]韶关综合,https://stream1.freetv.fun/13ed16dda5256856a43863b3e3840c0cf70753842c7b2f184474628f653afd3d.m3u8
 [HD]盐城新闻综合,https://stream1.freetv.fun/ee730abf7f00cf19da98b49f0f8cfe02c2c6a9ce62eaa9b1e3a5ba0510bc4168.m3u8
 [BD]溧水新闻综合,https://stream1.freetv.fun/1a079c059eb130d33f8a0b23c616b77e1390d13bed99002dda920d83163b8808.m3u8
 
