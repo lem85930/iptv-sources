@@ -3567,6 +3567,7 @@ Canal_4_Catalunya_(1080p),https://limited35.todostreaming.es/live/mitjans-livest
 Canal_4_de_Matehuala_(360p)_[Not_24/7],https://stream.oursnetworktv.com/latin/encoder203/playlist.m3u8
 Canal_4_Mallorca_(1080p),https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 Canal_4_RD_(1080p),https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+Canal_5_(720p),http://104.238.205.28:8989/278329_.m3u8
 Canal_6_(720p),https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 Canal_6_CDMX,https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 Canal_6_de_Tamazula_(480p)_[Not_24/7],https://stream.oursnetworktv.com/latin/encoder6/playlist.m3u8
@@ -4822,6 +4823,7 @@ Seneweb_TV,https://vdo2.pro-fhi.net:3297/stream/play.m3u8
 SenJeunes_TV_(480p)_[Not_24/7],https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
 Sent_TV_Global_Network_Atlanta_(SGTN-49)_(720p),https://rpn.bozztv.com/gusa/gusa-stgn/index.m3u8
 Sertão_TV_(720p),http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
+Seven_Channel_(480p),https://cdn4.skygo.mn/live/disk1/TV7/HLS-FTA/TV7.m3u8
 SF_Commons_Channel_29_(San_Francisco_CA)_(480p),https://reflect-bayarea.cablecast.tv/live-5/live/live.m3u8
 SF_Commons_Channel_76_(San_Francisco_CA)_(480p),https://reflect-bayarea.cablecast.tv/live-6/live/live.m3u8
 SFGovTV2_San_Francisco_The_City_Channel_(720p),https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_050/playlist.m3u8
@@ -6007,8 +6009,8 @@ AL24_News_(1080p),https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/pla
 Al_Alam_(360p),https://live2.alalam.ir/alalam.m3u8
 Al_Arabiya_(1080p),https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 Al_Arabiya_Al_Hadath_(1080p)_[Not_24/7],https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-Al_Araby_TV_(1080p),https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
-Al_Araby_TV_2_(1080p),https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
+Al_Araby_TV_(1080p),https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
+Al_Araby_TV_2_(1080p),https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
 Al_Ekhbariya_(1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 Al_Eshraq_TV,http://63b03f7689049.streamlock.net:1935/live/19/playlist.m3u8
 Al_Etejah_TV,http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
@@ -9692,6 +9694,7 @@ Zo'r_TV_(576p),https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
 
 Relax,#genre#
 Better_Life_Nature_Channel_(480p),https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
+Home_4K_(2160p),http://178.217.72.66:8080/HOME_4K/index.m3u8
 MyZen_TV_(1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
 Classic,#genre#
