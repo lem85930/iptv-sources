@@ -2,7 +2,7 @@
 [BD]rt_documentary,https://stream1.freetv.fun/2457bb78e02877ba9fc32e4dc055508deeff4084ca3fc8fc4d0e49ad5ce9cfe3.m3u8
 [VGA]cctv9,https://stream1.freetv.fun/ea81fc0f2fac864a17a10c1a7f4d1a32258b45f78172eb9177e7b60db8c9e9b2.ctv
 [HD]asharq_documentary,https://stream1.freetv.fun/8ab5f603f7d5a9e5c37a07736f309c981277dd2250416023994aaff9ef4bd2ac.m3u8
-[BD]纪实人文[ipv6],https://stream1.freetv.fun/e3d849db8f2dab02689bbb04e2ffb12553517d4a3d49413444a4e3e92f0f8516.m3u8
+[BD]纪实人文[ipv6],https://stream1.freetv.fun/6e6d628f5470f3f5c107e2625381bea0af1396ca238fc7bd1874e7419c115ca8.m3u8
 [BD]金鹰纪实[ipv6],https://stream1.freetv.fun/d6b15180fe0097814389920ed87611f2db457a8b145f7107a8c1a941c44445d1.m3u8
 
 其它,#genre#
@@ -27,7 +27,7 @@
 [VGA]哈尔滨生活,https://stream1.freetv.fun/71746238db63ed6951b3f0a4cbc42467d1a7b32c1925b4854de68ed71d678c98.m3u8
 [BD]四川科教,https://stream1.freetv.fun/dd26f57be074ce07e1fb0d357b9bff2846bd030575df792d54abb4299ba5ada0.m3u8
 [BD]安徽农业科教,https://stream1.freetv.fun/b36e42ebdeab2e1026353d41dbc59b7e78b0778b46d993e41e47dd8a3b75d7bf.m3u8
-[BD]家庭剧场[ipv6],https://stream1.freetv.fun/7236f7b579a5683f20de8683e0ebe180aa8ec3e560ca0b7f3dd10cd4fddd2226.m3u8
+[BD]家庭剧场[ipv6],https://stream1.freetv.fun/151689dbbacf8c7f3a573cef2653766990066255c90f79a23fda20005a9e28e6.m3u8
 [BD]家庭剧场[ipv6],https://stream1.freetv.fun/e0ce1c960a2e90887b2cc8b4766198f988a5a721c66405dca95682d60b4235fb.m3u8
 [SD]宁夏卫视,https://stream1.freetv.fun/c3a22585493b5fbb62ab4b873bbf60ce767e779781bf178117fcf0918e2de201.m3u8
 [HD]咸宁经济生活,https://stream1.freetv.fun/4a21df943d075c00d0669ae8ef52da44ced4e27a51c2b24a8fe2eecc4b1e92ff.m3u8
@@ -170,7 +170,7 @@
 [SD]chc家庭影院,https://stream1.freetv.fun/30e7efa4c034e24a10a61bfba3c71da9adb551d98446fb0256065bda01ba90e1.m3u8
 [BD]chc电影,https://stream1.freetv.fun/735ed037f61b0ded719041d7ad56c44c0e92e69c974d0e2b81e90cf2ae69de82.m3u8
 [BD]上虞文化,https://stream1.freetv.fun/a3b95f8cec871798479e1b30f604863644527ac9182220e2ac8650dc0ecbc211.m3u8
-[SD]刘德华,https://stream1.freetv.fun/d7ae37797f59d18fdfaf571d9cfb36e9cf3d51e36e9c47e405f7bfba5d0c5bec.m3u8
+[BD]刘德华,https://stream1.freetv.fun/bd0530ab2a5e10a26dbb0f1c05fd2123ec0d27dee9d6476967a837457389304a.m3u8
 [VGA]哈尔滨影视,https://stream1.freetv.fun/b681acfb3d9cf5bc9d056d8513a6f1ef9ead223fe349f541e02a39edfabbd88a.m3u8
 [BD]嘉兴文化影视,https://stream1.freetv.fun/b0d4e3fe32a5adbf4ed63b9b50b13bc86840f7405bb434598108f98c57717127.m3u8
 [BD]安徽影视,https://stream1.freetv.fun/8d9fb9f7088f6bc05408016d5ea0fe419bf2389c24fe343598fb1c02b3d5150c.m3u8
