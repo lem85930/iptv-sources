@@ -827,7 +827,7 @@ Generic,#genre#
 [BD]sky_sport_f1,https://stream1.freetv.fun/bbfd880f47ed7c9bb8437d962c0578f63d321e6175e7e775945fc9dddd8a3dfc.ctv
 [BD]sony_sports_1,https://stream1.freetv.fun/9c2d08feedda354698d1913b68800c7e1e1435ec53aff0f8ad5cc478da170b66.ctv
 [BD]sony_sports_2,https://stream1.freetv.fun/516c10d968e435d13e3018ff0b2bd93b57615a43be05d174a9287a86ba72763b.ctv
-[HD]sony_aath,https://stream1.freetv.fun/2329f4c47c6460ed959b6ef6bf2380a98629dfd497bd46994db11382191d8ad8.m3u8
+[SD]sony_aath,https://stream1.freetv.fun/2329f4c47c6460ed959b6ef6bf2380a98629dfd497bd46994db11382191d8ad8.m3u8
 [SD]india,https://stream1.freetv.fun/a612c733d47a1b39cf9be95f1b953c44e42f02ee60081080d0ac8c4c763b362a.m3u8
 [HD]spiegel_tv,https://stream1.freetv.fun/515a4a005d33d5af6a2806d3d8d3a97a59f4b8db59e283f6cc5834962e737e85.m3u8
 [BD]star,https://stream1.freetv.fun/f9f701d96293baae0997d9890f9ea1ddeca18fc1298546bba55f99e42ffb7a46.m3u8
@@ -899,7 +899,7 @@ Generic,#genre#
 [HD]tele_pavia,https://stream1.freetv.fun/2cf3f940d6d2d5d804dd77a68d6e1d7100c0db2f01b61bce79f16a515366682a.m3u8
 [HD]tele_boario,https://stream1.freetv.fun/e8da6d33e8e5f705442d47d367658bea845818e3e4e914b6478eea2943e07561.m3u8
 [BD]tele_bari,https://stream1.freetv.fun/5d733153174e38d81deb8f00e44c5e283950c0346331c169e94d71c61b658f84.m3u8
-[HD]telecine_action,https://stream1.freetv.fun/5e2fbf21f9ec9113ed4cce3cc7aa4f6eed6a2cd3330541ea4afaa838da7d0c64.ctv
+[BD]telecine_action,https://stream1.freetv.fun/0604c70553606db7616c76e42dee573ad64c3c4b809080945531e45df23cdb94.ctv
 [HD]telecine_pipoca,https://stream1.freetv.fun/d53182ddafc3a78ea0882bddced40a4bb4d02a847c3e3e9abcecf8676ec3eb24.ctv
 [HD]tele_congo,https://stream1.freetv.fun/f95c3d9356c3f3fa11f8667d016335733ebd0aed23150b031c1531b220279aa4.m3u8
 [VGA]telefuturo,https://stream1.freetv.fun/9efcc01a3a3c0894f505e340d31a9f22d89fd145e0aaa9d3556c6b5d412983c6.m3u8
@@ -1145,7 +1145,7 @@ Knowledge,#genre#
 [HD]trt_belgesel,https://stream1.freetv.fun/960d41133fb6d800c1715a81e4c04fc0f62b88c421a1f75f07cfde7d25b16456.m3u8
 [BD]tv_brics_russian,https://stream1.freetv.fun/a9de57081f6b900dd51f45cde83abbd788f01242b8f9ac82014de9fb654f6328.m3u8
 [HD]toute_une_histoire,https://stream1.freetv.fun/03fb27545b231cc0b67d48ec98d8d59a3349530c07353e0670eedc370836dbce.m3u8
-[SD]travel_channel_*m,https://stream1.freetv.fun/bfec171eda31af45e1341de5c3a3178e30f10cdce0d2a2372649ca457f56aac9.ctv
+[HD]travel_channel_*m,https://stream1.freetv.fun/bfec171eda31af45e1341de5c3a3178e30f10cdce0d2a2372649ca457f56aac9.ctv
 [HD]urban_docs,https://stream1.freetv.fun/beb6c055b33816bded091d07ada7763fab305ff32a39287365b217476e1161da.m3u8
 [BD]waterbear,https://stream1.freetv.fun/f33339ae0772a90a2fda6072bd434a80fb1d752b63bf871faa3c80399a5254df.m3u8
 [BD]wild_earth,https://stream1.freetv.fun/96b1246e3e15b7b56ba1fc8effa85cdadbfdbf89b40209a7b6f3e2061e1770dc.m3u8

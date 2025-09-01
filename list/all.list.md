@@ -1185,7 +1185,7 @@
 | 1179 | [HD]skysports epl | stream1.freetv.fun | <https://stream1.freetv.fun/b2388d2d35de9dd17afcb0d89c07ad8e712c84590ca0fed60537e044ff0319bd.ctv> |
 | 1180 | [SD]smithsonian channel selects | stream1.freetv.fun | <https://stream1.freetv.fun/76dba6293f9dc490a833911a3c98b62eb7219e1e39877ee6989f7dcc94e792f5.m3u8> |
 | 1181 | [HD]soap latino | stream1.freetv.fun | <https://stream1.freetv.fun/0a48ebcfe67e0bfa17036b52f3ce43a0bc9bc464c45b565ad99ef07bed5652cc.m3u8> |
-| 1182 | [HD]sony aath | stream1.freetv.fun | <https://stream1.freetv.fun/2329f4c47c6460ed959b6ef6bf2380a98629dfd497bd46994db11382191d8ad8.m3u8> |
+| 1182 | [SD]sony aath | stream1.freetv.fun | <https://stream1.freetv.fun/2329f4c47c6460ed959b6ef6bf2380a98629dfd497bd46994db11382191d8ad8.m3u8> |
 | 1183 | [BD]sony channel | stream1.freetv.fun | <https://stream1.freetv.fun/9d399fdd8147febfcba85474a39f7f07bcba023b864154a5f396acdcb82d1b36.ctv> |
 | 1184 | [SD]india | stream1.freetv.fun | <https://stream1.freetv.fun/a612c733d47a1b39cf9be95f1b953c44e42f02ee60081080d0ac8c4c763b362a.m3u8> |
 | 1185 | [HD]sony one classics | stream1.freetv.fun | <https://stream1.freetv.fun/312ce6b40bc9b94ebdb861ddebe038db49b108221be5c6e841dac39c1223c262.m3u8> |
@@ -1378,7 +1378,7 @@
 | 1372 | [HD]tele pavia | stream1.freetv.fun | <https://stream1.freetv.fun/2cf3f940d6d2d5d804dd77a68d6e1d7100c0db2f01b61bce79f16a515366682a.m3u8> |
 | 1373 | [HD]tele boario | stream1.freetv.fun | <https://stream1.freetv.fun/e8da6d33e8e5f705442d47d367658bea845818e3e4e914b6478eea2943e07561.m3u8> |
 | 1374 | [BD]tele bari | stream1.freetv.fun | <https://stream1.freetv.fun/5d733153174e38d81deb8f00e44c5e283950c0346331c169e94d71c61b658f84.m3u8> |
-| 1375 | [HD]telecine action | stream1.freetv.fun | <https://stream1.freetv.fun/5e2fbf21f9ec9113ed4cce3cc7aa4f6eed6a2cd3330541ea4afaa838da7d0c64.ctv> |
+| 1375 | [BD]telecine action | stream1.freetv.fun | <https://stream1.freetv.fun/0604c70553606db7616c76e42dee573ad64c3c4b809080945531e45df23cdb94.ctv> |
 | 1376 | [HD]telecine fun | stream1.freetv.fun | <https://stream1.freetv.fun/7cc191fa8a4dbdf4453c0c9df819b10bbc512d0a1c987150ac934ae1ddc1ad93.ctv> |
 | 1377 | [HD]telecine pipoca | stream1.freetv.fun | <https://stream1.freetv.fun/d53182ddafc3a78ea0882bddced40a4bb4d02a847c3e3e9abcecf8676ec3eb24.ctv> |
 | 1378 | [HD]telecine premium | stream1.freetv.fun | <https://stream1.freetv.fun/49647fb74764acb7616e7790019a009a5b16ef6c8475e4622d86825387dbdb9c.ctv> |
@@ -1421,7 +1421,7 @@
 | 1415 | [SD]trans tv *e | stream1.freetv.fun | <https://stream1.freetv.fun/f7fcf264fdd38fef998bf082c42e9b3fbcb7c470096cf8b7165d7acaaa1997e0.ctv> |
 | 1416 | [BD]trans7 tv *s | stream1.freetv.fun | <https://stream1.freetv.fun/aca60799545993f39b51af214bfb751ed5f1c8fd4d8373508c186f318cbc4222.m3u8> |
 | 1417 | [HD]transtv | stream1.freetv.fun | <https://stream1.freetv.fun/56996c082ced2a67a9ec2e70a0420389f5dedaa2dfb41c51379933fe460075c9.m3u8> |
-| 1418 | [SD]travel channel *m | stream1.freetv.fun | <https://stream1.freetv.fun/bfec171eda31af45e1341de5c3a3178e30f10cdce0d2a2372649ca457f56aac9.ctv> |
+| 1418 | [HD]travel channel *m | stream1.freetv.fun | <https://stream1.freetv.fun/bfec171eda31af45e1341de5c3a3178e30f10cdce0d2a2372649ca457f56aac9.ctv> |
 | 1419 | [HD]ช่อง treehouse | stream1.freetv.fun | <https://stream1.freetv.fun/4b97ba1fd1c2a12a56ee3d3cb5280634c435cfb566cdda5658408eb15a8ae2c7.m3u8> |
 | 1420 | [BD]tru tv | stream1.freetv.fun | <https://stream1.freetv.fun/486e85a3cef717c2455ab77277515e062a130ea130cecf7b0712520b633029cc.m3u8> |
 | 1421 | [HD]true4u | stream1.freetv.fun | <https://stream1.freetv.fun/605d032deab01820a75929103f9fb8f49d65044b7093832c3551dac01aa14083.m3u8> |
@@ -1999,4 +1999,4 @@
 | 1993 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8> |
 | 1994 | [BD]龙华日韩 | stream1.freetv.fun | <https://stream1.freetv.fun/9c2920df490df6a08c307894de50ccb79ac68fb82eebf6b8d6e8f2b1a3dc3509.m3u8> |
 
-Updated at **Mon Sep 01 2025 18:30:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Sep 01 2025 20:23:09 GMT+0000 (Coordinated Universal Time)**
