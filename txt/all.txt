@@ -35,7 +35,6 @@ Movies,#genre#
 [BD]cinemaworld_*x,https://stream1.freetv.fun/83375217d4096dd052028f046cde22aa53ac38d5818fac3d831457a06af2c9b0.m3u8
 [BD]cinemax_action_*e,https://stream1.freetv.fun/c6b01fa0ce328fe2bcabfc8451f2b2df36b2d2524e243c0ca1663fb748ece1db.ctv
 [SD]cinemax_moviemax_east_*e,https://stream1.freetv.fun/5a326ebeec1641d7e01f64107dd5a2b644193476b4b3638f9f09603d1088e8a2.ctv
-[SD]cinemax_thrillermax_*e,https://stream1.freetv.fun/3808f4fb344cf2930f229261abd5715481e60d070764c56d48d00dea7b868200.ctv
 [HD]cinemax(usa)_*e,https://stream1.freetv.fun/9d76342b634fcfee5ef6f69f7f4b6efd82aae4870208286fde2390859829e14c.ctv
 [VGA]tvs_classic_movies,https://stream1.freetv.fun/303d08745a7d1414f6dec31eb0bde4cefb48ec57f1e1a666d37512f9c74a15c0.m3u8
 [BD]rakuten_tv_comedy_movies,https://stream1.freetv.fun/8be0bc1c7bd7fd2183d261d9638835fdc1d8e836a22bbf03885f475b106fd041.m3u8
@@ -183,7 +182,7 @@ Movies,#genre#
 [SD]вопросы_и_ответы,https://stream1.freetv.fun/2c31bbb7283540203cb7d449bf1ce51685625e09ddcc9e0a4ce5020f585cf1b7.m3u8
 [HD]дом_кино_премиум,https://stream1.freetv.fun/d7f2d294630d469444c225a60e6a5e4088716c16489cc669df71da42c3b31b22.m3u8
 [VGA]дом_кино,https://stream1.freetv.fun/a9ae7d1bb9365c4e3cb14fc4d967c887d8959e8f832e9495b95bd70131048e91.m3u8
-[HD]сити_эдем_кинокомедия,https://stream1.freetv.fun/a111991588637e008344309ecc204347109c89841291055f105b7e2794e4711e.m3u8
+[SD]сити_эдем_кинокомедия,https://stream1.freetv.fun/a111991588637e008344309ecc204347109c89841291055f105b7e2794e4711e.m3u8
 [BD]кинохит,https://stream1.freetv.fun/95402db9ba1d93d65eb6ce65ed81d5ab12d30bcd82a83f03d79ef3e2fa8b3fc1.m3u8
 [BD]союз,https://stream1.freetv.fun/ecc2566520077d7ceef1a5241ea42e0ce2632f408a5a4acdf9ff1913def59c1f.m3u8
 [SD]нст,https://stream1.freetv.fun/da667c3356c94ea94cc9f48afc9cc2144634afd5a6fb08f46963f4ac4b988ada.m3u8
@@ -1434,7 +1433,7 @@ News,#genre#
 [HD]euronews_pt,https://stream1.freetv.fun/93bc939929f39de202bcd25aa3421473f2d7613119df0b3f54548153606faa55.m3u8
 [HD]euronews_fr,https://stream1.freetv.fun/959ddd61c8e8966158c8af812a6a604aaa564780677a6fff065b8ba444894672.m3u8
 [HD]euronews,https://stream1.freetv.fun/d95d4a93a8b1bc849d4fdd1fc702889d84bff4590cd8b27c46f59ad3bbb9311a.m3u8
-[SD]euronews,https://stream1.freetv.fun/9486bdf7fc8d4bda0d54c15e540abe55714011d93055251ab754350e81f8bce0.m3u8
+[HD]euronews,https://stream1.freetv.fun/9486bdf7fc8d4bda0d54c15e540abe55714011d93055251ab754350e81f8bce0.m3u8
 [HD]euronews_français,https://stream1.freetv.fun/e56f54ec7230831ee77ef151e2e95c84fe3c4a5158c7275f325b57c8366c302a.m3u8
 [SD]euronews_*m,https://stream1.freetv.fun/476aced36620e4fbf4a577970b72a3798588f1905b92ae2d3fd028c886a2be45.ctv
 [HD]euronews,https://stream1.freetv.fun/b00f204c7d099764704313da594ba6ee5db1db97ffdf96f5f0ca926722314bb7.m3u8
