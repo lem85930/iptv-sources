@@ -454,4 +454,4 @@
 | 448 | CCTV-4 Europe | viamotionhsi.netplus.ch | <https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8> |
 | 449 | Harbin Comprehensive News Channel | stream.hrbtv.net | <https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594> |
 
-Updated at **Fri Sep 05 2025 12:58:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Sep 05 2025 14:19:57 GMT+0000 (Coordinated Universal Time)**
