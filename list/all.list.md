@@ -407,7 +407,7 @@
 | 401 | [SD]cinemax(usa) *e | stream1.freetv.fun | <https://stream1.freetv.fun/9d76342b634fcfee5ef6f69f7f4b6efd82aae4870208286fde2390859829e14c.ctv> |
 | 402 | [BD]charity tv | stream1.freetv.fun | <https://stream1.freetv.fun/cbe64391f0513156d64035f5859235439349b976b9ac71fa314afcb20ef423bb.m3u8> |
 | 403 | [BD]clan | stream1.freetv.fun | <https://stream1.freetv.fun/db24efca9ad3cdad0f547bd8f80651f73e5c027531af4156a7011f6754dcb183.m3u8> |
-| 404 | [VGA]tvs classic movies | stream1.freetv.fun | <https://stream1.freetv.fun/303d08745a7d1414f6dec31eb0bde4cefb48ec57f1e1a666d37512f9c74a15c0.m3u8> |
+| 404 | [SD]pluto tv classic movies | stream1.freetv.fun | <https://stream1.freetv.fun/a4ffd305a0f2e9afe30f674a2c375c2b899fa18a0aaf74ccb3ca1a7513a74e68.m3u8> |
 | 405 | [VGA]clubbing tv | stream1.freetv.fun | <https://stream1.freetv.fun/b9b22105ae5212c2b61c84f91b5ff3bad6b6524009b88bf8a5208a4d99a7fbec.m3u8> |
 | 406 | [SD]concord tv (concord ca) (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/55afa11f3193a8651978587e0773abb49485f785b8d649189fd330aa22d76423.m3u8> |
 | 407 | [BD]colors bangla sd | stream1.freetv.fun | <https://stream1.freetv.fun/3713fe95c42364e322c477ae6f52fb7948d0208daffeb6c46443f3f7070b2c65.m3u8> |
@@ -2011,4 +2011,4 @@
 | 2005 | [BD]龙华洋片 | stream1.freetv.fun | <https://stream1.freetv.fun/f9e4358bb09913f4e5f1c09e2d6e50458024d9eacf3e2d274516bb85955a0a07.ctv> |
 | 2006 | [HD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv> |
 
-Updated at **Thu Sep 04 2025 23:10:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Sep 05 2025 01:44:45 GMT+0000 (Coordinated Universal Time)**
