@@ -1974,4 +1974,4 @@
 | 1968 | [BD]龙华日韩 | stream1.freetv.fun | <https://stream1.freetv.fun/9c2920df490df6a08c307894de50ccb79ac68fb82eebf6b8d6e8f2b1a3dc3509.m3u8> |
 | 1969 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv> |
 
-Updated at **Sat Sep 06 2025 20:21:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Sep 06 2025 22:18:20 GMT+0000 (Coordinated Universal Time)**
