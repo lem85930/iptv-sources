@@ -280,4 +280,4 @@
 | 274 | [BD]溧水新闻综合 | 荔枝网 | <rtmp://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh> |
 | 275 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/8db7fe87f56b1781603eca82aa8111cd9a6f7a52cb6648858a6a657a926d5ddf.m3u8> |
 
-Updated at **Mon Sep 08 2025 16:26:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Sep 08 2025 18:32:10 GMT+0000 (Coordinated Universal Time)**
