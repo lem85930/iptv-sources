@@ -11,4 +11,4 @@
 | 5 | 重庆影视 | IPv4 直链 | <http://27.8.233.159:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 6 | 重庆都市 | IPv4 直链 | <http://27.8.233.159:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Mon Sep 08 2025 23:05:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Sep 09 2025 01:46:16 GMT+0000 (Coordinated Universal Time)**
