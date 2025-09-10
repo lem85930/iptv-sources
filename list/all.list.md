@@ -162,7 +162,7 @@
 | 156 | [HD]asianbox | stream1.freetv.fun | <https://stream1.freetv.fun/1a39586d2bfeb0f4c23d406bedafe1e7e34fd09cc11aa75b28b9df30185023cd.m3u8> |
 | 157 | [HD]asianet plus | stream1.freetv.fun | <https://stream1.freetv.fun/f5dd279418969da7b8ac7c9588699cef2df3156f4442b5173609e4e2a780c15c.m3u8> |
 | 158 | [VGA]ช่อง astro aec | stream1.freetv.fun | <https://stream1.freetv.fun/bd46f40ac95a977e91fb9c3c7cb23745269d7fb28327bd83afa0d9fa31d9d5e2.ctv> |
-| 159 | [HD]astro awani | stream1.freetv.fun | <https://stream1.freetv.fun/98558ae2d084dd6225893e76164f24ed20256b6c86bf861e4d81ba37e11e76c3.m3u8> |
+| 159 | [HD]astro awani | stream1.freetv.fun | <https://stream1.freetv.fun/9ec93449ff1853e214c565c7aba2d9db4bb86fac231a364db93f8dc8f431a458.m3u8> |
 | 160 | [HD]Astro Arena Bola 1 | stream1.freetv.fun | <https://stream1.freetv.fun/e49aa6a27e01e06603ff3c617cc1e8e18dd4daba1f8f6d43d524ca724b2211c9.ctv> |
 | 161 | [BD]Astro Arena bola 2 *c | stream1.freetv.fun | <https://stream1.freetv.fun/c2eb022d76d20d55be3c1d9d2349f9b7c6f0f5b573aa9cde2f9e7e51c6adbf63.ctv> |
 | 162 | [BD]Astro Badminton 1 *c | stream1.freetv.fun | <https://stream1.freetv.fun/b57e9a68b4dc66e0b7f54257f52116e10b32d83a424d0c0f9f6195b866ca4ff0.ctv> |
@@ -450,10 +450,10 @@
 | 444 | [HD]discovery science | stream1.freetv.fun | <https://stream1.freetv.fun/2802ba16f6652a3ba808e18b44e6353388014a9bf6bcd74df205fa80abb4d1d3.ctv> |
 | 445 | [BD]discovery shed *m | stream1.freetv.fun | <https://stream1.freetv.fun/3de49b56be29528fa0c929fc8efef0ff259bb82cd92c4dc555db4e93d35d78c1.ctv> |
 | 446 | [BD]discovery h h | stream1.freetv.fun | <https://stream1.freetv.fun/8cdbb8386603267a4bd09b57f2184c8cf65517be58ad0a2f38679f74ddb170a2.ctv> |
-| 447 | [SD]disney xd(mas) = | stream1.freetv.fun | <https://stream1.freetv.fun/1211c573acbcd71fd524643f5ee5c496f84d2fb8ddca0e7b5cb54b00a94518de.ctv> |
+| 447 | [BD]ช่อง disney jr. | stream1.freetv.fun | <https://stream1.freetv.fun/e7da0f5499efaa6264e21173f6012a7b561de9bbfff6bfafd50687f0803a29c8.m3u8> |
 | 448 | [HD]disney channel *y | stream1.freetv.fun | <https://stream1.freetv.fun/d05826b587672be8e781cb9652f839a5b937d21a7695006c7959abfaf69d63f5.m3u8> |
 | 449 | [HD]disney channel === | stream1.freetv.fun | <https://stream1.freetv.fun/d77dcb1028a8568e396d55c1e88315def141649bac2793a2ab122b97f694e50f.ctv> |
-| 450 | [SD]disney channel | stream1.freetv.fun | <https://stream1.freetv.fun/6825b4b02e2a3037751c436dc0db39f515fc00f56d772e76b99d541bf097ad63.m3u8> |
+| 450 | [BD]ช่อง disney channel | stream1.freetv.fun | <https://stream1.freetv.fun/b12b6f38b9decc68ce8149a6d0398e61dadc2794b38f720e73597ae26d6c1195.m3u8> |
 | 451 | [HD]disney jr | stream1.freetv.fun | <https://stream1.freetv.fun/059a0ce4f313656323a2e2bb5ac1a296257b3ceacd340dbb65255735d0d067eb.ctv> |
 | 452 | [HD]disney junior | stream1.freetv.fun | <https://stream1.freetv.fun/bbdd4493cb3042e9f7e1c49ba01ae4e590456377449685b519710d71a8102c5e.ctv> |
 | 453 | [HD]ช่อง disney xd | stream1.freetv.fun | <https://stream1.freetv.fun/09328856a76f7eae3f12b410aed1ec27ba77ef867b2bbcb1b85c5c7d8d626abd.m3u8> |
@@ -660,7 +660,7 @@
 | 654 | [HD]icnet 1 | stream1.freetv.fun | <https://stream1.freetv.fun/a802d65088a40bb1e307189b19d9ee10546baab0ccf12a55fdc65118ed02ac25.m3u8> |
 | 655 | [HD]icnet 3 | stream1.freetv.fun | <https://stream1.freetv.fun/3509193e3a758983cc9b2cf4089622430ea4721aaa7d35bb69d2892b855a7428.m3u8> |
 | 656 | [HD]iipc tv (480p) | stream1.freetv.fun | <https://stream1.freetv.fun/ed4c28b549f45dbce1cb4dd69ba9b218a63826a6b8993081aae208f9b1fd140f.m3u8> |
-| 657 | [VGA]imam hussein tv 3 | stream1.freetv.fun | <https://stream1.freetv.fun/8a915e350cce353fd791748d9efc2841da8af4d4b0f4dabc67db3877ff582209.m3u8> |
+| 657 | [VGA]imam hussein tv 1 | stream1.freetv.fun | <https://stream1.freetv.fun/17212a9c045809cbdbe46d40f8e77c714dbaa892d9c03e9615d920ca8e620dac.m3u8> |
 | 658 | [HD]imedi tv | stream1.freetv.fun | <https://stream1.freetv.fun/7c5efe56961f1b4cb253b0eed93c6d470ccd25a1b1baf945da7f15c33038a22f.m3u8> |
 | 659 | [HD]tin tv | stream1.freetv.fun | <https://stream1.freetv.fun/96ff2fc636d652435d8b8bf4d50b99562060de7f9e0905c3e66ab312495776dc.m3u8> |
 | 660 | [BD]insighttv | stream1.freetv.fun | <https://stream1.freetv.fun/a9abff699f0d7806b27489a0440e70be04c3dcf292fe064f0f631391f47fef21.m3u8> |
@@ -1902,4 +1902,4 @@
 | 1896 | [BD]龙华日韩 | stream1.freetv.fun | <https://stream1.freetv.fun/9c2920df490df6a08c307894de50ccb79ac68fb82eebf6b8d6e8f2b1a3dc3509.m3u8> |
 | 1897 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/66c2819a6d6159881e8bdfe88f1bd048bbae6df9ceaa34472d317615c13f15cf.m3u8> |
 
-Updated at **Wed Sep 10 2025 02:56:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Sep 10 2025 05:18:00 GMT+0000 (Coordinated Universal Time)**
