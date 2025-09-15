@@ -120,4 +120,4 @@
 | 114 | 相声小品 | IPv4 直链 | <http://221.13.235.151:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 115 | 金鹰卡通 | IPv4 直链 | <http://221.13.235.50:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Mon Sep 15 2025 04:27:11 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Sep 15 2025 06:34:53 GMT+0000 (Coordinated Universal Time)**
