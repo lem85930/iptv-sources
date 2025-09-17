@@ -4,6 +4,8 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
+| 1 | 山东卫视 | IPv4 直链 | <http://101.74.28.84:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 2 | 广东卫视 | IPv4 直链 | <http://101.74.28.84:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 3 | 河北影视 | IPv4 直链 | <http://101.74.28.84:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-
-Updated at **Tue Sep 16 2025 20:24:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Sep 17 2025 00:08:47 GMT+0000 (Coordinated Universal Time)**
