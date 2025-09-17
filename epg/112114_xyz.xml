@@ -19902,6 +19902,9 @@
 	<programme channel="动作电影" start="20250917133100 +0800" stop="20250917144200 +0800">
 		<title lang="zh">白垩纪世界</title>
 	</programme>
+	<programme channel="动作电影" start="20250917144200 +0800" stop="20250917151200 +0800">
+		<title lang="zh">《超级美味》推荐第7期</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -26894,6 +26897,9 @@
 	</programme>
 	<programme channel="咪咕综合体育" start="20250917130000 +0800" stop="20250917144000 +0800">
 		<title lang="zh">中超来噜-2025赛季中超 第24轮 上海申花-山东泰山</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250917144000 +0800" stop="20250917150000 +0800">
+		<title lang="zh">中超精华 第24轮</title>
 	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
@@ -42581,6 +42587,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250917143000 +0800" stop="20250917144500 +0800">
 		<title lang="zh">20_喜羊羊与灰太狼之嘻哈闯世界之四</title>
+	</programme>
+	<programme channel="明星大片" start="20250917144500 +0800" stop="20250917150000 +0800">
+		<title lang="zh">21_喜羊羊与灰太狼之嘻哈闯世界之四</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -65406,6 +65415,9 @@
 	<programme channel="纯享4K" start="20250917143100 +0800" stop="20250917144600 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 太极雕塑b7单鞭下势</title>
 	</programme>
+	<programme channel="纯享4K" start="20250917144600 +0800" stop="20250917151400 +0800">
+		<title lang="zh">好吃客4K 乌镇</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -70448,6 +70460,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250917132400 +0800" stop="20250917144500 +0800">
 		<title lang="zh">电影《老潘的归途》</title>
+	</programme>
+	<programme channel="超级电影" start="20250917144500 +0800" stop="20250917160500 +0800">
+		<title lang="zh">电影《勇敢风暴》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -82725,6 +82740,9 @@
 	<programme channel="newtv超级电影" start="20250917132400 +0800" stop="20250917144500 +0800">
 		<title lang="zh">电影《老潘的归途》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250917144500 +0800" stop="20250917160500 +0800">
+		<title lang="zh">电影《勇敢风暴》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -82853,6 +82871,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250917134900 +0800" stop="20250917143500 +0800">
 		<title lang="zh">32_珠江人家</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250917143500 +0800" stop="20250917150500 +0800">
+		<title lang="zh">《超级美味》推荐第7期</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -83085,6 +83106,9 @@
 	<programme channel="newtv军旅剧场" start="20250917135700 +0800" stop="20250917143700 +0800">
 		<title lang="zh">龙血树叶粉</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250917143700 +0800" stop="20250917152200 +0800">
+		<title lang="zh">23_军人荣誉之铁血雄心</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -83309,6 +83333,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250917133100 +0800" stop="20250917144200 +0800">
 		<title lang="zh">白垩纪世界</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250917144200 +0800" stop="20250917151200 +0800">
+		<title lang="zh">《超级美味》推荐第7期</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -83652,6 +83679,9 @@
 	<programme channel="newtv精品综合" start="20250917143000 +0800" stop="20250917144500 +0800">
 		<title lang="zh">20_喜羊羊与灰太狼之嘻哈闯世界之四</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250917144500 +0800" stop="20250917150000 +0800">
+		<title lang="zh">21_喜羊羊与灰太狼之嘻哈闯世界之四</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -83729,6 +83759,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250917131400 +0800" stop="20250917144300 +0800">
 		<title lang="zh">乐在旅途 第2季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250917144300 +0800" stop="20250917151300 +0800">
+		<title lang="zh">《超级美味》推荐第7期</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
