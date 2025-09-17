@@ -8,4 +8,4 @@
 | 2 | 广东卫视 | IPv4 直链 | <http://101.74.28.84:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 3 | 河北影视 | IPv4 直链 | <http://101.74.28.84:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Wed Sep 17 2025 18:32:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Sep 17 2025 20:23:54 GMT+0000 (Coordinated Universal Time)**
