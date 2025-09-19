@@ -27462,6 +27462,9 @@
 	<programme channel="咪咕足球" start="20250919135500 +0800" stop="20250919141000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250919141000 +0800" stop="20250919154000 +0800">
+		<title lang="zh">2025国际篮联男篮亚洲杯 小组赛 卡塔尔男篮-黎巴嫩男篮</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -43787,6 +43790,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250919135700 +0800" stop="20250919140700 +0800">
 		<title lang="zh">龙血树叶粉</title>
+	</programme>
+	<programme channel="明星大片" start="20250919140700 +0800" stop="20250919142200 +0800">
+		<title lang="zh">24_喜羊羊与灰太狼之嘻哈闯世界之四</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -67095,6 +67101,9 @@
 	<programme channel="纯享4K" start="20250919134100 +0800" stop="20250919141100 +0800">
 		<title lang="zh">寻古中国4K 河洛记b7聚落成邑</title>
 	</programme>
+	<programme channel="纯享4K" start="20250919141600 +0800" stop="20250919143100 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 汉代肖形印</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -83475,6 +83484,9 @@
 	<programme channel="黑莓电影" start="20250919125700 +0800" stop="20250919141600 +0800">
 		<title lang="zh">澡堂也疯狂</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250919141600 +0800" stop="20250919155200 +0800">
+		<title lang="zh">特种兵归来之绝地营救</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -84741,6 +84753,9 @@
 	<programme channel="newtv古装剧场" start="20250919132200 +0800" stop="20250919140200 +0800">
 		<title lang="zh">龙血树叶粉</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250919140200 +0800" stop="20250919144800 +0800">
+		<title lang="zh">28_长歌行</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -85104,6 +85119,9 @@
 	<programme channel="newtv怡伴健康" start="20250919120900 +0800" stop="20250919141200 +0800">
 		<title lang="zh">昆曲《牡丹亭》第一段</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250919141200 +0800" stop="20250919144800 +0800">
+		<title lang="zh">博士成了“新农人”</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -85254,6 +85272,9 @@
 	<programme channel="newtv军事评论" start="20250919135200 +0800" stop="20250919141300 +0800">
 		<title lang="zh">从“咆哮者”坠毁看美空军现状</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250919141300 +0800" stop="20250919143500 +0800">
+		<title lang="zh">“风暴之影”笼罩下的俄乌局势</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85308,6 +85329,9 @@
 	<programme channel="newtv炫舞未来" start="20250919134100 +0800" stop="20250919140200 +0800">
 		<title lang="zh">有氧跳绳跟练《最炫民族风》（20240423）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250919140200 +0800" stop="20250919142400 +0800">
+		<title lang="zh">古典舞风格《月下待杜鹃不来》（20240429）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -85358,6 +85382,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250919135700 +0800" stop="20250919140700 +0800">
 		<title lang="zh">龙血树叶粉</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250919140700 +0800" stop="20250919142200 +0800">
+		<title lang="zh">24_喜羊羊与灰太狼之嘻哈闯世界之四</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
