@@ -83778,6 +83778,9 @@
 	<programme channel="黑莓动画" start="20250920172400 +0800" stop="20250920185400 +0800">
 		<title lang="zh">摩登森林之美食总动员</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250920185400 +0800" stop="20250920202200 +0800">
+		<title lang="zh">星际大逃亡</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -85119,6 +85122,9 @@
 	<programme channel="newtv精品纪录" start="20250920183300 +0800" stop="20250920185800 +0800">
 		<title lang="zh">05_龙族来了</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250920185800 +0800" stop="20250920192300 +0800">
+		<title lang="zh">06_能掐会算</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -85893,6 +85899,9 @@
 	<programme channel="newtv军事评论" start="20250920182700 +0800" stop="20250920184900 +0800">
 		<title lang="zh">西藏定日县抗震救灾纪实（二）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250920184900 +0800" stop="20250920191100 +0800">
+		<title lang="zh">穿越蘑菇云的人 第1集 特殊使命</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85967,6 +85976,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250920181800 +0800" stop="20250920185300 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250920185300 +0800" stop="20250920195300 +0800">
+		<title lang="zh">婚姻中，我不想再被PUA</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
