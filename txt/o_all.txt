@@ -1529,7 +1529,7 @@ Revry_News_Europe_(Frequency_backend),https://dce9e10d279f410d87ef5ad1c3740459.m
 RFD-TV,https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
 RFM_(720p),https://senrtmp.com/hls/rfm.m3u8
 Rialto_(1080p),https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
-Riau_TV_(576p)_[Not_24/7],http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
+Riau_TV_(1080p)_[Not_24/7],http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
 Ric+,https://streams2.sofast.tv/WiseM3U8_32/sofast/cleanhls/master.m3u8
 Ridiculousness,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eb8a8b2619a000710605c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04b532-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=62fcc810-774f-4c6c-8c43-6a67070856ac
 Ridiculousness_Italy_(720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd721e5b49e00079bfedc/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
@@ -1766,7 +1766,7 @@ Sicardi_TV_(720p),https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 Sigma_TV_(576p)_[Not_24/7],https://sl2.sigmatv.com/hls/live.m3u8
 Sikh_Spiritual_Centre_Rexdale_(720p),https://cdn12.henico.net:8443/live/ssct/index.m3u8
 Silk_Universal,http://dvrfl05.bozztv.com/gin-silkuniversal/index.m3u8
-Simpang5_TV_(360p)_[Not_24/7],http://122.248.43.138:1935/ch4/myStream/playlist.m3u8
+Simpang5_TV_(360p)_[Not_24/7],http://122.248.43.242:1935/SIMPANG5TV/_definst_/myStream/playlist.m3u8
 Simsalabim_Sabrina,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dbc327d0451770009ed7577/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc863d71-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a94ab183-0750-49c1-b1e4-65c4d32ca9fc
 Sindh_TV,https://stream717.duckdns.org/hls/stream1.m3u8
 Sinop_Yildiz_TV_(360p),https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
@@ -1797,7 +1797,7 @@ Smash_Music,http://80.79.6.221:25461/smash/public/10
 Smash_Radio_104.6FM,http://80.79.6.221:25461/smash/public/3
 Smash_Talk,http://80.79.6.221:25461/smash/public/15
 Smash_Teleshopping,http://80.79.6.221:25461/smash/public/2
-SMTV_(720p)_[Not_24/7],http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
+SMTV_(720p)_[Not_24/7],http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
 Snackable_Adventures,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb65373297460007ec5aa7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0252-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0fc5a1ae-359c-4d5f-94c7-764e2885f877
 SNL_Vault,https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8
 SNT_(480p),https://alba-py-snt-snt.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
@@ -1857,11 +1857,13 @@ SRF_info_HD_(1080p),https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS
 SRF_zwei_(1080p),https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
 Sriwijaya_TV_(576p)_[Not_24/7],https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
 Star_Family_(576p)_[Not_24/7],http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
+Star_Suvarna_Plus_(576p),https://live.dinesh29.com.np/stream/jiotvplus/suvarnaplus/master.m3u8
 Star_Trek_2,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77879983bec60007e2a196/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ffc48245-dd1f-42c0-a844-75a8a43e52b0
 Star_Trek_Deep_Space_Nine,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69bbfd77d450008c7ffee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6e3a3277-9d15-4813-a57c-5547e9d53d6e
 Star_Trek_Voyager,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634dacf51d90320007fcd5fa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=234402c1-3013-44bc-8b1d-c32ced363ff7
 Star_Trek:_Deep_Space_Nine,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67d200c7ff50008cb131a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b210d34-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=35795be0-a9bf-4b10-b542-2134b369c86c
 Star_TV,https://viamotionhsi.netplus.ch/live/eds/startv/browser-HLS8/startv.m3u8
+Star_Utsav_(576p),https://live.dinesh29.com.np/stream/jiotvplus/starutsav/master.m3u8
 Stargate,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/620bfa7df72827000703ddb1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5881254c-5290-452b-a946-d919b7bb1297
 Starke_Frauen_(1080p),https://mainstreamstarkefrauen-rakuten.amagi.tv/playlist.m3u8
 Stars_in_Gefahr_(1080p),https://stars-in-gefahr-rakuten.amagi.tv/playlist.m3u8
@@ -2524,6 +2526,7 @@ VIO_TV_(480p),http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_tran
 VIP_TV,https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
 Viper,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642ad6a5aa2d690008ea6d96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b218263-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0162be0e-f4f2-43a7-b854-e6dce2dd1d3d
 Visión_TV_(720p),https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+Vissa_TV_(1080p)_[Not_24/7],https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Vissa_Tv/master_1.m3u8
 Visual_Radio_(576p)_[Not_24/7],http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
 Viva_TV_Yurimaguas_(720p),https://live.obslivestream.com/vivatv/index.m3u8
 Vivaldi_TV_(1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01523-mezzo-vivalditv-tcl/playlist.m3u8
@@ -2625,6 +2628,7 @@ WFMZ_PPL_Tower_Camera,https://cdn.jaybirdtv.com/wfmz/channel/9/master.m3u8
 WFMZ_Traffic,https://cdn.jaybirdtv.com/wfmz/channel/7/master.m3u8
 WFMZ-TV_Channel_69,https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
 WFTX_News_Fort_Myers_FL_(720p),https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
+WGGS-DT1_(720p),https://cdn-unified-hls.streamspot.com/ingest1/c7956aac88/playlist.m3u8?origin=1
 WGN_Chicago_IL_(WGN-TV1)_(720p),https://cdn1-8p.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8
 WGTV-DT3,https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
 Whakaata_Maori,https://i.mjh.nz/.r/maori-tv.m3u8
@@ -4626,7 +4630,7 @@ Oyerepa_TV,https://stream.ecable.tv/oyerepa/tracks-v1a1/mono.m3u8
 P3tv_(720p)_[Not_24/7],http://p3-6.mov.at:1935/live/weekstream/master.m3u8
 Pacific_Coast_TV_HMB_Coastside_Channel_27_(720p),https://livestream.telvue.com/pacificaca1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 Pacific_Coast_TV_MWSD_Channel_26_(720p),https://livestream.telvue.com/pacificaca2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-Padang_TV_(720p)_[Not_24/7],http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
+Padang_TV_(720p)_[Not_24/7],http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
 Pal_TV_(720p)_[Not_24/7],https://v3.siar.us/paltv/live/playlist.m3u8
 Palenque_TV,https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 Palestine,https://ncdn.telewebion.com/palestine/live/playlist.m3u8
@@ -5448,7 +5452,7 @@ Busuioc_TV_(1080p),http://62.233.57.226:8001/play/a005
 Cadena_Elite_(720p)_[Not_24/7],https://cloudvideo.servers10.com:8081/8004/index.m3u8
 California_Music_Channel_(720p)_[Not_24/7],https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 Caltex_Music,https://video.caltexmusic.com/hls/caltextv.m3u8
-Canal_3_KMK_TV_(1280p)_[Not_24/7],https://s3.tvdatta.com:3030/live/kmk3live.m3u8
+Canal_3_KMK_TV_(576i)_[Not_24/7],https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
 Cantina_TV_(1080p),https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 CCTV15音乐,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
 CCTV_风云音乐,http://117.161.133.51:81/gitv_live/G_FENGYUNYY-CQ/G_FENGYUNYY-CQ.m3u8?p=GITV
@@ -5484,7 +5488,6 @@ Deluxe_Dance_(1080p),https://sdn-global-live-streaming-packager-cache.3qsdn.com/
 Deluxe_Lounge_(720p),https://jmp2.uk/stvp-CHAJ0500413A
 Deluxe_Music_(720p),https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 Deluxe_Rap_(1080p),https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-Dhamaal_(1080p)_[Not_24/7],https://live.hungama.com/linear/dhamaal/playlist.m3u8
 Dhoom_Music_(720p),https://cdn-1.pishow.tv/live/1456/master.m3u8
 Dijlah_Tarab_(1080p),https://ghaasiflu.online/tarab/index.m3u8
 Dil_Se_(360p)_[Not_24/7],https://live.hungama.com/linear/dil-se/playlist.m3u8
@@ -5806,6 +5809,7 @@ SOY_Plancha_TV_(720p),https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playl
 SpektraTV_(720p),https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
 Star_101_FM_(KNUT_Guam)_[Not_24/7],https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8
 Star_Folk_(1080p),https://live.muzickatv.mk/live/StarMusic.m3u8
+Star_Maa_Music_(576p),https://live.dinesh29.com.np/stream/jiotvplus/maamusic/master.m3u8
 Star_Plus_Music_(1080p)_[Not_24/7],https://live.muzickatv.mk/live/StarMusic2.m3u8
 Steelbird_Music_(720p)_[Not_24/7],https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 Stingray_Classic_Rock_(1080p),https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
@@ -5901,6 +5905,7 @@ VH1_I_Love_Reality,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/st
 VH1_Italia_(1080p),https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 Video_Rola_(1080p),https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 Video_Tour_Channel_(480p)_[Not_24/7],http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+Vijay_Takkar_(576p),https://live.dinesh29.com.np/stream/jiotvplus/vijaytakkar/master.m3u8
 Vintage_Music_(720p),https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 Visión_Televisión_(720p),https://cloudvideo.servers10.com:8081/8016/index.m3u8
 Viva_Murcia_TV_(720p),http://185.36.211.142:8080/tmp_hls/viva/index.m3u8
@@ -6993,7 +6998,7 @@ Expresión_TV_(1080p),https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m
 Extrema_TV_(720p),https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 Faith_TV_(576p),https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
 Faith_World_TV,https://stream.ecable.tv/faithworld/tracks-v1a1/mono.m3u8
-Fajar_TV_(240p)_[Not_24/7],http://122.248.43.138:1935/ch27/myStream/playlist.m3u8
+Fajar_TV_(720p)_[Not_24/7],http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8
 FarmodaTV_(1080p),https://avr.host247.net/live/FarmodaTV/playlist.m3u8
 Faro_de_Santidad_TV_(720p),https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8
 Fateh_TV,https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
@@ -7467,6 +7472,7 @@ Cufo,https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?application_i
 Cúla4_(1080p),https://d3eq0jseza7fm5.cloudfront.net/tg4_vod_3.m3u8
 Disney_Channel_(576p),https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
 Disney_Channel_East,https://fl7.moveonjoy.com/DISNEY/index.m3u8
+Disney_International_HD_(1080p),https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/master.m3u8
 Disney_Junior_(576p),http://116.90.120.149:8000/play/a0b3/index.m3u8
 Disney_Junior_East,https://fl7.moveonjoy.com/DISNEY_JR/index.m3u8
 Disney_XD_(720p),http://fl7.moveonjoy.com/DISNEY_XD/index.m3u8
@@ -7508,7 +7514,7 @@ Moonbug_Kids_(1080p),https://moonbug-rokuus.amagi.tv/playlist.m3u8
 My_Kidz_(1080p),http://210.210.155.37/uq2663/h/h191/index.m3u8
 Nei_Monggol_TV_Children_Channel,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
 Nick_Germany_(1080p),https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
-Nick_HD+_(1080p)_[Not_24/7],http://116.90.120.149:8000/play/a0cw/index.m3u8
+Nick_HD+_(1080p)_[Not_24/7],https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8
 Nick_Jr_India_(1080p),https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 Nick_Jr._East_(720p),https://fl7.moveonjoy.com/NICK_JR/index.m3u8
 Nick_Jr._Pluto_TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf
@@ -7546,6 +7552,7 @@ Ryan_and_Friends_(1080p),https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 Sabrina_la_série_animée,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e78c4954f250007ef7b84/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd5-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d91f8235-755b-4e9c-8062-05d444de314d
 SKWAD_(1080p),https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
 Smile_TV_(360p),https://s1.cystream.net/live/smile/playlist.m3u8
+Sonic_(576p),https://playyonogames.in/jio/app/ts_live_815.m3u8
 STS_kids,http://31.148.48.15/STS_Kids_HD/index.m3u8
 Super_Simple_Songs_(1080p),https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
 Super!_Brothers_and_Sisters_Italy_(720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61925ea79541940007d20881/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
@@ -7898,6 +7905,7 @@ ArubaTV_+_(1080p),https://livertmptwo.com:19360/atvplusrelay/atvplusrelay.m3u8
 Asian_TV_(720p),https://mtlivestream.site/asian/ytlive/index.m3u8
 AsianBox_(720p),https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
 AsianCrush,https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+Asianet_HD_(1080p),https://live.dinesh29.com.np/stream/jiotvplus/asianethd/master.m3u8
 Asianet_Plus_(1080p),http://217.20.112.199/asianet/index.m3u8
 Aspire,https://fl7.moveonjoy.com/Aspire/index.m3u8
 AVT_Khyber,https://trn03.tulix.tv/gf-khybertv/index.m3u8
@@ -7994,7 +8002,6 @@ Feva_TV_(1080p),https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/4
 Ficom_Channel_(720p),https://v3.siar.us/ficomchannel/live/playlist.m3u8
 Fidele_TV_(480p),https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/playlist.m3u8
 Fido_TV_(1080p),https://1123112950.rsc.cdn77.org/HLS/FIDO.m3u8
-Flowers_TV_(576p),http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 FORT_TV_(480p),https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8
 FORTUNE_TV_(720p),http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
 Freebie_TV_(720p)_[Not_24/7],https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
@@ -8085,6 +8092,7 @@ KFTR-DT1,https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls
 Khushboo_Bangla_(720p),https://cdn-4.pishow.tv/live/1473/master.m3u8
 Kingsview_TV_(1080p),https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8
 KMBC-DT2_(720p),https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
+KMCT-DT1_(720p),https://cdn-unified-hls.streamspot.com/ingest1/4b4d895dd6/playlist.m3u8?origin=1
 KMIZ-DT2_(720p),https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
 KMIZ-DT3_(720p),https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
 KOMU-DT3_(720p),https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
@@ -8261,8 +8269,15 @@ Simclar_TV_(720p),https://s.emisoras.tv:8081/simclartv/playlist.m3u8
 SolTV_(720p),https://stream.solmediaeg.com/soltv/soltv.m3u8
 Sooriyan_TV,https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 ST_Europe_Channel_(720p),https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
+Star_Bharat_HD_(1080p),https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
 Star_Channel_(720p),http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 STAR_International_(720p),https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
+Star_Jalsha_HD_(1080p),https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
+Star_Maa_HD_(1080p),https://live.dinesh29.com.np/stream/jiotvplus/maahd/master.m3u8
+Star_Pravah_HD_(1080p),https://live.dinesh29.com.np/stream/jiotvplus/starpravahhd/master.m3u8
+Star_Suvarna_(576p),https://live.dinesh29.com.np/stream/jiotvplus/suvarna/master.m3u8
+Star_Vijay_HD_(1080p),https://live.dinesh29.com.np/stream/jiotvplus/starvijayhd/master.m3u8
+StarPlus_HD_(1080p),https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
 Stories_by_AMC,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=376bc851-10a1-4952-ada7-86e9d28d5845
 Super7FM_(720p),https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8
 Surya_TV_(1080p),https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
@@ -8697,6 +8712,7 @@ Afriwood_Blockbuster_(720p),https://origin3.afxp.telemedia.co.za/PremiumFree/afr
 Alfa_Dramas_(226p)_[Not_24/7],https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8
 AMC_East_(1080p),https://fl7.moveonjoy.com/AMC_NETWORK/index.m3u8
 American_Horrors_(480p),http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+Asianet_Movies_HD_(1080p),https://live.dinesh29.com.np/stream/jiotvplus/asianetmovieshd/master.m3u8
 Aurora_Media_Films_(720p),https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 AXN_Vietnam_(1080p),https://tv.ddns.vn/tv/axnhd/index.m3u8
 B4U_Bhojpuri_(1080p),https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
@@ -8735,6 +8751,9 @@ Cinevault_80s_(540p),https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
 Classic_Cinema_(240p)_[Not_24/7],https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
 Classic_Movies_Channel,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e003-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7911819c-67eb-4f58-944f-5c6c6d4d937d
 Classique_TV_(360p),https://stmv1.srvif.com/classique/classique/playlist.m3u8
+Colors_Cineplex_(1080p),https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
+Colors_Cineplex_Bollywood_(576p),https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
+Colors_Cineplex_Superhits_(576p),https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/index.m3u8
 Crave_1,https://fl7.moveonjoy.com/CRAVE_1/index.m3u8
 Crave_2,https://fl7.moveonjoy.com/CRAVE_2/index.m3u8
 Crave_3,https://fl7.moveonjoy.com/CRAVE_3/index.m3u8
@@ -8788,9 +8807,9 @@ iFilm_Arabic,https://live.presstv.ir/hls/ifilmar.m3u8
 iFilm_English,https://live.presstv.ir/hls/ifilmen.m3u8
 iFilm_Persian,https://live.presstv.ir/hls/ifilmfa.m3u8
 Itage_TV,https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
+Jalsha_Movies_HD_(1080p),https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 Jiangxi_Movie_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8
 Jilin_Movie_Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
-Kairali_We_(396p),https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
 Kantipur_Max,https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8
 Kino_24,http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 Kino_Barrandov_(720p),http://83.167.253.107/hdmi1_ext
@@ -8875,6 +8894,7 @@ Pluto_TV_Terror,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitc
 Pluto_TV_Thrillers,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b68-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2bd17736-43bd-4c5d-aaa9-c3cdc2c77562
 Pluto_TV_Thrillers_Spain,http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=
 Pluto_TV_Westerns,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6272-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5e8336d8-e46b-4f0f-86ff-ba6f9678d77a
+Pravah_Picture_HD_(1080p),https://live.dinesh29.com.np/stream/jiotvplus/starpravahpicturehd/master.m3u8
 QTV-3,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 Rai_Movie_(1080p),http://188.60.179.180:8000/play/xxRaiMOviexx
 Rakuten_Top_Movies_UK_(1080p),https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
@@ -8904,14 +8924,23 @@ Rakuten_TV_Top_Movies_Spain_(1080p),https://ff335120300e4742a2b135ee9a9e7df8.med
 Revry_Her,https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
 Rotana_Cinema_KSA_(1080p),https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 Runtime_Espanol_(720p),https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
+Russkiy_Detektiv,http://31.148.48.15/Russkiy_Detektiv/index.m3u8
 ServusTV_(1080p),https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
 ServusTV_HD,https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
 Sky_Cinema_Family_HD_(1080p),https://d17lsiabqrlwa2.cloudfront.net/pl_138/207480-6535776-1/playlist.m3u8
 SL_1,https://slonehls.wns.live/hls/stream.m3u8
 SL_2,https://sltwohls.wns.live/hls/stream.m3u8
 Sony_Canal_Novelas,https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+Star_Gold_HD_(1080p),https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
+Star_Gold_Romance_(576p),https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
+Star_Gold_Select_HD_(1080p),https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
 Star_Gold_Thrills_(576p),http://116.90.120.149:8000/play/a0c0/index.m3u8
+Star_Maa_Gold_(576p),https://live.dinesh29.com.np/stream/jiotvplus/maagold/master.m3u8
+Star_Maa_Movies_HD_(1080p),https://live.dinesh29.com.np/stream/jiotvplus/maamovieshd/master.m3u8
+Star_Movies_HD_(1080p),https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
+Star_Movies_Select_HD_(1080p),https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
 Star_Tamil_Television_(360p),https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=
+Star_Utsav_Movies_(576p),https://live.dinesh29.com.np/stream/jiotvplus/starutsavmovies/master.m3u8
 START_Air,https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 START_World,https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 Studio_One_+_(720p),https://cdn-1.pishow.tv/live/276/master.m3u8
@@ -8930,6 +8959,7 @@ VHS_TV_[Not_24/7],https://v2.catcast.tv/content/47609/index.m3u8
 Viasat_Kino_(576p),http://89.254.128.5:22280/viasat_kino/index.m3u8
 Viasat_Kino_Action_(576p),http://89.254.128.5:22280/viasat_kino_action/index.m3u8
 Victor_Valley_Movies_(1080p)_[Not_24/7],https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8
+Vijay_Super_HD_(1080p),https://live.dinesh29.com.np/stream/jiotvplus/vijaysuperhd/master.m3u8
 Wild_Side_TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60b4d6c806ad2a00073b3108/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c0-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d329ef28-8c5a-4451-bc8a-ab7d7083f320
 Zee_Bollymovies_(1080p),https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
 Zee_Cinema_(1080p),https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
