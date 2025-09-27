@@ -1961,4 +1961,4 @@
 | 1955 | [BD]龙华日韩 | stream1.freetv.fun | <https://stream1.freetv.fun/14c2007c075bd8b2302a2c20b9067ce2a5a9c14dee3250ffe284edf1b310d3f8.ctv> |
 | 1956 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/66c2819a6d6159881e8bdfe88f1bd048bbae6df9ceaa34472d317615c13f15cf.m3u8> |
 
-Updated at **Sat Sep 27 2025 06:46:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Sep 27 2025 06:53:11 GMT+0000 (Coordinated Universal Time)**
