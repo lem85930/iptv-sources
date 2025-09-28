@@ -1431,7 +1431,7 @@
 | 1425 | [SD]wowow live | stream1.freetv.fun | <https://stream1.freetv.fun/82251265ff11cebe43ce0f05f4bdb8b39858ee4f02d091ee24c7476b008b1349.ctv> |
 | 1426 | [SD]wowow prime | stream1.freetv.fun | <https://stream1.freetv.fun/7708104e9f65fdba51528e1fb91fe86996420ca73ed94e77eccab884fe40da5d.ctv> |
 | 1427 | [HD]wwe | stream1.freetv.fun | <https://stream1.freetv.fun/39679e492fdb63f2d493a89a28a0e1d33d6e1faee91b2a585d66455fa7a12f3e.ctv> |
-| 1428 | [BD]wwe network | stream1.freetv.fun | <https://stream1.freetv.fun/008404c70e49b9dde14eb05b38242e2835eeef25dce1b994d69c1ce51eb8e786.ctv> |
+| 1428 | [BD]wwe network | stream1.freetv.fun | <https://stream1.freetv.fun/ab4f11bfa04129c90678da7e38583f421177afbeb4802472daaf3507c93053a5.ctv> |
 | 1429 | [BD]wanasah | stream1.freetv.fun | <https://stream1.freetv.fun/4b99c09a4345d922f6c063d9349db285b5cba513d3f8aa0c593ea59c13327ae5.m3u8> |
 | 1430 | [HD]warner tv *wj | stream1.freetv.fun | <https://stream1.freetv.fun/ce75160a2889b9607d02856244b76c61432aee4085fad2f9b0e0db8bc6a67a8b.ctv> |
 | 1431 | [HD]warnertv华纳 | stream1.freetv.fun | <https://stream1.freetv.fun/e7c84e1960015648e0de6991644677d460ce2347537cd1daa2474d9c0ca95d92.ctv> |
@@ -1974,4 +1974,4 @@
 | 1968 | [HD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv> |
 | 1969 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/f3e4792919e603bd0eb00254eb263931dbab92a22578853745d8dbe977714338.ctv> |
 
-Updated at **Sun Sep 28 2025 04:25:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Sep 28 2025 06:30:39 GMT+0000 (Coordinated Universal Time)**
