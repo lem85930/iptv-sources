@@ -963,7 +963,7 @@ Generic,#genre#
 [BD]山东教育卫视,https://stream1.freetv.fun/5fb9f3d5938062b625b04df4e05fba93f89f5d6333685743fa0593d9497e3abf.ctv
 [BD]山东卫视高清,https://stream1.freetv.fun/76bf28c606bf693d0b2f17091266e1797c87021b63f9b0afb88ee56b86911f19.ctv
 [BD]山西卫视[ipv6],https://stream1.freetv.fun/2f538e8c3c3dc60b99799fb3331f5f05b5a9c3c574544b4178a57a7de78f6884.m3u8
-[SD]康巴卫视,https://stream1.freetv.fun/c2be3eb07c5a88ece3c16b2ce12eca7a897c81f612764d58e952f120b86e8980.ctv
+[SD]康巴卫视[ipv6],https://stream1.freetv.fun/295dab8dd3a41d46b785fb58e7500b7009075daa90a521415f2aa8c5f90d94fa.m3u8
 [SD]厦门卫视,https://stream1.freetv.fun/a927444efa3d55d3d42d4d80fc9dd565caeae93fe0328d6e078367c2120df3d4.ctv
 [HD]广元综合,https://stream1.freetv.fun/e115ad1ad555af4231de24edf51b85a967f85cd17d76c84f28198770e7e9600a.m3u8
 [HD]广州法治,https://stream1.freetv.fun/dfd7a7ca2ef6fc0c105f880b27acd84f6bcbec42df2d4c302304d26bdf119ae5.m3u8
@@ -2026,7 +2026,7 @@ Test,#genre#
 [BD]山东教育卫视,https://stream1.freetv.fun/5fb9f3d5938062b625b04df4e05fba93f89f5d6333685743fa0593d9497e3abf.ctv
 [BD]山东卫视高清,https://stream1.freetv.fun/76bf28c606bf693d0b2f17091266e1797c87021b63f9b0afb88ee56b86911f19.ctv
 [BD]山西卫视[ipv6],https://stream1.freetv.fun/2f538e8c3c3dc60b99799fb3331f5f05b5a9c3c574544b4178a57a7de78f6884.m3u8
-[SD]康巴卫视,https://stream1.freetv.fun/c2be3eb07c5a88ece3c16b2ce12eca7a897c81f612764d58e952f120b86e8980.ctv
+[SD]康巴卫视[ipv6],https://stream1.freetv.fun/295dab8dd3a41d46b785fb58e7500b7009075daa90a521415f2aa8c5f90d94fa.m3u8
 [SD]厦门卫视,https://stream1.freetv.fun/a927444efa3d55d3d42d4d80fc9dd565caeae93fe0328d6e078367c2120df3d4.ctv
 [HD]广元综合,https://stream1.freetv.fun/e115ad1ad555af4231de24edf51b85a967f85cd17d76c84f28198770e7e9600a.m3u8
 [HD]广州法治,https://stream1.freetv.fun/dfd7a7ca2ef6fc0c105f880b27acd84f6bcbec42df2d4c302304d26bdf119ae5.m3u8
@@ -14335,13 +14335,13 @@ CGTN俄语,rtp://239.3.1.220:4220
 
 卫视,#genre#
 北京卫视,rtp://239.3.1.22:8001
-湖南卫视,rtp://239.3.1.132:8012
-东方卫视,rtp://239.3.1.136:8032
+湖南卫视,rtp://239.3.1.112:3002
+东方卫视,rtp://239.3.1.119:3006
 天津卫视,rtp://239.3.1.141:1234
 安徽卫视,rtp://239.3.1.211:8064
-山东卫视,rtp://239.3.1.209:8052
+山东卫视,rtp://239.3.1.144:3005
 广东卫视,rtp://239.3.1.203:2000
-江苏卫视,rtp://239.3.1.135:8028
+江苏卫视,rtp://239.3.1.113:3003
 江西卫视,rtp://239.3.1.123:8164
 河北卫视,rtp://239.3.1.148:8072
 河南卫视,rtp://239.3.1.50:8184
@@ -14352,6 +14352,7 @@ CGTN俄语,rtp://239.3.1.220:4220
 贵州卫视,rtp://239.3.1.149:8076
 辽宁卫视,rtp://239.3.1.210:8056
 重庆卫视,rtp://239.3.1.122:8160
+四川卫视,rtp://239.3.1.131:3001
 龙江卫视,rtp://239.3.1.133:8016
 吉林卫视,rtp://239.3.1.240:8172
 甘肃卫视,rtp://239.3.1.201:8180
