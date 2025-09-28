@@ -1594,7 +1594,6 @@ RTL_102.5_Disco_(1080p),https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/
 RTL_102.5_Napulé_(1080p),https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
 RTL_102.5_Traffic_(1080p),https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 RTL_102.5_TV_(1080p),https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-RTL_Austria_(576p),http://185.189.225.150:85/RTL/index.m3u8
 RTL_Croatia_(1080p),https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 RTL_Gold_(576p),http://194.76.186.33:8000/play/a05h/index.m3u8
 RTL_Harom_(1080p),http://194.76.186.33:8000/play/a02a/index.m3u8
@@ -2237,7 +2236,7 @@ TV1_(1080p),https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc1
 TV_1_Oberösterreich_(1080p),https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
 TV_2/Bornholm_(1080p)_[Not_24/7],https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8
 TV2_Séf_(576p),http://194.76.186.33:8000/play/a02s/index.m3u8
-TV3_(1080p),http://185.189.225.150:85/tv3/index.m3u8
+TV3_(1080p),https://directes-tv-cat.3catdirectes.cat/live-origin/tv3-hls/master.m3u8
 TV_3_(720p),https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
 TV3CAT_(1080p),https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
 TV4_(576p),http://194.76.186.33:8000/play/a02z/index.m3u8
@@ -2698,6 +2697,7 @@ WTMO-CD1,https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 WTOG-DT1,https://fl7.moveonjoy.com/FL_Tampa_CW44/index.m3u8
 WTVQ_ABC_36_News_(Lexington_KY)_(720p),https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8
 WUPA-DT1,https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
+WXTV-DT1,https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 WXWZ-LD1_(MásTV_Canal_23)_(720p),https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
 WXXV-TV_News_(Biloxi_MS)_(720p),https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8
 X-Factor:_Das_Unfassbare,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642d7e029189ce0008958af5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b21d080-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=41684c81-e96d-4d50-865f-cb932d6c290f
@@ -3773,6 +3773,7 @@ CTV8_HD,http://43.252.18.195:5080/live/streams/ctv8.m3u8
 CTV_Afrique_(720p),https://stream.it-innov.com/ctv/index.m3u8
 CTV_Canal_76_(720p),https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
 CTV_Internacional_(1080p),https://mediacp.us:8081/ctvhn/index.m3u8
+Cubavision_Internacional,https://dvrfl06.bozztv.com/astv-cubavisionint/index.m3u8
 Cultura_Pará_(480p)_[Not_24/7],http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 Curiquingue_TV_(720p),https://video2.lhdserver.es/pjtv/live.m3u8
 Cusano_Italia_TV_(720p),https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
@@ -5996,16 +5997,6 @@ ABC_25_West_Palm_Beach_FL_(WPBF)_(720p),https://livetv-fa.tubi.video/wpbf/playli
 ABC_30_Fresno_and_Central_Valley_News_(KFSN-DT1)_(720p),https://content.uplynk.com/channel/ext/96195dc445894d079a91958abba8d3af/kfsn_24x7_news.m3u8
 ABC_(WPLG-DT1)_Miami_FL_(720p),https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
 ABC_News,https://c.mjh.nz/abc-news.m3u8
-ABC_News_Live_1_(720p),https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
-ABC_News_Live_2_(720p),https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
-ABC_News_Live_3_(720p),https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
-ABC_News_Live_4_(720p),https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
-ABC_News_Live_5_(720p),https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
-ABC_News_Live_6_(720p),https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
-ABC_News_Live_7_(720p),https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
-ABC_News_Live_8_(720p),https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
-ABC_News_Live_9_(720p),https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
-ABC_News_Live_10_(720p),https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
 ABC_News_New_York_NY_(WABC-TV)_(720p),https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
 ABC_Tallahassee_(720p)_[Not_24/7],https://content.uplynk.com/channel/c66d1d2d9e2c46cea1cf22a33f6ca488.m3u8
 ABC_WWAY_3,https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8
@@ -7448,7 +7439,6 @@ Atfal_&_Mawaheb_TV_(1080p),https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal
 Baby_Shark_TV,https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
 BabyFirst,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 BabyFirst_Spanish,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8
-BabyTV_(Spain)_(1080p),http://185.189.225.150:85/BabyTV/index.m3u8
 BabyTV_Turkiye_(1080p),https://saran-live.ercdn.net/babytv/index.m3u8
 Balapan_TV,https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 Bang_Bang_(480p),https://digitalb-live.morescreens.com/DAL_1_004/playlist.m3u8?application_id=backoffice1&application_installation_id=1&authority_instance_id=spectar-prd-digitalb&detected_delivery_method=hls&id=DAL_1_004&playlist_template=nginx&profile_id=1&ps=6ca6054c4d6f9fafd6e3202ad620d4cc30ee45fdbbf1526cab3fdcac143b283d2f7251b3babf442b3a4fb90820abcc0cfaab2bff9a76799adc92b09fa0151f25&subscriber_id=1&token=142cda7d50870275a9ca7988ff001b32ab30709b&uuid=backoffice1&vh=7edb2a069c1d9e1872251cc87e99c568dfd18769f97905bd1dcaf519b259c970f880a1c43b6a7392ac496426adb0e55a2f6dbb06981536af9c1c987416282783&video_id=16377
@@ -8724,7 +8714,6 @@ BIZ_Cinema_(1080p),https://st.biztv.uz/hls/c_hi/index.m3u8
 Black_Cinema,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9
 Bloody_Disgusting_TV,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgus-cineverse/playlist.m3u8
 Bollywood_HD,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-Bom_Cine_(576p),http://185.189.225.150:85/BOM/index.m3u8
 Bravo_Farsi_TV_(360p),https://bravoohls.wns.live/hls/stream.m3u8
 Cafe_Film,https://cafefhls.wns.live/hls/stream.m3u8
 Canal_2_Movies,https://stream.ecable.tv/canal2m/tracks-v1a1/mono.m3u8
@@ -9315,7 +9304,7 @@ ETB_2_(720p),https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 La_1_(720p),https://ztnr.rtve.es/ztnr/1688877.m3u8
 La_1_Canarias_(720p),https://ztnr.rtve.es/ztnr/5190066.m3u8
 La_1_Catalunya_(720p),https://ztnr.rtve.es/ztnr/3293681.m3u8
-La_2_(1080p),http://185.189.225.150:85/TV2/index.m3u8
+La_2_(1080p),https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 La_2_Canarias_(720p),https://ztnr.rtve.es/ztnr/5468585.m3u8
 La_2_Catalunya_(720p),https://ztnr.rtve.es/ztnr/3987218.m3u8
 
