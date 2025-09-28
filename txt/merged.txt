@@ -1665,7 +1665,7 @@ Sports,#genre#
 [HD]astro_bola_arena_2_*wj,https://stream1.freetv.fun/1598529f924199794bea15fd8fb7349504d070b2b09c95e5e078e034544f8e85.ctv
 [HD]astro_badminton_*wj,https://stream1.freetv.fun/9be8b3a5370058ca08ba4f1203096820e11e2911240c702b067054d5b9ac4b93.ctv
 [HD]astro_football_*wj,https://stream1.freetv.fun/fbd5948ff5732de89f7ffd71d97e8a56959710889c79457c8c97a4237e00bc37.ctv
-[HD]astro_grandstand,https://stream1.freetv.fun/b68131fdc764e54615785ef9fd2a4161109d9c3f561064e8c7fba6bae0f88c78.ctv
+[HD]astro_grandstand_*wj,https://stream1.freetv.fun/a311625e5729f75cf999ecb4641c4e506b9f3249518ed3e77105d4fda2413d70.ctv
 [HD]astro_premier_leauge_1_*wj,https://stream1.freetv.fun/480a2412cdf0d50212acc4284110c7e319433d761f7b554119e0a88abbe17a29.ctv
 [SD]fishing_vision,https://stream1.freetv.fun/4a45ca0b2812b86cabff6282608eba541699b723c4e385a0b230ff65d528e593.ctv
 [BD]sports_tv,https://stream1.freetv.fun/65e8c1f7f81c0e0017028b3e76ab5903df4fb116e9f4dd733fd0b5adecb11d6f.m3u8
@@ -1702,6 +1702,7 @@ Sports,#genre#
 [HD]elta爱尔达体育_2_*wj,https://stream1.freetv.fun/1eb53f0e4fcdaa4419b58ac6f0c1323b156d40f236153f366c7ab390a3dfeec7.ctv
 [HD]elta爱尔达体育_3_*wj,https://stream1.freetv.fun/5699094553e152533b71831a371fdb2acb9a079e31f594acc4e09852d0688d6d.ctv
 [BD]cctv-4k,https://stream1.freetv.fun/b9a2e767d016105572cd8746a02687121eff29c306eeb922ff2feab8b7286e4c.ctv
+[HD]espn_brasil_2,https://stream1.freetv.fun/e9fa7619731c2c454b8afb1f9944724f9b3945a3e0db089929d4bbb1eb74eb5e.ctv
 [HD]espn_brasil_3,https://stream1.freetv.fun/ce769a42672a3754d70d004d2dfc0316ffedce02c6afbc1e10f57ae6cd65fffe.ctv
 [BD]espn_6,https://stream1.freetv.fun/0efd04b6f9e92e41efa78f9edc31ece17823272906d97929478bcbf25036afaf.m3u8
 [HD]us_espn_news,https://stream1.freetv.fun/4e13ae63bbf17e0d9edd3d9a4989d698a4e80768478c8110f7eb2c594771539d.ctv
@@ -1791,6 +1792,7 @@ Sports,#genre#
 [HD]sony_ten_2,https://stream1.freetv.fun/1ecc79f5cf93ac368a16c7f5ff78f67beca494053fb0e7c91fb423be8be00799.ctv
 [HD]sony_ten_3,https://stream1.freetv.fun/44f049bc736257593d86db208591dc279de7f72c32f76e34caeb5f78582d6059.ctv
 [SD]spectrum_sportsnet_==,https://stream1.freetv.fun/88f497afdbdc66cd47d65508742eb0bbea8882b3c9758100aebb324accabd98f.ctv
+[HD]sportv_1,https://stream1.freetv.fun/7d5de8978932242751e549da92a6e37f9a485f856f218609b5c6c3c9dd70a2c6.ctv
 [HD]jsport_1,https://stream1.freetv.fun/b1b7c0d450956dc81e8c1c65fae3599dc05a728cf2097c1c0ddce51913a36ba5.m3u8
 [BD]super_plus,https://stream1.freetv.fun/1f561c2d1ce85ba649bf51fc553033f9bf418ff4de9b8a915255c70f5153d1ba.m3u8
 [BD]sports_tv_ᴴᴰ,https://stream1.freetv.fun/71344b0d3177b5d32e9b45d28ea960ec33f8aa1ca0fd1cbf62d2df565f825d90.m3u8
