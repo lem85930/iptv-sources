@@ -26,4 +26,4 @@
 | 20 | 世界地理 | IPv4 直链 | <http://101.74.28.84:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 21 | 山东齐鲁 | IPv4 直链 | <http://61.156.228.12:8154/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Mon Sep 29 2025 08:32:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Sep 29 2025 10:24:55 GMT+0000 (Coordinated Universal Time)**
