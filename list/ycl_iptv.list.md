@@ -145,4 +145,4 @@
 | 139 | HOY TV | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=hoytv> |
 | 140 | 爱奇艺电影 | php.jdshipin.com | <http://php.jdshipin.com/smt.php?id=Qiyi> |
 
-Updated at **Tue Sep 30 2025 00:17:28 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Sep 30 2025 01:42:41 GMT+0000 (Coordinated Universal Time)**
