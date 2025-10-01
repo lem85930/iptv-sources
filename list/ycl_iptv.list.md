@@ -130,19 +130,19 @@
 | 124 | 千禧经典 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc> |
 | 125 | 重温经典 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd> |
 | 126 | Astro欢喜台 | php.jdshipin.com | <http://php.jdshipin.com/smt.php?id=Huahee> |
-| 127 | 亚洲武侠 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=yzwx> |
-| 128 | 龙华经典 | cdn8.163189.xyz | <https://cdn8.163189.xyz/live/lhjd/stream.m3u8> |
-| 129 | 龙华卡通 | cdn8.163189.xyz | <https://cdn8.163189.xyz/live/lhkt/stream.m3u8> |
-| 130 | 龙华偶像 | cdn8.163189.xyz | <https://cdn8.163189.xyz/live/lhox/stream.m3u8> |
-| 131 | 龙华日韩 | cdn8.163189.xyz | <https://cdn8.163189.xyz/live/lhrh/stream.m3u8> |
-| 132 | 龙华戏剧 | cdn8.163189.xyz | <https://cdn8.163189.xyz/live/lhxj/stream.m3u8> |
-| 133 | 龙华洋片 | cdn8.163189.xyz | <https://cdn8.163189.xyz/live/lhyp/stream.m3u8> |
-| 134 | TVB星河 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe> |
-| 135 | TVB武侠 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=yzwx> |
-| 136 | 美亚C+ | ottproxy2.ist.ooo | <http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8> |
-| 137 | RTHK31 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31> |
-| 138 | RTHK32 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32> |
-| 139 | HOY TV | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=hoytv> |
-| 140 | 爱奇艺电影 | php.jdshipin.com | <http://php.jdshipin.com/smt.php?id=Qiyi> |
+| 127 | Astro QJ | php.jdshipin.com | <http://php.jdshipin.com/smt.php?id=Quanjia> |
+| 128 | 亚洲武侠 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=yzwx> |
+| 129 | 龙华经典 | cdn8.163189.xyz | <https://cdn8.163189.xyz/live/lhjd/stream.m3u8> |
+| 130 | 龙华卡通 | cdn8.163189.xyz | <https://cdn8.163189.xyz/live/lhkt/stream.m3u8> |
+| 131 | 龙华偶像 | cdn8.163189.xyz | <https://cdn8.163189.xyz/live/lhox/stream.m3u8> |
+| 132 | 龙华日韩 | cdn8.163189.xyz | <https://cdn8.163189.xyz/live/lhrh/stream.m3u8> |
+| 133 | 龙华戏剧 | cdn8.163189.xyz | <https://cdn8.163189.xyz/live/lhxj/stream.m3u8> |
+| 134 | 龙华洋片 | cdn8.163189.xyz | <https://cdn8.163189.xyz/live/lhyp/stream.m3u8> |
+| 135 | TVB星河 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe> |
+| 136 | TVB武侠 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=yzwx> |
+| 137 | 美亚C+ | ottproxy2.ist.ooo | <http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8> |
+| 138 | RTHK31 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31> |
+| 139 | RTHK32 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32> |
+| 140 | HOY TV | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=hoytv> |
 
-Updated at **Tue Sep 30 2025 20:24:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 01 2025 00:30:33 GMT+0000 (Coordinated Universal Time)**
