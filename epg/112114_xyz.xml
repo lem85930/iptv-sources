@@ -52245,6 +52245,9 @@
 	<programme channel="newtv超级电影" start="20251002004800 +0800" stop="20251002022400 +0800">
 		<title lang="zh">中国蓝盔</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251002022400 +0800" stop="20251002035400 +0800">
+		<title lang="zh">木鸢迷踪</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -52302,6 +52305,9 @@
 	<programme channel="newtv古装剧场" start="20251002013400 +0800" stop="20251002021900 +0800">
 		<title lang="zh">60_新洛神</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251002021900 +0800" stop="20251002030500 +0800">
+		<title lang="zh">61_新洛神</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -52325,6 +52331,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251002013000 +0800" stop="20251002021700 +0800">
 		<title lang="zh">07_非常有喜</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251002021700 +0800" stop="20251002030300 +0800">
+		<title lang="zh">08_非常有喜</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -52371,6 +52380,9 @@
 	<programme channel="newtv怡伴健康" start="20251002013600 +0800" stop="20251002022300 +0800">
 		<title lang="zh">44_燕云台</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251002022300 +0800" stop="20251002031100 +0800">
+		<title lang="zh">寻找失去的野性（2）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -52403,6 +52415,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251002012800 +0800" stop="20251002022800 +0800">
 		<title lang="zh">酷女孩上演“沉浸式”跳锁舞 可盐可甜 能动能静（20250426）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251002022800 +0800" stop="20251002024900 +0800">
+		<title lang="zh">小负重背部训练（20241230）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
