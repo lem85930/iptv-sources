@@ -133,6 +133,6 @@
 | 127 | RTHK31 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31> |
 | 128 | RTHK32 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32> |
 | 129 | HOY TV | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=hoytv> |
-| 130 | 亚洲卫视 | fenghuang.tv12.xyz | <https://fenghuang.tv12.xyz/173.m3u8> |
+| 130 | 亚洲卫视 | pull-hsbj.vzan.com | <https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.flv> |
 
-Updated at **Thu Oct 02 2025 06:15:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 02 2025 07:20:16 GMT+0000 (Coordinated Universal Time)**
