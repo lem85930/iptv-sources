@@ -23,4 +23,4 @@
 | 17 | 世界地理 | IPv4 直链 | <http://101.74.28.84:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 18 | 河北影视 | IPv4 直链 | <http://101.74.28.84:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sat Oct 04 2025 05:05:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Oct 04 2025 06:30:12 GMT+0000 (Coordinated Universal Time)**
