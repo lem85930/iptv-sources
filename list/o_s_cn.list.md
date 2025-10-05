@@ -455,4 +455,4 @@
 | 449 | Hunan TV (2160p) | hlsal-ldvt.qing.mgtv.com | <http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8> |
 | 450 | Zhejiang Satellite TV | 浙江广播电视集团 | <https://play-qukan.cztv.com/live/1758879019692345.m3u8> |
 
-Updated at **Sun Oct 05 2025 10:20:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Oct 05 2025 12:41:10 GMT+0000 (Coordinated Universal Time)**
