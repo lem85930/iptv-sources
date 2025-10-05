@@ -453,5 +453,6 @@
 | 447 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 | 448 | 黑龙江卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8> |
 | 449 | Hunan TV (2160p) | hlsal-ldvt.qing.mgtv.com | <http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8> |
+| 450 | Zhejiang Satellite TV | 浙江广播电视集团 | <https://play-qukan.cztv.com/live/1758879019692345.m3u8> |
 
-Updated at **Sat Oct 04 2025 22:18:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Oct 05 2025 01:52:41 GMT+0000 (Coordinated Universal Time)**
