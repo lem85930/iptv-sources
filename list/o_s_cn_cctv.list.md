@@ -9,4 +9,4 @@
 | 3 | CCTV-4 America (1080p) | global.cgtn.cicc.media.caton.cloud | <https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8> |
 | 4 | CCTV-13新闻 (1080p) | CCTV | <https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8> |
 
-Updated at **Sun Oct 05 2025 22:19:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Oct 06 2025 01:46:00 GMT+0000 (Coordinated Universal Time)**
