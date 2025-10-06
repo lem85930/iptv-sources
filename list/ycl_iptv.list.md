@@ -135,4 +135,4 @@
 | 129 | HOY TV | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=hoytv> |
 | 130 | 亚洲卫视 | pull-hsbj.vzan.com | <https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.flv> |
 
-Updated at **Mon Oct 06 2025 08:30:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Oct 06 2025 10:25:08 GMT+0000 (Coordinated Universal Time)**
