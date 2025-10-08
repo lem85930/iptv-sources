@@ -457,4 +457,4 @@
 | 451 | ST Bongo | uvotv-aniview.global.ssl.fastly.net | <https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/stbongo/playlist.m3u8> |
 | 452 | ST Rembo TV | uvotv-aniview.global.ssl.fastly.net | <https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/rembotv/playlist.m3u8> |
 
-Updated at **Tue Oct 07 2025 20:24:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 08 2025 01:03:06 GMT+0000 (Coordinated Universal Time)**
