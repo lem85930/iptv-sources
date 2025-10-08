@@ -9991,4 +9991,4 @@
 | 9985 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
 | 9986 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 
-Updated at **Wed Oct 08 2025 07:18:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 08 2025 08:30:38 GMT+0000 (Coordinated Universal Time)**
