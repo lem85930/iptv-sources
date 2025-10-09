@@ -271,6 +271,7 @@ Entertainment,#genre#
 [HD]cablenoticias,https://stream1.freetv.fun/e60680f17ffbc9ba5e6908ec4b8233b320dfb3325d120f01995ca54110040b54.m3u8
 [BD]california_music_channel,https://stream1.freetv.fun/9adc1b4bd71001b443aa5ea70271a85fa2a8822ff1d2631c07ec3400001115dd.m3u8
 [BD]moldova_2,https://stream1.freetv.fun/7b3472ccc49ddbf784d488a75e269b9da53a6e225b79132fe11606dc3627f88e.m3u8
+[HD]canal_rcn,https://stream1.freetv.fun/5c58c5684a6817d1cada3375c7044125b279092959042dd7973d646ab9dea420.m3u8
 [BD]telesur,https://stream1.freetv.fun/31e6b66104a426396ad48663c29f3553d3cb9d90cf27f19ba85aab1f6aa32496.m3u8
 [HD]canal_educação,https://stream1.freetv.fun/14a8e8e83da888c49b1819c4ccebf43c149ef22dd4caa98c2756959660371607.m3u8
 [HD]canal_multivision,https://stream1.freetv.fun/916dcb2002d7e73f2d98a88a778a80c8e091527cf3aa0505692876612643363a.m3u8
