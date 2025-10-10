@@ -27993,6 +27993,9 @@
 	<programme channel="咪咕综合体育" start="20251010130000 +0800" stop="20251010144000 +0800">
 		<title lang="zh">英超赛场-25/26赛季英超 第6轮 水晶宫-利物浦</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251010144000 +0800" stop="20251010150000 +0800">
+		<title lang="zh">中超精华 第26轮</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -44534,6 +44537,9 @@
 	</programme>
 	<programme channel="明星大片" start="20251010142700 +0800" stop="20251010144200 +0800">
 		<title lang="zh">07_喜羊羊与灰太狼之深海历险记</title>
+	</programme>
+	<programme channel="明星大片" start="20251010144200 +0800" stop="20251010152200 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -85917,6 +85923,9 @@
 	<programme channel="newtv精品大剧" start="20251010140000 +0800" stop="20251010144500 +0800">
 		<title lang="zh">03_三国机密之潜龙在渊</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251010144500 +0800" stop="20251010150500 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -86190,6 +86199,9 @@
 	<programme channel="newtv家庭剧场" start="20251010134800 +0800" stop="20251010143300 +0800">
 		<title lang="zh">03_乔家的儿女</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251010143300 +0800" stop="20251010150200 +0800">
+		<title lang="zh">书法视频</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -86249,6 +86261,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251010135300 +0800" stop="20251010143700 +0800">
 		<title lang="zh">34_风声</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251010143700 +0800" stop="20251010150800 +0800">
+		<title lang="zh">云杉心脑通</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -86705,6 +86720,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251010142700 +0800" stop="20251010144200 +0800">
 		<title lang="zh">07_喜羊羊与灰太狼之深海历险记</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251010144200 +0800" stop="20251010152200 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
