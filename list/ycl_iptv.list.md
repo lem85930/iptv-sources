@@ -87,5 +87,6 @@
 | 81 | 经典电影 | IPv4 直链 | <rtp://239.3.1.195:9024> |
 | 82 | 魅力时尚 | IPv4 直链 | <rtp://239.3.1.196:9012> |
 | 83 | 少儿动画 | IPv4 直链 | <rtp://239.3.1.199:9000> |
+| 84 | 动画高清 | IPv4 直链 | <rtp://239.3.1.80:4120> |
 
-Updated at **Sat Oct 11 2025 01:40:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Oct 11 2025 02:56:04 GMT+0000 (Coordinated Universal Time)**
