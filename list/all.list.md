@@ -316,7 +316,7 @@
 | 310 | [BD]cetv1 | stream1.freetv.fun | <https://stream1.freetv.fun/da35c24c83335a7bcc71382e437f168201a41aa7b9806b67031a6b17c7930fdc.ctv> |
 | 311 | [BD]cgntv japan | stream1.freetv.fun | <https://stream1.freetv.fun/be87d8db8d2f3d934589fcc35f6e3bc413e947818b79f0e2aec1aa3e055c862f.m3u8> |
 | 312 | [HD]cgtn *wj | stream1.freetv.fun | <https://stream1.freetv.fun/01aa86eaafcfce1ff183d2bcfaf05dd5fe4c23e48d4ce5efefa5a4eb73efc470.ctv> |
-| 313 | [HD]asharq documentary | stream1.freetv.fun | <https://stream1.freetv.fun/8ab5f603f7d5a9e5c37a07736f309c981277dd2250416023994aaff9ef4bd2ac.m3u8> |
+| 313 | [BD]asharq documentary | stream1.freetv.fun | <https://stream1.freetv.fun/8ab5f603f7d5a9e5c37a07736f309c981277dd2250416023994aaff9ef4bd2ac.m3u8> |
 | 314 | [BD]cgtn español | stream1.freetv.fun | <https://stream1.freetv.fun/ac4f4f88aa80e1bba9914a6fd784347def5abface3f61486f6f7e855feaab5fd.m3u8> |
 | 315 | [BD]cgtn français | stream1.freetv.fun | <https://stream1.freetv.fun/8b2e227859e9c10db1b8a04d180b0415b38c6f3ece2bb89dd06c062a8c63b62e.m3u8> |
 | 316 | [BD]cgtn русский | stream1.freetv.fun | <https://stream1.freetv.fun/800af3de6d2cab9fc463ec417c6ab737591154a8eafa27fb43713a33bc7f6dd5.m3u8> |
@@ -419,7 +419,7 @@
 | 413 | [HD]comedy central east | stream1.freetv.fun | <https://stream1.freetv.fun/63dff6b1b59d85ed3dd67f2129b92ea7265cf2555861b371fb02a411bc1a47ae.m3u8> |
 | 414 | [SD]comedy xtra *m | stream1.freetv.fun | <https://stream1.freetv.fun/27c94242772e89a0db068e7d7678978a472d0bd77bce1b6139aa21207841c723.ctv> |
 | 415 | [BD]rakuten tv comedy movies | stream1.freetv.fun | <https://stream1.freetv.fun/8be0bc1c7bd7fd2183d261d9638835fdc1d8e836a22bbf03885f475b106fd041.m3u8> |
-| 416 | [HD]court tv | stream1.freetv.fun | <https://stream1.freetv.fun/2104ae6466368098e9428e0e581681041a00b0f7d44a95ff3adec0cb14bc63b8.m3u8> |
+| 416 | [SD]court tv | stream1.freetv.fun | <https://stream1.freetv.fun/2104ae6466368098e9428e0e581681041a00b0f7d44a95ff3adec0cb14bc63b8.m3u8> |
 | 417 | [SD]crime 360 (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/553183ed7d12a08ef53cefd93ab6d600608f080c9f682a6bf21967392a746a54.m3u8> |
 | 418 | [HD]crime plus investigation | stream1.freetv.fun | <https://stream1.freetv.fun/df37708591cd7dd74da6f6b724b59ae2861278fb0755bcf5d26d9483df9062db.m3u8> |
 | 419 | [SD]cozi tv | stream1.freetv.fun | <https://stream1.freetv.fun/7f13c43a09108ddfd93c2215ee1e8d20ceb07ff9335754520ec827fcb8f26dfb.m3u8> |
@@ -654,7 +654,7 @@
 | 648 | [BD]hi-yah! (1080p) | stream1.freetv.fun | <https://stream1.freetv.fun/7ec9314fb9a1d523bb8b558ffbb5026961bd4c562320e951da4cd58d289cc65e.m3u8> |
 | 649 | [BD]history 2 *m | stream1.freetv.fun | <https://stream1.freetv.fun/9ee57f253e1c721414e4a546a44b9fed5f6f33e126e89b54bf2b7eaf1a7007ce.ctv> |
 | 650 | [HD]storychannel tv (720p) | stream1.freetv.fun | <https://stream1.freetv.fun/fc44958a0e61db8c543a514ef3929a59e8dc068e3f348c1f84e69b2fbae014d5.m3u8> |
-| 651 | [SD]history | stream1.freetv.fun | <https://stream1.freetv.fun/bcf3ca80d4f3e29a3c2b51d97819c75152a0437f1a8dd10b9c0f498d94ea6a13.ctv> |
+| 651 | [BD]history hunters | stream1.freetv.fun | <https://stream1.freetv.fun/ff0ae1f5b6ced206bc6bac45e5fcae7fc835aa4a33799aba2902c7a270dca842.m3u8> |
 | 652 | [SD]history2(usa) *s | stream1.freetv.fun | <https://stream1.freetv.fun/e0f2a6e3aca5cfc92d017f0e0daefcdf5cb1a6f965928027f5134886c364be2e.m3u8> |
 | 653 | [BD]xite hits | stream1.freetv.fun | <https://stream1.freetv.fun/350a54a564633d554db45e511483c39c085a55ddf1336bfc308ee1c6a1f75c66.m3u8> |
 | 654 | [HD]hollywire | stream1.freetv.fun | <https://stream1.freetv.fun/0ba95f2fdd2cb35c3aa767bb26320eb4750279860a8d5fabbf9c2c6fb6930ced.m3u8> |
@@ -1306,7 +1306,7 @@
 | 1300 | [BD]tvbs 欢乐 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/9ad38f0133f0e392afd8db5aba6a360c9e2b5618af2a7513eac46d58e879b505.ctv> |
 | 1301 | [BD]tvbs综艺 *x | stream1.freetv.fun | <https://stream1.freetv.fun/73f5ccd5924d0c9f3955a782fd4848863955264a34fc787e8db5e2af09862159.m3u8> |
 | 1302 | [BD]tvbs亚洲 | stream1.freetv.fun | <https://stream1.freetv.fun/5d67b3e9131d07f6e7da4e6fafda09cc609ee7fefb2e14ca14cf5bd6da5e4107.m3u8> |
-| 1303 | [HD]tvb星河 | stream1.freetv.fun | <https://stream1.freetv.fun/e1f2e0d3c534c1d7b467fa6bf2a647527e6841c6c2d76b14b29e22682fba93f1.ctv> |
+| 1303 | [HD]tvb星河 | stream1.freetv.fun | <https://stream1.freetv.fun/9bbb5f6b3fe726c6ed82737f4babafc986bc35e8b9a57840b28f69b623855886.ctv> |
 | 1304 | [BD]tvb翡翠 | stream1.freetv.fun | <https://stream1.freetv.fun/99bb646a71d6fb69f3287af93bc08e97e334d626c7889509579bf47e76b641f8.ctv> |
 | 1305 | [HD]tvcg mne | stream1.freetv.fun | <https://stream1.freetv.fun/fbde93a1fb22414f7e174f56e320740e4856c579307cd7a24626dfa839d767f6.m3u8> |
 | 1306 | [HD]tve 24h | stream1.freetv.fun | <https://stream1.freetv.fun/32ff5e6511b9bff9d1ce361cc67f5bd81d31dd7247e4406a241d9f8ced9e9c97.m3u8> |
@@ -1845,7 +1845,7 @@
 | 1839 | [HD]纬来日本 | stream1.freetv.fun | <https://stream1.freetv.fun/dfe1f69c53c657923f4cef7c06a161c4791160e25dd50781e1452be066f40310.ctv> |
 | 1840 | [HD]纬来精彩 | stream1.freetv.fun | <https://stream1.freetv.fun/409fbf8e0ec33500b4d76956cca00af9fddacac6dd2f8822f464b089fb583a6b.m3u8> |
 | 1841 | [HD]纬来综合 | stream1.freetv.fun | <https://stream1.freetv.fun/71fe8e564372cb5ac80aad29fefa4535f0c9d0d60e5a59a51bc527a3461e258f.ctv> |
-| 1842 | [HD]纬来育乐 | stream1.freetv.fun | <https://stream1.freetv.fun/cb26bc36c9fba761238b8b35cf6a7b1d215e834e5e952867bd83b6db2fa049fb.ctv> |
+| 1842 | [BD]纬来育乐 | stream1.freetv.fun | <https://stream1.freetv.fun/3abfaa9bfc01013d7459fb45d6a8d8dbdf1a788ee158c13c66e1d79d7e74fe96.ctv> |
 | 1843 | [HD]纬来电影 | stream1.freetv.fun | <https://stream1.freetv.fun/69478d8fd9d97410123fe7a7c1d10612b415d6e6c4966dc6a8a3bc3148ff458e.ctv> |
 | 1844 | [HD]纬来体育 | stream1.freetv.fun | <https://stream1.freetv.fun/cc1a505325338e518290f899fcdc2afecc6e3ab3eb08abf045ea89d3d96a0797.ctv> |
 | 1845 | [BD]美亚电影 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/1a2e9a073b44c52d258ef7d1bfad1bd93927c4530651a408eb15354d7fff15b2.ctv> |
@@ -1926,4 +1926,4 @@
 | 1920 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c18a68c08db26e594330015d8ba2b4db254e993bdf7ce3e5dfb9c920038ed8a5.m3u8> |
 | 1921 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/66c2819a6d6159881e8bdfe88f1bd048bbae6df9ceaa34472d317615c13f15cf.m3u8> |
 
-Updated at **Sat Oct 11 2025 14:17:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Oct 11 2025 16:24:10 GMT+0000 (Coordinated Universal Time)**
