@@ -178,4 +178,4 @@
 | 172 | 陕西都市青春 | IPv4 直链 | <http://36.40.236.5:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 173 | 陕西银铃 | IPv4 直链 | <http://36.40.236.5:9999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Sun Oct 12 2025 18:28:49 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Oct 12 2025 20:22:32 GMT+0000 (Coordinated Universal Time)**
