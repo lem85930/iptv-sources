@@ -1387,6 +1387,7 @@ News,#genre#
 [BD]news_world,https://stream1.freetv.fun/a5991a29d4ebc464d26b6f0fe7f56d6415426b2c2b84b27046ccf13b3e4012ff.m3u8
 [BD]now新闻,https://stream1.freetv.fun/c50436b4b66ade6d8f8e2106ca97460d5686f06615911ee7b513b0f8b73f7b01.m3u8
 [BD]ntv,https://stream1.freetv.fun/9aab7bc1916fc47c18f67c475388d769346b9177985583dad5a5d39f139f2ba9.ctv
+[BD]news12_brooklyn,https://stream1.freetv.fun/f19deb6cc616359a866416f171b4687b4aa2dc10fc1cfca7089e74863e1d8624.m3u8
 [HD]news_nation,https://stream1.freetv.fun/fb8e38d10defe1d08e5cc211e77264449af4513c8fc6b9d3821765b8418ab55a.m3u8
 [BD]newsmax_tv,https://stream1.freetv.fun/acc95b1d0ccc50424336707fd900a8614036156b1e260d409e800785e69d8aa0.m3u8
 [BD]wos_tv,https://stream1.freetv.fun/0977ac80450c35d41484871384df979248d3b0cfdf3af36fc957c83c128a4165.m3u8
@@ -1585,7 +1586,7 @@ Sports,#genre#
 [HD]icaro_tv,https://stream1.freetv.fun/ebdf2b781e5166a4be98cd8e96e762b07f54479db7668575ae79f768025a3059.m3u8
 [BD]dubai_tv,https://stream1.freetv.fun/45700731e8d1b0cdb05b5696650969009ae6331cec8758d3ac4ded24a0a119de.m3u8
 [BD]dubai_sports_1,https://stream1.freetv.fun/a728fc8aecb6de14ad6802d10981778eddb952c4217e4906236594dd7aff1b83.m3u8
-[BD]dubai_sports_3,https://stream1.freetv.fun/b17ef15ebbfbfd21b3906cc4c90747f718e73d098a6c89cbb49bca9a67e6181c.m3u8
+[BD]dubai_sports_2,https://stream1.freetv.fun/b3120baf9765278670626bdd344ae0c8e5c6e7ccca6f4ac93382e79e6b79e15a.m3u8
 [HD]elta爱尔达体育_1_*wj,https://stream1.freetv.fun/e57e95974876231a0a7909757403e48544306940937d2dfa520cf7675ed23cb1.ctv
 [BD]cctv-4k,https://stream1.freetv.fun/b9a2e767d016105572cd8746a02687121eff29c306eeb922ff2feab8b7286e4c.ctv
 [HD]delta_tv,https://stream1.freetv.fun/1a8af234f3f251464bf680633e348eb6d051897aa1bede24cd85425aa9cbe46f.m3u8
