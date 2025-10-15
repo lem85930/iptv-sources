@@ -215,4 +215,4 @@
 | 209 | 金鹰卡通 | IPv4 直链 | <http://101.66.199.152:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 210 | 马鞍山新闻 | IPv4 直链 | <http://223.241.247.214:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Wed Oct 15 2025 07:34:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 15 2025 08:32:12 GMT+0000 (Coordinated Universal Time)**
