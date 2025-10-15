@@ -4,13 +4,13 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | CCTV-1 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/1/index.m3u8> |
-| 2 | CCTV+ 1 (600p) [Not 24/7] | CCTV+ | <https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8> |
-| 3 | CCTV-2 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/2/index.m3u8> |
-| 4 | CCTV+ 2 (600p) [Not 24/7] | CCTV+ | <https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8> |
+| 1 | CCTV+ 1 (600p) [Not 24/7] | CCTV+ | <https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8> |
+| 2 | CCTV+ 2 (600p) [Not 24/7] | CCTV+ | <https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8> |
+| 3 | CCTV-1 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/1/index.m3u8> |
+| 4 | CCTV-2 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/2/index.m3u8> |
 | 5 | CCTV-3 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/3/index.m3u8> |
-| 6 | CCTV-4 America (1080p) | global.cgtn.cicc.media.caton.cloud | <https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8> |
-| 7 | CCTV-4 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/4/index.m3u8> |
+| 6 | CCTV-4 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/4/index.m3u8> |
+| 7 | CCTV-4 America (1080p) | global.cgtn.cicc.media.caton.cloud | <https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8> |
 | 8 | CCTV-5 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/5/index.m3u8> |
 | 9 | CCTV-5+ (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/6/index.m3u8> |
 | 10 | CCTV-6 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/7/index.m3u8> |
@@ -26,4 +26,4 @@
 | 20 | CCTV-16 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/17/index.m3u8> |
 | 21 | CCTV-17 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/18/index.m3u8> |
 
-Updated at **Wed Oct 15 2025 14:24:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 15 2025 19:00:55 GMT+0000 (Coordinated Universal Time)**
