@@ -6,4 +6,4 @@
 | --- | ------------ | ---- | ------ |
 | 1 | 旅游卫视 | IPv4 直链 | <http://115.207.211.178:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Fri Oct 17 2025 06:45:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Oct 17 2025 08:31:08 GMT+0000 (Coordinated Universal Time)**
