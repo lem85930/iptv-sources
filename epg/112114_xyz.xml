@@ -82153,6 +82153,9 @@
 	<programme channel="newtv超级电视剧" start="20251020195300 +0800" stop="20251020203000 +0800">
 		<title lang="zh">18_你是我的荣耀</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251020203000 +0800" stop="20251020210600 +0800">
+		<title lang="zh">19_你是我的荣耀</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
