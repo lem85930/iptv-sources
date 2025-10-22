@@ -2625,7 +2625,7 @@ WIPR_(1080p),https://streannliveprtv.cachefly.net/prtv1/prtv1/playlist.m3u8
 Wired2Fish_(720p),https://wire2fish-klowdtv.amagi.tv/playlist.m3u8
 WIS-DT2_(720p)_[Not_24/7],https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
 WJAX-DT1_(1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
-WJLP-DT1,https://e5.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/tracks-v2a1/mono.m3u8
+WJLP-DT1,https://e5.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/index.m3u8
 WJXT_News4JAX_(Jacksonville_FL)_(720p),https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
 WKAQ-DT2_(Punto_2)_(720p),https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 WKCF-DT1,https://fl41.moveonjoy.com/CW_ORLANDO/index.m3u8
@@ -6097,6 +6097,7 @@ News,#genre#
 7_Info,https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/7info/playlist.m3u8
 10_TV_(720p),https://cdn-1.pishow.tv/live/391/master.m3u8
 13_Siam_Thai_(1080p),https://live.x2.co.th/live/13livetv-th.m3u8
+24/7_Canal_de_Noticias,https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 24_Kanal,https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/24channel/playlist.m3u8
 24KZ,https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
 24_Канал_(1080p),https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
@@ -8199,8 +8200,8 @@ YTA_TV,https://yta.unitedteleports.tv/hls/YTA.m3u8
 YTV,https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119033/ytvbotswana/playlist.m3u8
 Yunavisión_(720p),https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
 ZAZ,https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-Zoy_TV_Turcas_(720p),https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvturcas/playlist.m3u8
-ZoyTV_Plus_(720p),https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytv/playlist.m3u8
+Zoy_TV_Turcas_(720p),https://mio.zoymilton.com/ZoyTurcas/index.m3u8
+ZoyTV_Plus_(720p),https://mio.zoymilton.com/ZoyPlus/index.m3u8
 Zuglo_TV_(360p),https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
 Беларусь_2_(1080p),https://edge60.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 Индия,http://31.148.48.15/Zee_TV_Russia/index.m3u8
