@@ -272,7 +272,7 @@
 | 266 | [SD]cbbc uhd *m | stream1.freetv.fun | <https://stream1.freetv.fun/de4b02838955d95ce99d38d48056c10e3ac410291cf21abee09dd5ddaf18bc16.ctv> |
 | 267 | [BD]cbc s | stream1.freetv.fun | <https://stream1.freetv.fun/80c0e2d6ff07c91f48fa30281dd93aa8475d6e24a864e90bca6788fa6fbded69.m3u8> |
 | 268 | [BD]cbc news | stream1.freetv.fun | <https://stream1.freetv.fun/e5ffa095f38b52253447c32ee6d016e1cb35f17082334dea043e3dc47468eb43.m3u8> |
-| 269 | [BD]makrodigital television | stream1.freetv.fun | <https://stream1.freetv.fun/78fa3168fc9ec404ae8819fb4cd0f3fa79c89641fda7a695fd7373aabab5f958.m3u8> |
+| 269 | [HD]buena park television | stream1.freetv.fun | <https://stream1.freetv.fun/7c21344c41f45fabfab3ecf1899569571b50fbd91dd21a2e1c13b87b07602bef.m3u8> |
 | 270 | [VGA]tln media chicago | stream1.freetv.fun | <https://stream1.freetv.fun/e624004fa2fefb853bb8b613b60c6757c6f946c6f461316e514763d31271c8ef.m3u8> |
 | 271 | [HD]cbs *wj | stream1.freetv.fun | <https://stream1.freetv.fun/d34920a805680edd2d223c4c2ae25433a01cea86b93890361734b6f2d59cef8e.ctv> |
 | 272 | [BD]cps drama | stream1.freetv.fun | <https://stream1.freetv.fun/cca88cc6c79468bfc8c271bea283d029e8d8ef822adc54ea417a1196a22c91cc.ctv> |
@@ -1910,4 +1910,4 @@
 | 1904 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c18a68c08db26e594330015d8ba2b4db254e993bdf7ce3e5dfb9c920038ed8a5.m3u8> |
 | 1905 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/f3e4792919e603bd0eb00254eb263931dbab92a22578853745d8dbe977714338.m3u8> |
 
-Updated at **Wed Oct 22 2025 18:35:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 22 2025 20:26:55 GMT+0000 (Coordinated Universal Time)**
