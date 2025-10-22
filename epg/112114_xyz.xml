@@ -28518,6 +28518,9 @@
 	<programme channel="咪咕综合体育" start="20251022130500 +0800" stop="20251022140500 +0800">
 		<title lang="zh">国球荣耀-2025WTT中国大满贯 女单半决赛 孙颖莎-陈幸同</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251022140500 +0800" stop="20251022150000 +0800">
+		<title lang="zh">国球荣耀-2025WTT中国大满贯 女单决赛 孙颖莎-王曼昱</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28583,6 +28586,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251022140000 +0800" stop="20251022141500 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251022141500 +0800" stop="20251022154500 +0800">
+		<title lang="zh">2025中国男篮系列热身赛 第3场 中国男篮-波黑男篮</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -69066,6 +69072,9 @@
 	<programme channel="纯享4K" start="20251022140100 +0800" stop="20251022141600 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 雕塑b7踢毽子</title>
 	</programme>
+	<programme channel="纯享4K" start="20251022141600 +0800" stop="20251022150600 +0800">
+		<title lang="zh">国家公园——万物共生之境4K 第1集 荒原新生</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -86364,6 +86373,9 @@
 	<programme channel="newtv超级综艺" start="20251022125000 +0800" stop="20251022140700 +0800">
 		<title lang="zh">向幸福出发</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251022140700 +0800" stop="20251022144500 +0800">
+		<title lang="zh">衣锦天下b7丝路季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -86495,6 +86507,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251022132600 +0800" stop="20251022141100 +0800">
 		<title lang="zh">17_平凡之路</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251022141100 +0800" stop="20251022145700 +0800">
+		<title lang="zh">18_平凡之路</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -86817,6 +86832,9 @@
 	<programme channel="newtv家庭剧场" start="20251022132800 +0800" stop="20251022140800 +0800">
 		<title lang="zh">龙血树叶粉</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251022140800 +0800" stop="20251022145500 +0800">
+		<title lang="zh">13_玫瑰的故事</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -86873,6 +86891,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251022132700 +0800" stop="20251022140700 +0800">
 		<title lang="zh">营养健康20新</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251022140700 +0800" stop="20251022144700 +0800">
+		<title lang="zh">05_证词</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -87120,6 +87141,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251022132900 +0800" stop="20251022141400 +0800">
 		<title lang="zh">44_扶摇</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251022141400 +0800" stop="20251022161400 +0800">
+		<title lang="zh">第4期下：李宇春为所有女生献唱新歌</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -87204,6 +87228,9 @@
 	<programme channel="newtv军事评论" start="20251022134000 +0800" stop="20251022140200 +0800">
 		<title lang="zh">美“科幻战舰”换装高超音速武器</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251022140200 +0800" stop="20251022142400 +0800">
+		<title lang="zh">俄乌地面装甲新动向</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -87266,6 +87293,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251022134500 +0800" stop="20251022140700 +0800">
 		<title lang="zh">傣族民间舞蹈（20250624）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251022140700 +0800" stop="20251022142800 +0800">
+		<title lang="zh">追光者——周玲（20250630）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
