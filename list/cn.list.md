@@ -20,7 +20,7 @@
 | 14 | [BD]cctv4 | stream1.freetv.fun | <https://stream1.freetv.fun/1927200d910f3087e569a0050d84b50158d3c1e2d928ad116119bb9eafe8ac9f.m3u8> |
 | 15 | [BD]cctv4 | stream1.freetv.fun | <https://stream1.freetv.fun/15a4180e12b35249c7b2bc9d2b5d2feed983b66d309ca216fc6d8782766a349f.ctv> |
 | 16 | [BD]cctv-4 中文国际 欧洲 | stream1.freetv.fun | <https://stream1.freetv.fun/c31139e1d845c7537e898a624023824ca6e36922e15702db29921579b8645f6f.m3u8> |
-| 17 | [BD]cctv-4 中文国际 | stream1.freetv.fun | <https://stream1.freetv.fun/0d0d56ca038bbabf57a336177f57416a883150929c6a0b86cd8739e2e2073fd1.m3u8> |
+| 17 | [BD]cctv-4 中文国际 美洲 | stream1.freetv.fun | <https://stream1.freetv.fun/f04b499924b53d8cc5955b08c5a7a479c8ebb3d38f261ef758b94ecc721eb9bd.m3u8> |
 | 18 | [SD]cctv5 | stream1.freetv.fun | <https://stream1.freetv.fun/8ca3e123a0d74e87f21a305af77f712600ac07ae33200d2c5c017f8d01751f36.m3u8> |
 | 19 | [BD]cctv5-体育 | stream1.freetv.fun | <https://stream1.freetv.fun/a171c801b82d29b636aeef3cf0f2785c1d2d3e3cb80e51788990999a34ae51d0.ctv> |
 | 20 | [BD]cctv5 | stream1.freetv.fun | <https://stream1.freetv.fun/0e67c24133bbf121a8f74e59353f4e2a8932983d3fedfee00fcf4e1dfd35bf11.m3u8> |
@@ -274,4 +274,4 @@
 | 268 | [BD]溧水新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/1a079c059eb130d33f8a0b23c616b77e1390d13bed99002dda920d83163b8808.ctv> |
 | 269 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/8db7fe87f56b1781603eca82aa8111cd9a6f7a52cb6648858a6a657a926d5ddf.m3u8> |
 
-Updated at **Wed Oct 22 2025 06:45:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 22 2025 08:32:59 GMT+0000 (Coordinated Universal Time)**
