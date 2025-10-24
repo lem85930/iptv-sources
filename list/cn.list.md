@@ -271,4 +271,4 @@
 | 265 | [SD]黑龙江新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/7dd215c9f166208cd88c7d3807f2899e00819ef112fb02d0f6b4d0b3ec6c5d80.m3u8> |
 | 266 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/1daeb6ebad1472fe2bc4132507a863e32729f2bf8e10df6d4208962761912623.ctv> |
 
-Updated at **Fri Oct 24 2025 08:33:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Oct 24 2025 10:26:10 GMT+0000 (Coordinated Universal Time)**
