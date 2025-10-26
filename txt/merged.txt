@@ -1854,7 +1854,7 @@ Test,#genre#
 [BD]内蒙古蒙语文化,https://stream1.freetv.fun/259625f9cd412bc5d6d12bcbbe529129a32a8dd00caf955bd6479233d348d174.m3u8
 [SD]内蒙古卫视,https://stream1.freetv.fun/97f9104f50fef19f532dccf3478be721b8eb8aead56247c68a672b5bb12bdf4f.ctv
 [BD]内蒙古农牧,https://stream1.freetv.fun/9de3712db8adc1163caba9b15f0ba365f944fcb44bcf406d2a69fc0cf741c50b.m3u8
-[BD]北京卫视,https://stream1.freetv.fun/81a83aae5e098095fc514c5ab802f00c5a651b3846694b4ad69e3fb649ed270a.m3u8
+[BD]北京卫视,https://stream1.freetv.fun/217f4f75f9a74bf1809629bcbb3fa197c1ba1b4ba529514de80cde5171e972a0.m3u8
 [HD]南充综合,https://stream1.freetv.fun/60674c5c967d409a08426f032650552c77f3ff359cb2ad4bdb67ee962db25a8e.ctv
 [BD]广州南国都市,https://stream1.freetv.fun/e760fb5e5162fca504bcc3eb9c21b199906cb92bd109adc673650c26f69506d2.m3u8
 [SD]吉林卫视,https://stream1.freetv.fun/657b3cc8f2106d0e0b52d0bc7f0e15db544b37b3e86bf5f486f351b9db61fa2e.ctv
@@ -1877,7 +1877,7 @@ Test,#genre#
 [BD]广东珠江,https://stream1.freetv.fun/6115aadb0da4010b3ff3c49d52f5100c48686ce70329ddef796f995ac136111d.m3u8
 [BD]广东经济,https://stream1.freetv.fun/d7f05f84fd9f2466afd6e72713d62b989b9910c733533ce558aa329460e2a55b.ctv
 [BD]广东经济科教,https://stream1.freetv.fun/195a90c7fd53ffd35bcd310057c96c96f0ee8b0cdcae125e5bfab78f1d28af6b.ctv
-[SD]广东卫视,https://stream1.freetv.fun/aff16c21768db1d338b768ad24bd76dd3faaa45a34844f5928b0de29d7d5ace2.ctv
+[BD]广东卫视,https://stream1.freetv.fun/6787e35b48df7529fb25c86cd92936335e75d68881015ff99c3e969f57177987.ctv
 [SD]广西卫视,https://stream1.freetv.fun/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.m3u8
 [SD]延边卫视,https://stream1.freetv.fun/3b8d3617ac26c79d0a9d731fdf2a44fba2a686ba655b28bf3dbbf0d01fa0ba87.m3u8
 [BD]新疆卫视,https://stream1.freetv.fun/ff50600dd45b1b1656f2f7535c04f361a6e8c33606e19dbc9b0316bd173f9408.m3u8
