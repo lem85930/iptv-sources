@@ -48822,6 +48822,9 @@
 	<programme channel="纯享4K" start="20251028201500 +0800" stop="20251028205700 +0800">
 		<title lang="zh"> 远方的家4K 大运河 南运河畔的美丽家园</title>
 	</programme>
+	<programme channel="纯享4K" start="20251028205700 +0800" stop="20251028210200 +0800">
+		<title lang="zh">美丽中国自然4K 克什克腾的春系列 沙地云杉</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60963,6 +60966,9 @@
 	<programme channel="newtv精品纪录" start="20251028201000 +0800" stop="20251028205700 +0800">
 		<title lang="zh">第四集 巴布亚新几内亚</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251028205700 +0800" stop="20251028212700 +0800">
+		<title lang="zh">《A咖秀》推荐第10期</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -61245,6 +61251,9 @@
 	<programme channel="newtv家庭剧场" start="20251028200200 +0800" stop="20251028204800 +0800">
 		<title lang="zh">42_生活就是家</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251028204800 +0800" stop="20251028211800 +0800">
+		<title lang="zh">《八段锦》推荐第41期</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -61335,6 +61344,9 @@
 	<programme channel="newtv热播精选" start="20251028201500 +0800" stop="20251028210000 +0800">
 		<title lang="zh">28_我的后半生</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251028210000 +0800" stop="20251028213000 +0800">
+		<title lang="zh">《A咖秀》推荐第10期</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -61418,6 +61430,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251028200200 +0800" stop="20251028204800 +0800">
 		<title lang="zh">31_亲爱的，你在哪里</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251028204800 +0800" stop="20251028211800 +0800">
+		<title lang="zh">《超级美味》推荐第13期</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -61584,6 +61599,9 @@
 	<programme channel="newtv怡伴健康" start="20251028200300 +0800" stop="20251028204700 +0800">
 		<title lang="zh">浙江杭州汉资vs天津狼图腾-第4局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251028204700 +0800" stop="20251028211700 +0800">
+		<title lang="zh">《A咖秀》推荐第10期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -61670,6 +61688,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251028200400 +0800" stop="20251028205500 +0800">
 		<title lang="zh">42_锦心似玉</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251028205500 +0800" stop="20251028212500 +0800">
+		<title lang="zh">《A咖秀》推荐第10期</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -61823,6 +61844,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251028202800 +0800" stop="20251028205500 +0800">
 		<title lang="zh">红场上的钢甲洪流</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251028205500 +0800" stop="20251028212200 +0800">
+		<title lang="zh">让人脸盲的武器装备</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
