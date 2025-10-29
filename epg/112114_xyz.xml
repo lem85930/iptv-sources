@@ -16746,6 +16746,9 @@
 	<programme channel="咪咕足球" start="20251030024500 +0800" stop="20251030025000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251030025000 +0800" stop="20251030041000 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -52440,6 +52443,9 @@
 	<programme channel="newtv超级电视剧" start="20251030020500 +0800" stop="20251030025000 +0800">
 		<title lang="zh">01_地雷战</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251030025000 +0800" stop="20251030032600 +0800">
+		<title lang="zh">02_地雷战</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -52625,6 +52631,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251030021300 +0800" stop="20251030025100 +0800">
 		<title lang="zh">管好家庭小药箱1（20240902）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251030025100 +0800" stop="20251030040800 +0800">
+		<title lang="zh">山水间的家乡美（20251005）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
