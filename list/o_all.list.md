@@ -1385,7 +1385,7 @@
 | 1379 | Canal 3 Benin | uvotv-aniview.global.ssl.fastly.net | <https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119195/canal3benin/playlist.m3u8> |
 | 1380 | Canal 3 Biar (480p) [Not 24/7] | avantstreaming.es | <https://avantstreaming.es/hls/canal3.m3u8> |
 | 1381 | Canal 3 Impresionante (480p) | cloud2.streaminglivehd.com:1936 | <https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8> |
-| 1382 | Canal 3 KMK TV (720p) | cloudvideo.servers10.com:8081 | <https://cloudvideo.servers10.com:8081/8120/index.m3u8> |
+| 1382 | Canal 3 KMK TV (720p) | live20.bozztv.com | <https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8> |
 | 1383 | Canal 3 La Pampa (1080p) | stream.arcast.com.ar | <https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8> |
 | 1384 | Canal 3 Las Heras (720p) | stream.arcast.com.ar | <https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8> |
 | 1385 | Canal 3 Monde | uvotv-aniview.global.ssl.fastly.net | <https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119695/canal3monde/playlist.m3u8> |
@@ -1683,7 +1683,7 @@
 | 1677 | CBC Windsor (CBET-DT) (720p) | cbcrclinear-tor.akamaized.net | <https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8> |
 | 1678 | CBeebies | x.canlitvapp.com | <https://x.canlitvapp.com/u-cbeebies/index.m3u8> |
 | 1679 | CBeebies Asia Vietnam (1080p) | hls.mskycdn.online | <https://hls.mskycdn.online/tv/bbccbb/index.m3u8> |
-| 1680 | CBN Espanol (1080p) | fastly.live.brightcove.com | <https://fastly.live.brightcove.com/6380375173112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzc1MTczMTEyIn0.6G0g6pn30iXNuqgU65sl3NImj3ORhxGNdhHGja671ck/playlist-hls.m3u8> |
+| 1680 | CBN Espanol (1080p) | fastly.live.brightcove.com | <https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U/playlist-hls.m3u8> |
 | 1681 | CBN Family (1080p) | fastly.live.brightcove.com | <https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/playlist-hls.m3u8> |
 | 1682 | CBN Gospel (720p) | 59d39900ebfb8.streamlock.net | <https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8> |
 | 1683 | CBN News National (1080p) | fastly.live.brightcove.com | <https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8> |
@@ -3309,7 +3309,7 @@
 | 3303 | Greek TV London (720p) [Not 24/7] | vdo3.alphaserver.gr:3466 | <https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8> |
 | 3304 | Greensboro TV (Greensboro NC) (720p) | lin12.isilive.ca | <https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8> |
 | 3305 | Grit | fl1.moveonjoy.com | <https://fl1.moveonjoy.com/GRIT_TV/index.m3u8> |
-| 3306 | Grit Xtra (1080p) | livetv-fa.tubi.video | <https://livetv-fa.tubi.video/grit-extra/playlist.m3u8> |
+| 3306 | Grit Xtra (1080p) | cdn-uw2-prod.tsv2.amagi.tv | <https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8> |
 | 3307 | Grjngo | 亚马逊AWS | <https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8> |
 | 3308 | Grjngo Films de Western (1080p) | 亚马逊AWS | <https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a5fc1b02-5945-11ef-a2df-87241c204d22/0/master.m3u8?country=fr&vendor=rakuten> |
 | 3309 | Grjngo Italy (720p) | amogonetworx-grjngo-6-it.rakuten.wurl.tv | <https://amogonetworx-grjngo-6-it.rakuten.wurl.tv/playlist.m3u8> |
@@ -5103,7 +5103,7 @@
 | 5097 | NACTV | stream2.pivotalelements.com | <https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8> |
 | 5098 | NaDoo Commerce (1080p) | op-krgroup1-swiftservehd-1.dens.tv | <https://op-krgroup1-swiftservehd-1.dens.tv/h/h126/live.m3u8> |
 | 5099 | NaDoo Korean (1080p) | op-krgroup1-swiftservehd-1.dens.tv | <https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8> |
-| 5100 | Naftemporiki TV (1080p) | naftemporiki-live.cdn.vustreams.com | <https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8> |
+| 5100 | Naftemporiki TV (1080p) | stream-188125.castr.net | <https://stream-188125.castr.net/631af9c016e5eace19ff9a5b/live_048998706a2311ee83b33fe7fbad252d/index.fmp4.m3u8> |
 | 5101 | Naija Gold Reels | streams2.sofast.tv | <https://streams2.sofast.tv/WiseM3U8_11/sofast/cleanhls/master.m3u8> |
 | 5102 | Nama TV | ncdn.telewebion.com | <https://ncdn.telewebion.com/nama/live/playlist.m3u8> |
 | 5103 | Namaquran | ncdn.telewebion.com | <https://ncdn.telewebion.com/namaquran/live/playlist.m3u8> |
@@ -10246,4 +10246,4 @@
 | 10240 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
 | 10241 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 
-Updated at **Tue Oct 28 2025 20:26:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 29 2025 00:54:36 GMT+0000 (Coordinated Universal Time)**
