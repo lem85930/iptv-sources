@@ -259,4 +259,4 @@
 | 253 | [SD]黑龙江新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/7dd215c9f166208cd88c7d3807f2899e00819ef112fb02d0f6b4d0b3ec6c5d80.m3u8> |
 | 254 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/15aefa6c1cecc2201a0ddbf7d0854e81e06aa6e3d5bf6e7bdf3114c4b4fbdd8f.m3u8> |
 
-Updated at **Tue Nov 04 2025 20:27:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Nov 04 2025 22:21:42 GMT+0000 (Coordinated Universal Time)**
