@@ -46,4 +46,4 @@
 | 40 | 海看大片 | IPv4 直链 | <http://123.129.70.178:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 41 | 金鹰卡通 | IPv4 直链 | <http://125.43.249.94:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Wed Nov 05 2025 22:22:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Nov 06 2025 01:53:05 GMT+0000 (Coordinated Universal Time)**
