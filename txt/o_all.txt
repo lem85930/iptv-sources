@@ -1282,7 +1282,6 @@ Popcorn_(720p),https://cdn4.skygo.mn/live/disk1/Popcorn/HLSv3-FTA/Popcorn.m3u8
 Popflix_(720p),https://signatureentertainment-popflix-1-gb.rakuten.wurl.tv/playlist.m3u8
 Popular_TV_Melilla_(1080p)_[Not_24/7],http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
 Portlandia,https://amc-portlandia-1-us.xumo.wurl.tv/playlist.m3u8
-Pos_TV_(1080p),https://live.postv.media/stream/index.m3u8
 Power_Rangers_(1080p),https://amg00461-eone-amg00461c2-firetv-us-5210.playouts.now.amagi.tv/playlist.m3u8
 Power_Turk_(1080p)_[Not_24/7],https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 Power_TV_(1080p),https://liveboxvideoconference.livebox.co.in/PowersmartMediahls/powertvlive.m3u8
@@ -4657,6 +4656,7 @@ Polsat_(1080p),https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mp
 Portal_Digital_TV,https://vdo1.streamgato.us:3999/live/portaldigitallive.m3u8
 Porto_Canal_(720p),https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
 PortuTV_(480p)_[Not_24/7],https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
+Pos_TV_(1080p),https://live.postv.media/stream/index.m3u8
 Prima_Free,https://uvotv-aniview.global.ssl.fastly.net/10010/live/hls/primafree/playlist.m3u8
 Prima_TV_Napoli_(720p),https://stream1.aswifi.it/primatvnapoli/live/index.m3u8
 Prima_TV_Sicilia_(720p),https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
@@ -8330,6 +8330,7 @@ Chinola_TV_(480p),https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 Cufo,https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?application_id=backoffice1&application_installation_id=1&authority_instance_id=spectar-prd-digitalb&detected_delivery_method=hls&id=DAL_1_005&playlist_template=nginx&profile_id=1&ps=94d0066599d8f74d1c090e93ac4617b6491d3629d2e2d770870fcef1f7effa25b204aa53b3821da5e9e65bee8e94331bcae2cb344d0739ca3a938b4ef2051cc8&subscriber_id=1&token=142cda7d50870275a9ca7988ff001b32ab30709b&uuid=backoffice1&vh=7ab82e63aae8510c6b37ea16da502e54e441a5a1a88bce0c8ed63da99bce948d86253d64ae00424dda8b9c8b6e2cd0f6cd79d8b0a56e10759210cdf4f6761d11&video_id=12498
 Cúla4_(1080p),https://d3eq0jseza7fm5.cloudfront.net/tg4_vod_3.m3u8
 Disney_Channel_(576p),http://84.54.128.52:9090/play/3006/index.m3u8
+Disney_Channel_HD_(1080p),http://66.102.120.18:8000/play/a013/index.m3u8
 Disney_International_HD_(1080p),http://116.90.120.149:8000/play/a0e9/index.m3u8
 Disney_Junior_(576p),http://116.90.120.149:8000/play/a0b3/index.m3u8
 Disney_Junior_East,https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
@@ -8614,6 +8615,10 @@ NFL_Sunday_Ticket_13,http://fl2.moveonjoy.com/NFL_13/index.m3u8
 NFL_Sunday_Ticket_14,http://fl2.moveonjoy.com/NFL_14/index.m3u8
 NFL_Sunday_Ticket_15,http://fl2.moveonjoy.com/NFL_15/index.m3u8
 NHL,https://nhl-firetv.amagi.tv/playlist.m3u8
+NHL_Center_Ice_12_(720p),http://fl1.moveonjoy.com/NHL_12/index.m3u8
+NHL_Center_Ice_13_(720p),http://fl1.moveonjoy.com/NHL_13/index.m3u8
+NHL_Center_Ice_14_(720p),http://fl1.moveonjoy.com/NHL_14/index.m3u8
+NHL_Centre_Ice_4,http://fl1.moveonjoy.com/NHL_4/index.m3u8
 NHL_Centre_Ice_5,http://fl1.moveonjoy.com/NHL_5/index.m3u8
 NHL_Centre_Ice_6,http://fl1.moveonjoy.com/NHL_6/index.m3u8
 NHL_Centre_Ice_7,http://fl1.moveonjoy.com/NHL_7/index.m3u8
