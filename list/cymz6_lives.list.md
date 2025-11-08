@@ -38,4 +38,4 @@
 | 32 | 金鹰卡通 | IPv4 直链 | <http://42.238.237.114:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 33 | 魅力音乐 | IPv4 直链 | <http://42.238.237.114:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sat Nov 08 2025 01:49:17 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Nov 08 2025 03:05:22 GMT+0000 (Coordinated Universal Time)**
