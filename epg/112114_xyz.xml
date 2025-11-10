@@ -44439,6 +44439,9 @@
 	<programme channel="纯享4K" start="20251110200800 +0800" stop="20251110205000 +0800">
 		<title lang="zh">远方的家4K 大运河特辑（12） 大兴机场 凤凰展翅</title>
 	</programme>
+	<programme channel="纯享4K" start="20251110210000 +0800" stop="20251110213000 +0800">
+		<title lang="zh">追踪长臂猿4K</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -54138,6 +54141,9 @@
 	<programme channel="newtv超级综艺" start="20251110193000 +0800" stop="20251110205700 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251110205700 +0800" stop="20251110222400 +0800">
+		<title lang="zh">梦响中国b7音乐盛典</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -54306,6 +54312,9 @@
 	<programme channel="newtv超级电视剧" start="20251110201500 +0800" stop="20251110210000 +0800">
 		<title lang="zh">33_穆桂英挂帅</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251110210000 +0800" stop="20251110214500 +0800">
+		<title lang="zh">34_穆桂英挂帅</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -54395,6 +54404,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251110200700 +0800" stop="20251110205000 +0800">
 		<title lang="zh">32_闪耀的她</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251110205000 +0800" stop="20251110212000 +0800">
+		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -54518,6 +54530,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251110203100 +0800" stop="20251110205300 +0800">
 		<title lang="zh">第17集 王昌龄：诗家夫子王江宁</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251110205300 +0800" stop="20251110212300 +0800">
+		<title lang="zh">《超级美味》推荐第16期</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -54701,6 +54716,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251110200600 +0800" stop="20251110205000 +0800">
 		<title lang="zh">地道英雄 第12集</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251110205000 +0800" stop="20251110212000 +0800">
+		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -55458,6 +55476,9 @@
 	<programme channel="newtv炫舞未来" start="20251110200900 +0800" stop="20251110205800 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251110205800 +0800" stop="20251110214200 +0800">
+		<title lang="zh">20_扫黑风暴</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -55832,6 +55853,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251110200900 +0800" stop="20251110205500 +0800">
 		<title lang="zh">29_庆余年</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251110205500 +0800" stop="20251110212500 +0800">
+		<title lang="zh">《超级美味》推荐第16期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
