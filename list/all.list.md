@@ -1603,7 +1603,7 @@
 | 1597 | [BD]东方影视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d3c9f7982bce6a6d8c61dee6b3533032537b84c1312b8bf2613be972edfc0df.m3u8> |
 | 1598 | [BD]东方卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/eb7a5a450a87157712e9afc63da8f145ee437bbe67c89afe80ae08611c46c61d.m3u8> |
 | 1599 | [HD]亚洲新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/769243f668e6ffa1dfcbf56f1dcc086f47c3a2cbc8f83af53fefbe2f6d7462c4.m3u8> |
-| 1600 | [BD]东森幼幼 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/5c58dcdaad119be3fc0d209c049c1277b835ba2be336a79b2dc1f506aa83b0e1.m3u8> |
+| 1600 | [BD]东森幼幼 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/e37df07aa0310a34c63b634948948cf73c7d6db0762de7f0f8f365b95e583703.m3u8> |
 | 1601 | [BD]东森戏剧 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/9ea59fdd40f5675d8b3e1a27fb8f6b11ba65f59b674e5ac9eda68485525da6e9.m3u8> |
 | 1602 | [BD]东森新闻 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/82e134f3bead63c2fae48f9c7d539012b7752055b8bdc34739a67bfbf2ebe88f.m3u8> |
 | 1603 | [BD]东森洋片 | stream1.freetv.fun | <https://stream1.freetv.fun/3a70db5e300010238343b5c177f3de936f8e86a9907984f8874f1f508438d505.ctv> |
@@ -1774,4 +1774,4 @@
 | 1768 | [SD]黑龙江新闻法治 | stream1.freetv.fun | <https://stream1.freetv.fun/0b020b11ef1c7fd5c70eca53f6c5d5d831e4bc8c1259ce54a67ae8da368cfef8.m3u8> |
 | 1769 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/8db7fe87f56b1781603eca82aa8111cd9a6f7a52cb6648858a6a657a926d5ddf.ctv> |
 
-Updated at **Wed Nov 12 2025 10:27:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Nov 12 2025 12:51:15 GMT+0000 (Coordinated Universal Time)**
