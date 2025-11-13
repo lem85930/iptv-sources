@@ -79,4 +79,4 @@
 | 73 | 浙江新闻 | IPv4 直链 | <http://101.66.194.223:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 74 | 金鹰卡通 | IPv4 直链 | <http://101.66.194.223:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Thu Nov 13 2025 19:26:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Nov 13 2025 19:32:03 GMT+0000 (Coordinated Universal Time)**
