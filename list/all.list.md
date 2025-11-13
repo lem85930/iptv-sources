@@ -621,7 +621,7 @@
 | 615 | [HD]icnet 3 | stream1.freetv.fun | <https://stream1.freetv.fun/3509193e3a758983cc9b2cf4089622430ea4721aaa7d35bb69d2892b855a7428.m3u8> |
 | 616 | [HD]iipc tv (480p) | stream1.freetv.fun | <https://stream1.freetv.fun/ed4c28b549f45dbce1cb4dd69ba9b218a63826a6b8993081aae208f9b1fd140f.m3u8> |
 | 617 | [BD]imam hussein tv 3 | stream1.freetv.fun | <https://stream1.freetv.fun/2527b5da5d394aa45e2f0e98b9cafd260905e42cf583d9294030dec8dcc43c09.m3u8> |
-| 618 | [BD]imedi tv | stream1.freetv.fun | <https://stream1.freetv.fun/7c5efe56961f1b4cb253b0eed93c6d470ccd25a1b1baf945da7f15c33038a22f.m3u8> |
+| 618 | [HD]imedi tv | stream1.freetv.fun | <https://stream1.freetv.fun/7c5efe56961f1b4cb253b0eed93c6d470ccd25a1b1baf945da7f15c33038a22f.m3u8> |
 | 619 | [HD]tin tv | stream1.freetv.fun | <https://stream1.freetv.fun/96ff2fc636d652435d8b8bf4d50b99562060de7f9e0905c3e66ab312495776dc.m3u8> |
 | 620 | [BD]insighttv | stream1.freetv.fun | <https://stream1.freetv.fun/a9abff699f0d7806b27489a0440e70be04c3dcf292fe064f0f631391f47fef21.m3u8> |
 | 621 | [BD]wion | stream1.freetv.fun | <https://stream1.freetv.fun/9b4811f60f163e860f10caced98e080bee47b6512d0f4e4e4b642293680a88d2.m3u8> |
@@ -1071,7 +1071,7 @@
 | 1065 | [HD]ช่อง sky sports plus | stream1.freetv.fun | <https://stream1.freetv.fun/c7c938e0400853bc3ef002eb4f5f9dcb6342ea669dab8fb17101b2997266a35c.m3u8> |
 | 1066 | [BD]sportsnet one | stream1.freetv.fun | <https://stream1.freetv.fun/cb71b8953908b55bd068175204a1dbea8f717c3c10339dc991602c0bfe5e98e0.m3u8> |
 | 1067 | [BD]sportsnet 360 | stream1.freetv.fun | <https://stream1.freetv.fun/1797c5962bcc0baeb3da3036f6ad0ab46442923cd44ae77a407fbff60b4f9f85.m3u8> |
-| 1068 | [BD]sportsnet west | stream1.freetv.fun | <https://stream1.freetv.fun/4da64b53f13ecec475f9a65cf3f18750c25f0239eacd0c89898b0677ecae6529.m3u8> |
+| 1068 | [HD]sportsnet west | stream1.freetv.fun | <https://stream1.freetv.fun/4da64b53f13ecec475f9a65cf3f18750c25f0239eacd0c89898b0677ecae6529.m3u8> |
 | 1069 | [BD]ca sportsnet world | stream1.freetv.fun | <https://stream1.freetv.fun/185fbc861a81c36f26e43d2a7d6390b873c7265ddee816546ce26053e3894bca.ctv> |
 | 1070 | [BD]televizija m | stream1.freetv.fun | <https://stream1.freetv.fun/69b2c529dbea823b3f0c6b906971a589b0f276fe78011eb0a2da85cc7768a117.m3u8> |
 | 1071 | [BD]sportsnet east == | stream1.freetv.fun | <https://stream1.freetv.fun/6e6cc1f5de71d6d5cad423f53b788d41d73d38a98d41d2535b04fbe5e43b4855.ctv> |
@@ -1755,4 +1755,4 @@
 | 1749 | [SD]黑龙江新闻法治 | stream1.freetv.fun | <https://stream1.freetv.fun/0b020b11ef1c7fd5c70eca53f6c5d5d831e4bc8c1259ce54a67ae8da368cfef8.m3u8> |
 | 1750 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/8db7fe87f56b1781603eca82aa8111cd9a6f7a52cb6648858a6a657a926d5ddf.ctv> |
 
-Updated at **Thu Nov 13 2025 19:32:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Nov 13 2025 20:27:12 GMT+0000 (Coordinated Universal Time)**
