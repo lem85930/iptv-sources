@@ -2275,6 +2275,7 @@ Unsion_TV_(1080p),http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
 UnXplained_(1080p),https://5f8e578f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9VblhwbGFpbmVkWm9uZV9ITFM/playlist.m3u8
 UnXplained_Zone,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656538f8954b020008d389db/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc204-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=13e8f8b3-086c-4316-bc80-5d9ac1d1a45d
 Up_TV_(1080p),https://fl1.moveonjoy.com/Up_Tv/index.m3u8
+UPEA_TV_(720p),https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 Uppera_Balkan_(720p),http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
 Uranio_TV_(Yurimaguas)_(720p)_[Not_24/7],https://live.obslivestream.com/uraniotv/index.m3u8
 Urban_Action_TV,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7ad8ce96-5a3f-413e-ae15-7c2cef7bc8f8/manifest.m3u8
@@ -4101,6 +4102,7 @@ Lotus_Macau_HD_(1080p)_[Not_24/7],https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA
 Louga_TV_(480p),https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
 Loveland_TV_(Loveland_CO)_(1080p),https://reflect-cityofloveland-co.cablecast.tv/live-3/live/live.m3u8
 LOZ_(Lokale_Omroep_Zeewolde)_(720p),https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8
+LPTV_(1080p),https://livestream.telvue.com/lexmedia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia1/stream1/playlist.m3u8
 Lucania_Channel_(720p),http://wms.shared.streamshow.it/lucaniatv/lucaniatv/playlist.m3u8
 Luna_TV,https://5f22d76e220e1.streamlock.net/lunatv/lunatv/playlist.m3u8
 Luna_TV_Canal_53_(720p),https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
@@ -9406,6 +9408,7 @@ KCPT-DT1_(720p),https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
 KITE_Victers_(Kerala)_(720p)_[Not_24/7],https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 KMOS-DT1_(720p),https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
 Leominster_TV_Educational_(720p),https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+LETV_(1080p),https://livestream.telvue.com/lexmedia2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia2/stream1/playlist.m3u8
 LNKTV_Education_(1080p),http://80tv.lincoln.ne.gov/live/live.m3u8
 Los_Angeles_Local_Television_Channel_36_(1080p),https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
 M5_(1080p),http://146.59.85.40:89/m5/index.m3u8
@@ -9598,6 +9601,8 @@ Legislative_Assembly_of_El_Salvador_(1080p)_[Not_24/7],https://streaming.asamble
 Legislative_Assembly_of_Ontario,https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 Legislative_Assembly_TV_Nunavut,http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8
 Leominster_TV_Government_(720p),https://livestream.telvue.com/leominster3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+Lex_TV_(720p),https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/lfucg/G0264_005/playlist.m3u8
+LGTV_(1080p),https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8
 LHCAZTV,https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8
 LNKTV_City_(1080p),http://5tv.lincoln.ne.gov/live/live.m3u8
 Long_Beach_Television_(720p),https://edge-f.swagit.com/live/longbeachca/live-3-a/playlist.m3u8
