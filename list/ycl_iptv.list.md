@@ -89,4 +89,4 @@
 | 83 | 少儿动画 | IPv4 直链 | <rtp://239.3.1.199:9000> |
 | 84 | 动画高清 | IPv4 直链 | <rtp://239.3.1.80:4120> |
 
-Updated at **Sun Nov 16 2025 01:59:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Nov 16 2025 03:23:11 GMT+0000 (Coordinated Universal Time)**
