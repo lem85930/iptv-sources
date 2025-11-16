@@ -445,4 +445,4 @@
 | 439 | Anshun Comprehensive News Channel | hplayer1.juyun.tv | <https://hplayer1.juyun.tv/camera/154379194.m3u8> |
 | 440 | Chifeng Comprehensive News Chanel | play1-qk.nmtv.cn | <http://play1-qk.nmtv.cn/live/1735546697341033.m3u8> |
 
-Updated at **Sun Nov 16 2025 04:29:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Nov 16 2025 06:33:36 GMT+0000 (Coordinated Universal Time)**
