@@ -250,7 +250,6 @@
 [BD]cctv5_plus,https://stream1.freetv.fun/46118cd0438ddbb2d6f349706132ced2104495cf4cf1019ef84d89465e048ca6.ctv
 [BD]cctv风云足球,https://stream1.freetv.fun/f29c24e198f9bf47ac2be43abf3d1a9eb21ebf26392c4959f9ec8d2077718450.m3u8
 [BD]五星体育,https://stream1.freetv.fun/b7c4ee6b3c4afecd79663bc25c80646604ad837c1476b98835eaaba7d5fe0225.ctv
-[SD]先锋乒羽,https://stream1.freetv.fun/df4f1389f3f738b195a9cd932698c6595c108adac381f7b576eb13f74ec8ff75.m3u8
 [BD]劲爆体育,https://stream1.freetv.fun/5c9f8deb5d2b8a259adb635f16239674f23d6075bb3713aa4795a8a7ecb34f52.m3u8
 [BD]广州竞赛,https://stream1.freetv.fun/3bae77bc5c50d229f017065385ace3d322b9059fb639f24d52c38d217335f842.ctv
 [BD]广东体育,https://stream1.freetv.fun/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.ctv
