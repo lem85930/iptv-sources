@@ -1,4 +1,4 @@
-# List for **iptv.org stream China**
+# List for **iptv.org stream China**(Rollback)
 
 > M3U: [o_s_cn.m3u](/o_s_cn.m3u), TXT: [o_s_cn.txt](/txt/o_s_cn.txt)
 
@@ -445,4 +445,4 @@
 | 439 | Anshun Comprehensive News Channel | hplayer1.juyun.tv | <https://hplayer1.juyun.tv/camera/154379194.m3u8> |
 | 440 | Chifeng Comprehensive News Chanel | play1-qk.nmtv.cn | <http://play1-qk.nmtv.cn/live/1735546697341033.m3u8> |
 
-Updated at **Wed Nov 19 2025 19:23:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Nov 19 2025 20:23:54 GMT+0000 (Coordinated Universal Time)**
