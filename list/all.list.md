@@ -1532,4 +1532,4 @@
 | 1526 | [BD]龙华日韩剧 | stream1.freetv.fun | <https://stream1.freetv.fun/9f26838c4ac1caf482b1b7e0fd2f1192d4efe557320d3919f733c9e0a0f87985.ctv> |
 | 1527 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/1aac7bc42ce255908c0613761b9131814460dcc41d1e46a8533cab21f3fdc9fb.ctv> |
 
-Updated at **Thu Nov 20 2025 20:27:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Nov 20 2025 22:21:00 GMT+0000 (Coordinated Universal Time)**
