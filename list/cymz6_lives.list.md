@@ -1,9 +1,85 @@
-# List for **cymz6/AutoIPTV-Hotel lives**(Rollback)
+# List for **cymz6/AutoIPTV-Hotel lives**
 
 > M3U: [cymz6_lives.m3u](/cymz6_lives.m3u), TXT: [cymz6_lives.txt](/txt/cymz6_lives.txt)
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
+| 1 | CCTV1 | IPv4 直链 | <http://123.130.84.106:8154/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 2 | CCTV1 | IPv4 直链 | <http://125.42.150.64:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 3 | CCTV2 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 4 | CCTV2 | IPv4 直链 | <http://125.42.150.64:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 5 | CCTV3 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 6 | CCTV3 | IPv4 直链 | <http://125.42.150.64:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 7 | CCTV4 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 8 | CCTV4 | IPv4 直链 | <http://125.42.150.64:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 9 | CCTV5 | IPv4 直链 | <http://123.130.84.106:8154/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 10 | CCTV5 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 11 | CCTV5 | IPv4 直链 | <http://125.42.150.64:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 12 | CCTV6 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 13 | CCTV6 | IPv4 直链 | <http://125.42.150.64:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 14 | CCTV8 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 15 | CCTV8 | IPv4 直链 | <http://125.42.150.64:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 16 | CCTV9 | IPv4 直链 | <http://123.130.84.106:8154/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 17 | CCTV9 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 18 | CCTV9 | IPv4 直链 | <http://125.42.150.64:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 19 | CCTV10 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 20 | CCTV10 | IPv4 直链 | <http://125.42.150.64:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 21 | CCTV11 | IPv4 直链 | <http://125.42.150.64:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 22 | CCTV12 | IPv4 直链 | <http://125.42.150.64:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 23 | CCTV13 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 24 | CCTV13 | IPv4 直链 | <http://125.42.150.64:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 25 | CCTV14 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 26 | CCTV14 | IPv4 直链 | <http://125.42.150.64:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 27 | CCTV15 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 28 | CCTV17 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 29 | 东南卫视 | IPv4 直链 | <http://125.42.150.64:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 30 | 东方卫视 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 31 | 云南卫视 | IPv4 直链 | <http://123.130.84.106:8154/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 32 | 兵团卫视 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 33 | 内蒙古卫视 | IPv4 直链 | <http://123.130.84.106:8154/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 34 | 北京卫视 | IPv4 直链 | <http://123.130.84.106:8154/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 35 | 北京卫视 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 36 | 厦门卫视 | IPv4 直链 | <http://125.42.150.64:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 37 | 吉林卫视 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 38 | 四川卫视 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 39 | 天津卫视 | IPv4 直链 | <http://123.130.84.106:8154/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 40 | 天津卫视 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 41 | 宁夏卫视 | IPv4 直链 | <http://123.130.84.106:8154/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 42 | 宁夏卫视 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 43 | 安徽卫视 | IPv4 直链 | <http://123.130.84.106:8154/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 44 | 山东卫视 | IPv4 直链 | <http://123.130.84.106:8154/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 45 | 山东卫视 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 46 | 山西卫视 | IPv4 直链 | <http://123.130.84.106:8154/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 47 | 广东卫视 | IPv4 直链 | <http://123.130.84.106:8154/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 48 | 广东卫视 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 49 | 广西卫视 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 50 | 新疆卫视 | IPv4 直链 | <http://123.130.84.106:8154/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 51 | 新疆卫视 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 52 | 江苏卫视 | IPv4 直链 | <http://123.130.84.106:8154/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 53 | 江苏卫视 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 54 | 江西卫视 | IPv4 直链 | <http://123.130.84.106:8154/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 55 | 江西卫视 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 56 | 河北卫视 | IPv4 直链 | <http://123.130.84.106:8154/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 57 | 河北卫视 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 58 | 河南卫视 | IPv4 直链 | <http://123.130.84.106:8154/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 59 | 深圳卫视 | IPv4 直链 | <http://125.42.150.64:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 60 | 湖北卫视 | IPv4 直链 | <http://125.42.150.64:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 61 | 湖南卫视 | IPv4 直链 | <http://123.130.84.106:8154/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 62 | 甘肃卫视 | IPv4 直链 | <http://123.130.84.106:8154/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 63 | 甘肃卫视 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 64 | 福建东南卫视 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 65 | 贵州卫视 | IPv4 直链 | <http://123.130.84.106:8154/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 66 | 贵州卫视 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 67 | 辽宁卫视 | IPv4 直链 | <http://123.130.84.106:8154/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 68 | 辽宁卫视 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 69 | 陕西卫视 | IPv4 直链 | <http://123.130.84.106:8154/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 70 | 陕西卫视 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 71 | 黑龙江卫视 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 72 | 北京卡通 | IPv4 直链 | <http://125.42.150.64:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 73 | 山东齐鲁 | IPv4 直链 | <http://123.130.84.106:8154/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 74 | 广东体育 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 75 | 广东珠江 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 76 | 经济科教 | IPv4 直链 | <http://218.13.170.98:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 77 | 金鹰卡通 | IPv4 直链 | <http://125.42.150.64:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-
-Updated at **Wed Nov 19 2025 20:23:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Nov 20 2025 00:40:24 GMT+0000 (Coordinated Universal Time)**
