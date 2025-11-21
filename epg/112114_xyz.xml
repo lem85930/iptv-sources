@@ -51963,6 +51963,9 @@
 	<programme channel="newtv超级电视剧" start="20251122021700 +0800" stop="20251122030300 +0800">
 		<title lang="zh">14_绽放的许开心</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251122030300 +0800" stop="20251122034900 +0800">
+		<title lang="zh">15_绽放的许开心</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -51974,6 +51977,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251122021100 +0800" stop="20251122025600 +0800">
 		<title lang="zh">28_承欢记</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251122025600 +0800" stop="20251122034200 +0800">
+		<title lang="zh">29_承欢记</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -52101,6 +52107,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251122020500 +0800" stop="20251122024700 +0800">
 		<title lang="zh">17_无尽的尽头</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251122024700 +0800" stop="20251122033500 +0800">
+		<title lang="zh">18_无尽的尽头</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -52139,6 +52148,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251122023100 +0800" stop="20251122025200 +0800">
 		<title lang="zh">广场舞—绽放（20220126）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251122025200 +0800" stop="20251122033000 +0800">
+		<title lang="zh">管控血糖你做对了吗（20241102）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
