@@ -53,4 +53,4 @@
 | 47 | 河北农民 | IPv4 直链 | <http://101.74.28.102:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 48 | 河北都市 | IPv4 直链 | <http://101.74.28.102:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Fri Nov 21 2025 08:33:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Nov 21 2025 10:25:19 GMT+0000 (Coordinated Universal Time)**
