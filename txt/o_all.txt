@@ -1425,13 +1425,10 @@ RTHK_TV_36_(港台电视36)_(1080p),https://rthktv36-live.akamaized.net/hls/live
 RTK_1,https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-dash/rtk1.mpd
 RTK_3,https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 RTL,https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
-RTL_2_(1080p),https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
-RTL_Croatia_(1080p),https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 RTL_Gold_(576p),http://194.76.186.33:8000/play/a05h/index.m3u8
 RTL_Harom_(1080p),http://194.76.186.33:8000/play/a02a/index.m3u8
 RTL_HD,https://strm.hdtvizlecanli.com/live/rtl.m3u8
 RTL_Ketto_(1080p),http://194.76.186.33:8000/play/a01z/index.m3u8
-RTL_Kockica_(1080p),https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 RTL_Super,https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
 RTL_Zwei_HD_(1080p),https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
 RTL-TVI_(1080p)_[Not_24/7],https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
@@ -5489,6 +5486,7 @@ Kuriakos_Music_(1080p),http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playli
 La_98.1_TV_(720p)_[Not_24/7],https://6019dcac4147f.streamlock.net:9443/la98/Invosa/playlist.m3u8
 La_Hermandad_Salsera_(1080p)_[Not_24/7],https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
 La_Imagen_de_Tierra_Caliente_(768p),https://stream.oursnetworktv.com/latin/encoder82/playlist.m3u8
+La_Kalle_(720p),https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 La_Luperrona_Ciudad_Guzmán_(240p),https://stream.oursnetworktv.com/radio/luperrongdgzman/playlist.m3u8
 La_Luperrona_Colima_(256p),https://stream.oursnetworktv.com/radio/luperrona415/playlist.m3u8
 La_Luperrona_Ocotlán_(300p),https://stream.oursnetworktv.com/radio/luperronaocotlan/playlist.m3u8
