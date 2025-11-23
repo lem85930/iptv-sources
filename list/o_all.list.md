@@ -3686,7 +3686,7 @@
 | 3680 | iTV Turkish Music | ca1.buximedia.com | <https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8> |
 | 3681 | ITV Un Village Français | amg00654-itv-amg00654c32-rakuten-fr-6134.playouts.now.amagi.tv | <https://amg00654-itv-amg00654c32-rakuten-fr-6134.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-unvillagesfrancais-rakutenfr/playlist.m3u8> |
 | 3682 | iTV Urban Music | ca1.buximedia.com | <https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8> |
-| 3683 | Iunior TV (720p) [Not 24/7] | 5f22d76e220e1.streamlock.net | <https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8> |
+| 3683 | Iunior TV (1080p) | 5f22d76e220e1.streamlock.net | <https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8> |
 | 3684 | Ivoire Channel (720p) | video1.getstreamhosting.com:1936 | <https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8> |
 | 3685 | Izabal TV (720p) | cdn.streamhispanatv.net:3718 | <https://cdn.streamhispanatv.net:3718/live/izabaltvlive.m3u8> |
 | 3686 | Izaura TV (576p) | IPv4 直链 | <http://146.59.85.40:89/izaura/index.m3u8> |
@@ -7662,7 +7662,7 @@
 | 7656 | Televízia OSEM (576p) | IPv4 直链 | <http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8> |
 | 7657 | Televizija 5 (576p) | balkanmedia.dynu.net | <https://balkanmedia.dynu.net/hls/tv5web.m3u8> |
 | 7658 | Televizija M (1080p) | live.tv-m.net | <https://live.tv-m.net/hls/stream.m3u8> |
-| 7659 | Televizija TV7 (360p) | uk4.streamingpulse.com:1935 | <http://uk4.streamingpulse.com:1935/tehnikatv777/tehnikatv777/playlist.m3u8> |
+| 7659 | Televizija TV7 (360p) | 5a1178b42cc03.streamlock.net | <https://5a1178b42cc03.streamlock.net/tehnikatv777/tehnikatv777/playlist.m3u8> |
 | 7660 | Telewebion Sport | hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev | <https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport1/live/1080p/index.m3u8> |
 | 7661 | Telewebion Sport 2 | hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev | <https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport2/live/1080p/index.m3u8> |
 | 7662 | Telewebion Sport 3 | hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev | <https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1103.telewebion.com/ek/sport3/live/1080p/index.m3u8> |
@@ -8378,10 +8378,10 @@
 | 8372 | TVCARiB Latino (720p) [Not 24/7] | cdn.mycloudstream.io | <https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8> |
 | 8373 | TVCARiB Radio (720p) [Not 24/7] | cdn.mycloudstream.io | <https://cdn.mycloudstream.io/hls/live/broadcast/agf7yo9x/index.m3u8> |
 | 8374 | TVCentro Andalucía (720p) [Not 24/7] | 5fa5de1a545ae.streamlock.net | <https://5fa5de1a545ae.streamlock.net/8052/8052/playlist.m3u8> |
-| 8375 | TVCG 1 (720p) [Not 24/7] | cdn3.bcdn.rs:1935 | <http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8> |
-| 8376 | TVCG 2 (720p) [Not 24/7] | cdn3.bcdn.rs:1935 | <http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8> |
-| 8377 | TVCG 3 (720p) [Not 24/7] | parlament.rtcg.me:1936 | <https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8> |
-| 8378 | TVCG MNE (720p) [Not 24/7] | cdn3.bcdn.rs:1935 | <http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8> |
+| 8375 | TVCG 1 (1080p) | rtcg-live-open-geo.morescreens.com | <https://rtcg-live-open-geo.morescreens.com/RTCG_1_001/playlist.m3u8> |
+| 8376 | TVCG 2 (1080p) | rtcg-live-open-geo.morescreens.com | <https://rtcg-live-open-geo.morescreens.com/RTCG_1_002/playlist.m3u8> |
+| 8377 | TVCG 3 (1080p) | rtcg-live-open-geo.morescreens.com | <https://rtcg-live-open-geo.morescreens.com/RTCG_1_003/playlist.m3u8> |
+| 8378 | TVCG MNE (1080p) | rtcg-live-open.morescreens.com | <https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8> |
 | 8379 | TVcom (1080p) | tvlocales-live.freecaster.com | <https://tvlocales-live.freecaster.com/tvcom/95d2f656-ba85-4e13-affc-f1936be1a86d/95d2f656-ba85-4e13-affc-f1936be1a86d.isml/master.m3u8> |
 | 8380 | TVCOM DF (360p) | 5b7f3c45ab7c2.streamlock.net | <https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=> |
 | 8381 | TVCOM Maceió (480p) | srv5.zcast.com.br | <https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8> |
@@ -9912,4 +9912,4 @@
 | 9906 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
 | 9907 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 
-Updated at **Sat Nov 22 2025 20:24:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Nov 23 2025 00:41:16 GMT+0000 (Coordinated Universal Time)**
