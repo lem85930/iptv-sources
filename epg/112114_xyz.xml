@@ -28482,6 +28482,9 @@
 	<programme channel="咪咕综合体育" start="20251125084000 +0800" stop="20251125093000 +0800">
 		<title lang="zh">英超精华-25/26赛季英超第11轮</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251125093000 +0800" stop="20251125093500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28529,6 +28532,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251125091000 +0800" stop="20251125093000 +0800">
 		<title lang="zh">全运金牌时刻第一期</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251125093000 +0800" stop="20251125094500 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -44846,6 +44852,9 @@
 	</programme>
 	<programme channel="明星大片" start="20251125084200 +0800" stop="20251125092700 +0800">
 		<title lang="zh">20_似锦</title>
+	</programme>
+	<programme channel="明星大片" start="20251125092700 +0800" stop="20251125095700 +0800">
+		<title lang="zh">健康推荐新码</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -62618,6 +62627,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20251125084600 +0800" stop="20251125091600 +0800">
 		<title lang="zh">健康推荐新码</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20251125091600 +0800" stop="20251125104300 +0800">
+		<title lang="zh">画江湖之不良帅</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -86607,6 +86619,9 @@
 	<programme channel="newtv超级电视剧" start="20251125084500 +0800" stop="20251125093000 +0800">
 		<title lang="zh">03_黄河在咆哮</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251125093000 +0800" stop="20251125101500 +0800">
+		<title lang="zh">04_黄河在咆哮</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -86766,6 +86781,9 @@
 	<programme channel="newtv军旅剧场" start="20251125083200 +0800" stop="20251125091700 +0800">
 		<title lang="zh">14_军人荣誉之铁血雄心</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251125091700 +0800" stop="20251125100700 +0800">
+		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -86801,6 +86819,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251125083100 +0800" stop="20251125091600 +0800">
 		<title lang="zh">39_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251125091600 +0800" stop="20251125100700 +0800">
+		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -86876,6 +86897,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251125084600 +0800" stop="20251125091600 +0800">
 		<title lang="zh">健康推荐新码</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251125091600 +0800" stop="20251125104300 +0800">
+		<title lang="zh">画江湖之不良帅</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -87165,6 +87189,9 @@
 	<programme channel="newtv精品综合" start="20251125084200 +0800" stop="20251125092700 +0800">
 		<title lang="zh">20_似锦</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251125092700 +0800" stop="20251125095700 +0800">
+		<title lang="zh">健康推荐新码</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -87311,6 +87338,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251125083100 +0800" stop="20251125092100 +0800">
 		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251125092100 +0800" stop="20251125100200 +0800">
+		<title lang="zh">18_楚留香新传</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
