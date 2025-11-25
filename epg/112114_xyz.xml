@@ -28590,6 +28590,9 @@
 	<programme channel="咪咕足球" start="20251125143000 +0800" stop="20251125151000 +0800">
 		<title lang="zh">西班牙篮球黄金一代02 篮球万岁</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251125151500 +0800" stop="20251125152000 +0800">
+		<title lang="zh">睛彩AI速报</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -44951,6 +44954,9 @@
 	</programme>
 	<programme channel="明星大片" start="20251125141800 +0800" stop="20251125150300 +0800">
 		<title lang="zh">04_谢谢你医生</title>
+	</programme>
+	<programme channel="明星大片" start="20251125150300 +0800" stop="20251125153300 +0800">
+		<title lang="zh">健康推荐新码</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -87000,6 +87006,9 @@
 	<programme channel="newtv精品纪录" start="20251125143200 +0800" stop="20251125150200 +0800">
 		<title lang="zh">健康推荐新码</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251125150200 +0800" stop="20251125152000 +0800">
+		<title lang="zh">第2集：难以置信的凶手</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -87356,6 +87365,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251125134400 +0800" stop="20251125150400 +0800">
 		<title lang="zh">夺命剑之风云再起</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251125150400 +0800" stop="20251125155400 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -87747,6 +87759,9 @@
 	<programme channel="newtv精品综合" start="20251125141800 +0800" stop="20251125150300 +0800">
 		<title lang="zh">04_谢谢你医生</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251125150300 +0800" stop="20251125153300 +0800">
+		<title lang="zh">健康推荐新码</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -87870,6 +87885,9 @@
 	<programme channel="newtv精品体育" start="20251125132600 +0800" stop="20251125151100 +0800">
 		<title lang="zh">2025赛季中超联赛第28轮：山东泰山VS上海海港</title>
 	</programme>
+	<programme channel="newtv精品体育" start="20251125151100 +0800" stop="20251125170500 +0800">
+		<title lang="zh">2025赛季中超联赛第28轮：上海申花VS大连英博</title>
+	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
 	</channel>
@@ -87962,6 +87980,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251125142600 +0800" stop="20251125150800 +0800">
 		<title lang="zh">17_雪鹰领主</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251125150800 +0800" stop="20251125155400 +0800">
+		<title lang="zh">告别煮妇手</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
