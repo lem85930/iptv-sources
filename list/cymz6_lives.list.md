@@ -189,4 +189,4 @@
 | 183 | 金鹰卡通 | IPv4 直链 | <http://101.66.198.116:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 184 | 金鹰卡通 | IPv4 直链 | <http://101.66.198.244:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Tue Nov 25 2025 10:28:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Nov 25 2025 12:51:58 GMT+0000 (Coordinated Universal Time)**
