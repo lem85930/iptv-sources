@@ -183,8 +183,8 @@
 | 177 | [HD]海南卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/468b29e1bee51764e3cf09ee70bf730e44aaeead942f39c43e9010e9da7b7a4a.m3u8> |
 | 178 | [BD]海峡卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/ba0cb96ba000eebc5a91bd4ffcaed72334b786255d15f293d5f09f19c344cc0f.m3u8> |
 | 179 | [SD]海绵宝宝 | stream1.freetv.fun | <https://stream1.freetv.fun/a9423b0805090240a90e6212c46a3ab1f6732f23ed1fb94d85f2f2d9a7691e14.ctv> |
-| 180 | [HD]淄博生活 | stream1.freetv.fun | <https://stream1.freetv.fun/97ebedac50bbe8349653542043d3a2c57fe3424c29f174f086c4d52c9658757e.ctv> |
-| 181 | [HD]淄博都市 | stream1.freetv.fun | <https://stream1.freetv.fun/348578268a6b777cfac2e1b74f8aa0e9decec8f78cce33ab8da010d331d8d2d3.ctv> |
+| 180 | [SD]淄博生活 | stream1.freetv.fun | <https://stream1.freetv.fun/97ebedac50bbe8349653542043d3a2c57fe3424c29f174f086c4d52c9658757e.ctv> |
+| 181 | [SD]淄博都市 | stream1.freetv.fun | <https://stream1.freetv.fun/348578268a6b777cfac2e1b74f8aa0e9decec8f78cce33ab8da010d331d8d2d3.ctv> |
 | 182 | [BD]深圳卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/812cad00d672662e36b8a4a3d967ab826c0d8f4a3fd02ee64389b0bdc116bd43.ctv> |
 | 183 | [BD]深圳都市 | stream1.freetv.fun | <https://stream1.freetv.fun/10c3af6770770126fcb6f9c6565cc92a1b5c863ad7b3b49308e88ece5ddd19f3.ctv> |
 | 184 | [VGA]深圳电视 | stream1.freetv.fun | <https://stream1.freetv.fun/c5983c658984ffa6d8e6438a351328df0e5b87b4a41e6c7552a06d96569d3cee.m3u8> |
@@ -266,4 +266,4 @@
 | 260 | [SD]黑龙江新闻法治 | stream1.freetv.fun | <https://stream1.freetv.fun/0b020b11ef1c7fd5c70eca53f6c5d5d831e4bc8c1259ce54a67ae8da368cfef8.m3u8> |
 | 261 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/8db7fe87f56b1781603eca82aa8111cd9a6f7a52cb6648858a6a657a926d5ddf.ctv> |
 
-Updated at **Wed Nov 26 2025 22:23:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Nov 27 2025 01:52:00 GMT+0000 (Coordinated Universal Time)**
