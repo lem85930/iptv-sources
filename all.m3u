@@ -189,8 +189,8 @@ https://stream1.freetv.fun/7c060a8112694fefdeb06f70652c66c0e573632870e8678c5e033
 https://stream1.freetv.fun/78cd842b9b3ff36170a33571f3827cad5514ab61e700ed4af8e27c49620d8b80.m3u8
 #EXTINF:-1 tvg-name="Al Shallal" tvg-id="" tvg-country="United Arab Emirates" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/04/20170304141707296653_95.png" group-title="Entertainment",[BD]al shallal tv
 https://stream1.freetv.fun/2ad848f09784e4ca4928ebb76032e47a7ce1acc3e9caef689f07885f63b4842d.m3u8
-#EXTINF:-1 tvg-name="Al Sharqiya" tvg-id="" tvg-country="Saudi Arabia" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174746429595_47.png" group-title="Generic",[VGA]al sharqiya min kabla
-https://stream1.freetv.fun/1b3ac4120444c8efd544ff8334c8e08e1b0f1909d8ccd5534a491c297fb2814b.m3u8
+#EXTINF:-1 tvg-name="Al Sharqiya" tvg-id="" tvg-country="Saudi Arabia" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174746429595_47.png" group-title="Generic",[BD]al-sharqiya
+https://stream1.freetv.fun/4599eafe6dc8deb1162e82ba281e96936a62f6bd64016e45287b615173482670.m3u8
 #EXTINF:-1 tvg-name="Al shasha" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/16/20170216054227823531_23.jpg" group-title="Entertainment",[HD]al sahat
 https://stream1.freetv.fun/6f34231337b9fb986deb7f26ef30ba7af9b256d5c606a11db247d93bcbdadd7c.m3u8
 #EXTINF:-1 tvg-name="AlThanya" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/27/20140827085250850061_19.jpg" group-title="Generic",[HD]althania

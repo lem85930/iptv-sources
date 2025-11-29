@@ -99,7 +99,7 @@
 | 93 | [BD]al qamar tv | stream1.freetv.fun | <https://stream1.freetv.fun/7c060a8112694fefdeb06f70652c66c0e573632870e8678c5e033b4813918eb5.m3u8> |
 | 94 | [BD]al rayyan old tv | stream1.freetv.fun | <https://stream1.freetv.fun/78cd842b9b3ff36170a33571f3827cad5514ab61e700ed4af8e27c49620d8b80.m3u8> |
 | 95 | [BD]al shallal tv | stream1.freetv.fun | <https://stream1.freetv.fun/2ad848f09784e4ca4928ebb76032e47a7ce1acc3e9caef689f07885f63b4842d.m3u8> |
-| 96 | [VGA]al sharqiya min kabla | stream1.freetv.fun | <https://stream1.freetv.fun/1b3ac4120444c8efd544ff8334c8e08e1b0f1909d8ccd5534a491c297fb2814b.m3u8> |
+| 96 | [BD]al-sharqiya | stream1.freetv.fun | <https://stream1.freetv.fun/4599eafe6dc8deb1162e82ba281e96936a62f6bd64016e45287b615173482670.m3u8> |
 | 97 | [HD]al sahat | stream1.freetv.fun | <https://stream1.freetv.fun/6f34231337b9fb986deb7f26ef30ba7af9b256d5c606a11db247d93bcbdadd7c.m3u8> |
 | 98 | [HD]althania | stream1.freetv.fun | <https://stream1.freetv.fun/c9c9cc382d2ac87537b03750dd6485de67db817c7c8b93f4bf72796065b36252.m3u8> |
 | 99 | [SD]alfa ⓢ | stream1.freetv.fun | <https://stream1.freetv.fun/13473025c217b707a4e4aa7a95c65f193fde3558c4fae8a8a41b2b86872f185d.m3u8> |
@@ -1542,4 +1542,4 @@
 | 1536 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv> |
 | 1537 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/e61ec6990715622e4b73cf6eb9b3b83a245bd96c7fa9a5d2cd066490f092289c.ctv> |
 
-Updated at **Sat Nov 29 2025 06:34:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Nov 29 2025 08:30:48 GMT+0000 (Coordinated Universal Time)**

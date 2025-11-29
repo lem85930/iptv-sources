@@ -59,4 +59,4 @@
 | 53 | 金鹰卡通 | IPv4 直链 | <http://221.13.235.60:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 54 | 金鹰卡通 | IPv4 直链 | <http://221.13.235.64:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sat Nov 29 2025 06:34:11 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Nov 29 2025 08:30:48 GMT+0000 (Coordinated Universal Time)**
