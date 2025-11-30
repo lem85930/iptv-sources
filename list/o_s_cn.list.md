@@ -443,4 +443,4 @@
 | 437 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
 | 438 | Xinjiang TV 1 | klmysjtzb.rcsxzx.com | <https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8> |
 
-Updated at **Sun Nov 30 2025 08:28:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Nov 30 2025 10:23:13 GMT+0000 (Coordinated Universal Time)**
