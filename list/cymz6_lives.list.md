@@ -15,4 +15,4 @@
 | 9 | 江苏卫视 | IPv4 直链 | <http://125.42.148.85:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 10 | 河南卫视 | IPv4 直链 | <http://125.42.148.85:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Mon Dec 01 2025 10:29:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 01 2025 12:52:40 GMT+0000 (Coordinated Universal Time)**
