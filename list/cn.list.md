@@ -70,7 +70,7 @@
 | 64 | [HD]南充综合 | stream1.freetv.fun | <https://stream1.freetv.fun/60674c5c967d409a08426f032650552c77f3ff359cb2ad4bdb67ee962db25a8e.ctv> |
 | 65 | [BD]广州南国都市 | stream1.freetv.fun | <https://stream1.freetv.fun/e760fb5e5162fca504bcc3eb9c21b199906cb92bd109adc673650c26f69506d2.m3u8> |
 | 66 | [HD]南宁公共 | stream1.freetv.fun | <https://stream1.freetv.fun/de3e07516f39b80f93eaf8bf8b4ee0bf2cdb1ca2e4684fa1901536016f2056e5.m3u8> |
-| 67 | [HD]南宁影视娱乐 | stream1.freetv.fun | <https://stream1.freetv.fun/fc19cc1da9ff022d52bdcf4b2259627553427dba20ae6b3e75c64250475f432d.m3u8> |
+| 67 | [HD]南宁影视娱乐 | stream1.freetv.fun | <https://stream1.freetv.fun/9240f66888794b1b84b1f7f804df95b251280238aa0ccfa8b4f0cce7effb8999.m3u8> |
 | 68 | [BD]南通新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/e11f5d8ae9f75c22b0563970aacd13173ae519becee465db465ee61a884f7c6e.ctv> |
 | 69 | [HD]南宁都市生活频道 | stream1.freetv.fun | <https://stream1.freetv.fun/1829ffd4c959852aee73f2590a85d11af83c213640e95290dde4f9d300f16aa7.m3u8> |
 | 70 | [BD]平舆新闻综合频道 | stream1.freetv.fun | <https://stream1.freetv.fun/1cdd14361c8f7f173f672d5c058a92e1131f6425d75bb7ef3d92e735c5e8737b.m3u8> |
@@ -160,7 +160,7 @@
 | 154 | [BD]江苏城市 | stream1.freetv.fun | <https://stream1.freetv.fun/bb951e9f6447bef33a3668993d23ba5db98cfc383688b1688bdbf5a956d9a50c.m3u8> |
 | 155 | [BD]江苏影视 | stream1.freetv.fun | <https://stream1.freetv.fun/ff51b87d5cd5bd439c8c794400e57cef00030333c15716915efdb774a013b129.ctv> |
 | 156 | [BD]江苏卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/4f24c45e978db16f03f9526a99b66684f76c164081454f9fb06fb75f3909339d.m3u8> |
-| 157 | [BD]江苏卫视高清 | stream1.freetv.fun | <https://stream1.freetv.fun/201bc6a223bdc6a156faed559f05f3b9fa676c987f5f44cbdf62123f6977d5e9.m3u8> |
+| 157 | [BD]江苏卫视 8m1080 | stream1.freetv.fun | <https://stream1.freetv.fun/849a1df59ba119558408e83532462fa8a82c1dd88cd97dabecb8d4c5d5ebf66d.m3u8> |
 | 158 | [BD]江苏体育 | stream1.freetv.fun | <https://stream1.freetv.fun/e9b0607a6ad54ba676d9bb046555ef959e983d1f66e584dd05e2c58424945b7e.ctv> |
 | 159 | [BD]江西卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/bc4d49bde015fc24aafb924423536d9ec2f09ad3d55313e4a482ba85ae48b175.ctv> |
 | 160 | [HD]淮北经济生活 | stream1.freetv.fun | <https://stream1.freetv.fun/3c6e99064cb6116c2dd03648f895a91b936609e0800bc9ae5c9c7b617338bff5.ctv> |
@@ -266,4 +266,4 @@
 | 260 | [SD]黑龙江新闻法治 | stream1.freetv.fun | <https://stream1.freetv.fun/0b020b11ef1c7fd5c70eca53f6c5d5d831e4bc8c1259ce54a67ae8da368cfef8.m3u8> |
 | 261 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/8db7fe87f56b1781603eca82aa8111cd9a6f7a52cb6648858a6a657a926d5ddf.ctv> |
 
-Updated at **Mon Dec 01 2025 02:19:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 01 2025 04:52:46 GMT+0000 (Coordinated Universal Time)**
