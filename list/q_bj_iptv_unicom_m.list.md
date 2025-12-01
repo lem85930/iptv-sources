@@ -137,4 +137,4 @@
 | 131 | 山东教育 | IPv4 直链 | <rtp://239.3.1.52:4120> |
 | 132 | 财富天下 | IPv4 直链 | <rtp://239.3.1.53:9136> |
 
-Updated at **Mon Dec 01 2025 19:32:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 01 2025 20:25:42 GMT+0000 (Coordinated Universal Time)**
