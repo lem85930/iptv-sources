@@ -40578,6 +40578,9 @@
 	<programme channel="惊悚悬疑" start="20251202194900 +0800" stop="20251202201900 +0800">
 		<title lang="zh">《A咖秀》推荐第13期</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20251202202000 +0800" stop="20251202214000 +0800">
+		<title lang="zh">画皮：情灭</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -44030,6 +44033,9 @@
 	</programme>
 	<programme channel="明星大片" start="20251202194600 +0800" stop="20251202201600 +0800">
 		<title lang="zh">《健康生活》推荐第二期</title>
+	</programme>
+	<programme channel="明星大片" start="20251202201600 +0800" stop="20251202210300 +0800">
+		<title lang="zh">18_值得爱</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -68178,6 +68184,9 @@
 	<programme channel="纯享4K" start="20251202193400 +0800" stop="20251202201500 +0800">
 		<title lang="zh">远方的家4K 行走海岸线（37）河海相会处 黄蓝交响曲</title>
 	</programme>
+	<programme channel="纯享4K" start="20251202201500 +0800" stop="20251202205700 +0800">
+		<title lang="zh">远方的家4K 行走海岸线（38）莱州湾畔 生态家园</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -86052,6 +86061,9 @@
 	<programme channel="newtv超级电视剧" start="20251202193400 +0800" stop="20251202201900 +0800">
 		<title lang="zh">14_山花烂漫时</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251202201900 +0800" stop="20251202210500 +0800">
+		<title lang="zh">15_山花烂漫时</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -86135,6 +86147,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251202193100 +0800" stop="20251202200200 +0800">
 		<title lang="zh">《健康生活》推荐第二期</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251202200200 +0800" stop="20251202204300 +0800">
+		<title lang="zh">14_大唐荣耀</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -86226,6 +86241,9 @@
 	<programme channel="newtv精品纪录" start="20251202194300 +0800" stop="20251202202500 +0800">
 		<title lang="zh">32_特赦1959_</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251202202800 +0800" stop="20251202210900 +0800">
+		<title lang="zh">33_特赦1959_</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -86309,6 +86327,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251202195200 +0800" stop="20251202202200 +0800">
 		<title lang="zh">《A咖秀》推荐第13期</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251202202200 +0800" stop="20251202210800 +0800">
+		<title lang="zh">22_梦华录</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -86394,6 +86415,9 @@
 	<programme channel="newtv军旅剧场" start="20251202193900 +0800" stop="20251202202400 +0800">
 		<title lang="zh">27_参工传奇</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251202202400 +0800" stop="20251202210900 +0800">
+		<title lang="zh">28_参工传奇</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -86478,6 +86502,9 @@
 	<programme channel="newtv家庭剧场" start="20251202195300 +0800" stop="20251202202300 +0800">
 		<title lang="zh">《健康生活》推荐第二期</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251202202300 +0800" stop="20251202210800 +0800">
+		<title lang="zh">27_儿女情更长</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -86555,6 +86582,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251202192100 +0800" stop="20251202200600 +0800">
 		<title lang="zh">27_问心</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251202200600 +0800" stop="20251202205200 +0800">
+		<title lang="zh">28_问心</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -86688,6 +86718,9 @@
 	<programme channel="newtv动作电影" start="20251202191200 +0800" stop="20251202202100 +0800">
 		<title lang="zh">使命营救</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20251202202100 +0800" stop="20251202205100 +0800">
+		<title lang="zh">《A咖秀》推荐第13期</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -86772,6 +86805,9 @@
 	<programme channel="newtv怡伴健康" start="20251202195500 +0800" stop="20251202202500 +0800">
 		<title lang="zh">《健康生活》推荐第二期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251202202500 +0800" stop="20251202210800 +0800">
+		<title lang="zh">山西清徐学栋vs北京龙腾四海 第5局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -86855,6 +86891,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251202195700 +0800" stop="20251202202800 +0800">
 		<title lang="zh">《健康生活》推荐第二期</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251202202800 +0800" stop="20251202211300 +0800">
+		<title lang="zh">38_独孤天下</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -87009,6 +87048,9 @@
 	<programme channel="newtv军事评论" start="20251202195500 +0800" stop="20251202202200 +0800">
 		<title lang="zh">武器装备的“怪咖”设计</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251202202200 +0800" stop="20251202204800 +0800">
+		<title lang="zh">红场上的钢甲洪流</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -87105,6 +87147,9 @@
 	<programme channel="newtv炫舞未来" start="20251202190500 +0800" stop="20251202200400 +0800">
 		<title lang="zh">我用真诚打动你</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251202201400 +0800" stop="20251202202400 +0800">
+		<title lang="zh">百年辅酶</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -87192,6 +87237,9 @@
 	<programme channel="newtv精品综合" start="20251202194600 +0800" stop="20251202201600 +0800">
 		<title lang="zh">《健康生活》推荐第二期</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251202201600 +0800" stop="20251202210300 +0800">
+		<title lang="zh">18_值得爱</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -87251,6 +87299,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251202194900 +0800" stop="20251202201900 +0800">
 		<title lang="zh">《A咖秀》推荐第13期</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251202202000 +0800" stop="20251202214000 +0800">
+		<title lang="zh">画皮：情灭</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -87362,6 +87413,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251202185900 +0800" stop="20251202194400 +0800">
 		<title lang="zh">32_谍战深海之惊蛰[DVD版]</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251202194400 +0800" stop="20251202202800 +0800">
+		<title lang="zh">33_谍战深海之惊蛰[DVD版]</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251202202800 +0800" stop="20251202205800 +0800">
+		<title lang="zh">《健康生活》推荐第二期</title>
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251202194400 +0800" stop="20251202202800 +0800">
 		<title lang="zh">33_谍战深海之惊蛰[DVD版]</title>
@@ -87518,6 +87575,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251202193600 +0800" stop="20251202202500 +0800">
 		<title lang="zh">19_雪中悍刀行</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251202202500 +0800" stop="20251202211100 +0800">
+		<title lang="zh">20_雪中悍刀行</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
