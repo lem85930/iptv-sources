@@ -285,4 +285,4 @@
 | 279 | [SD]黑龙江新闻法治 | stream1.freetv.fun | <https://stream1.freetv.fun/0b020b11ef1c7fd5c70eca53f6c5d5d831e4bc8c1259ce54a67ae8da368cfef8.m3u8> |
 | 280 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8> |
 
-Updated at **Thu Dec 04 2025 19:25:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Dec 04 2025 19:44:04 GMT+0000 (Coordinated Universal Time)**
