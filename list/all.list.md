@@ -1115,7 +1115,7 @@
 | 1109 | [BD]zee cinema | stream1.freetv.fun | <https://stream1.freetv.fun/5a89c3e636a00efc2bf03f8b9b2a01dcede777610062d9ba39db173d9e7d0145.ctv> |
 | 1110 | [BD]zee kannada | stream1.freetv.fun | <https://stream1.freetv.fun/b57fb629dda9d9a5a610ad57a0bab502c9acd0552ba807b78808b45930192274.ctv> |
 | 1111 | [BD]zee marathi | stream1.freetv.fun | <https://stream1.freetv.fun/0603829cdac02f2d2441b15a470badff746dc9aba48f233ffea7669a32f1dcbd.ctv> |
-| 1112 | [SD]zee punjabi | stream1.freetv.fun | <https://stream1.freetv.fun/fbd46e978196f66bca254fcf3fa0070c4b5aac870bcafe1482aba5f8c598069f.ctv> |
+| 1112 | [BD]zee punjabi | stream1.freetv.fun | <https://stream1.freetv.fun/fbd46e978196f66bca254fcf3fa0070c4b5aac870bcafe1482aba5f8c598069f.ctv> |
 | 1113 | [BD]zee tv | stream1.freetv.fun | <https://stream1.freetv.fun/3edc215bf50e8dd4d4096d1fd16b835be06433b69daf11927d8d0ab6f796df54.ctv> |
 | 1114 | [BD]tv zoom | stream1.freetv.fun | <https://stream1.freetv.fun/87f9f3af624b0371e4084d6f6eed0117dbeae0a8925cf7b2724e1db62ae7d964.m3u8> |
 | 1115 | [BD]r bangla | stream1.freetv.fun | <https://stream1.freetv.fun/af419768d5969f44daa3c8e7ceff74dd34d1b53cb780a66045a5d81c35a3f451.m3u8> |
@@ -1600,4 +1600,4 @@
 | 1594 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv> |
 | 1595 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/d2be8ec62b215362ffd0925ece1643d31aa932df95c5d88516333b5d1e3daebb.m3u8> |
 
-Updated at **Thu Dec 04 2025 19:44:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Dec 04 2025 20:28:50 GMT+0000 (Coordinated Universal Time)**
