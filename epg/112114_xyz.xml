@@ -28497,6 +28497,9 @@
 	<programme channel="咪咕综合体育" start="20251205091500 +0800" stop="20251205092500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251205092500 +0800" stop="20251205110500 +0800">
+		<title lang="zh">中超来噜-2025赛季中超 第30轮 北京国安-梅州客家</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28532,6 +28535,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251205091000 +0800" stop="20251205093500 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第十三期</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251205093500 +0800" stop="20251205094500 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -85536,6 +85542,9 @@
 	<programme channel="黑莓动画" start="20251205085400 +0800" stop="20251205092800 +0800">
 		<title lang="zh">12_乐于帮助他人的好宝宝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251205092800 +0800" stop="20251205115800 +0800">
+		<title lang="zh">11_喜羊羊与灰太狼之羊羊小侦探</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -86487,6 +86496,9 @@
 	<programme channel="newtv超级电视剧" start="20251205083900 +0800" stop="20251205092400 +0800">
 		<title lang="zh">05_风声</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251205092400 +0800" stop="20251205100900 +0800">
+		<title lang="zh">06_风声</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -86525,6 +86537,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251205084000 +0800" stop="20251205092500 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251205092500 +0800" stop="20251205101000 +0800">
+		<title lang="zh">15_一代枭雄</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -86643,6 +86658,9 @@
 	<programme channel="newtv军旅剧场" start="20251205083100 +0800" stop="20251205091700 +0800">
 		<title lang="zh">45_谍战深海之惊蛰[DVD版]</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251205091700 +0800" stop="20251205100300 +0800">
+		<title lang="zh">伏湿丸</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -86681,6 +86699,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251205084600 +0800" stop="20251205092600 +0800">
 		<title lang="zh">营养健康人生</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251205092600 +0800" stop="20251205101200 +0800">
+		<title lang="zh">05_兰桐花开</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -86828,6 +86849,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251205083500 +0800" stop="20251205091900 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251205091900 +0800" stop="20251205100400 +0800">
+		<title lang="zh">05_冤家亲家</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -87104,6 +87128,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251205085200 +0800" stop="20251205092200 +0800">
 		<title lang="zh">健康推荐新码</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251205092200 +0800" stop="20251205100800 +0800">
+		<title lang="zh">10_风声</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
