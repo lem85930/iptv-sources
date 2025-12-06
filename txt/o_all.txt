@@ -980,6 +980,7 @@ Netlink_TV_(720p),https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 NewsWorld,https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
 Next_TV_(1080p)_[Not_24/7],http://gohoski.fvds.ru:3000/mediabay/601/playlist.m3u8
 NHK_World_News_(French_Subs)_(720p),https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/fr/playlist.m3u8
+NHL,https://nhl-firetv.amagi.tv/playlist.m3u8
 Nick_Pluto_TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8504f2-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2c0f9a61-5699-4476-a730-228053d9f6b6
 Nickelodeon_Pluto_TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5108-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5730720c-9e54-41d9-b73d-eab8fdac7291
 Nickelodeon_Sonic_Hindi_(1080p),https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
@@ -2475,9 +2476,11 @@ WPTV_News_West_Palm_Beach_FL_(720p),https://content.uplynk.com/channel/b02350ef8
 WPXI-DT1_(1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
 WPXN-DT7,http://72.46.118.193/Newsy/index.m3u8
 WPXX-DT1,http://104.255.88.155/ion/index.m3u8
+WRMD-CD1,http://104.238.205.28:8989/278676_.m3u8
 WSB-DT1_(1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews-ono/playlist.m3u8
 WSBS-DT1_(1080p),https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
 WSMV-DT1,https://fl1.moveonjoy.com/TN_Nashville_NBC/index.m3u8
+WSNS-DT1,http://172.93.102.112:8989/158735_.m3u8
 WSOC-DT1_(1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
 WTNH-DT1_(720p),https://tkx.mp.lura.live/rest/v2/mcp/video/11135425.m3u8?anvack=pDKqMLyG9pVqMkSYRJHWu3XROjAlvR6z&eud=1iqQ+zazzEobWIhmmj6bA8STRJm4HceYQApO7QYBvy9BTps0KI7LuXGD4KK7RLtBTyO8KsbFw40vgX8hrw+xqw==
 WTOG-DT1,https://fl1.moveonjoy.com/FL_Tampa_CW44/index.m3u8
@@ -4519,6 +4522,7 @@ Radio_La_Original_TV_(1080p),https://cloudvideo.servers10.com:8081/8216/index.m3
 Radio_Puerto_TV_(720p),https://cloudvideo.servers10.com:8081/8256/index.m3u8
 Rádio_Sines_(720p),https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8
 Radio_Tele_6_Univers,https://acwstream.com/lakay/tele6/tracks-v1a1/mono.m3u8
+Radio_Tele_Eclair,https://play.streamhaiti.com:3585/live/radioteleeclairlive.m3u8
 Radio_Tele_Ginen,http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8
 Radio_Tele_Planet_Compas_(720p)_[Not_24/7],https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8
 Radio_Télé_Prince_(480p),https://59d39900ebfb8.streamlock.net/radioteleprince/radioteleprince/playlist.m3u8
@@ -5316,6 +5320,7 @@ Company_TV_(720p),https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.
 Conecta_TV,https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 Cool_FM_98.9_(720p),https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
 Couleur_3_(720p),https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
+Cumbia_Mix_(720p),https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
 D3_TV,https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8
 Dance_FM_(720p),https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 DanceHits80,http://dancehits80.denvs.ru:8080/index.m3u8
@@ -5446,7 +5451,6 @@ La_Top_102.9_(720p),https://59d39900ebfb8.streamlock.net/top102/top102/playlist.
 La_Top_107.7_(720p),https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
 La_Urban_TV_(1080p)_[Not_24/7],https://urbanrevolution.es:8443/live/TV/playlist.m3u8
 La_Voz_del_Tropico_(480p),https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8
-La_Voz_Grupera_TV_(720p),https://cloudvideo.servers10.com:8081/8128/index.m3u8
 La-X_(720p),https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
 Latin_Zone_TV_(720p),https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 Lausitzwelle_(1080p),https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
@@ -5653,7 +5657,6 @@ Slager_Muzika,https://stream-23.mazana.tv/slagrmuzika.m3u8s
 Slager_Original,https://stream-13.mazana.tv/slagroriginal.m3u8s
 Sol_Música_(720p),https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 SoloBáilalo_(480p),https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
-SONGTV_Armenia_(720p),https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
 SONGTV_Russia_(720p),https://songtv.hls.iptvdc.com/web-russia/index.m3u8
 SOY_Plancha_TV_(720p),https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 SpektraTV_(720p),https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
@@ -5832,6 +5835,7 @@ News,#genre#
 A_Türk_Izmir_(360p),https://vdo.digitalbox.xyz:3807/stream/play.m3u8
 AA_Live_(720p)_[Not_24/7],https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
 Aaj_Tak_(1080p),https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
+Abante_TV,https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 ABC_2_Baltimore_MD_(WMAR)_(720p),https://livetv-fa.tubi.video/wmar/playlist.m3u8
 ABC_4_Pittsburg_PA_(WTAE)_(720p),https://livetv-fa.tubi.video/wtae/playlist.m3u8
 ABC_5_Cleveland_OH_(WEWS)_(720p),https://livetv-fa.tubi.video/wews2/playlist.m3u8
@@ -6790,7 +6794,6 @@ Canal_Telefamilia_(360p)_[Not_24/7],https://stmv2.voxtvhd.com.br/telefamilia/tel
 Canal_TV_Radio_Maya_TGBA_(480p),https://stream.oursnetworktv.com/latin/radioTGBAgtm/playlist.m3u8
 Candelaria_TV_(720p)_[Not_24/7],https://cdn.streamhispanatv.net:3921/live/candetvlive.m3u8
 Candelita_TV_(480p),https://6110f70ea8d0e.streamlock.net/1689/1689/playlist.m3u8
-Caribbean_Gospel_TV_(1080p),https://5a1178b42cc03.streamlock.net/CGTV2024/CGTV2024/playlist.m3u8
 Catholic_TV,https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
 Caught-Up_TV_(480p)_[Not_24/7],https://webstreaming-3.viewmedia.tv/web_031/Stream/playlist.m3u8
 CBN_Espanol_(1080p),https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U/playlist-hls.m3u8
@@ -7196,6 +7199,7 @@ Radio_Sublime_Gracia_TV_(720p),https://5f700d5b2c46f.streamlock.net/sublime/subl
 Radio_Télé_4VEH_(720p),https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
 Radio_Télé_Amen_FM_(360p)_[Not_24/7],http://184.173.179.163:1935/daniel/daniel/playlist.m3u8
 Radio_Tele_Evangile_Sans_Limite,https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
+Radio_Tele_Full_Gospel,https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8
 Radio_Télé_Wisdom_(360p)_[Not_24/7],https://59d39900ebfb8.streamlock.net/daniel/daniel/playlist.m3u8
 Radio_Visión_de_Dios_Stereo_(720p)_[Not_24/7],https://live.tvcontrolcp.com:1936/8286/8286/playlist.m3u8
 Radio_y_Televisión_Crisol_de_la_Alegría_(1080p)_[Not_24/7],https://omegaingenieria.com:19360/CRisolTVdigital-Live_abr/CRisolTVdigital-Live_abr.m3u8
@@ -8182,7 +8186,6 @@ Chintu_TV_(576p),https://live.dinesh29.com.np/stream/jiotvplus/chintutv/master.m
 Disney_Channel_Latin_America_(1080p),http://201.230.121.186:8000/play/a0fb/index.m3u8
 Disney_Channel_Latin_America_Panregional_HD_(1080p),http://201.217.246.177:8000/play/a02r/index.m3u8
 Disney_Jr._(1080p),https://saran-live.ercdn.net/disneyjunior/index.m3u8
-Disney_Jr._Latin_America_South_(480p),http://38.183.182.166:8000/play/a0j9/index.m3u8
 Extrema_Kids_TV_[Not_24/7],https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 Golden_Eagle_Cartoon,http://1.24.190.98:10080/hls/51/index.m3u8
 Japanim_TV_(1080p),https://foxkidstv.be:3369/stream/play.m3u8
@@ -8952,7 +8955,6 @@ NFL_Sunday_Ticket_12,http://fl2.moveonjoy.com/NFL_12/index.m3u8
 NFL_Sunday_Ticket_13,http://fl2.moveonjoy.com/NFL_13/index.m3u8
 NFL_Sunday_Ticket_14,http://fl2.moveonjoy.com/NFL_14/index.m3u8
 NFL_Sunday_Ticket_15,http://fl2.moveonjoy.com/NFL_15/index.m3u8
-NHL,https://nhl-firetv.amagi.tv/playlist.m3u8
 NHL_Center_Ice_12_(720p),http://fl1.moveonjoy.com/NHL_12/index.m3u8
 NHL_Center_Ice_13_(720p),http://fl1.moveonjoy.com/NHL_13/index.m3u8
 NHL_Center_Ice_14_(720p),http://fl1.moveonjoy.com/NHL_14/index.m3u8
@@ -8966,6 +8968,7 @@ NHL_Centre_Ice_8,http://fl1.moveonjoy.com/NHL_8/index.m3u8
 NHL_Centre_Ice_9,http://fl1.moveonjoy.com/NHL_9/index.m3u8
 NHL_Centre_Ice_10,http://fl1.moveonjoy.com/NHL_10/index.m3u8
 NHL_Centre_Ice_11,http://fl1.moveonjoy.com/NHL_11/index.m3u8
+NHL_Network_(720p),https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
 NHRA_TV_(720p),https://livetv-fa.tubi.video/nhra/nh.m3u8
 Nitro_Circus_(1080p),https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist.m3u8
 Olympic_Channel,https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8
