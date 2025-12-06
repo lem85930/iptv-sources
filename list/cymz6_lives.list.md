@@ -8,4 +8,4 @@
 | 2 | 辽宁卫视 | IPv4 直链 | <http://61.156.228.12:8154/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 3 | 陕西卫视 | IPv4 直链 | <http://61.156.228.12:8154/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sat Dec 06 2025 18:32:10 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Dec 06 2025 20:25:31 GMT+0000 (Coordinated Universal Time)**
