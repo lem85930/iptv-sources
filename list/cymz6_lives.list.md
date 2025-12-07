@@ -116,4 +116,4 @@
 | 110 | 金鹰卡通 | IPv4 直链 | <http://221.13.235.49:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 111 | 马鞍山新闻 | IPv4 直链 | <http://223.241.247.214:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sun Dec 07 2025 06:33:49 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Dec 07 2025 08:29:20 GMT+0000 (Coordinated Universal Time)**
