@@ -60129,6 +60129,9 @@
 	<programme channel="newtv超级综艺" start="20251209193000 +0800" stop="20251209204300 +0800">
 		<title lang="zh">雏凤新声——中央广播电视总台 首届少儿戏曲大会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251209204300 +0800" stop="20251209220900 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60513,6 +60516,9 @@
 	<programme channel="newtv精品纪录" start="20251209195000 +0800" stop="20251209203500 +0800">
 		<title lang="zh">01_雪狼谷</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251209203500 +0800" stop="20251209210500 +0800">
+		<title lang="zh">《A咖秀》推荐第15期</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -60875,6 +60881,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251209194800 +0800" stop="20251209203700 +0800">
 		<title lang="zh">15_爱的二八定律</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251209203700 +0800" stop="20251209210700 +0800">
+		<title lang="zh">《A咖秀》推荐第15期</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -61364,6 +61373,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251209201100 +0800" stop="20251209203800 +0800">
 		<title lang="zh">武器装备的“怪咖”设计</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251209203800 +0800" stop="20251209210400 +0800">
+		<title lang="zh">红场上的钢甲洪流</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
