@@ -51078,6 +51078,9 @@
 	<programme channel="黑莓动画" start="20251211000700 +0800" stop="20251211024900 +0800">
 		<title lang="zh">01_谷围南亭</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251211024900 +0800" stop="20251211053600 +0800">
+		<title lang="zh">01_我在天庭收废品</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -51702,6 +51705,9 @@
 	<programme channel="newtv超级电视剧" start="20251211022500 +0800" stop="20251211030600 +0800">
 		<title lang="zh">30_热血青春</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251211030600 +0800" stop="20251211034800 +0800">
+		<title lang="zh">31_热血青春</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -51734,6 +51740,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251211020400 +0800" stop="20251211025000 +0800">
 		<title lang="zh">04_地雷战</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251211025000 +0800" stop="20251211033500 +0800">
+		<title lang="zh">05_地雷战</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -51798,6 +51807,9 @@
 	<programme channel="newtv热播精选" start="20251211022900 +0800" stop="20251211025900 +0800">
 		<title lang="zh">健康推荐渠道</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251211025900 +0800" stop="20251211034400 +0800">
+		<title lang="zh">22_安家</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -51809,6 +51821,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251211022900 +0800" stop="20251211025900 +0800">
 		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251211025900 +0800" stop="20251211034400 +0800">
+		<title lang="zh">31_似锦</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -51858,6 +51873,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251211020900 +0800" stop="20251211025400 +0800">
 		<title lang="zh">34_兰桐花开</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251211025400 +0800" stop="20251211034000 +0800">
+		<title lang="zh">35_兰桐花开</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -51882,6 +51900,9 @@
 	<programme channel="newtv军事评论" start="20251211022900 +0800" stop="20251211025100 +0800">
 		<title lang="zh">中国力量 空中雄鹰</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251211025100 +0800" stop="20251211031300 +0800">
+		<title lang="zh">中国力量 天空利剑</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -51896,6 +51917,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251211023000 +0800" stop="20251211025200 +0800">
 		<title lang="zh">健身舞—广寒宫（20210416）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251211025200 +0800" stop="20251211033000 +0800">
+		<title lang="zh">巧用酸味来养生（二）（20230101）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -51935,6 +51959,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251211022200 +0800" stop="20251211030600 +0800">
 		<title lang="zh">45_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251211030600 +0800" stop="20251211035000 +0800">
+		<title lang="zh">46_秋蝉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
