@@ -40739,6 +40739,9 @@
 	<programme channel="惊悚悬疑" start="20251210201200 +0800" stop="20251210204200 +0800">
 		<title lang="zh">《健康生活》推荐第三期</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20251210204200 +0800" stop="20251210220300 +0800">
+		<title lang="zh">民俗怪闻录之出马仙</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -67793,6 +67796,9 @@
 	<programme channel="纯享4K" start="20251210201300 +0800" stop="20251210205500 +0800">
 		<title lang="zh">远方的家4K 行走海岸线（54） 康养之城 宜居即墨</title>
 	</programme>
+	<programme channel="纯享4K" start="20251210210000 +0800" stop="20251210210500 +0800">
+		<title lang="zh">美丽中国自然4K 北部湾系列 指根森林</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -85343,6 +85349,9 @@
 	<programme channel="newtv超级综艺" start="20251210193000 +0800" stop="20251210205500 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251210205500 +0800" stop="20251210223100 +0800">
+		<title lang="zh">2025年湖北b7郧西主题音乐会</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -85399,6 +85408,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20251210193000 +0800" stop="20251210210000 +0800">
 		<title lang="zh">实况录像-残特奥会 坐式排球女子小组赛 山东-上海(录播)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20251210210000 +0800" stop="20251210213000 +0800">
+		<title lang="zh">残特奥会-游泳决赛2</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -85538,6 +85550,9 @@
 	<programme channel="newtv超级电视剧" start="20251210195300 +0800" stop="20251210203800 +0800">
 		<title lang="zh">18_面具背后</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251210203800 +0800" stop="20251210212300 +0800">
+		<title lang="zh">19_面具背后</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -85630,6 +85645,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251210200000 +0800" stop="20251210204500 +0800">
 		<title lang="zh">20_父辈的荣耀</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251210204500 +0800" stop="20251210211500 +0800">
+		<title lang="zh">《健康生活》推荐第三期</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -85820,6 +85838,9 @@
 	<programme channel="newtv古装剧场" start="20251210200500 +0800" stop="20251210205400 +0800">
 		<title lang="zh">22_雁回时</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251210205400 +0800" stop="20251210212400 +0800">
+		<title lang="zh">《健康生活》推荐第三期</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -85913,6 +85934,9 @@
 	<programme channel="newtv军旅剧场" start="20251210200200 +0800" stop="20251210204700 +0800">
 		<title lang="zh">26_小站风云</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251210204700 +0800" stop="20251210211700 +0800">
+		<title lang="zh">《健康生活》推荐第三期</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -86005,6 +86029,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251210202300 +0800" stop="20251210205300 +0800">
 		<title lang="zh">《健康生活》推荐第三期</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251210205300 +0800" stop="20251210213900 +0800">
+		<title lang="zh">11_我的后半生</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -86336,6 +86363,9 @@
 	<programme channel="newtv怡伴健康" start="20251210201100 +0800" stop="20251210204100 +0800">
 		<title lang="zh">《健康生活》推荐第三期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251210204100 +0800" stop="20251210211800 +0800">
+		<title lang="zh">北京源莱慧精英vs四川剑开天门 第2局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -86428,6 +86458,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251210200400 +0800" stop="20251210205000 +0800">
 		<title lang="zh">17_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251210205000 +0800" stop="20251210212000 +0800">
+		<title lang="zh">《健康生活》推荐第三期</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -86567,6 +86600,9 @@
 	<programme channel="newtv军事评论" start="20251210202800 +0800" stop="20251210205300 +0800">
 		<title lang="zh">菲律宾再闹南海 解放军严阵以待</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251210205300 +0800" stop="20251210211800 +0800">
+		<title lang="zh">赖清德自称“棋手” 再遭特朗普敲打</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -86671,6 +86707,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251210200600 +0800" stop="20251210203600 +0800">
 		<title lang="zh">益生菌</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251210203600 +0800" stop="20251210212200 +0800">
+		<title lang="zh">22_金婚</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -86822,6 +86861,9 @@
 	<programme channel="newtv惊悚悬疑" start="20251210201200 +0800" stop="20251210204200 +0800">
 		<title lang="zh">《健康生活》推荐第三期</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251210204200 +0800" stop="20251210220300 +0800">
+		<title lang="zh">民俗怪闻录之出马仙</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -86935,6 +86977,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251210201500 +0800" stop="20251210210000 +0800">
 		<title lang="zh">30_风暴舞</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251210210000 +0800" stop="20251210214600 +0800">
+		<title lang="zh">38_红蔷薇</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
