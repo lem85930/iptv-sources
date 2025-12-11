@@ -59694,6 +59694,9 @@
 	<programme channel="黑莓电影" start="20251211123000 +0800" stop="20251211144100 +0800">
 		<title lang="zh">侠探杰克</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251211144100 +0800" stop="20251211164500 +0800">
+		<title lang="zh">反抗军</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -60663,6 +60666,9 @@
 	<programme channel="newtv古装剧场" start="20251211134800 +0800" stop="20251211143500 +0800">
 		<title lang="zh">18_折腰</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251211143500 +0800" stop="20251211152200 +0800">
+		<title lang="zh">19_折腰</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -61209,6 +61215,9 @@
 	<programme channel="newtv军事评论" start="20251211141400 +0800" stop="20251211143600 +0800">
 		<title lang="zh">烽火记忆b7光影中的抗战利器（2）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251211143600 +0800" stop="20251211150100 +0800">
+		<title lang="zh">丛林侦察砺锋芒</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -61286,6 +61295,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251211141700 +0800" stop="20251211144200 +0800">
 		<title lang="zh">01_宴席之道</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251211144200 +0800" stop="20251211151200 +0800">
+		<title lang="zh">鱼油-健康生活</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -61463,6 +61475,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251211140100 +0800" stop="20251211144600 +0800">
 		<title lang="zh">21_梅花红桃</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251211144600 +0800" stop="20251211151600 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
