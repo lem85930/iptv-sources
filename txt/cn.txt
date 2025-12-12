@@ -198,7 +198,6 @@
 [SD]cctv-6,https://stream1.freetv.fun/4fd6876e7daa52d8ef895d334b6f04d56aa310512929f9644263b1542dc87c60.ctv
 [BD]cctv8,https://stream1.freetv.fun/a15c826cb06f60854c3c203da5848c1cfb80ea188ddfd7ca83bd845f170ca2a1.m3u8
 [SD]cctv第一剧场,https://stream1.freetv.fun/631e31539c1b0c0c745f6727dd2e9511ef40616c5732baa462609264fa22c757.m3u8
-[VGA]celestial_classic_*sm,https://stream1.freetv.fun/425f6e8a86eff01078b2e3ce5eaac256d01a4eadece921541183cae69e56e131.ctv
 [BD]chc家庭影院,https://stream1.freetv.fun/07f11673c5c9c79ce321e9f8e306c245cf62d66c58a0732690b58d1c8783e7c4.ctv
 [BD]chc高清电影,https://stream1.freetv.fun/d940fc0ec92b037bf0518b75eab8fbba1d7adef2175287fcc87c0e48d2affb48.m3u8
 [BD]上虞文化,https://stream1.freetv.fun/a3b95f8cec871798479e1b30f604863644527ac9182220e2ac8650dc0ecbc211.m3u8
