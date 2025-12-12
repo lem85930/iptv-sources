@@ -60603,6 +60603,9 @@
 	<programme channel="newtv超级综艺" start="20251212133900 +0800" stop="20251212150200 +0800">
 		<title lang="zh">信马游疆</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251212150200 +0800" stop="20251212163700 +0800">
+		<title lang="zh">非遗里的中国第三季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60684,6 +60687,9 @@
 	<programme channel="newtv超级电影" start="20251212134300 +0800" stop="20251212145700 +0800">
 		<title lang="zh">电影《狄仁杰之伏妖篇》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251212145700 +0800" stop="20251212161100 +0800">
+		<title lang="zh">电影《洛城疑云》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -60752,6 +60758,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251212141400 +0800" stop="20251212145700 +0800">
 		<title lang="zh">25_好妻子</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251212145700 +0800" stop="20251212154000 +0800">
+		<title lang="zh">26_好妻子</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -61760,6 +61769,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251212141300 +0800" stop="20251212145800 +0800">
 		<title lang="zh">26_梅花红桃</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251212145800 +0800" stop="20251212152800 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
