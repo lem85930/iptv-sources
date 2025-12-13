@@ -138,7 +138,7 @@
 | 132 | [BD]astro badminton 2 | stream1.freetv.fun | <https://stream1.freetv.fun/aad8647a748aa8a450a2da9956f19cb5f67af0ff685dc64acd65573f515d77d6.ctv> |
 | 133 | [HD]bollyone | stream1.freetv.fun | <https://stream1.freetv.fun/4de18385829721aa9210ed63383f6177681574227365afae9f741f9694b908f2.ctv> |
 | 134 | [HD]astro cricket | stream1.freetv.fun | <https://stream1.freetv.fun/5a27af26e999dc90cb9f70e8f9b7427f9212f50738fd9686a34767b13ad229ab.ctv> |
-| 135 | [HD]astro grandstand *sm | stream1.freetv.fun | <https://stream1.freetv.fun/98180440b2e0e10884214438c886538b33b32172e41adbf8755d7a6c96ff1c52.ctv> |
+| 135 | [HD]astro grandstand | stream1.freetv.fun | <https://stream1.freetv.fun/b68131fdc764e54615785ef9fd2a4161109d9c3f561064e8c7fba6bae0f88c78.ctv> |
 | 136 | [SD]astro lol | stream1.freetv.fun | <https://stream1.freetv.fun/9c83759e9968a0901f2fc1f51ac2aa25ae1f473bb7ee46aa57af72b7a6ba699d.ctv> |
 | 137 | [BD]Astro Premier League *sf | stream1.freetv.fun | <https://stream1.freetv.fun/a8d8dbde9aa42978900686a67d276135c27fa0abb61c7c896751419e2843933a.ctv> |
 | 138 | [HD]astro qj | stream1.freetv.fun | <https://stream1.freetv.fun/bb3e1ac0c759de7a3a82ed240f3dcd5c928404c46e31cee2978ce68ff7fc8131.ctv> |
@@ -1030,7 +1030,7 @@
 | 1024 | [HD]tvku | stream1.freetv.fun | <https://stream1.freetv.fun/59c6428a89e048c6e5935a34760b1c83017ae15ff9e307d9a35f28333b1b0c8a.m3u8> |
 | 1025 | [VGA]tvm | stream1.freetv.fun | <https://stream1.freetv.fun/50d1076fc2f9835d44a94c7a3fa3dcc5476c93fcac23226b0fb804c3dce1f48a.m3u8> |
 | 1026 | [HD]tvmu | stream1.freetv.fun | <https://stream1.freetv.fun/7b60bcf345d761e429d42c3315c320b823e75ab30448bd00cb28aa56154b1a63.ctv> |
-| 1027 | [HD]tvn asia *sm | stream1.freetv.fun | <https://stream1.freetv.fun/eb7a9f5cda6955963d5e24ecc079a1651f610cacf39ac029840a8cfe613bed32.ctv> |
+| 1027 | [SD]tvn asia *sm | stream1.freetv.fun | <https://stream1.freetv.fun/eb7a9f5cda6955963d5e24ecc079a1651f610cacf39ac029840a8cfe613bed32.ctv> |
 | 1028 | Chile" tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/18/20150518021622731206_39.jpg" group-title="Entertainment",[BD]tvn5 | stream1.freetv.fun | <https://stream1.freetv.fun/b3dbe25ae740efb679d4edbe4a4ed980db42cdd32cc8a8054ec8b12a6103e006.m3u8> |
 | 1029 | [HD]tvo | stream1.freetv.fun | <https://stream1.freetv.fun/d76d0c1cbf64a469999428e8dc5de34054ab74da882023c5145077b08a49e639.m3u8> |
 | 1030 | [BD]tvp 1 | stream1.freetv.fun | <https://stream1.freetv.fun/fe67f993e258567e341361249354d33d5358afd464d785b0b8c7185ae24e124e.m3u8> |
@@ -1047,7 +1047,7 @@
 | 1041 | [HD]deluxe lounge | stream1.freetv.fun | <https://stream1.freetv.fun/0d12af8b7b41a924ba41195a4c77d097407c2d9528d694db0c888d18e469b0d0.ctv> |
 | 1042 | [HD]tele pavia | stream1.freetv.fun | <https://stream1.freetv.fun/2cf3f940d6d2d5d804dd77a68d6e1d7100c0db2f01b61bce79f16a515366682a.m3u8> |
 | 1043 | [HD]telebarn | stream1.freetv.fun | <https://stream1.freetv.fun/f1dbf8c662a9f57cc17d74ce45495a8a0dc085432f683b548afceb4f1608b81c.m3u8> |
-| 1044 | [HD]telemar | stream1.freetv.fun | <https://stream1.freetv.fun/ff8170b1f7a3ca27cb2ed3e31b7d840b26535990fe0708bc049c563707401c88.m3u8> |
+| 1044 | [VGA]telemar | stream1.freetv.fun | <https://stream1.freetv.fun/ff8170b1f7a3ca27cb2ed3e31b7d840b26535990fe0708bc049c563707401c88.m3u8> |
 | 1045 | [BD]telemax | stream1.freetv.fun | <https://stream1.freetv.fun/0278132485e1d085912c88942b340ba374147a5d76c771916cbd85e4d6195e4f.m3u8> |
 | 1046 | [VGA]telemundo al dia | stream1.freetv.fun | <https://stream1.freetv.fun/9f7fff52daa66266973d2dd1f4e13a98d34592f9dd53edc3347c309dbc81ab85.m3u8> |
 | 1047 | [BD]telepace 3 | stream1.freetv.fun | <https://stream1.freetv.fun/9af8400957180bfe6dded4866e8129a8681cbf63805f89ca42df5b52afb21323.m3u8> |
@@ -1570,4 +1570,4 @@
 | 1564 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv> |
 | 1565 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/e61ec6990715622e4b73cf6eb9b3b83a245bd96c7fa9a5d2cd066490f092289c.m3u8> |
 
-Updated at **Sat Dec 13 2025 12:47:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Dec 13 2025 14:21:51 GMT+0000 (Coordinated Universal Time)**
