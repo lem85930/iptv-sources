@@ -449,7 +449,7 @@
 | 443 | [BD]fnx | stream1.freetv.fun | <https://stream1.freetv.fun/ce5b8246b13741add0005a6448f3f1743b973d8b3328cbe14b71ddb107b292be.m3u8> |
 | 444 | [HD]fxm === | stream1.freetv.fun | <https://stream1.freetv.fun/330f51a1b01bf65b802169203650c10a0399d6d5ffbac01c11a976e484025b6e.ctv> |
 | 445 | [VGA]FXX *tv | stream1.freetv.fun | <https://stream1.freetv.fun/fe4e26cf177067cd1512ffed7d73e94d0aca77dd1c78dea7d65e2c98fe2483c8.ctv> |
-| 446 | [BD]fashion tv | stream1.freetv.fun | <https://stream1.freetv.fun/8c70c40b46aae42aa879202c4e56f8b9aacd4bbe6053fea5e7b8fad8d2970826.m3u8> |
+| 446 | [BD]fusion tv | stream1.freetv.fun | <https://stream1.freetv.fun/d56bf47539ada779b939318dca76b4db689fc93621b4cac7c1c4e1fd34edbf9e.m3u8> |
 | 447 | [BD]world fashion channel en | stream1.freetv.fun | <https://stream1.freetv.fun/aa253df227b3e555e8028aff83c024d739c4547d9ad8d7c1c73d7f797b1a74b8.m3u8> |
 | 448 | [BD]fenerbahçe tv | stream1.freetv.fun | <https://stream1.freetv.fun/af9e7908ac8cc0d1cb208ce535fd8de25df70a242ac9055e258b4c81e50a0beb.m3u8> |
 | 449 | [SD]feniks plus kino | stream1.freetv.fun | <https://stream1.freetv.fun/a6d7487e9a4425d52783f997315c2ec7ebb96ed6bb702a48fbb8756345ccf88b.m3u8> |
@@ -1563,4 +1563,4 @@
 | 1557 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv> |
 | 1558 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/e61ec6990715622e4b73cf6eb9b3b83a245bd96c7fa9a5d2cd066490f092289c.m3u8> |
 
-Updated at **Sun Dec 14 2025 08:30:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Dec 14 2025 10:24:27 GMT+0000 (Coordinated Universal Time)**
