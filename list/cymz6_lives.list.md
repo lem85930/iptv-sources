@@ -13,4 +13,4 @@
 | 7 | 湖南卫视 | IPv4 直链 | <http://123.163.21.45:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 8 | 河南新闻 | IPv4 直链 | <http://123.163.21.45:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sun Dec 14 2025 10:24:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Dec 14 2025 12:47:27 GMT+0000 (Coordinated Universal Time)**
