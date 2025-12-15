@@ -136,7 +136,7 @@
 | 130 | [HD]astro cricket | stream1.freetv.fun | <https://stream1.freetv.fun/5a27af26e999dc90cb9f70e8f9b7427f9212f50738fd9686a34767b13ad229ab.ctv> |
 | 131 | [HD]astro grandstand | stream1.freetv.fun | <https://stream1.freetv.fun/b68131fdc764e54615785ef9fd2a4161109d9c3f561064e8c7fba6bae0f88c78.ctv> |
 | 132 | [SD]astro lol | stream1.freetv.fun | <https://stream1.freetv.fun/9c83759e9968a0901f2fc1f51ac2aa25ae1f473bb7ee46aa57af72b7a6ba699d.ctv> |
-| 133 | [BD]Astro Premier League *sf | stream1.freetv.fun | <https://stream1.freetv.fun/a8d8dbde9aa42978900686a67d276135c27fa0abb61c7c896751419e2843933a.ctv> |
+| 133 | [HD]astro premier league 2 *sm | stream1.freetv.fun | <https://stream1.freetv.fun/7de5114e3a1fc2dab517d2a91d77e8137353f030218ec96ce7d04b38deb7eb6a.ctv> |
 | 134 | [HD]astro qj | stream1.freetv.fun | <https://stream1.freetv.fun/bb3e1ac0c759de7a3a82ed240f3dcd5c928404c46e31cee2978ce68ff7fc8131.ctv> |
 | 135 | [HD]astro ria *sm | stream1.freetv.fun | <https://stream1.freetv.fun/775bd189500a19a9476c507449630d9926c6b7ef0a2c00b882e1c42c98f8ee70.ctv> |
 | 136 | [SD]astro rusi | stream1.freetv.fun | <https://stream1.freetv.fun/8b585b569303363d8f4844a3b2c15bff25af64114d148c2027c6230b83140d93.ctv> |
@@ -1555,4 +1555,4 @@
 | 1549 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv> |
 | 1550 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/e61ec6990715622e4b73cf6eb9b3b83a245bd96c7fa9a5d2cd066490f092289c.m3u8> |
 
-Updated at **Mon Dec 15 2025 02:04:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 15 2025 04:44:38 GMT+0000 (Coordinated Universal Time)**

@@ -1299,7 +1299,7 @@ Sports,#genre#
 [BD]astro_badminton_2,https://stream1.freetv.fun/aad8647a748aa8a450a2da9956f19cb5f67af0ff685dc64acd65573f515d77d6.ctv
 [HD]astro_cricket,https://stream1.freetv.fun/5a27af26e999dc90cb9f70e8f9b7427f9212f50738fd9686a34767b13ad229ab.ctv
 [HD]astro_grandstand,https://stream1.freetv.fun/b68131fdc764e54615785ef9fd2a4161109d9c3f561064e8c7fba6bae0f88c78.ctv
-[BD]Astro_Premier_League_*sf,https://stream1.freetv.fun/a8d8dbde9aa42978900686a67d276135c27fa0abb61c7c896751419e2843933a.ctv
+[HD]astro_premier_league_2_*sm,https://stream1.freetv.fun/7de5114e3a1fc2dab517d2a91d77e8137353f030218ec96ce7d04b38deb7eb6a.ctv
 [HD]astro_sports_plus,https://stream1.freetv.fun/6aa53bbbfd3763f507387b125472bf9b63e73ff045a6fe8a95d71241312c8815.ctv
 [HD]ช่อง_bally_sports_sun,https://stream1.freetv.fun/7e911a9d5c804aff29b6a22521f9ce26fbf3ed641a4deed1f2a19644462ef388.m3u8
 [HD]ช่อง_bally_sports_north,https://stream1.freetv.fun/191a88585c505a31ce4059bebd9cf7f6941063fe45a013c9c21b7fd74a62924b.m3u8
