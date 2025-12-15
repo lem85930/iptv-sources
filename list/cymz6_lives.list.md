@@ -72,4 +72,4 @@
 | 66 | 百姓调解 | IPv4 直链 | <http://1.197.250.106:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 67 | 金鹰卡通 | IPv4 直链 | <http://1.197.250.106:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Mon Dec 15 2025 14:30:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 15 2025 16:37:16 GMT+0000 (Coordinated Universal Time)**
