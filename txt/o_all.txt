@@ -293,7 +293,6 @@ Canal_Alpha_Neuchatel_(1080p)_[Not_24/7],https://canalalpha.vedge.infomaniak.com
 Canal_Claro_(720p),https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?appVersion=1&deviceDNT=0&deviceId=spencer&deviceMake=safari&deviceModel=web&deviceType=web&deviceVersion=1&servertSideAds=false&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
 Canal_Diocesano_(576p),https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
 Canal_Doñana_(720p)_[Not_24/7],https://secure5.todostreaming.es/live/division-alm.m3u8
-Canal_Nets_(720p)_[Not_24/7],https://movil.ejeserver.com/live/nets.m3u8
 CanalCosta_(1080p),https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
 Canale_8_(480p),http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8
 Canali_TV_(720p),http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
@@ -1284,7 +1283,7 @@ Rama_Channel,https://ramach.ddns.net/live/ramalive/index.m3u8
 RAN1_(1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
 Rantaró_el_ninja_boy_(1080p),https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/master.m3u8
 Rapsodia_TV_(576p),http://92.86.248.141:8080/ram/playlist.m3u8
-Rasmey_Hang_Meas_HDTV_(720p),http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+Rasmey_Hang_Meas_HDTV_(720p)_[Not_24/7],http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 Rauchende_Colts,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/638f2bc7bc363100072f02dd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2070f0-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=751c767c-10d2-4a8e-8886-f29909f0090e
 Rave_TV_(576p),https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8
 Rawhide,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65660223635c3c00086c2578/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bdb40-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85823e0a-69bc-4cfd-9626-cb87aab91a02
@@ -3320,7 +3319,6 @@ Canal_4_(720p),https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u
 Canal_4_Catalunya_(1080p),https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
 Canal_4_Mallorca_(1080p),https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 Canal_4_RD_(1080p),https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
-Canal_5_(720p),http://104.238.205.28:8989/278329_.m3u8
 Canal_5_Del_Pueblo_[Not_24/7],https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 Canal_5_El_Líder_(720p)_[Not_24/7],https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 Canal_5_TV_Cozumel_(1080p),https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
@@ -7559,6 +7557,7 @@ Cabo_Frio_TV_(720p),https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/
 Canal_9_Ixchiguán_(720p),https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
 Canal_14_Codazzi_(720p)_[Not_24/7],https://eu1.servers10.com:8081/8056/index.m3u8
 Canal_15_DTP_(352p),https://s.emisoras.tv:8081/dtp/index.m3u8
+Canal_Nets_(720p)_[Not_24/7],https://movil.ejeserver.com/live/nets.m3u8
 Canal+_(1080p),https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
 Canal+_Haiti,https://vdo.pro-fhi.net:3605/live/dgenlcpmlive.m3u8
 Canale_5,https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
@@ -8126,26 +8125,6 @@ Weihai_Ocean_Channel,http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8
 
 Lifestyle;Relax,#genre#
 10_Bold_Adelaide_(1080p),https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
-
-Animation;Kids,#genre#
-10_Shake_(480p),http://44.32.200.212:5004/auto/v13
-Animation_Show_Channel,http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authid=0&key=txiptv&playlive=1
-Chintu_TV_(576p),https://live.dinesh29.com.np/stream/jiotvplus/chintutv/master.m3u8
-Disney_Channel_Latin_America_(1080p),http://201.230.121.186:8000/play/a0fb/index.m3u8
-Disney_Channel_Latin_America_Panregional_HD_(1080p),http://201.217.246.177:8000/play/a02r/index.m3u8
-Disney_Jr._(1080p),https://saran-live.ercdn.net/disneyjunior/index.m3u8
-Extrema_Kids_TV_[Not_24/7],https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
-Golden_Eagle_Cartoon,http://1.24.190.98:10080/hls/51/index.m3u8
-Japanim_TV_(1080p),https://foxkidstv.be:3369/stream/play.m3u8
-Jiangxi_Children's_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
-Multimania_(Latvia)_(576p),https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8
-Pingviin_(576p),https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8
-Pokémon,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=d3595b5a-7553-4a6b-b9dd-c30951631395&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc32713f-dc5f-45d9-8650-2b4e69506b23
-Spacetoon_Arabic_(1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
-Tiguerito_TV_(720p)_[Not_24/7],https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
-Мультимания_(576p),https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-Солнце,http://tv.mediacdn.ru/live/solntse/playlist.m3u8
-优漫卡通_(576p),http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
 
 Comedy,#genre#
 13_Humor_(1080p),https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
@@ -9629,6 +9608,25 @@ Alterna_TV_(720p),https://alternatv.ar/stream/hls/live.m3u8
 Entertainment;General,#genre#
 América_TeVé_(1080p),https://live.gideo.video/americateve2/master.m3u8
 MCN6_(1080p)_[Not_24/7],https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
+
+Animation;Kids,#genre#
+Animation_Show_Channel,http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authid=0&key=txiptv&playlive=1
+Chintu_TV_(576p),https://live.dinesh29.com.np/stream/jiotvplus/chintutv/master.m3u8
+Disney_Channel_Latin_America_(1080p),http://201.230.121.186:8000/play/a0fb/index.m3u8
+Disney_Channel_Latin_America_Panregional_HD_(1080p),http://201.217.246.177:8000/play/a02r/index.m3u8
+Disney_Jr._(1080p),https://saran-live.ercdn.net/disneyjunior/index.m3u8
+Extrema_Kids_TV_[Not_24/7],https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+Golden_Eagle_Cartoon,http://1.24.190.98:10080/hls/51/index.m3u8
+Japanim_TV_(1080p),https://foxkidstv.be:3369/stream/play.m3u8
+Jiangxi_Children's_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
+Multimania_(Latvia)_(576p),https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8
+Pingviin_(576p),https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8
+Pokémon,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=d3595b5a-7553-4a6b-b9dd-c30951631395&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc32713f-dc5f-45d9-8650-2b4e69506b23
+Spacetoon_Arabic_(1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+Tiguerito_TV_(720p)_[Not_24/7],https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
+Мультимания_(576p),https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+Солнце,http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+优漫卡通_(576p),http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
 
 Travel,#genre#
 Anytime_TV_(1080p),https://tv.anytimemedia.co.za:3673/hybrid/play.m3u8
