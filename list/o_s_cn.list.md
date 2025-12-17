@@ -443,5 +443,9 @@
 | 437 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 | 438 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
 | 439 | CCTV-4 Europe | dash2.antik.sk | <https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8> |
+| 440 | CGTN Spanish | dash4.antik.sk | <https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8> |
+| 441 | CGTN French | dash4.antik.sk | <https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8> |
+| 442 | CGTN Russian | dash3.antik.sk | <https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8> |
+| 443 | CGTN Arabic | dash3.antik.sk | <https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8> |
 
-Updated at **Tue Dec 16 2025 20:29:44 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 17 2025 00:40:41 GMT+0000 (Coordinated Universal Time)**
