@@ -1782,7 +1782,6 @@ Tele_Pegaso_Catania_(404p)_[Not_24/7],https://flash2.xdevel.com/telepegasocanale
 Tele_Quattro_(720p),https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8
 Tele_Radio_Sciacca_(240p)_[Not_24/7],http://5cbd3bc28341f.streamlock.net:1935/trs_live/teleradiosciacca-tv/playlist.m3u8
 Tele_Safor_(720p)_[Not_24/7],https://video.telesafor.com/hls/video.m3u8
-Tele_San_Jacinto_(720p),https://movil.ejeserver.com/live/telesanjacinto.m3u8
 Tele_Uno_(720p)_[Not_24/7],http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 TeleArena_(480p),https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
 TeleBarn_(1080p),https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8
@@ -4696,6 +4695,7 @@ Télé_Péyi_(720p),https://edge20.vedge.infomaniak.com/livecast/ik:33dm06/manif
 Tele_Proyecto_TV_[Not_24/7],https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
 Tele_Roma_Uno_(720p),https://stream9.xdevel.com/video0s976607-1377/stream/playlist_dvr.m3u8
 Tele_Sahel,https://cs2.push2stream.com/TELESAHELTV-DVR/playlist.m3u8
+Tele_San_Jacinto_(720p),https://movil.ejeserver.com/live/telesanjacinto.m3u8
 Tele_Tchad_(1080p),https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 Tele_Variete,https://acwstream.com/hb/chaine30/playlist.m3u8
 Teleacras_(576p),https://5cbd3bc28341f.streamlock.net:444/teleacras/live/playlist.m3u8
@@ -8995,7 +8995,7 @@ TRT_Spor_Yildiz_(1080p),https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 TSN1_(1080p),https://fl1.moveonjoy.com/TSN_1/mpegts
 TSN2,https://fl1.moveonjoy.com/TSN_2/index.m3u8
 TSN3,https://fl1.moveonjoy.com/TSN_3/index.m3u8
-TSN4,https://fl1.moveonjoy.com/TSN_4/index.m3u8
+TSN4_(1080p),https://fl1.moveonjoy.com/TSN_4/mpegts
 TSN5,https://fl1.moveonjoy.com/TSN_5/index.m3u8
 TSN_The_Ocho,https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 Turf_Movil_(720p),https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=

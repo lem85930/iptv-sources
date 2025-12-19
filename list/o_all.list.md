@@ -7859,7 +7859,7 @@
 | 7853 | TSN1 (1080p) | fl1.moveonjoy.com | <https://fl1.moveonjoy.com/TSN_1/mpegts> |
 | 7854 | TSN2 | fl1.moveonjoy.com | <https://fl1.moveonjoy.com/TSN_2/index.m3u8> |
 | 7855 | TSN3 | fl1.moveonjoy.com | <https://fl1.moveonjoy.com/TSN_3/index.m3u8> |
-| 7856 | TSN4 | fl1.moveonjoy.com | <https://fl1.moveonjoy.com/TSN_4/index.m3u8> |
+| 7856 | TSN4 (1080p) | fl1.moveonjoy.com | <https://fl1.moveonjoy.com/TSN_4/mpegts> |
 | 7857 | TSN5 | fl1.moveonjoy.com | <https://fl1.moveonjoy.com/TSN_5/index.m3u8> |
 | 7858 | TSN The Ocho | d3pnbvng3bx2nj.cloudfront.net | <https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8> |
 | 7859 | TSTV (720p) | reflector.watchtstv.com | <https://reflector.watchtstv.com/hls/livestream.m3u8> |
@@ -9784,4 +9784,4 @@
 | 9778 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
 | 9779 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 
-Updated at **Thu Dec 18 2025 20:25:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Dec 19 2025 01:04:50 GMT+0000 (Coordinated Universal Time)**
