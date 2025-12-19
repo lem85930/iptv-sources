@@ -59430,6 +59430,9 @@
 	<programme channel="黑莓电影" start="20251219190900 +0800" stop="20251219204600 +0800">
 		<title lang="zh">根本停不下来</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251219204600 +0800" stop="20251219222000 +0800">
+		<title lang="zh">赎梦</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -60261,6 +60264,9 @@
 	<programme channel="newtv超级电影" start="20251219191800 +0800" stop="20251219203800 +0800">
 		<title lang="zh">电影《虎口夺金》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251219203800 +0800" stop="20251219225100 +0800">
+		<title lang="zh">电影《雄狮少年2》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -60350,6 +60356,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251219200400 +0800" stop="20251219204900 +0800">
 		<title lang="zh">15_天底良知</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251219204900 +0800" stop="20251219214300 +0800">
+		<title lang="zh">23_黑白森林</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -61053,6 +61062,9 @@
 	<programme channel="newtv动作电影" start="20251219191200 +0800" stop="20251219203400 +0800">
 		<title lang="zh">迷毒之东风破</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20251219203400 +0800" stop="20251219210400 +0800">
+		<title lang="zh">《美丽俏佳人》推荐第二期</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -61376,6 +61388,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251219201000 +0800" stop="20251219203700 +0800">
 		<title lang="zh">智控海空 战场先锋</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251219203700 +0800" stop="20251219210200 +0800">
+		<title lang="zh">高市早苗妄议台海 发出战争叫嚣 恢复“大佐”旧称 日本军国主义复活？</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
