@@ -59925,6 +59925,9 @@
 	<programme channel="newtv超级综艺" start="20251220133200 +0800" stop="20251220144900 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251220144900 +0800" stop="20251220162800 +0800">
+		<title lang="zh">笑有新生</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59960,6 +59963,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20251220130000 +0800" stop="20251220143500 +0800">
 		<title lang="zh">2025年世界羽毛球巡回赛总决赛-半决赛1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20251220143500 +0800" stop="20251220153500 +0800">
+		<title lang="zh">实况录像-2025/2026赛季单板滑雪世界杯 美国铜山站 U型场地(录播)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -60062,6 +60068,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251220134800 +0800" stop="20251220143100 +0800">
 		<title lang="zh">01_红高粱</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251220143100 +0800" stop="20251220151400 +0800">
+		<title lang="zh">02_红高粱</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -61067,6 +61076,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251220135200 +0800" stop="20251220143600 +0800">
 		<title lang="zh">03_风暴舞</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251220143600 +0800" stop="20251220150600 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
