@@ -15,4 +15,4 @@
 | 9 | 陕西卫视 | IPv4 直链 | <http://221.2.148.205:8154/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 10 | 山东生活 | IPv4 直链 | <http://221.2.148.205:8154/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Mon Dec 22 2025 14:26:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 22 2025 16:32:13 GMT+0000 (Coordinated Universal Time)**
