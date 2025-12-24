@@ -1,4 +1,4 @@
-# List for **qwerttvv/Beijing-IPTV IPTV Unicom Multicast**
+# List for **qwerttvv/Beijing-IPTV IPTV Unicom Multicast**(Rollback)
 
 > M3U: [q_bj_iptv_unicom_m.m3u](/q_bj_iptv_unicom_m.m3u), TXT: [q_bj_iptv_unicom_m.txt](/txt/q_bj_iptv_unicom_m.txt)
 
@@ -136,4 +136,4 @@
 | 130 | 嘉佳卡通 | IPv4 直链 | <rtp://239.3.1.147:9268> |
 | 131 | 山东教育 | IPv4 直链 | <rtp://239.3.1.52:4120> |
 
-Updated at **Wed Dec 24 2025 06:30:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 24 2025 06:50:23 GMT+0000 (Coordinated Universal Time)**
