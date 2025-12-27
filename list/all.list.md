@@ -431,7 +431,7 @@
 | 425 | [SD]feniks plus kino | stream1.freetv.fun | <https://stream1.freetv.fun/a6d7487e9a4425d52783f997315c2ec7ebb96ed6bb702a48fbb8756345ccf88b.m3u8> |
 | 426 | [BD]fight sports *vv | stream1.freetv.fun | <https://stream1.freetv.fun/c79cf379ccbc39bad475e0a0e57e8703ed2ccea63215336f4017cd8aaf2c1c25.ctv> |
 | 427 | [BD]film 1 premiere netherlands == | stream1.freetv.fun | <https://stream1.freetv.fun/34cbcf14308a467d9ff97c0795097fe91ca3a06ca7eddb0b463d8f127f7ee800.ctv> |
-| 428 | [HD]filmzie | stream1.freetv.fun | <https://stream1.freetv.fun/859551a66a351aa2700c0f78203ae48a9d70afc65a64d4a0abd17c3a516a4d68.m3u8> |
+| 428 | [HD]filmazia | stream1.freetv.fun | <https://stream1.freetv.fun/04e349650ecda1dfa016a37df8273dd16c78414b5ddce5911ec69e01a3d2c357.m3u8> |
 | 429 | [SD]zee business | stream1.freetv.fun | <https://stream1.freetv.fun/d6bbce7f9e76dec3d9e653b565a018991b09f6667ae60a4eabc5513f0509a1f9.m3u8> |
 | 430 | [BD]the first tv | stream1.freetv.fun | <https://stream1.freetv.fun/97a9de3d40d778e4c7b4fa927726b3ce28821489df6fdb3ef589fbfb1b391b0c.m3u8> |
 | 431 | [HD]food network | stream1.freetv.fun | <https://stream1.freetv.fun/a8fa14dd6b78c04e5135b2f0d7d85309a07247197e9d7d6d1427af329b49583c.m3u8> |
@@ -1480,4 +1480,4 @@
 | 1474 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/1bb5d074aab559954dd989711eb5a8fcd9918bb610de77b7f68bb2c37976c3a1.m3u8> |
 | 1475 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/e61ec6990715622e4b73cf6eb9b3b83a245bd96c7fa9a5d2cd066490f092289c.m3u8> |
 
-Updated at **Sat Dec 27 2025 03:36:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Dec 27 2025 04:36:04 GMT+0000 (Coordinated Universal Time)**
