@@ -1396,7 +1396,7 @@ Sports,#genre#
 [BD]real_madrid_tv,https://stream1.freetv.fun/81840cd51185dca58a8a9e9bb67b73e93ca78fa19b2881a46775da61e1994557.m3u8
 [BD]red_bull_tv,https://stream1.freetv.fun/37a8a007237207285a22a56758913c131ca74cb61f50a8b1700fe8263a81a07d.m3u8
 [BD]rugby_pass_*sm,https://stream1.freetv.fun/76146714f30dac08514909586bd4c7e0351700309c266e026dc79ed3d0351bbf.ctv
-[BD]blast_sports,https://stream1.freetv.fun/129aa0cc479e4f6f7970fb8567f3dd9331d1239a65503ec00455d0a80e6c82cf.m3u8
+[HD]blast_sports,https://stream1.freetv.fun/129aa0cc479e4f6f7970fb8567f3dd9331d1239a65503ec00455d0a80e6c82cf.m3u8
 [BD]sky_sports_football,https://stream1.freetv.fun/854da26a25e867f990ce3337f19a20720ac5d42b6807c614e7e1252066467697.ctv
 [BD]skysports_mix_*sm,https://stream1.freetv.fun/1b04c1ff417d2772f711852e7e70130c7d14904bcd7e673254f79064e2c1762d.ctv
 [BD]sony_sports_ten_1,https://stream1.freetv.fun/e2b01af2d41d05b6d21a57558f1e25fbc1632a6b6148dd606441cef2c182b7c7.m3u8

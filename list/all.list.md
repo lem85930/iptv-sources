@@ -836,7 +836,7 @@
 | 830 | [HD]sbn | stream1.freetv.fun | <https://stream1.freetv.fun/d4e5853165ee00b3c8cd534d472ac198295c6db36e8e2f8769227d75ecf2de2c.m3u8> |
 | 831 | [BD]sbn全球财经 | stream1.freetv.fun | <https://stream1.freetv.fun/e0fa41203eba9cc084307fa7123a2215fd1a5f15cd14aeda0f012fd4c1f8f2b9.m3u8> |
 | 832 | [HD]sbs ubc | stream1.freetv.fun | <https://stream1.freetv.fun/69e4ec5f63a45416945ede8c93284f0943cfa99a0fd5bc4c08ccd7137e0f33f5.m3u8> |
-| 833 | [BD]blast sports | stream1.freetv.fun | <https://stream1.freetv.fun/129aa0cc479e4f6f7970fb8567f3dd9331d1239a65503ec00455d0a80e6c82cf.m3u8> |
+| 833 | [HD]blast sports | stream1.freetv.fun | <https://stream1.freetv.fun/129aa0cc479e4f6f7970fb8567f3dd9331d1239a65503ec00455d0a80e6c82cf.m3u8> |
 | 834 | [HD]sbt tv | stream1.freetv.fun | <https://stream1.freetv.fun/51d38e683d2624152316a85c6c1d5d954f8bcd7bbf306e349431f21d76f06d5a.m3u8> |
 | 835 | [HD]sctv1 | stream1.freetv.fun | <https://stream1.freetv.fun/e385143d9de2084e4c9c3631e5bcd92b19d074a72e321df1d2e1c56bae1e02b6.ctv> |
 | 836 | [HD]sharjah tv | stream1.freetv.fun | <https://stream1.freetv.fun/7a7ea0aff0dad1e4b87eccbaccc3f076223d430e8b2331a47a18d6d743048328.m3u8> |
@@ -1574,4 +1574,4 @@
 | 1568 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/1bb5d074aab559954dd989711eb5a8fcd9918bb610de77b7f68bb2c37976c3a1.m3u8> |
 | 1569 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/e61ec6990715622e4b73cf6eb9b3b83a245bd96c7fa9a5d2cd066490f092289c.m3u8> |
 
-Updated at **Sun Dec 28 2025 12:49:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Dec 28 2025 14:23:23 GMT+0000 (Coordinated Universal Time)**
