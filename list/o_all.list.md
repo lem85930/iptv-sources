@@ -9744,4 +9744,4 @@
 | 9738 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
 | 9739 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 
-Updated at **Mon Dec 29 2025 10:29:11 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 29 2025 12:54:50 GMT+0000 (Coordinated Universal Time)**
