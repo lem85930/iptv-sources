@@ -101,4 +101,4 @@
 | 95 | 金鹰卡通 | IPv4 直链 | <http://125.43.240.134:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 96 | 魅力音乐 | IPv4 直链 | <http://125.43.240.134:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Tue Dec 30 2025 08:35:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Dec 30 2025 10:28:42 GMT+0000 (Coordinated Universal Time)**
