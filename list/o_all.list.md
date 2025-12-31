@@ -6914,7 +6914,7 @@
 | 6908 | Sony Canal Escape Perfecto | cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv | <http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/605e479d5b8229000763e697/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb095-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e52ea0d7-7d74-4383-8afa-27a135057740> |
 | 6909 | Sony Canal Novelas | 亚马逊AWS | <https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8> |
 | 6910 | Sony Channel (1080p) | IPv4 直链 | <http://38.183.182.166:8000/play/a0vg/index.m3u8> |
-| 6911 | Sony Entertainment Television (1080p) | IPv4 直链 | <http://66.102.120.18:8000/play/a005/index.m3u8> |
+| 6911 | Sony Entertainment Television HD (1080p) | IPv4 直链 | <http://66.102.120.18:8000/play/a005/index.m3u8> |
 | 6912 | Sony Kal (1080p) | spt-sonykal-1-us.lg.wurl.tv | <https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8> |
 | 6913 | Sony Max 2 (576p) | IPv4 直链 | <http://66.102.120.18:8000/play/a00h/index.m3u8> |
 | 6914 | Sony Pal (576p) | IPv4 直链 | <http://163.61.227.29:8000/play/a04d/index.m3u8> |
@@ -9742,4 +9742,4 @@
 | 9736 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
 | 9737 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 
-Updated at **Tue Dec 30 2025 22:24:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 31 2025 02:02:14 GMT+0000 (Coordinated Universal Time)**
