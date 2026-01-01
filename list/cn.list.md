@@ -237,4 +237,4 @@
 | 231 | [HD]丽江新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/038fcc966210a5c920391694c24e747c5bd8ee11a51735284375f0567fae0c0b.m3u8> |
 | 232 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/cfa2ed9d4f96d20f3dd2eb920e17de8ecd8482cfff2328d8cfdcaba050a03a4b.m3u8> |
 
-Updated at **Thu Jan 01 2026 18:35:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jan 01 2026 20:29:04 GMT+0000 (Coordinated Universal Time)**
