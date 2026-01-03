@@ -4,7 +4,7 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | [BD]tvb生活 | stream1.freetv.fun | <https://stream1.freetv.fun/898c5af383127321b8d0eb67c6367664aa300022e05afb8c721c454ada8241f7.ctv> |
+| 1 | [BD]tvb生活 | stream1.freetv.fun | <https://stream1.freetv.fun/e3ef60d1ab957aceb66873b28badbb42cd1ae1c10f22898370fde2abb157244a.ctv> |
 | 2 | [BD]cctv-8高清 | stream1.freetv.fun | <https://stream1.freetv.fun/d4e41340653ef3bc5e2b559cce1953ba68c56106f7afad9c4b9245f2c426d1fb.m3u8> |
 | 3 | [BD]documentary plus | stream1.freetv.fun | <https://stream1.freetv.fun/39c6ca9887b134e09b5b500e6b5e8bc96a925f65ef10e490ff3d1558b2f5cd5b.m3u8> |
 | 4 | [BD]cctv1 | stream1.freetv.fun | <https://stream1.freetv.fun/9c278a43d5bf7e515412f079507a71cfb8a263ff4938b30757880c9c7cd972b7.m3u8> |
@@ -231,4 +231,4 @@
 | 225 | [SD]青海卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/d07c5ec4397fbc7f5e7cc384b2ea73f4109d928e2b68474fc1ef6041cb976744.ctv> |
 | 226 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/cfa2ed9d4f96d20f3dd2eb920e17de8ecd8482cfff2328d8cfdcaba050a03a4b.m3u8> |
 
-Updated at **Sat Jan 03 2026 14:23:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jan 03 2026 16:30:06 GMT+0000 (Coordinated Universal Time)**

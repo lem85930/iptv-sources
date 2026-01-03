@@ -1,5 +1,5 @@
 综合,#genre#
-[BD]tvb生活,https://stream1.freetv.fun/898c5af383127321b8d0eb67c6367664aa300022e05afb8c721c454ada8241f7.ctv
+[BD]tvb生活,https://stream1.freetv.fun/e3ef60d1ab957aceb66873b28badbb42cd1ae1c10f22898370fde2abb157244a.ctv
 [BD]cctv-8高清,https://stream1.freetv.fun/d4e41340653ef3bc5e2b559cce1953ba68c56106f7afad9c4b9245f2c426d1fb.m3u8
 [BD]cctv1,https://stream1.freetv.fun/9c278a43d5bf7e515412f079507a71cfb8a263ff4938b30757880c9c7cd972b7.m3u8
 [BD]cctv12,https://stream1.freetv.fun/f89bb3cfacdff9174e872e4feb28f3bb1b47d2a0b3dd152674cc9f1c9a056a59.m3u8
