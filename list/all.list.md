@@ -625,7 +625,7 @@
 | 619 | [HD]onnitv | stream1.freetv.fun | <https://stream1.freetv.fun/d0270f1fb375bb04dfa979b2e1cbda0d6ebff26a8ad4dff784aa3c9c354cd096.m3u8> |
 | 620 | [SD]noursat mariam | stream1.freetv.fun | <https://stream1.freetv.fun/636d8ae77fc9347d3b37c82f95a1f6a8b574026d99eaf37f2b55623d56bdbc43.m3u8> |
 | 621 | [BD]nowsportsplus | stream1.freetv.fun | <https://stream1.freetv.fun/a8496f1e2e0fd3b49fb746582846059f5eabc180ccfd6982d9b549f54ebeaf8f.ctv> |
-| 622 | [BD]now华剧 | stream1.freetv.fun | <https://stream1.freetv.fun/67c11e46057356bf8dbf876ef2427d51565210f139bfeea9fd61458e46e088c8.ctv> |
+| 622 | [BD]now华剧 | stream1.freetv.fun | <https://stream1.freetv.fun/0b35ab00965a8ec327cf45e8f28bc873deb1f6e7110f60891ad14fada2af16e1.ctv> |
 | 623 | [BD]ntv | stream1.freetv.fun | <https://stream1.freetv.fun/9aab7bc1916fc47c18f67c475388d769346b9177985583dad5a5d39f139f2ba9.ctv> |
 | 624 | [HD]nasul tv | stream1.freetv.fun | <https://stream1.freetv.fun/6f071f012a9a61567bdc3f6acc86660ff63d709afd61e6ca075245473b0c8b1d.m3u8> |
 | 625 | [BD]naruto germany | stream1.freetv.fun | <https://stream1.freetv.fun/fea8a29ca25a1e5dab8a9d9575ba25e10dfde28bd57396fb11a4b9a765bab318.m3u8> |
@@ -1424,4 +1424,4 @@
 | 1418 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/f00958e79023f80ce5592099eb84bab1d5e2625ba275b4f3526fb7d205a12c3a.m3u8> |
 | 1419 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/42c0e36fe9a9ca04cf304f48a16df461e974b40d8efeeb3d97388b24b0d24b05.m3u8> |
 
-Updated at **Sat Jan 03 2026 16:30:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jan 03 2026 18:34:17 GMT+0000 (Coordinated Universal Time)**
