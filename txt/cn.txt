@@ -1,4 +1,5 @@
 综合,#genre#
+[BD]tvb生活台,https://stream1.freetv.fun/5c974923e5a08e570aef0289840c428f12afce330c7114c3264120297067c6de.ctv
 [BD]cctv-8高清,https://stream1.freetv.fun/d4e41340653ef3bc5e2b559cce1953ba68c56106f7afad9c4b9245f2c426d1fb.m3u8
 [BD]唐河一套,https://stream1.freetv.fun/2dfba1a07e4c4192c08973501820703a9e35a7090e951599c72f2fe38c263749.m3u8
 [SD]cctv12,https://stream1.freetv.fun/4a3f1137679e24425c26c8de0e832aeb9ba7e71ca4c09b2cd42e409186f53abf.m3u8
@@ -94,7 +95,7 @@
 [HD]documentary_plus,https://stream1.freetv.fun/39c6ca9887b134e09b5b500e6b5e8bc96a925f65ef10e490ff3d1558b2f5cd5b.m3u8
 [BD]cctv-9高清,https://stream1.freetv.fun/1fe4ccd34f9d0f18c192e5fb5f46330bd9285350007b1957c703f2b8628cb58c.m3u8
 [BD]cgtn_documentary,https://stream1.freetv.fun/bb88fd2e2af000c20e9f8a2c29c19b3c5b35fcc045ee9864b319736e7dcc33c7.m3u8
-[BD]幸福空间居家,https://stream1.freetv.fun/3d4267baa561bafa578f56685ff7c91f19ca3e98d1771cccf558e19fc915cecd.m3u8
+[BD]幸福空间居家台,https://stream1.freetv.fun/a482fdae93d0200672d5c5c2554d5c0507b4a8d3fc9b1e8db0c7da7f5f424157.ctv
 
 其它,#genre#
 [BD]cctv10,https://stream1.freetv.fun/29806059eb936e2abfc8b61bd53f1b6fe901050316c0a6c9e9b03df8f6e48eda.m3u8
@@ -154,7 +155,7 @@
 [HD]苏州电影娱乐信息,https://stream1.freetv.fun/dfceb12432bed7e11eaa7b797b96429894108f19e0139387f2ec1f9e6e26d716.ctv
 
 新闻,#genre#
-[BD]cctv13-新闻,https://stream1.freetv.fun/1a2df1752f960278e39282ad18ad156ea6fe2ac8a7e9c79a366c9f26a6fc8869.m3u8
+[BD]cctv-13_1080p,https://stream1.freetv.fun/d6dfc8a6fe6500359a1505a589d61d16f4bcc311e2549442a88dd1aca1fa444e.ctv
 [BD]cctv2,https://stream1.freetv.fun/033d1085f0bcd7adcec042c0627c0b6e838ed34c59371b2b81162ac4204c5591.m3u8
 [BD]cctv4,https://stream1.freetv.fun/5ea26961bbc8690cbd372a194e8801249644123feab6354e1f2cdd2b8a0026ca.m3u8
 [SD]cctv-04,https://stream1.freetv.fun/4f0f8bd49c9ff4728185558a407f36d95c8bb600b78e3f22a75762a4aeab381a.ctv
