@@ -31929,6 +31929,9 @@
 	<programme channel="纯享4K" start="20260108021000 +0800" stop="20260108025000 +0800">
 		<title lang="zh">探索b7发现4K 海曲汉墓</title>
 	</programme>
+	<programme channel="纯享4K" start="20260108025000 +0800" stop="20260108033000 +0800">
+		<title lang="zh">探索b7发现4K 子房山古墓群发掘记</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -40830,6 +40833,9 @@
 	<programme channel="newtv超级电影" start="20260108013200 +0800" stop="20260108025800 +0800">
 		<title lang="zh">另类民兵葛二蛋</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260108025800 +0800" stop="20260108042400 +0800">
+		<title lang="zh">不死间谍</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -40947,6 +40953,9 @@
 	<programme channel="newtv爱情喜剧" start="20260108012500 +0800" stop="20260108025500 +0800">
 		<title lang="zh">绑架游戏</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20260108025500 +0800" stop="20260108034000 +0800">
+		<title lang="zh">东贡堂蜂王浆冻干粉片升级庆生组-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -40958,6 +40967,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20260108022200 +0800" stop="20260108025700 +0800">
 		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20260108025700 +0800" stop="20260108040800 +0800">
+		<title lang="zh">封神榜：托塔天王</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -40991,6 +41003,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20260108021400 +0800" stop="20260108025800 +0800">
 		<title lang="zh">43_千古玦尘</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260108025800 +0800" stop="20260108034200 +0800">
+		<title lang="zh">44_千古玦尘</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -41039,6 +41054,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20260108012700 +0800" stop="20260108025600 +0800">
 		<title lang="zh">民间摆渡人</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20260108025600 +0800" stop="20260108033100 +0800">
+		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
