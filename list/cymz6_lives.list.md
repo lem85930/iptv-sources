@@ -7,4 +7,4 @@
 | 1 | CCTV1 | IPv4 直链 | <http://101.74.28.103:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 2 | 北京少儿 | IPv4 直链 | <http://115.48.161.179:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Fri Jan 09 2026 08:36:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 09 2026 12:07:29 GMT+0000 (Coordinated Universal Time)**
