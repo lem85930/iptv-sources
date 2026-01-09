@@ -272,7 +272,7 @@
 | 266 | [BD]la 1 uhd | stream1.freetv.fun | <https://stream1.freetv.fun/c5ccc6c0168093e686f7b5603ca213636fae64da3e2c5c275994624ac2207cfb.m3u8> |
 | 267 | [HD]canale 7 | stream1.freetv.fun | <https://stream1.freetv.fun/739b91a9b46ff301e59ea49c82484b439703cd00394d21092864f1d1c56f81e6.m3u8> |
 | 268 | [VGA]campus tv | stream1.freetv.fun | <https://stream1.freetv.fun/920126812e16ecc3246b3f2301daa956f120d92aba9093eab7e1d23baa16e114.m3u8> |
-| 269 | [BD]cartoon network | stream1.freetv.fun | <https://stream1.freetv.fun/ed25a4eaee325cdbb1a5682772f9f33ba854e02835e5b5c377bdfd92486b3466.ctv> |
+| 269 | [BD]Cartoon Network *tt | stream1.freetv.fun | <https://stream1.freetv.fun/3318325e8ef7d8ca4962b2404b607c745e987b00266feeb182782f6050a8df9c.m3u8> |
 | 270 | [HD]CARTOONITO *tt | stream1.freetv.fun | <https://stream1.freetv.fun/b645fb19389e211c05299fccaa590e79736d943a65ba0665da7aad53550f126c.m3u8> |
 | 271 | [VGA]Celestial Movies *a | stream1.freetv.fun | <https://stream1.freetv.fun/dbf79a6c545274584485889b5c08b5fa27c0528423d1767207a5202cc123227f.m3u8> |
 | 272 | [BD]center tv | stream1.freetv.fun | <https://stream1.freetv.fun/cd79229566439b7c39ee399444bf09d6b0395dfdb5fd4a654c50dc09023a1cc9.m3u8> |
@@ -1456,4 +1456,4 @@
 | 1450 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/f00958e79023f80ce5592099eb84bab1d5e2625ba275b4f3526fb7d205a12c3a.m3u8> |
 | 1451 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/42c0e36fe9a9ca04cf304f48a16df461e974b40d8efeeb3d97388b24b0d24b05.m3u8> |
 
-Updated at **Thu Jan 08 2026 20:30:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 09 2026 00:42:52 GMT+0000 (Coordinated Universal Time)**
