@@ -324,7 +324,7 @@
 | 318 | [BD]discovery science | stream1.freetv.fun | <https://stream1.freetv.fun/61381f6de5fd9b684b2a63454bce8b76b9d5cd90841cddee1b05aa7ef140a641.ctv> |
 | 319 | [HD]asharq discovery | stream1.freetv.fun | <https://stream1.freetv.fun/ae1bcd61012a7cb1b781fb6af83dcacdc03f254790032b4374b976b61dd7ea4a.m3u8> |
 | 320 | [BD]disney == | stream1.freetv.fun | <https://stream1.freetv.fun/b50ab79740f7f407d2899d2bbeb713a2d7763e31755413aa20adbdc6fbb04d15.m3u8> |
-| 321 | [SD]disney channel | stream1.freetv.fun | <https://stream1.freetv.fun/b1c5c01ac7d85fe8f4c8f2e4f8e3a0b4fc07625bad4376250457c11a506c0770.m3u8> |
+| 321 | [SD]disney channel | stream1.freetv.fun | <https://stream1.freetv.fun/6825b4b02e2a3037751c436dc0db39f515fc00f56d772e76b99d541bf097ad63.m3u8> |
 | 322 | [HD]disney jr. | stream1.freetv.fun | <https://stream1.freetv.fun/bfac59eea4d32cbeeae8508f65b4a3bca2cd991d8b6ac8d5af6f4a0b922b206a.m3u8> |
 | 323 | [HD]disney junior(asia)= | stream1.freetv.fun | <https://stream1.freetv.fun/cd67ad54ea3959a66741e0ef08eb8191ae555fd3f386a0205c36271917c4f18d.m3u8> |
 | 324 | [HD]disney xd | stream1.freetv.fun | <https://stream1.freetv.fun/bda81b9a5a4ad17550cea41800e671722e6bb4e970199d7e1eafafd66c0369f1.m3u8> |
@@ -1431,4 +1431,4 @@
 | 1425 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/f00958e79023f80ce5592099eb84bab1d5e2625ba275b4f3526fb7d205a12c3a.m3u8> |
 | 1426 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/42c0e36fe9a9ca04cf304f48a16df461e974b40d8efeeb3d97388b24b0d24b05.m3u8> |
 
-Updated at **Sat Jan 10 2026 20:27:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jan 10 2026 23:43:42 GMT+0000 (Coordinated Universal Time)**
