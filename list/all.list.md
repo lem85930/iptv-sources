@@ -279,7 +279,7 @@
 | 273 | [BD]cinema world | stream1.freetv.fun | <https://stream1.freetv.fun/c1c2fcd10876a1f457e9dc96e560f44572f4dca63a39d97faa1aae2ab13a3119.m3u8> |
 | 274 | [BD]cinemaworld *4g | stream1.freetv.fun | <https://stream1.freetv.fun/660562dc7c79769b7b5eebac9b0e6f9eb249aa1ef7426fb35aba72ddbf41aadf.ctv> |
 | 275 | [BD]cinemax moviemax east *s | stream1.freetv.fun | <https://stream1.freetv.fun/b1d7d44e49795d603430c08ce245126198d535acc648aeda96054d5f98861de2.m3u8> |
-| 276 | [SD]cinemax | stream1.freetv.fun | <https://stream1.freetv.fun/2522bc434f72688e402ec958f524a78291b7f29b043df92a19ba77f1a711f882.m3u8> |
+| 276 | [BD]cinemax | stream1.freetv.fun | <https://stream1.freetv.fun/8ef6ff2ff9646e91960887477d8358c3e5d1675504f3348b1fbf56f2ff22dd78.ctv> |
 | 277 | [BD]city tv | stream1.freetv.fun | <https://stream1.freetv.fun/6cf1b9bc13919243829c6d3b83e6bba7e53a2c251c276c1d3cb680a8e3fb5bb6.m3u8> |
 | 278 | [BD]clan | stream1.freetv.fun | <https://stream1.freetv.fun/db24efca9ad3cdad0f547bd8f80651f73e5c027531af4156a7011f6754dcb183.m3u8> |
 | 279 | [HD]classic movies channel | stream1.freetv.fun | <https://stream1.freetv.fun/1ab557587c77c291c99570d2e0d61f48ada1396de6f7505ac64c9c3366c4e805.m3u8> |
@@ -1418,4 +1418,4 @@
 | 1412 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/f00958e79023f80ce5592099eb84bab1d5e2625ba275b4f3526fb7d205a12c3a.m3u8> |
 | 1413 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/42c0e36fe9a9ca04cf304f48a16df461e974b40d8efeeb3d97388b24b0d24b05.m3u8> |
 
-Updated at **Sun Jan 11 2026 16:30:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jan 11 2026 18:34:49 GMT+0000 (Coordinated Universal Time)**
