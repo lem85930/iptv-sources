@@ -12,4 +12,4 @@
 | 6 | 青海卫视 | IPv4 直链 | <http://115.48.161.95:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 7 | 灵宝新闻综合 | IPv4 直链 | <http://115.48.161.95:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Tue Jan 13 2026 02:01:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jan 13 2026 06:16:28 GMT+0000 (Coordinated Universal Time)**
