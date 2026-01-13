@@ -218,6 +218,7 @@ BRT_2_(720p)_[Not_24/7],https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/pla
 BRT_3,http://185.234.111.229:8000/play/a07e
 BRTV_(720p),https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 Bruzz_(720p),https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8
+BTB_HD_(1080p),https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8
 BTV_Chattogram_(1080p),https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
 BTV_National_(1080p),https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/355ba051-9a60-48aa-adcf-5a6c64da8c5c/355ba051-9a60-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
 Bucovina_TV_(576i),https://www.bucovinatv.ro/proxy/video/playlist.m3u8
@@ -3196,7 +3197,6 @@ Bravo_TV,https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb70087
 Brionnais_TV_(720p),https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
 BRTV_北京卫视_[Not_24/7],http://ivi.bupt.edu.cn/hls/btv1.m3u8
 Bruno_Masi_TV_(720p),https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
-BTB_HD_(1080p),https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8
 BTM_TV_(480p)_[Not_24/7],https://btmug.zerocdn.org/hls/stream.m3u8
 BTV_Panamá_(720p)_[Not_24/7],https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
 BTV_World_(1080p),https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8
@@ -7354,7 +7354,6 @@ DR_Ramasjang_(720p),https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/
 ducktv_(720p),https://jmp2.uk/stvp-ESBC4700001GR
 Duronto_TV_(720p),https://tvsen4.aynaott.com/durontotv/index.m3u8
 EBS_kids_(400p)_[Not_24/7],https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-ETV_Bal_Bharat_(576p),https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/355286.ts
 Eureka,https://cdns.livewave.co:19360/eurekatv/eurekatv.m3u8
 Forever_Kids,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f171-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1acb41ce-ae24-4bbc-bf7d-831de72589e8
 France_4_HD_(720p),https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
