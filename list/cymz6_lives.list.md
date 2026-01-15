@@ -312,4 +312,4 @@
 | 306 | 金鹰卡通 | IPv4 直链 | <http://101.66.195.28:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 307 | 金鹰卡通 | IPv4 直链 | <http://101.66.195.162:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Thu Jan 15 2026 12:55:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jan 15 2026 14:29:38 GMT+0000 (Coordinated Universal Time)**
