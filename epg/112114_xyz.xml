@@ -40203,6 +40203,9 @@
 	<programme channel="黑莓电影" start="20260117010400 +0800" stop="20260117022900 +0800">
 		<title lang="zh">缘分天定</title>
 	</programme>
+	<programme channel="黑莓电影" start="20260117022900 +0800" stop="20260117035100 +0800">
+		<title lang="zh">小小科迪</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -40887,6 +40890,9 @@
 	<programme channel="newtv超级体育" start="20260117010500 +0800" stop="20260117023600 +0800">
 		<title lang="zh">实况录像-2025年世界田联钻石联赛 洛桑站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260117023600 +0800" stop="20260117040000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第9轮</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -40907,6 +40913,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260117014000 +0800" stop="20260117022500 +0800">
 		<title lang="zh">21_怒放</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260117022500 +0800" stop="20260117031100 +0800">
+		<title lang="zh">22_怒放</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -40932,6 +40941,9 @@
 	<programme channel="newtv精品纪录" start="20260117014900 +0800" stop="20260117022400 +0800">
 		<title lang="zh">BURRSAIL荣耀真钻机械腕表尊享组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20260117022400 +0800" stop="20260117031000 +0800">
+		<title lang="zh">02_东江英雄刘黑仔</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -40943,6 +40955,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20260117015600 +0800" stop="20260117023100 +0800">
 		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20260117023100 +0800" stop="20260117031800 +0800">
+		<title lang="zh">36_三国机密之潜龙在渊</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -40989,6 +41004,9 @@
 	<programme channel="newtv爱情喜剧" start="20260117005400 +0800" stop="20260117022800 +0800">
 		<title lang="zh">感动她77次</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20260117022800 +0800" stop="20260117031300 +0800">
+		<title lang="zh">东贡堂蜂王浆冻干粉片升级庆生组-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -41027,6 +41045,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20260117014200 +0800" stop="20260117022200 +0800">
 		<title lang="zh">礼贡堂二十一味全鹿丸-渠道（右）</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260117022200 +0800" stop="20260117030400 +0800">
+		<title lang="zh">30_小别离</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
