@@ -1378,4 +1378,4 @@
 | 1372 | [BD]凤凰香港 | stream1.freetv.fun | <https://stream1.freetv.fun/d478a7c008fd51e80ebe718d405cd71e3967bb0cdc323a5ce4237162e731b1d5.ctv> |
 | 1373 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/cfa2ed9d4f96d20f3dd2eb920e17de8ecd8482cfff2328d8cfdcaba050a03a4b.m3u8> |
 
-Updated at **Fri Jan 16 2026 12:54:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 16 2026 14:28:45 GMT+0000 (Coordinated Universal Time)**
