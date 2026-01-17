@@ -43,4 +43,4 @@
 | 37 | 河南民生 | IPv4 直链 | <http://1.197.250.30:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 38 | 福建东南 | IPv4 直链 | <http://1.197.250.30:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sat Jan 17 2026 14:22:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jan 17 2026 16:28:41 GMT+0000 (Coordinated Universal Time)**
