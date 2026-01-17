@@ -158,7 +158,7 @@
 [HD]苏州电影娱乐信息,https://stream1.freetv.fun/dfceb12432bed7e11eaa7b797b96429894108f19e0139387f2ec1f9e6e26d716.ctv
 
 新闻,#genre#
-[BD]cctv-13hd,https://stream1.freetv.fun/a8628337983c5ec9911d651fa07231a93002e23134c4413d1bb1b9fa2bea3876.m3u8
+[BD]cctv13-新闻,https://stream1.freetv.fun/23c8fb2fb3679699a36eeb0dd64ada1155456e81264002b9ec768465c9ca1d25.ctv
 [BD]cctv2,https://stream1.freetv.fun/c63e00b6f6e11db0e25eba94d5c4c63b4af30261838b8c91652553fb0f8e7b8a.m3u8
 [BD]cctv4,https://stream1.freetv.fun/1927200d910f3087e569a0050d84b50158d3c1e2d928ad116119bb9eafe8ac9f.m3u8
 [BD]cctv4,https://stream1.freetv.fun/15a4180e12b35249c7b2bc9d2b5d2feed983b66d309ca216fc6d8782766a349f.m3u8

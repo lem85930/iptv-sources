@@ -181,7 +181,7 @@
 | 175 | [BD]cctv10 | stream1.freetv.fun | <https://stream1.freetv.fun/29806059eb936e2abfc8b61bd53f1b6fe901050316c0a6c9e9b03df8f6e48eda.m3u8> |
 | 176 | [BD]cctv11 | stream1.freetv.fun | <https://stream1.freetv.fun/a1ee8a4f3954b5e76c7d40251197d089421f936e5f616960f16ff6494fff42bf.m3u8> |
 | 177 | [BD]cctv12 | stream1.freetv.fun | <https://stream1.freetv.fun/1bf6d0c6726f032a9bc41f9cb6b498c67ccdfe47362d6b29b6a2fb2a56c57a53.m3u8> |
-| 178 | [BD]cctv-13hd | stream1.freetv.fun | <https://stream1.freetv.fun/a8628337983c5ec9911d651fa07231a93002e23134c4413d1bb1b9fa2bea3876.m3u8> |
+| 178 | [BD]cctv13-新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/23c8fb2fb3679699a36eeb0dd64ada1155456e81264002b9ec768465c9ca1d25.ctv> |
 | 179 | [BD]cctv14 | stream1.freetv.fun | <https://stream1.freetv.fun/45d51c52998fc6ab62573bdd712b4ebc7a6c8fd615e7a8d4d2f2a5b98339148c.m3u8> |
 | 180 | [BD]cctv15 | stream1.freetv.fun | <https://stream1.freetv.fun/2c02ba7886ffaec4d28d5f9246f2bbf8dd89da8771f03f3bbbef49361b4cbb88.ctv> |
 | 181 | [BD]cctv16 | stream1.freetv.fun | <https://stream1.freetv.fun/d801da3cc1c891df9b5ec7abf35b5144cb14bcd76840a93bc7d2191191106216.m3u8> |
@@ -1061,7 +1061,7 @@
 | 1055 | [HD]中视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv091> |
 | 1056 | [HD]中视 | f13h.mine.nu:1935 | <rtmp://f13h.mine.nu:1935/sat/tv091> |
 | 1057 | [BD]中视新闻 *4g | stream1.freetv.fun | <https://stream1.freetv.fun/5373fb764d3156081ec287512da787fd4a407cbdefccc60d6cfbd5e239d563ea.ctv> |
-| 1058 | [BD]中视新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/9d5ffec09ed08670ea7b11a469c8af857b3d6c49e3a22a74b0ebcae1731a3e55.m3u8> |
+| 1058 | [BD]中视新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/3a583495eeab7f54152b8e8dd24fec83f7834083a2b7e2a5260f66dc4bde5860.m3u8> |
 | 1059 | [HD]中视经典 | stream1.freetv.fun | <https://stream1.freetv.fun/f54d0aadcc5d115c996da7e852c546c714ad4e9b9242c2439ffc23905352520e.m3u8> |
 | 1060 | [BD]中视菁采 | stream1.freetv.fun | <https://stream1.freetv.fun/4a10c6138283ba5cf3188b7a63aceb648ca81241c3fb1adadb9364fcd6b18a73.m3u8> |
 | 1061 | [BD]五星体育 | stream1.freetv.fun | <https://stream1.freetv.fun/b7c4ee6b3c4afecd79663bc25c80646604ad837c1476b98835eaaba7d5fe0225.ctv> |
@@ -1369,4 +1369,4 @@
 | 1363 | [BD]凤凰香港 | stream1.freetv.fun | <https://stream1.freetv.fun/d478a7c008fd51e80ebe718d405cd71e3967bb0cdc323a5ce4237162e731b1d5.ctv> |
 | 1364 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/cfa2ed9d4f96d20f3dd2eb920e17de8ecd8482cfff2328d8cfdcaba050a03a4b.m3u8> |
 
-Updated at **Sat Jan 17 2026 06:45:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jan 17 2026 08:31:48 GMT+0000 (Coordinated Universal Time)**
