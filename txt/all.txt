@@ -687,6 +687,7 @@ Generic,#genre#
 [BD]翡翠,https://stream1.freetv.fun/ad698c68f995a760534e836438ea8e8bc65abf16cd0ed1d6b8e005cd9b90913c.m3u8
 [BD]翡翠台2,https://stream1.freetv.fun/3b26a0cce2dba229df630c62d4d81ccef7f759bcc8b43365152f04cb40e21f74.ctv
 [VGA]自贡综合,https://stream1.freetv.fun/30bbe056fa29fb344a4659b2aaf2e70b4a3d8ee105a4a19cfc419e6c3fd2461c.m3u8
+[BD]台视综合,https://stream1.freetv.fun/b56b3d4c1bab230a48463b4cc8df5472c1ff68e7ee53fd45a6abe7a828dcf9b7.ctv
 [HD]华视,rtmp://f13h.mine.nu/sat/tv111
 [BD]华视_*4g,https://stream1.freetv.fun/5093c9a28c8f8ca77f5cf3ba512ce232c3d46c8b19a99f11dee1a500f86d8797.ctv
 [SD]西藏卫视,https://stream1.freetv.fun/0520182fdda930a14ef73fa2ed6221ba95c6ae2ddffa8c93f4b08562ea71c777.m3u8
@@ -1347,10 +1348,10 @@ Kids,#genre#
 [SD]优漫卡通,https://stream1.freetv.fun/4aca817e88875a16e145dce358dc8b24d61b625e67197a4e921e34f85d8ee5ca.m3u8
 [SD]嘉佳卡通,https://stream1.freetv.fun/f6ade9a94d8e7750967ba281d6ebb850872f3207942406065aecd80ed1bacf9e.m3u8
 [BD]广东少儿,https://stream1.freetv.fun/0bb69b831d301b4c7225110444e4529021f8de492d7d1a6b6a809e67e993ca78.ctv
-[BD]浙江少儿,https://stream1.freetv.fun/bde34e78a3fd2fdf325ef935021a1d37cb8f076bdeb6784923c4e8c64b7e594d.m3u8
+[VGA]浙江少儿,https://stream1.freetv.fun/8ef73cecb826dc005453d6c886afc2b22fda102b3c1b6fdd470ff2c6032eb7cb.m3u8
 [BD]精选动漫,https://stream1.freetv.fun/ff94c0a44de701e4a9ca31c24b8b803f01b50f7907c6ad5b53dfea5eaaf2cd95.m3u8
 [BD]经典卡通,https://stream1.freetv.fun/999d5e5605f738c169f98d42b6d5d9502c8b42857e29d0628dbc153785ff75d3.m3u8
-[BD]金鹰卡通,https://stream1.freetv.fun/d20d03fc60ad339d49e1d54e4379efc257a119c0a7ac7ab767e40d1823d7f89c.m3u8
+[SD]金鹰卡通,https://stream1.freetv.fun/1c8b5cf46200851398c52c4355d49b4ef49fab78c2a0f0c0b69d1669f4792080.m3u8
 [BD]靖天卡通,https://stream1.freetv.fun/46e80ca768c81b15457a32d15bc2a70e55316d88ecbef1a526933b38a5f22d28.m3u8
 [BD]靖天欢乐,https://stream1.freetv.fun/6b8f3306e5a4186e1f3ead410c0a41a32de826bce269fe72cbc22fab9d225f5c.m3u8
 [BD]靖天育乐,https://stream1.freetv.fun/07e5887f034860c810422aaca999dfcccccd6b0ca4d8c921cbcee9ef815c2360.m3u8
@@ -1380,5 +1381,5 @@ Test,#genre#
 [HD]宜兴新闻,https://stream1.freetv.fun/3c2ebeb4552510de3d4ab0118e21a6e24be3f868258b342aadd7dd1716cea2ca.m3u8
 [HD]广东移动,https://stream1.freetv.fun/b81ea1956dfa606444658bc78dc71d1d41892edc769e5d7ca147ffdf8fc8fc2a.m3u8
 [BD]镇江新闻,rtmp://zjtv-wshls.homecdn.com/live/2aa50
-[SD]电影,https://stream1.freetv.fun/7486998b02351695b94b3785c1c230875368fea6160ddab9e7af4195271874f8.m3u8
+[HD]电影,https://stream1.freetv.fun/52ed518ded3a5709aa6e47f85f39d52db99bf7ce3aafd576e830b8ce206d43d0.ctv
 [HD]韩国电影2,https://stream1.freetv.fun/fb55bfb45a0ccd52c3736f2cc95d9cd39d6684375440b822a786dd1c4ece3f33.m3u8
