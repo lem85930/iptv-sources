@@ -3159,6 +3159,7 @@ BBC_UHD_2_(2160p)_[Not_24/7],https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn
 BBC_UHD_3_(2160p)_[Not_24/7],https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_03/iptv_uhd_v1.mpd
 BBC_UHD_4_(2160p)_[Not_24/7],https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_04/iptv_uhd_v1.mpd
 BBC_UHD_5_(2160p)_[Not_24/7],https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_05/iptv_uhd_v1.mpd
+BBN_TV_(720p),https://streamer2.nexgen.bz/06-BBN/index.m3u8
 BCN_Gospel_TV_(1080p),https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8
 BCS_StarCross_TV_(576p),https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_001/Stream/playlist.m3u8
 BD_Televisión_(720p),https://stream.oursnetworktv.com/latin/telegtmb/playlist.m3u8
@@ -3367,11 +3368,11 @@ Cerritos_TV3_(360p),https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002
 Chada_TV_(720p),https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 Channel_4,https://x.canlitvapp.com/u-channel-4/index.m3u8
 Channel_4_UK_HD_(1080p),https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
-Channel_5,https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8
+Channel_5_(1080p),https://streamer2.nexgen.bz/05-CHANNEL5/index.m3u8
 Channel_5_HD_(1080p),https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 Channel_7_(720p),https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8
 Channel_7_Ukraine_(720p),http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
-Channel_8_(1080p)_[Not_24/7],http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+Channel_8,https://app.viloud.tv/hls/channel/57148804a268f59e0c1af0c1b67a2f7e.m3u8
 Channel_9_Adelaide_(720p),https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8
 Channel_9_Brisbane_(720p),https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/ch9/hls/r1/index.m3u8
 Channel_9_Melbourne_(720p),https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/mel/ch9/hls/r1/index.m3u8
@@ -3801,7 +3802,6 @@ Jimani_TV_(360p),https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
 JOAK-DTV_(1080p),http://171.244.62.178/jptv2/get.php?id=Zt19NGeOuIq3EwLPZh_KvQ==
 JOAX-DTV,http://171.244.62.178/jptv2/get.php?id=4SlJSS46Vw5igmOdvfKMww==
 JOCX-DTV,http://171.244.62.178/jptv2/get.php?id=uAJJq7DD6hKyPLoaMOBSUA==
-JOEX-DTV,http://171.244.62.178/jptv2/get.php?id=aNwnFAidrAjzqK5Wo0KvWw==
 Jogja_Istimewa_TV_(720p),http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 Jogja_TV_(720p)_[Not_24/7],https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 Jonack_TV_(360p)_[Not_24/7],https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
@@ -4017,7 +4017,6 @@ Mashariki_TV_(720p)_[Not_24/7],https://goliveafrica.media:9998/live/634adc0806f2
 MaTele_(1080p)_[Not_24/7],https://live.matele.be/hls/live.m3u8
 MaviKaradeniz_(1080p)_[Not_24/7],https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 MAX_Stream_(720p),https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
-Max_TV,https://tv.qixapps.com/hls/006bea00-06e8-440e-babe-0a588e1138f2.m3u8
 MaxTV/Dieu_TV_(1080p),https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
 Mayyazhi_(720p)_[Not_24/7],http://131.153.22.8:1935/MAYYAZHI/live/playlist.m3u8
 Mazandaran_TV,https://lenz.splus.ir/PLTV/88888888/224/3221226786/index.m3u8
@@ -4327,6 +4326,7 @@ PilisTV_(1080p),https://stream.streaming4u.hu/PilisTV/index.m3u8
 Pinole_Community_Television_(PCTV)_Channel_28_(Pinole_CA)_(480p),https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8
 Pirineus_TV_(1080p),https://s153.ipcamlive.com/streams/99pic5fsknh2gnvhx/stream.m3u8
 Plus_TV_(720p)_[Not_24/7],https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+PlusTV_(720p),https://streamer2.nexgen.bz/04-PLUS/index.m3u8
 Plzeň_TV_(1080p),https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
 Polar2_TV_(1080p),https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8
 Polar_TV_(1080p),https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
@@ -5002,6 +5002,7 @@ Xezer_TV,https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az
 XHFN-TDT1_(1080p),https://d162h6qqsk8wvl.cloudfront.net/9dd2f454-148b-43f2-8ad4-17f74d749895/manifest.m3u8
 Xtra_Tv_(720p)_[Not_24/7],https://mlb.essastream.com:8081/xtratv/index.m3u8
 Xtremo_Channel_(720p),https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
+XTV_(720p),https://streamer2.nexgen.bz/02-KREM/index.m3u8
 XV_TV_(480p),https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
 Yanbian_Cinese_Comprehensive_Channel,https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8
 Yeglé_TV_(1080p),https://endour.net/hls/Yegle-tv/index.m3u8
@@ -5264,6 +5265,7 @@ H!T_Music_Channel_(480p),http://hitmusic.hu/hitmusic.m3u8
 High_Vision_(1080p)_[Not_24/7],https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
 Hitradio_O3,https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd
 Hits_360_TV_(720p)_[Not_24/7],http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+Hitz_TV_(1080p),https://streamer2.nexgen.bz/13-HITZ/index.m3u8
 HMI_PROMZ_NEWS_(720p),https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
 Hype_Visual_Radio_(1080p),https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
 Identité_Télé_Caraïbes_(548p),https://vdo2.pro-fhi.net:3769/stream/play.m3u8
@@ -5347,6 +5349,7 @@ Mas23_TV_(1080p),https://vcp4.myplaytv.com:1936/mas23/mas23/playlist.m3u8
 Más_FM_95.9_(720p),https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 MasMusica_FM_(720p),https://movil.ejeserver.com/live/masmusica.m3u8
 Master_Show_TV_(360p),https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
+Max_TV_(1080p),https://streamer2.nexgen.bz/14-MAX/index.m3u8
 MBC_FM_(1080p),https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
 MBC_Loud_(1080p),https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8
 Med_Muzik_(1080p),http://54.36.110.140/live3/live3.m3u8
@@ -5653,6 +5656,7 @@ Vos_y_TV_(720p)_[Not_24/7],https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 VRT_Radio_Klara_(720p),https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8
 VRT_Radio_StuBru_(720p),https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8
 Wanasah_(1080p),https://wanasah-prod-dub-enc.edgenextcdn.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+WAVE_TV_(480p),https://streamer2.nexgen.bz/08-WAVE/index.m3u8
 WVCU-LP_Concord_University_Radio_The_Cure_97.7_(1080p),https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8
 WZNT_(Zeta_93)_(1080p)_[Not_24/7],https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8
 X_Level_Media_(1080p),https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
@@ -5908,6 +5912,7 @@ Córdoba_TV_[Not_24/7],https://cloudvideo.servers10.com:8081/8020/index.m3u8
 Corfu_Channel_(720p),https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
 CT24,https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
 CTS_News_(华视新闻资讯),http://seb.sason.top/sc/hsxw_fhd.m3u8
+CTV3_(720p),https://streamer2.nexgen.bz/03-CTVOW/index.m3u8
 CTVN_AKD_Plus_(1080p),https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ctvn-akd-plus/index.m3u8
 Current_Time_TV,https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
 CVR_English_(720p),https://cdn-2.pishow.tv/live/425/master.m3u8
@@ -6089,6 +6094,7 @@ LN24SA_(1080p),https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/pl
 LN247_(1080p),https://go5lmb6oyawb-hls-live.5centscdn.com/station/3dfd3752af3d7aec5c53992c2da3a316.sdp/playlist.m3u8
 Lokshahi_News_(1080p),https://see.lokshahi.live/live/index.m3u8
 Lolwe_TV_(576p)_[Not_24/7],https://goliveafrica.media:9998/live/62580e144eb43/index.m3u8
+Love_Television_(720p),https://streamer2.nexgen.bz/01-LOVE/index.m3u8
 LRT_Radijas_(1080p),https://stream-live.lrt.lt/radijas/master.m3u8
 Lyon_Capitale_TV,https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lyoncapitale.m3u8
 M1_(1080p),http://194.76.186.33:8000/play/a024/index.m3u8
@@ -6145,6 +6151,7 @@ Neo_News_(1080p),http://66.102.120.18:8000/play/a05g/index.m3u8
 News_1st_(576p),https://cdn-3.pishow.tv/live/268/master.m3u8
 News_7_Tamil_(576p),https://segment.yuppcdn.net/240122/news7/playlist.m3u8
 News9Live_(720p),https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8
+News12+_Connecticut_(1080p),https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 News12+_Hudson_Valley_(1080p),https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
 News12+_Long_Island_(1080p),https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8
 News12+_New_Jersey_(1080p),https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8
@@ -6221,6 +6228,7 @@ Panorama_TV_(720p),https://tv.panorama.com.al/panorama/livestream/playlist.m3u8
 Panzihihua_News_Channel,https://live.pzhkai.com/xwzhtl/sd/live.m3u8?_upt=6a1ad5741729836768
 Payam_TV_(720p)_[Not_24/7],https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
 Pershiy_XTV_Media_(576p),https://hls.xtvmedia.pp.ua:8443/hls/trk1tv.m3u8
+PGTV_(720p),https://streamer2.nexgen.bz/16-PGTV/index.m3u8
 Plena_TV_(720p),https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
 PNN_News_(720p),https://cdn.bmstudiopk.com/pnn/smil:PNN.smil/playlist.m3u8
 Polimer_News_(576p),https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
@@ -6292,7 +6300,6 @@ SABC_News_(720p),https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smi
 Sadhna_Plus_News_(720p),https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
 Sakshi_TV_(576p),https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8
 Salaam_TV_(720p),https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/af896be5-4743-41fc-8b6a-eb05e44f3a6e/3.m3u8
-Samachar_Plus_(1080p),https://samacharplus.livebox.co.in/samacharplushls/live.m3u8
 Samay_Kolkata_(720p),https://5dd3981940faa.streamlock.net/kbcration/kbcration/playlist.m3u8
 Sandesh_News_(1080p),https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sandesh-news/index.m3u8
 Sangu_TV,http://xui.neongreenlight.com:8081/memfs/44ad185e-2d15-4a26-8422-04df8fd4e4bd.m3u8
@@ -6803,6 +6810,7 @@ EWTN,https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8
 EWTN_Africa-Asia_(720p),https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 EWTN_Asia-Pacific_(720p),https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 EWTN_Canada_(720p),https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+EWTN_Espana,https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8
 EWTN_Europe_(720p),https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 EWTN_Poland_(1080p),https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
 EWTN_Spain_&_Latin_America_(720p),https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
@@ -6858,6 +6866,7 @@ Gospel_Truth_TV,https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/
 Grace_Network_(720p),https://livecdn.live247stream.com/grace/tv/playlist.m3u8
 Gran_TV_(720p),https://stream.medialive.hu/gran/grantvlive/playlist.m3u8
 GSG_TV_(720p),https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8
+Guadalupe_Media_(720p),https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8
 Gugudde_TV_(480p),https://jk3lzqq4lw79-hls-live.5centscdn.com/gugudde/c9a1fdac6e082dd89e7173244f34d7b3.sdp/chunks.m3u8
 GurSikh_Sabha_TV_(720p)_[Not_24/7],http://cdn12.henico.net:8080/live/gsctv/index.m3u8
 Habib_TV,https://ncdn.telewebion.com/habib/live/playlist.m3u8
@@ -7560,6 +7569,7 @@ Chandel_TV_(720p),https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8
 Channel_82,https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eBmnWbRkKKsu3nqabm9GlX02JOj3CDNXzodJMDEN2dk3/a_bq9clxfbupwg.m3u8
 Channel_200_(540p),https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
 Channel_K_(720p),https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8
+Channel_U,https://app.viloud.tv/hls/channel/aaf404bee904cff424bb5d1f6fdf9333.m3u8
 Chroma_TV_(480p),https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 Cibaeña_TV_(720p),https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
 Circle,https://amg00432-circletvfast-amg00432c1-cineverse-us-1112.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-cineverseus/playlist.m3u8
@@ -7568,6 +7578,7 @@ Ciudades_Del_Ocio_TV_(720p),https://cloudvideo.servers10.com:8081/8024/index.m3u
 Claro_Visión_TV_(720p),https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
 Clic_TV_(360p),https://stmv1.voxhdnet.com/yorka7322/yorka7322/playlist.m3u8
 COCO_TV_(720p),https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+Color_Blind_TV_(1080p),https://streamer2.nexgen.bz/12-CBTV/index.m3u8
 Colors_(576p),http://103.178.78.151:7505/play/a1sd/index.m3u8
 Colors_Bangla_(1080p),http://103.140.254.2:3500/live/756.m3u8
 Colors_Gujarati_(1080p),http://103.140.254.2:3500/live/196.m3u8
@@ -7921,6 +7932,7 @@ Teleplay_Sureste_(720p),https://player.tvstream.mx/livestream/teleplay/livehd/pl
 Telerayo_(1080p),https://s.emisoras.tv:8081/telerayo/index.m3u8
 Telugu_One_(1080p),https://amg02821-amg02821c1-samsung-in-4717.playouts.now.amagi.tv/playlist/amg02821-objectone-teluguone-samsungin/playlist.m3u8
 TF1_HD_(720p),https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
+The_National_Channel_10_(1080p),https://streamer2.nexgen.bz/10-TNC/index.m3u8
 The_Price_Is_Right_(720p),http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/643f035d5a0cd50008361534/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d06b772a-7763-4458-af84-caf22f5c8c15
 This_is_Bulgaria_HD_(1080p),https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
 Timeline_(720p),https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8
@@ -8100,7 +8112,6 @@ MediCOOL_TV_(720p),https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
 Monte_Carlo_Digital_Television_(1080p),https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 NDTV_Good_Times_(1080p),https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
 Nova_(1080p),http://176.65.146.237:8401/play/a0ah/index.m3u8
-ON_Style_TV,http://dvrfl05.bozztv.com/vch_vchannel10/index.m3u8
 Opportunities_in_Urban_Renaissance_Television_(OURTV)_(720p),https://hls-cdn.tvstartup.net/barakyah-channel/play/mp4:ourtvedge/playlist.m3u8
 PBS_Antiques_Road_Trip_(1080p),https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
 Plous_TV_(1080p),https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
@@ -9679,6 +9690,7 @@ Beach_TV_Florida_&_Alabama_(720p),http://media4.tripsmarter.com:1935/LiveTV/DTVH
 Beach_TV_Key_West_&_Florida_Keys_(720p),https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
 Beach_TV_Myrtle_Beach_&_The_Grand_Strand_(720p),http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 Beach_TV_Panama_City_(720p),http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+BHA_TV_(1080p),https://streamer2.nexgen.bz/15-BHA/index.m3u8
 Discover_Pakistan_(1080p),https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 Go2Travel_(1080p),https://go2thls.wns.live/hls/stream.m3u8
 Go_USA_TV_(720p),https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8
