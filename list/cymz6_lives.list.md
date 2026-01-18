@@ -83,4 +83,4 @@
 | 77 | 都市 | IPv4 直链 | <http://182.126.115.129:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 78 | 金鹰卡通 | IPv4 直链 | <http://101.66.194.59:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Sun Jan 18 2026 08:33:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jan 18 2026 10:26:16 GMT+0000 (Coordinated Universal Time)**
