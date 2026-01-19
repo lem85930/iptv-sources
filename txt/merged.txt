@@ -1001,7 +1001,7 @@ News,#genre#
 [HD]cbs_news,https://stream1.freetv.fun/f233f99f64f50e289e779649e80203f7412bde5f6853c693276a77f531c599d2.m3u8
 [BD]cctv1,https://stream1.freetv.fun/1e233c3fa02ad66a59876f9f9d5500a9b99b490836014ad39c51e69a17b3c563.ctv
 [BD]cctv13-新闻,https://stream1.freetv.fun/23c8fb2fb3679699a36eeb0dd64ada1155456e81264002b9ec768465c9ca1d25.ctv
-[BD]cctv2,https://stream1.freetv.fun/0436436b6a81e4a3107c257f8d6fc9ed95f60c8ef47bf559b031f58346498538.ctv
+[BD]cctv2,https://stream1.freetv.fun/6cb09449836421b126131886080cf64dcbd46311a5461eb0658d21d46e6e164d.ctv
 [BD]cctv4,https://stream1.freetv.fun/1927200d910f3087e569a0050d84b50158d3c1e2d928ad116119bb9eafe8ac9f.m3u8
 [BD]cctv4,https://stream1.freetv.fun/15a4180e12b35249c7b2bc9d2b5d2feed983b66d309ca216fc6d8782766a349f.m3u8
 [HD]cgtv,https://stream1.freetv.fun/d31785092718fa566261f1144a4daadd918267b00a2deea0f4accc99face5ec9.m3u8
@@ -1607,7 +1607,7 @@ Test,#genre#
 
 新闻,#genre#
 [BD]cctv13-新闻,https://stream1.freetv.fun/23c8fb2fb3679699a36eeb0dd64ada1155456e81264002b9ec768465c9ca1d25.ctv
-[BD]cctv2,https://stream1.freetv.fun/0436436b6a81e4a3107c257f8d6fc9ed95f60c8ef47bf559b031f58346498538.ctv
+[BD]cctv2,https://stream1.freetv.fun/6cb09449836421b126131886080cf64dcbd46311a5461eb0658d21d46e6e164d.ctv
 [BD]cctv4,https://stream1.freetv.fun/1927200d910f3087e569a0050d84b50158d3c1e2d928ad116119bb9eafe8ac9f.m3u8
 [BD]cctv4,https://stream1.freetv.fun/15a4180e12b35249c7b2bc9d2b5d2feed983b66d309ca216fc6d8782766a349f.m3u8
 [BD]上海新闻综合,https://stream1.freetv.fun/ae1e5ba924f70d20ff760d1eb8f0ab71583a7fe6549edb506193b0c54387d9a0.ctv
