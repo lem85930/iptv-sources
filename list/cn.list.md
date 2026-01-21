@@ -238,4 +238,4 @@
 | 232 | [BD]青海卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/6e10a4a54db3f7f59614ab6de9f66a2a0b678e551e77ef9040af1d5fc2ceae2e.ctv> |
 | 233 | [BD]黑龙江视 | stream1.freetv.fun | <https://stream1.freetv.fun/528283ee39bbe8287dd6eb3ce1ae0e404eca1d20caecd4038d62967a25de026e.ctv> |
 
-Updated at **Wed Jan 21 2026 18:34:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 21 2026 18:50:22 GMT+0000 (Coordinated Universal Time)**
