@@ -117,4 +117,4 @@
 | 111 | 浙江新闻 | IPv4 直链 | <http://101.66.198.64:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 112 | 金鹰卡通 | IPv4 直链 | <http://101.66.198.64:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Thu Jan 22 2026 18:39:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jan 22 2026 20:33:31 GMT+0000 (Coordinated Universal Time)**
