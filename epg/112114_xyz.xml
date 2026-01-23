@@ -25164,6 +25164,9 @@
 	<programme channel="咪咕足球" start="20260123135000 +0800" stop="20260123141000 +0800">
 		<title lang="zh">数聚赛场</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260123141500 +0800" stop="20260123142500 +0800">
+		<title lang="zh">绝对独家对话周琦</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -79815,6 +79818,9 @@
 	<programme channel="newtv超级电视剧" start="20260123133400 +0800" stop="20260123142000 +0800">
 		<title lang="zh">06_大江大河</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260123142000 +0800" stop="20260123150500 +0800">
+		<title lang="zh">07_大江大河</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -80136,6 +80142,9 @@
 	<programme channel="newtv家庭剧场" start="20260123133000 +0800" stop="20260123140500 +0800">
 		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20260123140500 +0800" stop="20260123145200 +0800">
+		<title lang="zh">21_玫瑰的故事</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -80198,6 +80207,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20260123132900 +0800" stop="20260123140400 +0800">
 		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20260123140400 +0800" stop="20260123144800 +0800">
+		<title lang="zh">01_扫黑风暴</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -80294,6 +80306,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20260123134000 +0800" stop="20260123141500 +0800">
 		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20260123141500 +0800" stop="20260123154500 +0800">
+		<title lang="zh">杀机四伏</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -80510,6 +80525,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20260123134400 +0800" stop="20260123140900 +0800">
 		<title lang="zh">【海峡两岸】扬言做好“最坏打算” 赖清德怕什么？</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20260123140900 +0800" stop="20260123143500 +0800">
+		<title lang="zh">【海峡两岸】24次兵推“台海有事” 日本准备怎么打？</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
