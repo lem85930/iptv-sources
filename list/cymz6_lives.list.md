@@ -6,4 +6,4 @@
 | --- | ------------ | ---- | ------ |
 | 1 | CCTV1 | IPv4 直链 | <http://101.74.28.18:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Fri Jan 23 2026 14:30:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 23 2026 18:20:34 GMT+0000 (Coordinated Universal Time)**
