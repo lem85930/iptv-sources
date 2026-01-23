@@ -922,7 +922,7 @@
 | 916 | [BD]ช่อง trace sports stars | stream1.freetv.fun | <https://stream1.freetv.fun/c6108bbdd127fdd995759b57edbce9e0a1cffdde8a78a7e69c7c8ca3f480d33e.m3u8> |
 | 917 | [BD]trace urban | stream1.freetv.fun | <https://stream1.freetv.fun/31e318cd7324c193755d145e22c5da10c6bd0f7aa8c3260c847d3cbf0978d21b.m3u8> |
 | 918 | [VGA]Trans 7 *a | stream1.freetv.fun | <https://stream1.freetv.fun/3a1a431c3383fa605c3904b370443d1dfc2ef94abc27eb9106f4ca14bdb17e7a.m3u8> |
-| 919 | [HD]ช่อง trans tv | stream1.freetv.fun | <https://stream1.freetv.fun/90b750428329b715deb4d3b9bf9d5d91306fbaf682da0b08ae6d77af6245bff3.m3u8> |
+| 919 | [VGA]Trans TV *a | stream1.freetv.fun | <https://stream1.freetv.fun/0dbd6ebc6d5f0f903ab17a8c6135a69622372963158f94caa6f19650ec395501.m3u8> |
 | 920 | [HD]trans7 | stream1.freetv.fun | <https://stream1.freetv.fun/34c2e76df9cc01aa8ee9565cd16a472a46c6aebd93bdf8b7586048d5a2a3d225.m3u8> |
 | 921 | [HD]star trek | stream1.freetv.fun | <https://stream1.freetv.fun/b9c8bb63905a77e8a73cdd4cff1c5c4664b7c2ad6395035f10f0238ee82074f6.m3u8> |
 | 922 | [HD]vip comedy | stream1.freetv.fun | <https://stream1.freetv.fun/bb67f5c8448d323cc0b52dc4ff22bdf79fca4047b19b1b6b73a72ad8473e7e1e.m3u8> |
@@ -947,7 +947,7 @@
 | 941 | [HD]vevo '90s | stream1.freetv.fun | <https://stream1.freetv.fun/db477255b690769cfc47b2695a4df9323f9ecbc3ccfeb80739bf9a10d676ec1d.ctv> |
 | 942 | [HD]mtv classic | stream1.freetv.fun | <https://stream1.freetv.fun/9fc4c50aba17174517a92f8349977a28e1000ddd477d2557fc7b48af8608b390.m3u8> |
 | 943 | [SD]kvn tv | stream1.freetv.fun | <https://stream1.freetv.fun/7041c618f5cb2aa33c50a33c187246e777ffa6e5741dec8d6dfb0a93cf77be9e.m3u8> |
-| 944 | [BD]viva russia | stream1.freetv.fun | <https://stream1.freetv.fun/e45cbf785eabdb158c2cb0008bde986ae92afb0ba797149cb02648fdf629f512.m3u8> |
+| 944 | [BD]viva russia | stream1.freetv.fun | <https://stream1.freetv.fun/cc7f04b8ce67f8b11a3a02c5123ddc2bf3dee25ea2d34418c2bd330c0c4bab16.m3u8> |
 | 945 | [BD]vice tv | stream1.freetv.fun | <https://stream1.freetv.fun/eb29e24b20eebbb5df73bc4713bdd86fd5fca4dbaee243660fe7bdd47a179817.m3u8> |
 | 946 | [VGA]rov tv | stream1.freetv.fun | <https://stream1.freetv.fun/f10a61b887de1453712985f46f6ecb43c7d15968e61f783b0e8247eb79fddd38.m3u8> |
 | 947 | [HD]vtv | stream1.freetv.fun | <https://stream1.freetv.fun/db2cacd0bda4cfd16dc8f4c1ff1aef563697bf27c4bc23776393b0bf1904ff3c.m3u8> |
@@ -1423,4 +1423,4 @@
 | 1417 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv> |
 | 1418 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/f3e4792919e603bd0eb00254eb263931dbab92a22578853745d8dbe977714338.ctv> |
 
-Updated at **Fri Jan 23 2026 06:41:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 23 2026 08:36:43 GMT+0000 (Coordinated Universal Time)**

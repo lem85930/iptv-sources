@@ -281,7 +281,7 @@ Entertainment,#genre#
 [HD]music_latino,https://stream1.freetv.fun/e6ff1d9ff2bbfb7cdfcb2b4e4602a2ba9de2c9b8fffc22bcb08887e82ed1da49.m3u8
 [BD]trace_urban,https://stream1.freetv.fun/31e318cd7324c193755d145e22c5da10c6bd0f7aa8c3260c847d3cbf0978d21b.m3u8
 [VGA]Trans_7_*a,https://stream1.freetv.fun/3a1a431c3383fa605c3904b370443d1dfc2ef94abc27eb9106f4ca14bdb17e7a.m3u8
-[HD]ช่อง_trans_tv,https://stream1.freetv.fun/90b750428329b715deb4d3b9bf9d5d91306fbaf682da0b08ae6d77af6245bff3.m3u8
+[VGA]Trans_TV_*a,https://stream1.freetv.fun/0dbd6ebc6d5f0f903ab17a8c6135a69622372963158f94caa6f19650ec395501.m3u8
 [HD]star_trek,https://stream1.freetv.fun/b9c8bb63905a77e8a73cdd4cff1c5c4664b7c2ad6395035f10f0238ee82074f6.m3u8
 [BD]enntivision,https://stream1.freetv.fun/2185d64d87259918c5573d30f35167d1746f098cea0d6d19f4d646b03e9a52bc.m3u8
 [BD]news18_urdu,https://stream1.freetv.fun/2d2725a043b2f0f208804a3954d62667db1cb9b8297c842e46508f2683b9366e.m3u8
@@ -1427,7 +1427,7 @@ Music,#genre#
 [HD]mtv,https://stream1.freetv.fun/d9d9e38ddd268b03f18169191b493f409955619bdf27c70d0f07b21b2c22bf1f.m3u8
 [SD]tv_line,https://stream1.freetv.fun/a1bfbc2224a1b275c0204ceb521b5e5457fb82530df16ee9854cac39cc555636.m3u8
 [BD]pulse,https://stream1.freetv.fun/3c9a36d73cdb3b1eed319479634d13f73ef684f24addd6ac2e13c03bd361264d.m3u8
-[BD]viva_russia,https://stream1.freetv.fun/e45cbf785eabdb158c2cb0008bde986ae92afb0ba797149cb02648fdf629f512.m3u8
+[BD]viva_russia,https://stream1.freetv.fun/cc7f04b8ce67f8b11a3a02c5123ddc2bf3dee25ea2d34418c2bd330c0c4bab16.m3u8
 
 Test,#genre#
 [HD]cleo_tv,https://stream1.freetv.fun/ab8fde4d1e8bc91929f96b67a03405c0d1fa074a5492a45dc563f63ca4b7fd43.m3u8
