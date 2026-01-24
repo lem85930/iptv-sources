@@ -30,4 +30,4 @@
 | 24 | 重庆卫视 | IPv4 直链 | <http://115.207.211.129:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 25 | 黑龙江卫视 | IPv4 直链 | <http://115.207.211.129:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sat Jan 24 2026 18:36:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jan 24 2026 20:27:11 GMT+0000 (Coordinated Universal Time)**
