@@ -546,7 +546,7 @@
 | 540 | [BD]movies now plus | stream1.freetv.fun | <https://stream1.freetv.fun/8058fffa6ce93ddeaf7a6ba4c6e302fa17e14ba9bf819917e5b5922be4ebc83b.m3u8> |
 | 541 | [HD]msnbc | stream1.freetv.fun | <https://stream1.freetv.fun/ad3240837b482686e58c4dc3ebde9ed22834f1940bf20cfb66b586441d1c074e.m3u8> |
 | 542 | [HD]mtv base *s | stream1.freetv.fun | <https://stream1.freetv.fun/35e08602358756a456effdfe2d3a82e6f4923be1eff54b07d08f71b4321d2400.m3u8> |
-| 543 | [HD]mtv | stream1.freetv.fun | <https://stream1.freetv.fun/d9d9e38ddd268b03f18169191b493f409955619bdf27c70d0f07b21b2c22bf1f.m3u8> |
+| 543 | [BD]yo! mtv | stream1.freetv.fun | <https://stream1.freetv.fun/d0552cccc0886b623e3362805a41dca6d3316e72818c4f992574623fc58ad358.m3u8> |
 | 544 | [SD]tv line | stream1.freetv.fun | <https://stream1.freetv.fun/a1bfbc2224a1b275c0204ceb521b5e5457fb82530df16ee9854cac39cc555636.m3u8> |
 | 545 | [BD]pulse | stream1.freetv.fun | <https://stream1.freetv.fun/3c9a36d73cdb3b1eed319479634d13f73ef684f24addd6ac2e13c03bd361264d.m3u8> |
 | 546 | [SD]nw magazine | stream1.freetv.fun | <https://stream1.freetv.fun/d3326a4b990bb2f4bd0796c622c36787a12bf9aa44a8ef6402e52b10a0ae0e7b.m3u8> |
@@ -1414,4 +1414,4 @@
 | 1408 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv> |
 | 1409 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/f3e4792919e603bd0eb00254eb263931dbab92a22578853745d8dbe977714338.ctv> |
 
-Updated at **Sun Jan 25 2026 12:52:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jan 25 2026 14:23:58 GMT+0000 (Coordinated Universal Time)**
