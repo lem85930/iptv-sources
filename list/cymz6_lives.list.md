@@ -10,4 +10,4 @@
 | 4 | 齐鲁卫视 | IPv4 直链 | <http://123.129.70.178:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 5 | IPTV经典电影 | IPv4 直链 | <http://123.129.70.178:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sun Jan 25 2026 16:31:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jan 25 2026 18:36:13 GMT+0000 (Coordinated Universal Time)**
