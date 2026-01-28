@@ -1018,7 +1018,7 @@
 | 1012 | Bellator MMA | cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv | <http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e97a69e-3355-4217-b6fb-8952f0ad1803> |
 | 1013 | Bellavision (1080p) [Not 24/7] | fox.hostlagarto.com:8081 | <https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8> |
 | 1014 | Bem TV (720p) | wz4.dnip.com.br | <http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8> |
-| 1015 | Bendicion Channel (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/bendiciontv7/playlist.m3u8> |
+| 1015 | Bendicion Channel (720p) | s.emisoras.tv:8081 | <https://s.emisoras.tv:8081/bendicionchannel/index.m3u8> |
 | 1016 | Benguturk TV (1080p) | IPv4 直链 | <http://185.234.111.229:8000/play/a05u> |
 | 1017 | Benie TV (720p) | voozmedia.fun | <https://voozmedia.fun/benietv/livestream/playlist.m3u8> |
 | 1018 | Bénin Web TV (720p) | stream.beninwebtv.bj | <https://stream.beninwebtv.bj/2/live/stream.m3u8> |
@@ -9885,4 +9885,4 @@
 | 9879 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
 | 9880 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 
-Updated at **Tue Jan 27 2026 20:28:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 28 2026 00:54:24 GMT+0000 (Coordinated Universal Time)**
