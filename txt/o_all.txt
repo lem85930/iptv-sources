@@ -806,7 +806,6 @@ Love_Magazine_(1080p),https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p
 Love_Nature_en_Espanol,https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 Love_Pets_(1080p),https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8
 Love_Stories_TV_(720p),https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8
-Love_The_Planet,https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8
 Loveworld_TV_(1080p)_[Not_24/7],https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:lwukweb.smil/playlist.m3u8
 LoveWorld_USA_(720p),https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/LWU/ngrp:lwu.stream_all/playlist.m3u8
 Luxury_Dreams_TV,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2f8307f7-cae4-4b19-afc0-32f4ba4ab4d0/manifest.m3u8
@@ -1501,7 +1500,6 @@ Shabab_FM_(720p)_[Not_24/7],https://streaming.zaytonatube.com:8081/ShababFM/shab
 Shades_of_Black,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63920159db0dea0007dd9932/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0251-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93b44734-079b-4fec-a58c-6406103089cd
 Shakthi_TV_(360p),https://edge4-moblive.yuppcdn.net/transsd/smil:saktv10.smil/playlist.m3u8?dvr=
 Shalini_TV_(576p),https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8
-Shaun_the_Sheep_&_Friends,https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
 Sheffield_Live_TV_(360p)_[Not_24/7],http://tv.sheffieldlive.org/hls/main.m3u8
 Shekinah_TV_(1080p),https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
 Shemaroo_Bollywood_(1080p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
@@ -1556,7 +1554,6 @@ Smash_Radio_104.6FM,http://80.79.6.221:25461/smash/public/3
 Smash_Talk,http://80.79.6.221:25461/smash/public/15
 Smash_Teleshopping,http://80.79.6.221:25461/smash/public/2
 SMTV_(720p)_[Not_24/7],http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
-SNL_Vault,https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8
 SNT_(480p),https://alba-py-snt-snt.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 Soap_Latino_(720p),https://fast-channels-network-soaplatino-1-it.rakuten.wurl.tv/playlist.m3u8
 Soap_Turco_(720p),https://fast-channels-network-soapturco-1-it.rakuten.wurl.tv/playlist.m3u8
@@ -6284,7 +6281,6 @@ Radio_Isla_TV_(720p),https://59a564764e2b6.streamlock.net/palestra/palestra/play
 Radio_Roma_News,https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radioromanews.m3u8
 Rai_News_24_(720p),https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 Rai_News_24_HD,https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
-Raj_News_(576p),http://103.140.254.2:3500/live/767.m3u8
 Raj_News_Kannada_(576p)_[Not_24/7],http://103.140.254.2:3500/live/651.m3u8
 Raj_News_Malayalam_(576p),http://103.140.254.2:3500/live/650.m3u8
 Raj_News_Telugu_(576p)_[Not_24/7],http://103.140.254.2:3500/live/664.m3u8
@@ -7951,7 +7947,6 @@ Studio_Yuva_(576p),https://mumt01.tangotv.in/STUDIOYUVA/index.m3u8
 Subin_TV_(1080p),https://stream.galaxyott.live/live/subintv/index.m3u8
 Sun_Bangla_(576p),http://103.182.170.32:8888/play/a01v
 Sun_Neo_(576p),http://103.78.149.54:8000/play/a00y/index.m3u8
-Sun_TV_(1080p),https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
 Super7FM_(720p),https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8
 Super_Cable,http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 Suriya_TV_(1080p),http://103.140.254.2:3500/live/3394.m3u8
@@ -8236,6 +8231,7 @@ RiffTrax,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/c
 Roya_Comedy_(1080p),https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
 Scherzi_e_risate_Italy_(720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609404b0a8ec810007d8de9d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 Sirippoli_TV_(576p),https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+SNL_Vault_(1080p),https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8
 Top_Million_Dollar_Agent,https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883107
 TV2_Comedy_(576p),http://194.76.186.33:8000/play/a031/index.m3u8
 TV_Land_Sitcoms,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b42011ce-d42f-4692-bb1d-2fe02741437a
@@ -9648,6 +9644,7 @@ Ink_Master,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls
 kabel_eins_Doku_(576p),http://79.232.88.203:9981/stream/channelid/81078517
 KTOO_360TV_3_(FNX),https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8
 Law_&_Crime_(720p),https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
+Love_The_Planet_(1080p),https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8
 MagellanTV_Now_(1080p),https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
 Military_History,https://fl1.moveonjoy.com/Military_History/index.m3u8
 National_Geographic_(1080i),http://78.130.250.2:8023/play/a02e/index.m3u8
@@ -9729,6 +9726,7 @@ Jiangxi_Children's_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv
 Multimania_(Latvia)_(576p),https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8
 Pingviin_(576p),https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8
 Pokémon,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=d3595b5a-7553-4a6b-b9dd-c30951631395&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc32713f-dc5f-45d9-8650-2b4e69506b23
+Shaun_the_Sheep_&_Friends_(1080p),https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
 Sony_Yay!_(576p),http://103.178.78.151:7505/play/a0ux/index.m3u8
 Super_Hungama_(576p),http://103.167.255.18:8085/play/a0lk/index.m3u8
 Tiguerito_TV_(720p)_[Not_24/7],https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
