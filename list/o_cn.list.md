@@ -28,7 +28,7 @@
 | 22 | CCTV-10 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/11/index.m3u8> |
 | 23 | CCTV-11 (576p) | IPv4 直链 | <http://123.175.209.52:9003/hls/12/index.m3u8> |
 | 24 | CCTV-12 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/13/index.m3u8> |
-| 25 | CCTV-13新闻 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/14/index.m3u8> |
+| 25 | CCTV-13 (1080p) | cdn3.163189.xyz | <https://cdn3.163189.xyz/163189/cctv13> |
 | 26 | CCTV-14 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/15/index.m3u8> |
 | 27 | CCTV-15 (576p) | IPv4 直链 | <http://123.175.209.52:9003/hls/16/index.m3u8> |
 | 28 | CCTV-16 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/17/index.m3u8> |
@@ -177,4 +177,4 @@
 | 171 | 鹤壁新闻综合 (480p) [Not 24/7] | pili-live-hls.hebitv.com | <http://pili-live-hls.hebitv.com/hebi/hebi.m3u8> |
 | 172 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
 
-Updated at **Sun Feb 01 2026 22:29:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Feb 02 2026 02:39:33 GMT+0000 (Coordinated Universal Time)**
