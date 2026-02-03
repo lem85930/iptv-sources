@@ -226,7 +226,7 @@
 | 220 | [HD]cnbc | stream1.freetv.fun | <https://stream1.freetv.fun/3fa738311a73d0f3b1a16581c431486b93ba2dcb02d657eff1546e77a2a3f868.m3u8> |
 | 221 | [BD]cnbc-e | stream1.freetv.fun | <https://stream1.freetv.fun/91c09edbd9110dc381051fa150d4549e95da1f8f8b98f87cfe20127cf23dcd74.m3u8> |
 | 222 | [BD]cnn fast | stream1.freetv.fun | <https://stream1.freetv.fun/f5f6b06390027910a4a12cc038116d20b51ff9d440317ad659be3c1a65b5b294.m3u8> |
-| 223 | [BD]cnn | stream1.freetv.fun | <https://stream1.freetv.fun/8a3d033b0cc339242bc0e693f383eb0a3e809663f0ef1be5ceee5456c6a69c0b.ctv> |
+| 223 | [HD]acnn | stream1.freetv.fun | <https://stream1.freetv.fun/2a4a75d22390594d7456e3044f5c34b0f561f376a01ac89f5df44bc52b06dc4d.m3u8> |
 | 224 | [HD]cnbc indonesia | stream1.freetv.fun | <https://stream1.freetv.fun/216b3ec9e861b693bdea2bc8ee215663e4e065cd8c8970492d98b3cf766d8350.m3u8> |
 | 225 | [BD]cbc news international | stream1.freetv.fun | <https://stream1.freetv.fun/0bcbdf2c9d19bfc23ed82f1129ec22372558fcc661819d1e5744f30deaa3d21f.ctv> |
 | 226 | [BD]cnn türk | stream1.freetv.fun | <https://stream1.freetv.fun/0ec6990e28af75a85f8de01c886a004a7643a192f28cdaaa30f5581d7eb5908f.m3u8> |
@@ -1325,4 +1325,4 @@
 | 1319 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/8db7fe87f56b1781603eca82aa8111cd9a6f7a52cb6648858a6a657a926d5ddf.ctv> |
 | 1320 | [BD]龙华戏剧 | stream1.freetv.fun | <https://stream1.freetv.fun/d166e663af8799c5bf14d4779dee90fc4e870420f00bd0763304a6d60eb5fbe1.ctv> |
 
-Updated at **Tue Feb 03 2026 13:11:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Feb 03 2026 14:49:50 GMT+0000 (Coordinated Universal Time)**
