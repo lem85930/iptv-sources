@@ -2091,7 +2091,6 @@ TV_8.5_(720p),http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8
 TV9_(1080i),http://43.252.18.195:5080/live/streams/CTV9__khmer_etv.playlist.m3u8.m3u8
 TV9_Nusantara_(720p),https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 TV_16_Toronto_(720p)_[Not_24/7],http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8
-TV21,https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
 TV_24_(1080p),https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8
 TV_38_(360p)_[Not_24/7],https://59cba4d34b678.streamlock.net/live/tv38/playlist.m3u8
 TV38_Südost-Niedersachen_(1080p),https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=
@@ -2733,6 +2732,7 @@ Zoomer_TV,https://dq126dsoud56d.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b7
 Телплюс_ТВ_(Астрахань)_(360p)_[Not_24/7],https://streaming.astrakhan.ru/telplushd/playlist.m3u8
 ТКР_(Рязань)_(1080p)_[Not_24/7],http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 ТНВ-Планета_(Казань),https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
+ТНТ_MUSIC,https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 ТРК_Алекс_(576p),http://46.46.112.223/live/livestream1.m3u8
 Уникум,http://31.148.48.15/Detskiy/index.m3u8
 Хөгжим_(720p),https://cdn4.skygo.mn/live/disk1/Khugjim/HLSv3-FTA/Khugjim.m3u8
@@ -4968,6 +4968,7 @@ TV7_Colmar_(576p),https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 TV8_(720p),https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8
 TV10_(720p),https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8
 TV15_(1080p)_[Not_24/7],http://gohoski.fvds.ru:3000/mediabay/655/playlist.m3u8
+TV21,https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
 TV_25,http://dvrfl05.bozztv.com/gin-tv25/index.m3u8
 TV_100_(576p)_[Not_24/7],https://live.fm100.gr/hls/tv100/index.m3u8
 TV_A_(720p),https://live.artidijitalmedya.com/artidijital_tva/tva/playlist.m3u8
@@ -5927,7 +5928,6 @@ ZWEI2_Music_(1080p),https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
 Сити_Эдем_Классическая_Музыка_[Not_24/7],https://cityeden.catcast.tv/content/47400/index.m3u8
 Сити_Эдем_Сиртаки_ТВ_[Not_24/7],https://cityeden.catcast.tv/content/46421/index.m3u8
 Страна_FM_(720p)_[Not_24/7],http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-ТНТ_MUSIC,https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 УТРК_Музыка_(480p)_[Not_24/7],https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
 Шансон_ТВ_(576p),https://uiptv.do.am/1ufc/602079679/playlist.m3u8
 
@@ -10231,6 +10231,9 @@ RTI_La_3_(1080p)_[Not_24/7],http://69.64.57.208/la3/index.m3u8
 
 Culture;Lifestyle,#genre#
 Salira_TV_(720p),https://live.salira.tv/p/3870/hybrid/play.m3u8
+
+Relax;Travel,#genre#
+Space_Live_powered_by_sen_(1080p),https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8
 
 General;Series,#genre#
 Super_TV_(720p),http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
