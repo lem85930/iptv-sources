@@ -443,6 +443,7 @@ Generic,#genre#
 [SD]ksat_abc,https://stream1.freetv.fun/ffe2c1dd987c796c62c08abc893b70572af9a6c3e8a67b97d0f6df1f8dccfa94.m3u8
 [VGA]island_escape,https://stream1.freetv.fun/f66385524e990998e06c8db564d5f19f15fa6ee7449cb8fb362ded082aedc78b.m3u8
 [VGA]iran_international_tv,https://stream1.freetv.fun/ef63a19acfcee21a98e9a066e54206f8ea5e7053806df1c31570315c767f07a1.m3u8
+[BD]libya_al_ahrar_tv,https://stream1.freetv.fun/aa32590e824b04842dc79dce9ccbb3b6caa15b0d53f70ffcbe7e6841466f2a20.m3u8
 [HD]lex_tv,https://stream1.freetv.fun/0e02d0195e39c676ee4cfb9ee038b0e1f33db82795164b5e4ff6fa78b212318f.m3u8
 [BD]logos_tv,https://stream1.freetv.fun/490e80874c40b4b62d068a154107e69473d2eebbb4ede657b26e91d96b1a36b8.m3u8
 [BD]luxe_tv,https://stream1.freetv.fun/647d71314a7d2ee68d4d7c6d01b5ec5cf85c92e23deb02da615da82ccb115d38.m3u8
