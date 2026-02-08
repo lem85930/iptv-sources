@@ -450,4 +450,4 @@
 | 444 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
 | 445 | CCTV-13 (1080p) | cdn3.163189.xyz | <https://cdn3.163189.xyz/163189/cctv13> |
 
-Updated at **Sun Feb 08 2026 20:33:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Feb 08 2026 22:32:55 GMT+0000 (Coordinated Universal Time)**
