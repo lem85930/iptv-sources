@@ -170,7 +170,7 @@
 [BD]湖北经视,https://stream1.freetv.fun/a968f766a86c2a7690ca00cd8d3467ef79b4266675256e0e1f5b356aa8177fd2.m3u8
 [HD]湖州新闻综合,https://stream1.freetv.fun/fac10bfc6405fc7f58867a389a7ec758d4c23ddc7d6e22b2e03856f4f68c63bf.m3u8
 [HD]吴江新闻综合,https://stream1.freetv.fun/8ac6b368420d7c8e530ef4598f781d26e0514bcf10c9a60bf92652d25d0c6401.m3u8
-[SD]吉林新闻综合,https://stream1.freetv.fun/f229007f325ee603d39a4a6ef3046dd9140433eebfb43d2dfdbc410f22e6ad0a.m3u8
+[VGA]吉林新闻综合,https://stream1.freetv.fun/f229007f325ee603d39a4a6ef3046dd9140433eebfb43d2dfdbc410f22e6ad0a.m3u8
 [BD]上海第一财经,https://stream1.freetv.fun/2bd59fe221064d1fd84564d3d7469ae205bc619bb003bc8fdd411e571995fd6f.ctv
 [BD]沁阳新闻综合,https://stream1.freetv.fun/16aa5878ff5e13b090e12557ec4987258fd9735a7e4f6eecd50e2196ba18c1a4.m3u8
 [BD]义马新闻综合,https://stream1.freetv.fun/234cda484314d01cf6c68b3a13997dba4daeaa532d4cecc9e1ca4df18196d410.m3u8
