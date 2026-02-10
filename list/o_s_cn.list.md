@@ -386,4 +386,4 @@
 | 380 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
 | 381 | CCTV-13 (1080p) | cdn3.163189.xyz | <https://cdn3.163189.xyz/163189/cctv13> |
 
-Updated at **Tue Feb 10 2026 13:24:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Feb 10 2026 15:03:34 GMT+0000 (Coordinated Universal Time)**
