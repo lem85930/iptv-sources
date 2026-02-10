@@ -18,4 +18,4 @@
 | 12 | 百姓调解 | IPv4 直链 | <http://1.197.249.139:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 13 | 金鹰卡通 | IPv4 直链 | <http://1.197.249.139:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Tue Feb 10 2026 15:03:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Feb 10 2026 19:43:48 GMT+0000 (Coordinated Universal Time)**
