@@ -37,7 +37,7 @@
 | 31 | [BD]rt العربية | stream1.freetv.fun | <https://stream1.freetv.fun/3c8d66bc943ae964ff9e292aa6a303ed5613a9e9e2e1d0e48fa1ef63c31bafba.m3u8> |
 | 32 | [BD]chc动作电影 | stream1.freetv.fun | <https://stream1.freetv.fun/2522efdef1606bf100dc474e08eed75036e6f33bd62a47a54ddf6a00b79b0ce7.m3u8> |
 | 33 | [BD]chc家庭影院 | stream1.freetv.fun | <https://stream1.freetv.fun/35fca7599c7b782f0cae6f6055103b5b6feec04ed53952e46fa14ddae13948ac.ctv> |
-| 34 | [BD]chc高清电影 | stream1.freetv.fun | <https://stream1.freetv.fun/d940fc0ec92b037bf0518b75eab8fbba1d7adef2175287fcc87c0e48d2affb48.m3u8> |
+| 34 | [BD]chc影迷电影 | stream1.freetv.fun | <https://stream1.freetv.fun/6abed078fa8d7606338f9cd81d2a463ebdaf8f792faf54e1527072db7d4e4cda.ctv> |
 | 35 | [HD]三沙卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/de612c9a7e60a728c4c7416f9f5767e6e1d998de42dc23a3e1c401afad4f4498.m3u8> |
 | 36 | [BD]上海新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/ae1e5ba924f70d20ff760d1eb8f0ab71583a7fe6549edb506193b0c54387d9a0.ctv> |
 | 37 | [BD]上海都市 | stream1.freetv.fun | <https://stream1.freetv.fun/bcb1bcae49424d4350511a3af9937ba40b60a650220941dc63c29244982e4591.ctv> |
@@ -201,4 +201,4 @@
 | 195 | [BD]青海卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/6e10a4a54db3f7f59614ab6de9f66a2a0b678e551e77ef9040af1d5fc2ceae2e.ctv> |
 | 196 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/683060089384f9db90b6996b4a9eed2ffe2f42aa9b2ec8d4b55330630fc5df68.m3u8> |
 
-Updated at **Wed Feb 11 2026 08:56:17 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Feb 11 2026 12:59:50 GMT+0000 (Coordinated Universal Time)**
