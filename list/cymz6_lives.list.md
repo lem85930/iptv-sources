@@ -164,4 +164,4 @@
 | 158 | 金鹰卡通 | IPv4 直链 | <http://101.66.198.183:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 159 | 魅力音乐 | IPv4 直链 | <http://125.43.249.130:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Fri Feb 13 2026 14:45:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Feb 13 2026 18:46:42 GMT+0000 (Coordinated Universal Time)**
