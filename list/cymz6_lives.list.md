@@ -158,4 +158,4 @@
 | 152 | 金鹰卡通 | IPv4 直链 | <http://101.66.198.13:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 153 | 金鹰卡通 | IPv4 直链 | <http://101.66.198.170:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Sat Feb 14 2026 19:05:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Feb 14 2026 20:32:09 GMT+0000 (Coordinated Universal Time)**
