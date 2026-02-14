@@ -881,7 +881,7 @@ News,#genre#
 [VGA]btv,https://stream1.freetv.fun/7dcd466ab5058f85044a44eb720692097ab06b6dd5f9996fc4f97aad6d072c66.m3u8
 [BD]Berita_RTM_*a,https://stream1.freetv.fun/ecb8f0685f643249c3db60ee3bb01b9d0ab0cb2d1a8e180e0a77b1273d975402.m3u8
 [BD]bergamo_tv,https://stream1.freetv.fun/239865eb44f2ac54627025e83a852da8a3296a2aaa7820876e726e1e9ac6e901.m3u8
-[VGA]ช่อง_billiards_plus,https://stream1.freetv.fun/8fdcf885b47fd02998f72a5022bd24942d282a416214570d85e2a60cc31e6205.m3u8
+[HD]world_billiards_tv,https://stream1.freetv.fun/6187e0c9962f3ebee1547f73a33372f67718ad7b42d042a96d857fe0182668b3.m3u8
 [SD].black,https://stream1.freetv.fun/3ccda69806c1375f8bc1bab358071c9ce3e528c69734b26cc97b99807008e700.m3u8
 [BD]bloomberg_tv_plus,https://stream1.freetv.fun/542fe1cce0fc83fc98199b8449827f200479ad911362c1033b3c11b7a8fe416e.m3u8
 [BD]bloomberg_tv,https://stream1.freetv.fun/83eaba480c3f1de5327e5adb5673875edc0c35d0c00c7722fd9e0fb9f151e70b.m3u8
