@@ -580,7 +580,7 @@
 | 574 | [HD]momo综合 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv761> |
 | 575 | [BD]momo亲子 | stream1.freetv.fun | <https://stream1.freetv.fun/40581a200c60865376b0078f5f84d1b941bc3f30fb0bf15e5ae7ae62429bcef1.m3u8> |
 | 576 | [HD]motorvision.tv | stream1.freetv.fun | <https://stream1.freetv.fun/2dd40e496472ac72bf7e7a9689800b7c30b6cf8c7f2b62c9f7fc5c14b8748866.m3u8> |
-| 577 | [BD]mytime movie network | stream1.freetv.fun | <https://stream1.freetv.fun/38198a8fb9e075b47b838bc3e982921643497f7ca4b4590cc5cfe555685fa7ad.m3u8> |
+| 577 | [SD]j movie | stream1.freetv.fun | <https://stream1.freetv.fun/32cf7278b0fdd67319648fb485771a843607a4f5501917128a48e3a48e453268.m3u8> |
 | 578 | [BD]mrtv nrc | stream1.freetv.fun | <https://stream1.freetv.fun/a227177dcea438c60ba6b67b31118af11d0e61e246a1d827384e93ef4f356911.m3u8> |
 | 579 | [BD]mrtv entertainment | stream1.freetv.fun | <https://stream1.freetv.fun/9fde2336d9073d55b5e7c2eaffddbad7640c7fa574524daa8596713bea8f7255.m3u8> |
 | 580 | [HD]mrtv 4 | stream1.freetv.fun | <https://stream1.freetv.fun/a60c681c49477116b8ce7d52c4248c4929fb2bb137668751fb84e30480f6cc96.m3u8> |
@@ -1369,4 +1369,4 @@
 | 1363 | [BD]凤凰香港 | stream1.freetv.fun | <https://stream1.freetv.fun/d478a7c008fd51e80ebe718d405cd71e3967bb0cdc323a5ce4237162e731b1d5.ctv> |
 | 1364 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/683060089384f9db90b6996b4a9eed2ffe2f42aa9b2ec8d4b55330630fc5df68.m3u8> |
 
-Updated at **Sun Feb 15 2026 02:43:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Feb 15 2026 06:45:43 GMT+0000 (Coordinated Universal Time)**

@@ -63,7 +63,7 @@ Movies,#genre#
 [VGA]makkal_tv,https://stream1.freetv.fun/1d9df0178b645ae0cb96f3ec47c4b7b4710e9f8b4d00e383827343a398f53b78.m3u8
 [BD]bbc_drama,https://stream1.freetv.fun/29d9cd989e3d57ab50d527e42b73589d525ce00b52c343244885a5b5c523d840.m3u8
 [HD]msg,https://stream1.freetv.fun/46b3046eb6d46175f1223b02f62b3ecb77a61a724c69f25bf7796629dc2cfb58.m3u8
-[BD]mytime_movie_network,https://stream1.freetv.fun/38198a8fb9e075b47b838bc3e982921643497f7ca4b4590cc5cfe555685fa7ad.m3u8
+[SD]j_movie,https://stream1.freetv.fun/32cf7278b0fdd67319648fb485771a843607a4f5501917128a48e3a48e453268.m3u8
 [HD]my_tv,https://stream1.freetv.fun/5407c8ac740649b585e102d6813256d837315420ea95bd11dc5b4416e2d3aaa2.m3u8
 [SD]mojo_tv,https://stream1.freetv.fun/ff2324a9da55761fb4db77d901e99372f5225dc388799f6ef882f786ff976d4f.m3u8
 [HD]newflix,https://stream1.freetv.fun/5baeb065702464b00394777eb906cfa66af62282d049deb32172e3bda63d43a8.m3u8
