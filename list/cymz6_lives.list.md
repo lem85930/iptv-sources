@@ -77,4 +77,4 @@
 | 71 | 广西都市 | IPv4 直链 | <http://36.136.38.87:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 72 | 金鹰卡通 | IPv4 直链 | <http://36.136.38.87:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Tue Feb 17 2026 18:53:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Feb 17 2026 19:22:13 GMT+0000 (Coordinated Universal Time)**
