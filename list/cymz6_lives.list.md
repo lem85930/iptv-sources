@@ -97,4 +97,4 @@
 | 91 | 灵宝新闻综合 | IPv4 直链 | <http://115.48.160.128:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 92 | 金鹰卡通 | IPv4 直链 | <http://36.136.38.87:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Wed Feb 18 2026 19:01:49 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Feb 18 2026 20:45:57 GMT+0000 (Coordinated Universal Time)**
