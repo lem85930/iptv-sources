@@ -133,4 +133,4 @@
 | 127 | 湖南都市 | IPv4 直链 | <http://124.228.160.14:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 128 | 金鹰卡通 | IPv4 直链 | <http://124.228.160.14:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Fri Feb 20 2026 22:31:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Feb 21 2026 02:26:01 GMT+0000 (Coordinated Universal Time)**
