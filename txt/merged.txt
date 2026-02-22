@@ -1416,7 +1416,6 @@ Test,#genre#
 [BD]深圳都市,https://stream1.freetv.fun/15ae672fb25be25731b968fc7f2c35f042760fecd2eaa5704f53e14ff99997fc.ctv
 [BD]湖北卫视,https://stream1.freetv.fun/3cb6855633c6ae0baf0c863165c9da533d7e5af1302086a525e29355ee31decb.ctv
 [BD]湖南卫视,https://stream1.freetv.fun/e876e6dcce030ba1fed2b1eed597ccc0fc4a0a1caf19e9e18860fd84ac93a7ee.ctv
-[VGA]湖南都市,https://stream1.freetv.fun/fb92018fa9d84f506e15b161b2e8ff5320f204872aee246642a2d8967b790892.m3u8
 [BD]甘肃卫视,https://stream1.freetv.fun/b14558c4b4b9dd59004052dfe14922a1090bfe3f8040fc5d4fef80a993ffd127.m3u8
 [BD]峨眉山综合,https://stream1.freetv.fun/1cf7575c3f1da0d65a80772246f246826b620f4fc0a04498bcab9ef71172c462.m3u8
 [SD]西藏卫视,https://stream1.freetv.fun/0520182fdda930a14ef73fa2ed6221ba95c6ae2ddffa8c93f4b08562ea71c777.m3u8
@@ -1557,7 +1556,7 @@ Test,#genre#
 综艺,#genre#
 [BD]cctv-03,https://stream1.freetv.fun/f77e66655c2d84199ef49e55cd26238f128e7b13597dd30e81e75032624be096.ctv
 [VGA]哈尔滨娱乐,https://stream1.freetv.fun/4ba7c23704180253389bb6b17009e2d88e3d472c1d043dffa329635f38bfb088.m3u8
-[BD]广东综艺,https://stream1.freetv.fun/d911b6e0ff31f6a93ff6a353ca00a0fe7d7d6fc450d5da931ff36f64e9842624.ctv
+[BD]广东综艺,https://stream1.freetv.fun/897c24cef72f6e357ce1f6651c05c25083f859f8379cce5f6c2bce04932a2811.ctv
 [BD]广西综艺旅游,https://stream1.freetv.fun/daf3dbf6d04bf3379c9219793315c3160019d47e28323281ac04e53c4372d579.m3u8
 
 测试,#genre#
@@ -1739,29 +1738,7 @@ Test,#genre#
 
 其它,#genre#
 [BD]云南卫视,https://epg.pw/stream/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.ctv
-央视频道,#genre#
-CCTV5,http://125.43.249.130:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://125.42.150.177:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://125.43.249.130:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://125.42.150.177:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 
-卫视频道,#genre#
-上海卫视,http://125.43.249.130:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://36.136.38.87:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://125.43.249.130:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://125.43.249.130:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://125.43.249.130:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://125.42.150.177:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-旅游卫视,http://36.136.38.87:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://125.43.249.130:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://125.43.249.130:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://36.136.38.87:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://125.43.249.130:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-
-其他频道,#genre#
-河南都市,http://125.43.249.130:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://125.43.249.130:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-魅力音乐,http://125.43.249.130:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 央视高清,#genre#
 CCTV-1_综合,http://58.248.112.205:8006/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHZMxCRWp3HWsIw2YA4WN0gZ4ZwGH0TEaahnmJ3AUk9g%2B&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 CCTV-2_财经,http://58.248.112.205:8006/GD_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHYpSLOWx8KnbAEA%2FNlMdpMt4ZwGH0TEaahnmJ3AUk9g%2B&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
