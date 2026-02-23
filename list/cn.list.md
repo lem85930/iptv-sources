@@ -187,4 +187,4 @@
 | 181 | [SD]青海卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/d07c5ec4397fbc7f5e7cc384b2ea73f4109d928e2b68474fc1ef6041cb976744.ctv> |
 | 182 | [SD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/15aefa6c1cecc2201a0ddbf7d0854e81e06aa6e3d5bf6e7bdf3114c4b4fbdd8f.m3u8> |
 
-Updated at **Mon Feb 23 2026 19:25:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Feb 23 2026 20:50:41 GMT+0000 (Coordinated Universal Time)**
