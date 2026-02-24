@@ -67,4 +67,4 @@
 | 61 | 广西综艺 | IPv4 直链 | <http://36.136.38.87:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 62 | 金鹰卡通 | IPv4 直链 | <http://36.136.38.87:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Tue Feb 24 2026 19:42:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Feb 24 2026 20:41:38 GMT+0000 (Coordinated Universal Time)**
