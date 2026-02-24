@@ -270,7 +270,7 @@
 | 264 | [HD]fifa plus spain | stream1.freetv.fun | <https://stream1.freetv.fun/ca70b7f466e56dbdd579bfbb846de091bb210b1bed6c1fe224bf7cfe2c74b36e.m3u8> |
 | 265 | [VGA]campus tv | stream1.freetv.fun | <https://stream1.freetv.fun/920126812e16ecc3246b3f2301daa956f120d92aba9093eab7e1d23baa16e114.m3u8> |
 | 266 | [HD]cartoon network | stream1.freetv.fun | <https://stream1.freetv.fun/ed25a4eaee325cdbb1a5682772f9f33ba854e02835e5b5c377bdfd92486b3466.m3u8> |
-| 267 | [BD]cartoonito 720p | stream1.freetv.fun | <https://stream1.freetv.fun/643e7f70059ebdc61f72cedaa5570d5a973b8a47f9ca0c1832b237054863399f.m3u8> |
+| 267 | [HD]cartoonito 720p | stream1.freetv.fun | <https://stream1.freetv.fun/643e7f70059ebdc61f72cedaa5570d5a973b8a47f9ca0c1832b237054863399f.m3u8> |
 | 268 | [BD]center tv | stream1.freetv.fun | <https://stream1.freetv.fun/cd79229566439b7c39ee399444bf09d6b0395dfdb5fd4a654c50dc09023a1cc9.m3u8> |
 | 269 | [BD]arutz 10 | stream1.freetv.fun | <https://stream1.freetv.fun/13768b6d0a3ef92026b25d68c8dbc6f68c7d92764207eb15b4af3a6dc07b1f42.m3u8> |
 | 270 | [HD]reshet 13 | stream1.freetv.fun | <https://stream1.freetv.fun/15ad2f3480f4af9f45069f89f82f2837f825d9e5f3d887227e32c443870fdc80.m3u8> |
@@ -1338,4 +1338,4 @@
 | 1332 | [BD]凤凰香港 *sg | stream1.freetv.fun | <https://stream1.freetv.fun/9b8c3d71546b4dd10e2ff194bdb79941d8455270835e35027622d509742ff377.m3u8> |
 | 1333 | [SD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/15aefa6c1cecc2201a0ddbf7d0854e81e06aa6e3d5bf6e7bdf3114c4b4fbdd8f.m3u8> |
 
-Updated at **Tue Feb 24 2026 20:41:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Feb 24 2026 23:36:05 GMT+0000 (Coordinated Universal Time)**

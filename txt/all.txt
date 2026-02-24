@@ -887,7 +887,7 @@ News,#genre#
 [HD]ช่อง_ctv_drama_channel,https://stream1.freetv.fun/7034d3f97cda84bfa229be885fe38edba0d4f78eb92517e8eb8a4069d41ad88c.m3u8
 [HD]ช่อง_ctv_news_channel,https://stream1.freetv.fun/e70762e6345dd647d47b2f1027b135422ba1b8f5c16a5da6645661f4445c1244.m3u8
 [BD]canal_26,https://stream1.freetv.fun/36c332d5f572538051cadab3e5b46090c5bb110269d6e22193e2658431228c66.m3u8
-[BD]cartoonito_720p,https://stream1.freetv.fun/643e7f70059ebdc61f72cedaa5570d5a973b8a47f9ca0c1832b237054863399f.m3u8
+[HD]cartoonito_720p,https://stream1.freetv.fun/643e7f70059ebdc61f72cedaa5570d5a973b8a47f9ca0c1832b237054863399f.m3u8
 [HD]dunya_news,https://stream1.freetv.fun/bb06078a8dd437f2a48cb2ba409f7ce37c8336469c6949c2b6df51593a2f0d75.m3u8
 [BD]dw_arabic,https://stream1.freetv.fun/cfd72b042385ba82d398bf2c526ba9af882485e147450d0b07f249f181ac4233.m3u8
 [BD]telesur_english,https://stream1.freetv.fun/9b30973ccfcc1a51dc005611c3e810896b3e79be5f203745ed7eff74ffaa410c.m3u8
