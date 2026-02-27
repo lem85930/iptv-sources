@@ -48,4 +48,4 @@
 | 42 | 河南都市 | IPv4 直链 | <http://125.43.240.161:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 43 | 魅力音乐 | IPv4 直链 | <http://125.43.240.161:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Fri Feb 27 2026 07:01:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Feb 27 2026 08:49:37 GMT+0000 (Coordinated Universal Time)**
