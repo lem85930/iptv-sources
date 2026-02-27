@@ -1,6 +1,6 @@
 综合,#genre#
 [BD]cctv-08,https://stream1.freetv.fun/b24f01c82b7185eb28c80ce82291c7533a0fbfb3a64dc84533e8f30ca7cf8e91.ctv
-[BD]cctv1,https://stream1.freetv.fun/b8dcdc7ba56cbf09277896dfa81c05756e3da4cc48c5b0ad6ea090ab987fb77a.ctv
+[SD]cctv1,https://stream1.freetv.fun/9c278a43d5bf7e515412f079507a71cfb8a263ff4938b30757880c9c7cd972b7.m3u8
 [BD]cctv12,https://stream1.freetv.fun/6f4520a649957c1068efd36c848b994de2752266a929a4f9a50dba84b9baf9b7.m3u8
 [VGA]cctv4中文国际,https://stream1.freetv.fun/8a07250a04529fe52772a7995691f04a3153bf67960964ad6a63dd6cc7878659.ctv
 [BD]rt_español,https://stream1.freetv.fun/5f7a8fbeb30bfd89e4296f8f9054ee4865b12dd92db69a1436dfcb784dc1d989.m3u8
@@ -200,7 +200,7 @@
 [VGA]辽宁体育,https://stream1.freetv.fun/825ef3ef8dc78270e632eb68433aca757a2f732ebb08f2b16b4d401700222168.ctv
 
 综艺,#genre#
-[VGA]cctv3综艺,https://stream1.freetv.fun/b060cd558dc633a240517b7aae2e989cf10f74d0d974021342afd8044d363243.ctv
+[BD]cctv-03,https://stream1.freetv.fun/f77e66655c2d84199ef49e55cd26238f128e7b13597dd30e81e75032624be096.ctv
 [VGA]哈尔滨娱乐,https://stream1.freetv.fun/4ba7c23704180253389bb6b17009e2d88e3d472c1d043dffa329635f38bfb088.m3u8
 [BD]广东综艺,https://stream1.freetv.fun/ae0045f7e477576c1bf6e2f9aba3dccd6b5228c8e22d369ce45e68332205a971.ctv
 [BD]广西综艺旅游,https://stream1.freetv.fun/daf3dbf6d04bf3379c9219793315c3160019d47e28323281ac04e53c4372d579.m3u8

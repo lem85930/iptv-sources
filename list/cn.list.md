@@ -6,7 +6,7 @@
 | --- | ------------ | ---- | ------ |
 | 1 | [BD]cctv-08 | stream1.freetv.fun | <https://stream1.freetv.fun/b24f01c82b7185eb28c80ce82291c7533a0fbfb3a64dc84533e8f30ca7cf8e91.ctv> |
 | 2 | [BD]documentary plus | stream1.freetv.fun | <https://stream1.freetv.fun/39c6ca9887b134e09b5b500e6b5e8bc96a925f65ef10e490ff3d1558b2f5cd5b.m3u8> |
-| 3 | [BD]cctv1 | stream1.freetv.fun | <https://stream1.freetv.fun/b8dcdc7ba56cbf09277896dfa81c05756e3da4cc48c5b0ad6ea090ab987fb77a.ctv> |
+| 3 | [SD]cctv1 | stream1.freetv.fun | <https://stream1.freetv.fun/9c278a43d5bf7e515412f079507a71cfb8a263ff4938b30757880c9c7cd972b7.m3u8> |
 | 4 | [SD]cctv10 | stream1.freetv.fun | <https://stream1.freetv.fun/669cea6595ab138a586e3fdbce19f189bcc74a4f683af84615a841bb19fbcf58.m3u8> |
 | 5 | [BD]cctv11 | stream1.freetv.fun | <https://stream1.freetv.fun/a1ee8a4f3954b5e76c7d40251197d089421f936e5f616960f16ff6494fff42bf.ctv> |
 | 6 | [BD]cctv12 | stream1.freetv.fun | <https://stream1.freetv.fun/6f4520a649957c1068efd36c848b994de2752266a929a4f9a50dba84b9baf9b7.m3u8> |
@@ -16,7 +16,7 @@
 | 10 | [BD]cctv16 | stream1.freetv.fun | <https://stream1.freetv.fun/d801da3cc1c891df9b5ec7abf35b5144cb14bcd76840a93bc7d2191191106216.m3u8> |
 | 11 | [BD]cctv-17 | stream1.freetv.fun | <https://stream1.freetv.fun/1c2fb9adf3252842b838c2387c2252baf31d9c77da701d6dd092d2bc984a6fbb.ctv> |
 | 12 | [BD]cctv2 | stream1.freetv.fun | <https://stream1.freetv.fun/2617cdcb31d7c3e1ddfce03c4588be223f375509a7c234a35ff6b184827ebcf5.m3u8> |
-| 13 | [VGA]cctv3综艺 | stream1.freetv.fun | <https://stream1.freetv.fun/b060cd558dc633a240517b7aae2e989cf10f74d0d974021342afd8044d363243.ctv> |
+| 13 | [BD]cctv-03 | stream1.freetv.fun | <https://stream1.freetv.fun/f77e66655c2d84199ef49e55cd26238f128e7b13597dd30e81e75032624be096.ctv> |
 | 14 | [BD]cctv4 | stream1.freetv.fun | <https://stream1.freetv.fun/1927200d910f3087e569a0050d84b50158d3c1e2d928ad116119bb9eafe8ac9f.ctv> |
 | 15 | [BD]cctv4 | stream1.freetv.fun | <https://stream1.freetv.fun/15a4180e12b35249c7b2bc9d2b5d2feed983b66d309ca216fc6d8782766a349f.ctv> |
 | 16 | [VGA]cctv4中文国际 | stream1.freetv.fun | <https://stream1.freetv.fun/8a07250a04529fe52772a7995691f04a3153bf67960964ad6a63dd6cc7878659.ctv> |
@@ -195,4 +195,4 @@
 | 189 | [SD]青海卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/d07c5ec4397fbc7f5e7cc384b2ea73f4109d928e2b68474fc1ef6041cb976744.ctv> |
 | 190 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/8db7fe87f56b1781603eca82aa8111cd9a6f7a52cb6648858a6a657a926d5ddf.m3u8> |
 
-Updated at **Fri Feb 27 2026 14:42:39 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Feb 27 2026 16:46:57 GMT+0000 (Coordinated Universal Time)**
