@@ -30,4 +30,4 @@
 | 24 | 北京少儿 | IPv4 直链 | <http://115.48.161.88:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 25 | 灵宝新闻综合 | IPv4 直链 | <http://115.48.161.88:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sat Feb 28 2026 22:27:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Mar 01 2026 02:45:35 GMT+0000 (Coordinated Universal Time)**
