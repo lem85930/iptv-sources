@@ -10,4 +10,4 @@
 | 4 | 东方卫视 | IPv4 直链 | <http://125.42.148.100:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 5 | 湖北卫视 | IPv4 直链 | <http://125.42.148.215:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sun Mar 01 2026 22:29:11 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Mar 02 2026 02:33:53 GMT+0000 (Coordinated Universal Time)**
