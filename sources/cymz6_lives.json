@@ -1,1 +1,1 @@
-{"name":"cymz6/AutoIPTV-Hotel lives","sources":{"cctv1":["http://101.74.28.61:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0"],"cctv4":["http://125.42.148.215:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0"],"cctv7":["http://125.42.148.100:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0"],"东方卫视":["http://125.42.148.100:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0"],"湖北卫视":["http://125.42.148.215:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0"]}}
+{"name":"cymz6/AutoIPTV-Hotel lives","sources":{}}
