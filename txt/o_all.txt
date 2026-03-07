@@ -398,6 +398,7 @@ Canal_5_Del_Pueblo_[Not_24/7],https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pu
 Canal_5_El_Líder_(720p)_[Not_24/7],https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 Canal_5_TV_Chepes,https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8
 Canal_5_TV_Cozumel_(1080p),https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
+Canal_5_TV_Max_(720p),https://video.wilohosting.com:19360/tvmax/tvmax.m3u8
 Canal_6_(720p),https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 Canal_6_Nicaragüense_(480p)_[Not_24/7],http://138.117.4.70:8075/Canal06_CooTel/playlist.m3u8
 Canal_6_Panadish_(720p),https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
@@ -1085,7 +1086,6 @@ Lompoc_TAP_TV_Channel_24_(720p),https://livestream.telvue.com/lompoccmttv2/f7b44
 Lompoc_TAP_TV_Channel_25_(720p),https://livestream.telvue.com/lompoccmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 Loreto_TV_(720p),https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
 Los_Santos_TV_(720p),https://lstv.duckdns.org:449/hls/lstv.m3u8
-Lotus_Macau_HD_(1080p),https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 Louga_TV_(480p),https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
 Loveland_TV_(Loveland_CO)_(1080p),https://reflect-cityofloveland-co.cablecast.tv/live-3/live/live.m3u8
 LOZ_(Lokale_Omroep_Zeewolde)_(720p),https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8
@@ -7587,6 +7587,7 @@ Gemini_Movies_HD_(1080p),http://111.88.78.21:8000/play/a0zf/index.m3u8
 Ghost_TV_(712p)_[Not_24/7],https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
 Gold_Star,https://moviethls.wns.live/hls/stream.m3u8
 Goldmines_(576p),http://103.78.149.54:8000/play/a00z/index.m3u8
+Goldmines_2_(576p),https://cdn-2.pishow.tv/live/1460/master.m3u8
 Goldmines_Movies_(576p),http://103.78.149.54:8000/play/a01i/index.m3u8
 Grand_Cinema,https://gcinemahls.wns.live/hls/stream.m3u8
 Gravitas_Movies_(1080p),https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
