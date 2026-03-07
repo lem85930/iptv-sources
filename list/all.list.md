@@ -1092,7 +1092,7 @@
 | 1086 | [BD]中天新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/ae5d52a5c49891c28f1a39ea6b9fc0d67e3e7f02e100b9bf1ff1dc7cc5fa4662.m3u8> |
 | 1087 | [BD]中天综合 | stream1.freetv.fun | <https://stream1.freetv.fun/775f1b5191906d084c014827729aa231f991215c2ad1c49f3cd4be440869dcfe.m3u8> |
 | 1088 | [HD]中视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv091> |
-| 1089 | [BD]中视 | stream1.freetv.fun | <https://stream1.freetv.fun/45ac2d27741f80af63fd8e1938e067ec7ea8c1c9ac34b46c6dc31917205cc1bd.m3u8> |
+| 1089 | [BD]中视 | stream1.freetv.fun | <https://stream1.freetv.fun/3f17175a87b98b60022eb1dcafc55f87ccd4203c5f1b467bef42d5d714d82ef6.m3u8> |
 | 1090 | [BD]中视新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/5f3d68b2efc102fc2339fa5b60d4b2abde1aa0bb446fb9fabe6cf9a7ab38198f.m3u8> |
 | 1091 | [BD]中视新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/3a583495eeab7f54152b8e8dd24fec83f7834083a2b7e2a5260f66dc4bde5860.m3u8> |
 | 1092 | [BD]中视经典 | stream1.freetv.fun | <https://stream1.freetv.fun/f011a428fab735796e6c5c5f2df0c46acd2524969a4d24dbb32a6fbb38ea95b5.m3u8> |
@@ -1321,4 +1321,4 @@
 | 1315 | [HD]黄金华剧 | stream1.freetv.fun | <https://stream1.freetv.fun/f12e3b9290373db53f8f62b0c3cd8d2ef03e9422865547a4a518bb6547160c7b.ctv> |
 | 1316 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/8db7fe87f56b1781603eca82aa8111cd9a6f7a52cb6648858a6a657a926d5ddf.m3u8> |
 
-Updated at **Sat Mar 07 2026 20:31:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 07 2026 22:28:38 GMT+0000 (Coordinated Universal Time)**
