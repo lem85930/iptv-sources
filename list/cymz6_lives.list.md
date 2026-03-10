@@ -14,4 +14,4 @@
 | 8 | 河北卫视 | IPv4 直链 | <http://125.125.233.70:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 9 | 河南卫视 | IPv4 直链 | <http://125.125.233.70:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Tue Mar 10 2026 02:28:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 10 2026 06:58:00 GMT+0000 (Coordinated Universal Time)**
