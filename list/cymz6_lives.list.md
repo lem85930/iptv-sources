@@ -21,4 +21,4 @@
 | 15 | 相声小品 | IPv4 直链 | <http://221.13.235.131:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 16 | 金鹰卡通 | IPv4 直链 | <http://221.13.235.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Thu Mar 12 2026 06:32:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Mar 12 2026 07:02:39 GMT+0000 (Coordinated Universal Time)**
