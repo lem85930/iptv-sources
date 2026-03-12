@@ -724,7 +724,7 @@ Enntivision_(1080p)_[Not_24/7],https://mlb.essastream.com:8081/enntivision/track
 Entelevisión_(720p),https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
 Entella_TV_(720p)_[Not_24/7],https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
 Enterate_RD_[Not_24/7],https://5790d294af2dc.streamlock.net/enteraterd/enteraterd/playlist.m3u8
-Entuno_TV_[Not_24/7],https://vdopanel.jlahozconsulting.com:3460/hybrid/play.m3u8
+Entuno_TV_(1080p)_[Not_24/7],https://soportedvb.click:3442/live/entunotvlive.m3u8
 Epirus_TV1_(1080p),https://til.pp.ua:3928/live/epiruslive.m3u8
 Equinoxe_TV,http://69.64.57.208/equinoxtv/playlist.m3u8
 Er_TV_(1080p),https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
@@ -3483,6 +3483,7 @@ Sukan_RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 Sultra_TV_(720p)_[Not_24/7],http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
 Sun_RTV_(720p)_[Not_24/7],https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
 Sunna_TV_(576p),https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_015/Stream/playlist.m3u8
+Super_Canal_(1080p)_[Not_24/7],https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8
 Super_J_TV_(720p),https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
 Super_TV_Brescia_(720p),http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 Super!,https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
