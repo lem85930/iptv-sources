@@ -1803,6 +1803,7 @@ Pronto-socorro:_Histórias_De_Emergência,https://jmp2.uk/plu-61bb72a7bf8c520007
 Property_&_Reno,https://linear-476.frequency.stream/dist/glewedtv/476/hls/master/playlist.m3u8
 ProSieben_(1080p),https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 ProSieben_Maxx_(576p),http://79.232.88.203:9981/stream/channelid/1038721938
+Prva_(1080p),http://51.83.135.95/Prva/index.m3u8
 PTV_(1080p)_[Not_24/7],https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
 PTV_4_(480p)_[Not_24/7],https://streams.comclark.com/pknsd/ptv/playlist.m3u8
 PTV_Global_(576p),http://103.250.28.74:8000/play/a018/index.m3u8
@@ -2973,7 +2974,7 @@ Voyages+,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453
 VSiN_(720p),https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
 VTV1_HD_(1080p),https://liveh12.vtvprime.vn/hls/VTV1_HD/index.m3u8
 VTV2_HD_(1080p),https://liveh12.vtvprime.vn/hls/VTV2_HD/index.m3u8
-VTV3_HD_(1080p),https://liveh12.vtvprime.vn/hls/VTV3_HD/index.m3u8
+VTV3_HD_(1080p),https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
 VTV4_HD_(1080p),https://liveh12.vtvprime.vn/hls/VTV4_HD/index.m3u8
 VTV5_HD_(1080p),https://liveh12.vtvprime.vn/hls/VTV5_HD/index.m3u8
 VTV5_Tây_Nam_Bộ_HD_(1080p),https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8
@@ -4840,6 +4841,7 @@ Notele_(576p)_[Not_24/7],https://streaming01.divercom.be/notele_live/direct.stre
 Notigram_TV_(XHFGL-TDT)_(1080p),https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
 Notioi_TV_(1080p),https://srv.streamserver.gr:3451/stream/play.m3u8
 Notisur_TV_[Not_24/7],https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8
+Nova_TV_(1080p),https://str.gledamsport.com/proxy.php?c=nova&type=playlist&path=mono.m3u8
 Nova_TV_Brasov_(576p)_[Not_24/7],http://novapress.ro:2022/live/nova/playlist.m3u8
 NOVO19_(720p)_[Geo-Blocked],https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
 NRK_1_(1080i),https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8
@@ -5734,6 +5736,7 @@ News,#genre#
 22Scope_News_(1080p),https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
 24/7_Canal_de_Noticias,https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 24KZ,https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
+24_News_(576p),https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 24_Канал_(1080p),https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 30A_Lionel_Nation_TV,https://30a-tv.com/ln.m3u8
 92_News_HD_(720p),http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
@@ -6402,7 +6405,6 @@ TVM_News+,http://80.79.6.221:25461/smash/public/20
 TVN24_(720p),https://ss2.tvrdomi.com:1936/vozzmedianetwork/vozzmedianetwork/playlist.m3u8
 TVP_World_(1080p),https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8
 TVR_Info,https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/chunklist_b5160000.m3u8
-Twenty_Four_News_(396p),https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 UN_Web_TV_(540p),https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 UNews,https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8
 USA_Today_(1080p),https://amg00457-amg00457c1-stirr-us-8143.playouts.now.amagi.tv/playlist.m3u8
@@ -7326,7 +7328,6 @@ Moonbug_Kids_(1080p),https://moonbug-rokuus.amagi.tv/playlist.m3u8
 Nick_Germany_(1080p),https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 Nick_HD+_(1080p),http://iptvcasomsapi.jprdigital.in/x-media/C0450/master.m3u8
 Nick_Jr._(576p),http://iptvcasomsapi.jprdigital.in/x-media/C0409/master.m3u8
-Nick_Jr._Latin_America_(480p),http://38.199.6.1:17001/play/a0pb/index.m3u8
 Nickelodeon,http://x1co.com.br:8080/hls/0/stream.m3u8
 Nickelodeon_Clássico,https://jmp2.uk/plu-5f12151794c1800007a8ae63.m3u8
 Nickelodeon_en_español,https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
@@ -8634,6 +8635,7 @@ CVR_Health_(576p),https://cdn-6.pishow.tv/live/395/master.m3u8
 Divinity_(1080p),http://45.95.78.232:8001/udp/239.106.83.5:5000
 ETV_Life_(480p),https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8
 FASHION_&_LIFESTYLE,http://31.148.48.15/Fashion_One_HD/index.m3u8
+FashionBox,https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/278259/enc123/fashionboxhdraw/fashionboxhdraw.m3u8
 FashionTV_Europe_(1080p),https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
 FashionTV_Paris_L'Original_(1080p),https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 FashionTV_Secrets_(1080p),https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
@@ -9512,6 +9514,7 @@ Crime360_(1080p),https://eb3933ec.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636
 DangerTV_(720p),https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8
 Dateline_24/7_(1080p),https://d4whmvwm0rdvi.cloudfront.net/10007/99993007/hls/master.m3u8?ads.xumo_channelId=99993007
 Deadly_Women,https://jmp2.uk/plu-5ca1df0d50be2571e393ad31.m3u8
+DocuBox,https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc110/docuboxhdraw/docuboxhdraw.m3u8
 Documentary+_(1080p),https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
 Documentary+_International_(1080p),https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
 Docurama_(1080p),https://docurama-plex-ingest.cinedigm.com/playlist.m3u8
