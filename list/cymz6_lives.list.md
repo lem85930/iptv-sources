@@ -14,4 +14,4 @@
 | 8 | 百姓调解 | IPv4 直链 | <http://1.197.250.86:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 9 | 福建东南 | IPv4 直链 | <http://1.197.250.86:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Thu Mar 19 2026 07:03:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Mar 19 2026 08:50:56 GMT+0000 (Coordinated Universal Time)**
