@@ -1571,8 +1571,8 @@ https://stream1.freetv.fun/0a48ebcfe67e0bfa17036b52f3ce43a0bc9bc464c45b565ad99ef
 https://stream1.freetv.fun/6ed0862fa8aa6c2b55ecc99a0f2f6b18d387854baa2bda1035807ef8c318160e.m3u8
 #EXTINF:-1 tvg-name="Sony Max India" tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/" group-title="Generic",[SD]india
 https://stream1.freetv.fun/a612c733d47a1b39cf9be95f1b953c44e42f02ee60081080d0ac8c4c763b362a.m3u8
-#EXTINF:-1 tvg-name="Sony One HD" tvg-id="369728" tvg-country="Singapore" tvg-language="Korean" tvg-logo="https://epg.pw/media/img/logo/sony_one.jpg" group-title="Movies",[BD]sony one favoris
-https://stream1.freetv.fun/b2789fc1d02c76625a3fefcef39f89278e999779ecee668f743410d9fe3597c8.m3u8
+#EXTINF:-1 tvg-name="Sony One HD" tvg-id="369728" tvg-country="Singapore" tvg-language="Korean" tvg-logo="https://epg.pw/media/img/logo/sony_one.jpg" group-title="Movies",[HD]sony one classics
+https://stream1.freetv.fun/312ce6b40bc9b94ebdb861ddebe038db49b108221be5c6e841dac39c1223c262.m3u8
 #EXTINF:-1 tvg-name="Sony Sab India" tvg-id="" tvg-country="India" tvg-language="Hindi" tvg-logo="https://epg.pw/media/" group-title="Generic",[SD]sony sab
 https://stream1.freetv.fun/ca414ac42f1a896b8b1a65fcbaa9db1cdba8d955ba32ccb3aa4ba3e2351d502a.m3u8
 #EXTINF:-1 tvg-name="Sony Sci-Fi" tvg-id="" tvg-country="Russia" tvg-language="Русский" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/18/20170218023124530787_31.png" group-title="Movies",[SD].sci-fi

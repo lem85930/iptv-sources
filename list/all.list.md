@@ -790,7 +790,7 @@
 | 784 | [HD]soap latino | stream1.freetv.fun | <https://stream1.freetv.fun/0a48ebcfe67e0bfa17036b52f3ce43a0bc9bc464c45b565ad99ef07bed5652cc.m3u8> |
 | 785 | [SD]sony aath | stream1.freetv.fun | <https://stream1.freetv.fun/6ed0862fa8aa6c2b55ecc99a0f2f6b18d387854baa2bda1035807ef8c318160e.m3u8> |
 | 786 | [SD]india | stream1.freetv.fun | <https://stream1.freetv.fun/a612c733d47a1b39cf9be95f1b953c44e42f02ee60081080d0ac8c4c763b362a.m3u8> |
-| 787 | [BD]sony one favoris | stream1.freetv.fun | <https://stream1.freetv.fun/b2789fc1d02c76625a3fefcef39f89278e999779ecee668f743410d9fe3597c8.m3u8> |
+| 787 | [HD]sony one classics | stream1.freetv.fun | <https://stream1.freetv.fun/312ce6b40bc9b94ebdb861ddebe038db49b108221be5c6e841dac39c1223c262.m3u8> |
 | 788 | [SD]sony sab | stream1.freetv.fun | <https://stream1.freetv.fun/ca414ac42f1a896b8b1a65fcbaa9db1cdba8d955ba32ccb3aa4ba3e2351d502a.m3u8> |
 | 789 | [SD].sci-fi | stream1.freetv.fun | <https://stream1.freetv.fun/022abec741d5018fd614268d1d7c16d66510b273f4036b5f8028c3c6b24a083c.m3u8> |
 | 790 | [BD]sony sports ten 2 | stream1.freetv.fun | <https://stream1.freetv.fun/4023cdab13d82c8a67b23c35f095579bda1a750f69e3d04f6619f00755b2b9aa.m3u8> |
@@ -1398,4 +1398,4 @@
 | 1392 | [BD]龙华经典 *b | stream1.freetv.fun | <https://stream1.freetv.fun/4e122ffecac69bbab2b83c2a0af88a9e65cb34da2eb393b62fe0169ed6157bfa.ctv> |
 | 1393 | [BD]龙华电影 *b | stream1.freetv.fun | <https://stream1.freetv.fun/890a2f4d66593bb51749c90826814911941e2ad758c5d4528ceb2785ddf0a37f.ctv> |
 
-Updated at **Sat Mar 28 2026 14:36:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 28 2026 16:39:43 GMT+0000 (Coordinated Universal Time)**
