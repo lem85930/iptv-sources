@@ -195,7 +195,6 @@
 
 音乐,#genre#
 [VGA]cctv15音乐,https://stream1.freetv.fun/4ff2aa344b71cc6bb0ec541e9c3f4b51f71dfa9c283f7c1a73d6de05dd7b8db9.ctv
-[BD]cctv风云音乐,https://stream1.freetv.fun/935d5cf07739793fc759bc452499ad8eec680c5f95ad9523becb74de22a9d3c3.ctv
 
 运动,#genre#
 [BD]cctv16,https://stream1.freetv.fun/9ff6b8788643f71b236cc1ea7967b79edf870c1e992eea01d7df92cfeaf3b9db.m3u8
