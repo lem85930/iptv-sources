@@ -24,4 +24,4 @@
 | 18 | CCTV-16 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/17/index.m3u8> |
 | 19 | CCTV-17 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/18/index.m3u8> |
 
-Updated at **Thu Apr 02 2026 19:06:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Apr 02 2026 19:10:03 GMT+0000 (Coordinated Universal Time)**
