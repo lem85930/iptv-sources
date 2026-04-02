@@ -79,4 +79,4 @@
 | 73 | 金鹰卡通 | IPv4 直链 | <http://125.42.151.5:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 74 | 魅力音乐 | IPv4 直链 | <http://125.43.240.77:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Thu Apr 02 2026 00:00:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Apr 02 2026 02:44:05 GMT+0000 (Coordinated Universal Time)**
