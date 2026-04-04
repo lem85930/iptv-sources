@@ -1,4 +1,4 @@
-# List for **iptv.org stream China CCTV**(Rollback)
+# List for **iptv.org stream China CCTV**
 
 > M3U: [o_s_cn_cctv.m3u](/o_s_cn_cctv.m3u), TXT: [o_s_cn_cctv.txt](/txt/o_s_cn_cctv.txt)
 
@@ -24,4 +24,4 @@
 | 18 | CCTV-16 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/17/index.m3u8> |
 | 19 | CCTV-17 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/18/index.m3u8> |
 
-Updated at **Sat Apr 04 2026 10:38:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Apr 04 2026 13:05:58 GMT+0000 (Coordinated Universal Time)**
