@@ -382,4 +382,4 @@
 | 376 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
 | 377 | CCTV-16 | IPv4 直链 | <http://74.91.26.218:82/live/cctv16hd.m3u8> |
 
-Updated at **Tue Apr 07 2026 09:10:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Apr 07 2026 13:27:35 GMT+0000 (Coordinated Universal Time)**
