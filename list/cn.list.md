@@ -8,7 +8,7 @@
 | 2 | [BD]brtv文艺 | stream1.freetv.fun | <https://stream1.freetv.fun/09ec4900d4de9c74b7b6a236f0e6e32f6865ac8f5e4b4dc63bf26a38600fbca7.ctv> |
 | 3 | [BD]brtv生活 | stream1.freetv.fun | <https://stream1.freetv.fun/3ac1b65d69889e0ad355ecb1f76bad98b46bf1cad28ed7333a7e440fca79c523.ctv> |
 | 4 | [BD]brtv财经 | stream1.freetv.fun | <https://stream1.freetv.fun/aaa9b688f4071cd678369ef6c7884093adac66334d136b884fd1a5071aa932d0.ctv> |
-| 5 | [BD]cctv-8 | stream1.freetv.fun | <https://stream1.freetv.fun/2e306ebe387de83590a676b156f6db16f86d4c598cb04b945d3a9deb2a2f5f68.m3u8> |
+| 5 | [BD]cctv8k | stream1.freetv.fun | <https://stream1.freetv.fun/f00b65a999808a7628f919dd8b21733a26889424542698837046d0b68e4c75e4.ctv> |
 | 6 | [BD]documentary plus | stream1.freetv.fun | <https://stream1.freetv.fun/39c6ca9887b134e09b5b500e6b5e8bc96a925f65ef10e490ff3d1558b2f5cd5b.m3u8> |
 | 7 | [SD]cctv-11戏曲 | stream1.freetv.fun | <https://stream1.freetv.fun/eaf4e0e2c629346956a139b88c52acc48cd06558dfa29887855308881615240c.ctv> |
 | 8 | [BD]cctv1 | stream1.freetv.fun | <https://stream1.freetv.fun/4a250dafef7349ead704088bec3993f3cd3b2cdcb604f23bbf700da31434fa08.ctv> |
@@ -230,4 +230,4 @@
 | 224 | [SD]电影 | stream1.freetv.fun | <https://stream1.freetv.fun/e4d02d393bccc5c2b80d58eb4978c3b32181296b5fc4c92fe04bf88528736633.ctv> |
 | 225 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.ctv> |
 
-Updated at **Wed Apr 08 2026 07:41:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Apr 08 2026 09:08:18 GMT+0000 (Coordinated Universal Time)**

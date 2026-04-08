@@ -22,7 +22,7 @@
 
 综合,#genre#
 [BD]brtv生活,https://stream1.freetv.fun/3ac1b65d69889e0ad355ecb1f76bad98b46bf1cad28ed7333a7e440fca79c523.ctv
-[BD]cctv-8,https://stream1.freetv.fun/2e306ebe387de83590a676b156f6db16f86d4c598cb04b945d3a9deb2a2f5f68.m3u8
+[BD]cctv8k,https://stream1.freetv.fun/f00b65a999808a7628f919dd8b21733a26889424542698837046d0b68e4c75e4.ctv
 [BD]cctv1,https://stream1.freetv.fun/4a250dafef7349ead704088bec3993f3cd3b2cdcb604f23bbf700da31434fa08.ctv
 [BD]cctv12,https://stream1.freetv.fun/6f4520a649957c1068efd36c848b994de2752266a929a4f9a50dba84b9baf9b7.ctv
 [BD]cctv-4中文国际,https://stream1.freetv.fun/c92aa811a258945338213c876807000d7dac9ebd2b5f305a7417a8586cc683cc.ctv
