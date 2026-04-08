@@ -248,7 +248,7 @@
 | 242 | [HD]mgm plus | stream1.freetv.fun | <https://stream1.freetv.fun/1f3422e06db0838e9f3dc8d8758a6e25478c8c649baa4bcb6f3d82ae2088e852.ctv> |
 | 243 | [BD]cmc | stream1.freetv.fun | <https://stream1.freetv.fun/635ae27d39d925026dd11fa862f5f10f9cdae60e0d934298627d2ec8595e5177.m3u8> |
 | 244 | [BD]cmusic | stream1.freetv.fun | <https://stream1.freetv.fun/12874e10df3ee3c483c12fc7a3ac5f7def30f463b35f3e0cf9dfe163ee16df8b.ctv> |
-| 245 | [HD]cnn brasil | stream1.freetv.fun | <https://stream1.freetv.fun/6e0dee5fa9288239fa366c099bc0735133bfc398782c8459def263a6c29ecea2.m3u8> |
+| 245 | [BD]cnn brasil | stream1.freetv.fun | <https://stream1.freetv.fun/69203e3699bcd1274c2bb97c141574c9548f0df6bbe41f6dedd26a38a82db988.m3u8> |
 | 246 | [HD]cnt | stream1.freetv.fun | <https://stream1.freetv.fun/6092b749027b96795243da1fb0ae072cffedf5f80b3618f08a54265e6ada99d6.m3u8> |
 | 247 | [BD]cna | stream1.freetv.fun | <https://stream1.freetv.fun/78c1c7eb4b3abda6e1795d40b3b8d384499a2739c8eba782e5a570d8e983f42c.m3u8> |
 | 248 | [HD]cnbc asia | stream1.freetv.fun | <https://stream1.freetv.fun/cb2127590a38666784e67424ae0173ca2cd599dfc43df9f91fc03b994f3cfbec.m3u8> |
@@ -1542,4 +1542,4 @@
 | 1536 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/1bb5d074aab559954dd989711eb5a8fcd9918bb610de77b7f68bb2c37976c3a1.ctv> |
 | 1537 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/e61ec6990715622e4b73cf6eb9b3b83a245bd96c7fa9a5d2cd066490f092289c.ctv> |
 
-Updated at **Wed Apr 08 2026 20:51:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Apr 08 2026 23:47:50 GMT+0000 (Coordinated Universal Time)**

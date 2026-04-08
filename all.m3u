@@ -487,8 +487,8 @@ https://stream1.freetv.fun/1f3422e06db0838e9f3dc8d8758a6e25478c8c649baa4bcb6f3d8
 https://stream1.freetv.fun/635ae27d39d925026dd11fa862f5f10f9cdae60e0d934298627d2ec8595e5177.m3u8
 #EXTINF:-1 tvg-name="CMusic" tvg-id="" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090457244729_96.png" group-title="Entertainment",[BD]cmusic
 https://stream1.freetv.fun/12874e10df3ee3c483c12fc7a3ac5f7def30f463b35f3e0cf9dfe163ee16df8b.ctv
-#EXTINF:-1 tvg-name="CN Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020654244584_90.png" group-title="Kids",[HD]cnn brasil
-https://stream1.freetv.fun/6e0dee5fa9288239fa366c099bc0735133bfc398782c8459def263a6c29ecea2.m3u8
+#EXTINF:-1 tvg-name="CN Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020654244584_90.png" group-title="Kids",[BD]cnn brasil
+https://stream1.freetv.fun/69203e3699bcd1274c2bb97c141574c9548f0df6bbe41f6dedd26a38a82db988.m3u8
 #EXTINF:-1 tvg-name="CN HD" tvg-id="" tvg-country="United States" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/07/02/large/20220702141008275477_19.jpg" group-title="Kids",[HD]cnt
 https://stream1.freetv.fun/6092b749027b96795243da1fb0ae072cffedf5f80b3618f08a54265e6ada99d6.m3u8
 #EXTINF:-1 tvg-name="CNA" tvg-id="2852" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[BD]cna
