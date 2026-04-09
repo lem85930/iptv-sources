@@ -628,7 +628,7 @@ Generic,#genre#
 [BD]star_sports_1,https://stream1.freetv.fun/37d68d118c31e93304fb00dccdfb1514940d9d2824e6cba707637ef3d71d0e2a.m3u8
 [SD]star_gold_thrills,https://stream1.freetv.fun/2fec31b8f3f129f2a4af355ae88b43e0a5101303f8da3466989c61d4018b0da6.m3u8
 [BD]star,https://stream1.freetv.fun/f9f701d96293baae0997d9890f9ea1ddeca18fc1298546bba55f99e42ffb7a46.m3u8
-[BD]star_vijay,https://stream1.freetv.fun/8bb261a0ca7fee8c6cad944cd597b1dd5b3b1a814117544458cc5a82a0709c5c.m3u8
+[HD]star_vijay,https://stream1.freetv.fun/e895e4a48afaffb50843711c711a4cb7ac441f318bc61dd236af703a42b694a1.m3u8
 [BD]sundance_tv,https://stream1.freetv.fun/bd625f312577966238a7d31a6026c9c03e59fd45fdb905c78923c84a5ffc1d56.m3u8
 [HD]super_tv,https://stream1.freetv.fun/bd2756e65c7c4431e73e3dcf6edab70135c85b1ca845f8f3dca70894cec494dc.m3u8
 [BD]syria_tv,https://stream1.freetv.fun/f7864f25766ea4661229ef8db67dfdce57f6b0619ff242cf73f39624d4a349c4.m3u8

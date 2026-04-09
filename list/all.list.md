@@ -903,7 +903,7 @@
 | 897 | [HD]gold star | stream1.freetv.fun | <https://stream1.freetv.fun/63600a71ad76448e69fc83a8d3c9bf63fb3b43635ffdb15edd4f65b03cc02d29.m3u8> |
 | 898 | [BD]star sports 1 tamil | stream1.freetv.fun | <https://stream1.freetv.fun/7097723c11e56b715da1796548853f3cc6751ab5d36ea4b9f6f8f227289108c7.m3u8> |
 | 899 | [HD]star tve | stream1.freetv.fun | <https://stream1.freetv.fun/3f04c1cff0bd91876e02f2ff5895433b5ed7d19b65caa48db08057392ff5f262.m3u8> |
-| 900 | [BD]star vijay | stream1.freetv.fun | <https://stream1.freetv.fun/8bb261a0ca7fee8c6cad944cd597b1dd5b3b1a814117544458cc5a82a0709c5c.m3u8> |
+| 900 | [HD]star vijay | stream1.freetv.fun | <https://stream1.freetv.fun/e895e4a48afaffb50843711c711a4cb7ac441f318bc61dd236af703a42b694a1.m3u8> |
 | 901 | [BD]start world | stream1.freetv.fun | <https://stream1.freetv.fun/71058bba10627763c0c832250517c552417e99902ff0ec1866ecffaff400275d.m3u8> |
 | 902 | [SD]starz | stream1.freetv.fun | <https://stream1.freetv.fun/cbfd66651c46acb88e2ed16725b34266a5789a4b99e3e048d49ed2d7cedb4cff.m3u8> |
 | 903 | [BD]STARZ CINEMA *28 | stream1.freetv.fun | <https://stream1.freetv.fun/d5d3234c756e4caba304b08b6a4e6885131d7b8cf173c2e5b2ff23eb582c8231.m3u8> |
@@ -1538,4 +1538,4 @@
 | 1532 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/1bb5d074aab559954dd989711eb5a8fcd9918bb610de77b7f68bb2c37976c3a1.ctv> |
 | 1533 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/e61ec6990715622e4b73cf6eb9b3b83a245bd96c7fa9a5d2cd066490f092289c.ctv> |
 
-Updated at **Thu Apr 09 2026 19:19:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Apr 09 2026 20:56:53 GMT+0000 (Coordinated Universal Time)**
