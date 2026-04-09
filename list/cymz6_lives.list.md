@@ -63,4 +63,4 @@
 | 57 | 相声小品 | IPv4 直链 | <http://221.13.235.4:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 58 | 金鹰卡通 | IPv4 直链 | <http://221.13.235.4:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Thu Apr 09 2026 02:45:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Apr 09 2026 05:50:52 GMT+0000 (Coordinated Universal Time)**
