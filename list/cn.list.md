@@ -44,7 +44,7 @@
 | 38 | [HD]cgtn русский | stream1.freetv.fun | <https://stream1.freetv.fun/800af3de6d2cab9fc463ec417c6ab737591154a8eafa27fb43713a33bc7f6dd5.m3u8> |
 | 39 | [BD]rt العربية | stream1.freetv.fun | <https://stream1.freetv.fun/3c8d66bc943ae964ff9e292aa6a303ed5613a9e9e2e1d0e48fa1ef63c31bafba.m3u8> |
 | 40 | [BD]chc动作电影 | stream1.freetv.fun | <https://stream1.freetv.fun/326dbff08ac3f3daab8e3c5eb5b353bcb2ef1a0073b6a873cd5200bfce80c503.ctv> |
-| 41 | [BD]chc家庭影院 | stream1.freetv.fun | <https://stream1.freetv.fun/7190c4b7871ed14335fec665c7ff14ebab77801737479b3fdafc4c6d908886ed.ctv> |
+| 41 | [BD]chc家庭影院 | stream1.freetv.fun | <https://stream1.freetv.fun/2b45ab26788c821401371dbf86a901788c370be24c871d66c9f0e0e38a26997f.ctv> |
 | 42 | [BD]chc影迷电影 | stream1.freetv.fun | <https://stream1.freetv.fun/7e5bfba7669a360f9ceee2e2641ca7d527e551e211009ec569fca31d4689919d.ctv> |
 | 43 | [SD]nfl channel | stream1.freetv.fun | <https://stream1.freetv.fun/b815242bb6eb2bff5879e82b1e538b32a378fced5d6cde60e8c0e7926b6b1bf4.m3u8> |
 | 44 | [BD]nbtv-1 | stream1.freetv.fun | <https://stream1.freetv.fun/79e1ce2e2c4dcf1e45f26cfed5c7c2a8f3b2063bee62b9e3d7694656b1ee4872.m3u8> |
@@ -232,4 +232,4 @@
 | 226 | [SD]电影 | stream1.freetv.fun | <https://stream1.freetv.fun/e4d02d393bccc5c2b80d58eb4978c3b32181296b5fc4c92fe04bf88528736633.ctv> |
 | 227 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.ctv> |
 
-Updated at **Fri Apr 10 2026 09:17:17 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Apr 10 2026 11:00:18 GMT+0000 (Coordinated Universal Time)**
