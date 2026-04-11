@@ -148,7 +148,7 @@
 | 142 | [SD]武义新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/f289c326c301a6e0f4efb745988664e4e703efe1d44a3da05e9c61753d4c7f38.m3u8> |
 | 143 | [BD]求索纪录[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/8d33b456b45a398dabd6c78632de992c5a2c2adcc066cec7469162d2fb34225f.m3u8> |
 | 144 | [SD]汕尾新闻综合[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/062fedadba1a81e9549f247d5fa4e7c10af6a871d5f7cfce5b7f843fb5f2074d.m3u8> |
-| 145 | [BD]汕尾综合高清 | stream1.freetv.fun | <https://stream1.freetv.fun/8ac1d2758ec3ab0aa1ee8c5633bda3a613cbe85f73c3fb188ebb799f98f1e6db.ctv> |
+| 145 | [BD]汕尾综合高清 | stream1.freetv.fun | <https://stream1.freetv.fun/d29f0e32508e86e8984f07d065a8a2372d51962ac8234a83b750958a43ba7748.ctv> |
 | 146 | [SD]汕头经济生活[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/df1c23bfd3de01df2000c14a091824044c94b92a436f0f6a42237bf6ae0b89f9.m3u8> |
 | 147 | [SD]汕头综合[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/b6e72f9b5850337e3e4c69299c11d780f790e78e810f7a43bc6322ba01105a13.m3u8> |
 | 148 | [VGA]公共新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/df69a81c4ee0b43d5857c70f89554d802c067293e982b2ce6e72b37b3e863e66.ctv> |
@@ -183,7 +183,7 @@
 | 177 | [BD]深圳卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/7d757fa493739ff207393df39f8f3802fb8ad230acf5ccb8917c0d3c6f37ef70.m3u8> |
 | 178 | [BD]深圳都市 | stream1.freetv.fun | <https://stream1.freetv.fun/15ae672fb25be25731b968fc7f2c35f042760fecd2eaa5704f53e14ff99997fc.ctv> |
 | 179 | [HD]深圳电视剧 | stream1.freetv.fun | <https://stream1.freetv.fun/d998541f0ea7980bd3269e70cb06bc71a468f5e6c34afe58cd0673a3dcfd7578.m3u8> |
-| 180 | [VGA]清远新闻综合[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/bc6eb2a72333052a9c75d45ad74a7c6057d8bf97a59dfa3eb25511047b8fd614.m3u8> |
+| 180 | [BD]清远新闻综合[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/cb76a90104f5fd5906f6a01da8314ab29a28f9ebda5daabe9526892304527527.m3u8> |
 | 181 | [HD]湖北垄上 | stream1.freetv.fun | <https://stream1.freetv.fun/de5488dfe42d8f411c4dc7bcdf6118734d41104c0d4de94cec73cef3506947c0.m3u8> |
 | 182 | [HD]湖北影视 | stream1.freetv.fun | <https://stream1.freetv.fun/4afd45f76ddcb7db57420531280c942364c3550566bc17976bff074ec5b5ef8f.m3u8> |
 | 183 | [HD]湖北教育 | stream1.freetv.fun | <https://stream1.freetv.fun/e0c99472cb6326d5520668312aebbe45ff9b35a6195f62daf631c47fa78dad25.m3u8> |
@@ -249,4 +249,4 @@
 | 243 | [SD]韶关新闻综合[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/e78fe0e158ef4e38279716a61388ad91b83f441296091cb7ba250f4cc95bc9f6.m3u8> |
 | 244 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.ctv> |
 
-Updated at **Sat Apr 11 2026 05:26:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Apr 11 2026 07:06:19 GMT+0000 (Coordinated Universal Time)**
