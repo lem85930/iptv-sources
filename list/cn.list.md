@@ -31,7 +31,7 @@
 | 25 | [BD]cctv5 | stream1.freetv.fun | <https://stream1.freetv.fun/1fb11a4dfd0caa1d4b3cb3587d86139d1b1741d1aaa98e4d18e88dc6860ca486.ctv> |
 | 26 | [BD]cctv5 plus | stream1.freetv.fun | <https://stream1.freetv.fun/a738860ec7fcaf655c7db23c3d6ef52d023e652b5486379db530287184dad292.m3u8> |
 | 27 | [BD]cctv5 plus[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/46118cd0438ddbb2d6f349706132ced2104495cf4cf1019ef84d89465e048ca6.m3u8> |
-| 28 | [BD]cctv6 | stream1.freetv.fun | <https://stream1.freetv.fun/12222da81a59a4b766eebab3c8c43f4fa910637ea182be42e2affdae3ebb845c.ctv> |
+| 28 | [BD]cctv6 | stream1.freetv.fun | <https://stream1.freetv.fun/7f1d25301e793ceb7fd1cbfdc02e81252ad78b67dd82d993fff0bd1f909e5af2.m3u8> |
 | 29 | [BD]cctv7 | stream1.freetv.fun | <https://stream1.freetv.fun/79834e11f92f2d6a40ee7474e2f8f01a88c85e5d84b33a7f0ab13d67b0604a88.m3u8> |
 | 30 | [BD]cctv8[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/a15c826cb06f60854c3c203da5848c1cfb80ea188ddfd7ca83bd845f170ca2a1.m3u8> |
 | 31 | [BD]cctv-9 | stream1.freetv.fun | <https://stream1.freetv.fun/fc736fc666b40ceb27c58aab6a2c81ab33d5b7e60fcbdccaaa15ffc3285a27a1.m3u8> |
@@ -253,4 +253,4 @@
 | 247 | [SD]韶关新闻综合[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/e78fe0e158ef4e38279716a61388ad91b83f441296091cb7ba250f4cc95bc9f6.m3u8> |
 | 248 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.ctv> |
 
-Updated at **Sun Apr 12 2026 07:24:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 12 2026 08:55:50 GMT+0000 (Coordinated Universal Time)**
