@@ -86,7 +86,7 @@ Movies,#genre#
 [HD]hei_now,https://stream1.freetv.fun/88b81638b15589a63e03199fac1bdd0e9855b4635425072ba8799c0a4121a57e.m3u8
 [HD]mtv_hits,https://stream1.freetv.fun/a5906c9f3dc606220b0357907bf480aa2c49eed41b241db2035fe61a22958b34.ctv
 [SD]hollywire,https://stream1.freetv.fun/cb6f4241099d903080214efe241f463e39c1d9314b4d02087fb8f3b0e9235ccc.m3u8
-[BD]hollywood,https://stream1.freetv.fun/793a7877c65e6c293fd5f27ff22851a47af907efc537167108aa089643cfdfd0.m3u8
+[SD]hollywood,https://stream1.freetv.fun/95a8b50ee9ca6c3c94b6bdf5ac8fcbbbea9de08e4eaa4ec3263f37b0c9a8a9d2.m3u8
 [SD]ion,https://stream1.freetv.fun/8c8e8e85c829b6ec6997d35b86de1fdcede1fe36f152159d7c017995ecbbd3f9.m3u8
 [HD]story,https://stream1.freetv.fun/41b2fdd5b169ef517db9275286975c4ad0dd967ca4e4f98fc030f7c0e53836d4.ctv
 [VGA]pbs_ket_world_(480p),https://stream1.freetv.fun/29e6394deb11a02567e6173215b92d713c5a559c72e72e8875b8fbe9363ca4e9.m3u8

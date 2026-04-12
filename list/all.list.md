@@ -539,7 +539,7 @@
 | 533 | [HD]mtv hits | stream1.freetv.fun | <https://stream1.freetv.fun/a5906c9f3dc606220b0357907bf480aa2c49eed41b241db2035fe61a22958b34.ctv> |
 | 534 | [HD]hola tv | stream1.freetv.fun | <https://stream1.freetv.fun/11d21f03caa3c4adf8433f18f558aa1e7952e4456d7cafafd1b6b6f02d947fed.ctv> |
 | 535 | [SD]hollywire | stream1.freetv.fun | <https://stream1.freetv.fun/cb6f4241099d903080214efe241f463e39c1d9314b4d02087fb8f3b0e9235ccc.m3u8> |
-| 536 | [BD]hollywood | stream1.freetv.fun | <https://stream1.freetv.fun/793a7877c65e6c293fd5f27ff22851a47af907efc537167108aa089643cfdfd0.m3u8> |
+| 536 | [SD]hollywood | stream1.freetv.fun | <https://stream1.freetv.fun/95a8b50ee9ca6c3c94b6bdf5ac8fcbbbea9de08e4eaa4ec3263f37b0c9a8a9d2.m3u8> |
 | 537 | [HD]horse and country | stream1.freetv.fun | <https://stream1.freetv.fun/188b2aabeb9049328a2673377c2b8a3ed136dc839b99d6f2dbb0b031f966e203.m3u8> |
 | 538 | [VGA]atv colombia | stream1.freetv.fun | <https://stream1.freetv.fun/13f1398c6058ee0c71874576aae1e95f37396da42a5ce3f92c746df97748f90b.m3u8> |
 | 539 | [HD]hungama tv | stream1.freetv.fun | <https://stream1.freetv.fun/395949b82af7575a22b57e018657de0f9f2209369325f56750314cbe65816e92.m3u8> |
@@ -1550,4 +1550,4 @@
 | 1544 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/1bb5d074aab559954dd989711eb5a8fcd9918bb610de77b7f68bb2c37976c3a1.ctv> |
 | 1545 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/e61ec6990715622e4b73cf6eb9b3b83a245bd96c7fa9a5d2cd066490f092289c.ctv> |
 
-Updated at **Sun Apr 12 2026 08:55:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 12 2026 10:47:53 GMT+0000 (Coordinated Universal Time)**
