@@ -19,7 +19,7 @@
 | 13 | [BD]cctv12 | stream1.freetv.fun | <https://stream1.freetv.fun/1bf6d0c6726f032a9bc41f9cb6b498c67ccdfe47362d6b29b6a2fb2a56c57a53.m3u8> |
 | 14 | [VGA]cctv13新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/195285b7d2b47320784c2a5362d7abdcb8f5c90640b5652b0d333fd5b6bb46b5.ctv> |
 | 15 | [BD]cctv-14少儿 | stream1.freetv.fun | <https://stream1.freetv.fun/16b39a17c3bc3f5982d0796055c25699d7ffc0948274e5f69da181d74d680bc8.ctv> |
-| 16 | [VGA]cctv15音乐 | stream1.freetv.fun | <https://stream1.freetv.fun/4ff2aa344b71cc6bb0ec541e9c3f4b51f71dfa9c283f7c1a73d6de05dd7b8db9.ctv> |
+| 16 | [VGA]cctv15音乐 | stream1.freetv.fun | <https://stream1.freetv.fun/05ad6faa8053ae4fff9c77b1bf8dcfbf9131037e7a07bf5b65e96abb1156433d.ctv> |
 | 17 | [BD]cctv16 | stream1.freetv.fun | <https://stream1.freetv.fun/9ff6b8788643f71b236cc1ea7967b79edf870c1e992eea01d7df92cfeaf3b9db.m3u8> |
 | 18 | [BD]cctv17 | stream1.freetv.fun | <https://stream1.freetv.fun/6958843bcfef5b203ef94d0746073323225bf80e0cea9f33cfb05a692396233d.m3u8> |
 | 19 | [SD]cctv2财经 | stream1.freetv.fun | <https://stream1.freetv.fun/fe7c5e4b8ed873b12ee2971b238b3ce0257d24e3a0f25bf53fbaae718d461c99.ctv> |
@@ -27,15 +27,15 @@
 | 21 | [BD]cctv4 | stream1.freetv.fun | <https://stream1.freetv.fun/5ea26961bbc8690cbd372a194e8801249644123feab6354e1f2cdd2b8a0026ca.m3u8> |
 | 22 | [BD]cctv4k | stream1.freetv.fun | <https://stream1.freetv.fun/396f01ea6d3a5491a320c53e767857f848b6f5b53273cde1932cb7f39b7f9bc0.m3u8> |
 | 23 | [BD]cctv-4中文国际 | stream1.freetv.fun | <https://stream1.freetv.fun/1a9c3e38d2769985f5016831a00190c565883fc851da2fa427aefcb7a6665335.ctv> |
-| 24 | [VGA]cctv4中文国际 | stream1.freetv.fun | <https://stream1.freetv.fun/8a07250a04529fe52772a7995691f04a3153bf67960964ad6a63dd6cc7878659.ctv> |
+| 24 | [SD]cctv4中文国际 | stream1.freetv.fun | <https://stream1.freetv.fun/88a38dbd0fafc97c990caaa3bb42fd8a29eff383052da12cad2e7099612ea35a.ctv> |
 | 25 | [BD]cctv5 | stream1.freetv.fun | <https://stream1.freetv.fun/c0af6816012bc8db68b757c800885dc46c85c43d2d2462eee0697511ad23b954.m3u8> |
-| 26 | [VGA]cctv5体育 | stream1.freetv.fun | <https://stream1.freetv.fun/860e0a5f39c5b6f419d019b18627cd322fc5fc5bdcc86e4564abb9cee8190b48.ctv> |
+| 26 | [BD]cctv-5 | stream1.freetv.fun | <https://stream1.freetv.fun/c7dc975f87d295ccbba1ee7a16abe46240503a593e0fdd1f3930eabb0004f488.m3u8> |
 | 27 | [BD]cctv5 plus | stream1.freetv.fun | <https://stream1.freetv.fun/a738860ec7fcaf655c7db23c3d6ef52d023e652b5486379db530287184dad292.m3u8> |
 | 28 | [VGA]cctv5 plus体育赛事 | stream1.freetv.fun | <https://stream1.freetv.fun/518f11d132212440db2e1a3b39daf7109482323163bedd6be790ac894d3f83e3.ctv> |
 | 29 | [BD]cctv6 | stream1.freetv.fun | <https://stream1.freetv.fun/7f1d25301e793ceb7fd1cbfdc02e81252ad78b67dd82d993fff0bd1f909e5af2.m3u8> |
 | 30 | [BD]cctv7 | stream1.freetv.fun | <https://stream1.freetv.fun/79834e11f92f2d6a40ee7474e2f8f01a88c85e5d84b33a7f0ab13d67b0604a88.m3u8> |
 | 31 | [BD]cctv8 8m1080 | stream1.freetv.fun | <https://stream1.freetv.fun/f26bfb7b82efafeec3cd6628e450f5182ca3d272fc2df261acf3ff6a7b78752a.m3u8> |
-| 32 | [VGA]cctv9纪录 | stream1.freetv.fun | <https://stream1.freetv.fun/1e6dd60cbcf0dd3c3f70bcf80636a150c35cfc33e03c39a05e09622a62392c4c.ctv> |
+| 32 | [BD]cctv-9 | stream1.freetv.fun | <https://stream1.freetv.fun/fc736fc666b40ceb27c58aab6a2c81ab33d5b7e60fcbdccaaa15ffc3285a27a1.m3u8> |
 | 33 | [SD]cctv第一剧场 | stream1.freetv.fun | <https://stream1.freetv.fun/631e31539c1b0c0c745f6727dd2e9511ef40616c5732baa462609264fa22c757.m3u8> |
 | 34 | [BD]cctv风云足球 | stream1.freetv.fun | <https://stream1.freetv.fun/f5984a4a5c2d0b153f783bfe5878209ce03902d76521ede65c4c52f54d50284b.m3u8> |
 | 35 | [BD]cetv1 | stream1.freetv.fun | <https://stream1.freetv.fun/f3ae1dadd66863a3d8d2d948a4ab7ee00b38a1bc8bcfac8b6b51cd210d5fcf2e.ctv> |
@@ -244,4 +244,4 @@
 | 238 | [SD]电影 | stream1.freetv.fun | <https://stream1.freetv.fun/e4d02d393bccc5c2b80d58eb4978c3b32181296b5fc4c92fe04bf88528736633.ctv> |
 | 239 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.ctv> |
 
-Updated at **Fri Apr 17 2026 03:17:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Apr 17 2026 07:19:58 GMT+0000 (Coordinated Universal Time)**

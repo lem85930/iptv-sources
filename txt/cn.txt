@@ -105,7 +105,7 @@
 [SD]cctv1,https://stream1.freetv.fun/9c278a43d5bf7e515412f079507a71cfb8a263ff4938b30757880c9c7cd972b7.m3u8
 [BD]cctv12,https://stream1.freetv.fun/1bf6d0c6726f032a9bc41f9cb6b498c67ccdfe47362d6b29b6a2fb2a56c57a53.m3u8
 [BD]cctv-4中文国际,https://stream1.freetv.fun/1a9c3e38d2769985f5016831a00190c565883fc851da2fa427aefcb7a6665335.ctv
-[VGA]cctv4中文国际,https://stream1.freetv.fun/8a07250a04529fe52772a7995691f04a3153bf67960964ad6a63dd6cc7878659.ctv
+[SD]cctv4中文国际,https://stream1.freetv.fun/88a38dbd0fafc97c990caaa3bb42fd8a29eff383052da12cad2e7099612ea35a.ctv
 [BD]rt_español,https://stream1.freetv.fun/5f7a8fbeb30bfd89e4296f8f9054ee4865b12dd92db69a1436dfcb784dc1d989.m3u8
 [BD]cgtn_français,https://stream1.freetv.fun/8b2e227859e9c10db1b8a04d180b0415b38c6f3ece2bb89dd06c062a8c63b62e.m3u8
 [HD]cgtn_русский,https://stream1.freetv.fun/800af3de6d2cab9fc463ec417c6ab737591154a8eafa27fb43713a33bc7f6dd5.m3u8
@@ -189,7 +189,7 @@
 
 知识,#genre#
 [BD]cctv-4k,https://stream1.freetv.fun/53cc6c7c5f5c2596aa1b684e2c347734aca6dbe90c0befa547a504d714338fe2.ctv
-[VGA]cctv9纪录,https://stream1.freetv.fun/1e6dd60cbcf0dd3c3f70bcf80636a150c35cfc33e03c39a05e09622a62392c4c.ctv
+[BD]cctv-9,https://stream1.freetv.fun/fc736fc666b40ceb27c58aab6a2c81ab33d5b7e60fcbdccaaa15ffc3285a27a1.m3u8
 [BD]cgtn_documentary,https://stream1.freetv.fun/bb88fd2e2af000c20e9f8a2c29c19b3c5b35fcc045ee9864b319736e7dcc33c7.m3u8
 [BD]金鹰纪实,https://stream1.freetv.fun/06673863c75bdea703152b8e55d90f19cbfaac578651d2b60871d5aa3c0990f7.m3u8
 
@@ -233,12 +233,12 @@
 [BD]云南卫视,https://stream1.freetv.fun/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.m3u8
 
 音乐,#genre#
-[VGA]cctv15音乐,https://stream1.freetv.fun/4ff2aa344b71cc6bb0ec541e9c3f4b51f71dfa9c283f7c1a73d6de05dd7b8db9.ctv
+[VGA]cctv15音乐,https://stream1.freetv.fun/05ad6faa8053ae4fff9c77b1bf8dcfbf9131037e7a07bf5b65e96abb1156433d.ctv
 
 运动,#genre#
 [BD]cctv16,https://stream1.freetv.fun/9ff6b8788643f71b236cc1ea7967b79edf870c1e992eea01d7df92cfeaf3b9db.m3u8
 [BD]cctv5,https://stream1.freetv.fun/c0af6816012bc8db68b757c800885dc46c85c43d2d2462eee0697511ad23b954.m3u8
-[VGA]cctv5体育,https://stream1.freetv.fun/860e0a5f39c5b6f419d019b18627cd322fc5fc5bdcc86e4564abb9cee8190b48.ctv
+[BD]cctv-5,https://stream1.freetv.fun/c7dc975f87d295ccbba1ee7a16abe46240503a593e0fdd1f3930eabb0004f488.m3u8
 [BD]cctv5_plus,https://stream1.freetv.fun/a738860ec7fcaf655c7db23c3d6ef52d023e652b5486379db530287184dad292.m3u8
 [VGA]cctv5_plus体育赛事,https://stream1.freetv.fun/518f11d132212440db2e1a3b39daf7109482323163bedd6be790ac894d3f83e3.ctv
 [BD]cctv风云足球,https://stream1.freetv.fun/f5984a4a5c2d0b153f783bfe5878209ce03902d76521ede65c4c52f54d50284b.m3u8
