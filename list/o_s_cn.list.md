@@ -383,4 +383,4 @@
 | 377 | CCTV-16 | IPv4 直链 | <http://74.91.26.218:82/live/cctv16hd.m3u8> |
 | 378 | CCTV-9 (576i) | xykt-fix.github.io | <https://xykt-fix.github.io/Y77.m3u8> |
 
-Updated at **Sat Apr 18 2026 07:30:29 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Apr 18 2026 08:56:46 GMT+0000 (Coordinated Universal Time)**
