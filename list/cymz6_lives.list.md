@@ -33,4 +33,4 @@
 | 27 | 河南电视剧 | IPv4 直链 | <http://182.114.49.159:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 28 | 金鹰卡通 | IPv4 直链 | <http://221.13.235.27:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sat Apr 18 2026 01:26:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Apr 18 2026 02:49:14 GMT+0000 (Coordinated Universal Time)**
