@@ -4,11 +4,8 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | 东南卫视 | IPv4 直链 | <http://125.43.244.73:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 2 | 安徽卫视 | IPv4 直链 | <http://125.43.244.73:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 3 | 山西卫视 | IPv4 直链 | <http://125.43.244.73:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 4 | 重庆卫视 | IPv4 直链 | <http://125.43.244.73:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 5 | 河南民生 | IPv4 直链 | <http://125.43.244.73:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 6 | 魅力音乐 | IPv4 直链 | <http://125.43.244.73:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 1 | 东南卫视 | IPv4 直链 | <http://125.42.148.129:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 2 | 天津卫视 | IPv4 直链 | <http://125.42.148.129:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 3 | 金鹰卡通 | IPv4 直链 | <http://125.42.148.129:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sun Apr 19 2026 20:43:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 19 2026 22:40:47 GMT+0000 (Coordinated Universal Time)**
