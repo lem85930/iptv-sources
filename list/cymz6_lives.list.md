@@ -11,4 +11,4 @@
 | 5 | 河南民生 | IPv4 直链 | <http://125.43.244.73:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 6 | 魅力音乐 | IPv4 直链 | <http://125.43.244.73:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sun Apr 19 2026 08:59:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 19 2026 10:44:22 GMT+0000 (Coordinated Universal Time)**
