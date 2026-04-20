@@ -8,4 +8,4 @@
 | 2 | 天津卫视 | IPv4 直链 | <http://125.42.148.129:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 3 | 金鹰卡通 | IPv4 直链 | <http://125.42.148.129:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Mon Apr 20 2026 19:27:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Apr 20 2026 19:29:49 GMT+0000 (Coordinated Universal Time)**
