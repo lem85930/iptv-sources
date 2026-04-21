@@ -4,8 +4,6 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | 东南卫视 | IPv4 直链 | <http://125.42.148.129:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 2 | 天津卫视 | IPv4 直链 | <http://125.42.148.129:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 3 | 金鹰卡通 | IPv4 直链 | <http://125.42.148.129:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Mon Apr 20 2026 20:53:55 GMT+0000 (Coordinated Universal Time)**
+
+Updated at **Tue Apr 21 2026 01:35:54 GMT+0000 (Coordinated Universal Time)**
