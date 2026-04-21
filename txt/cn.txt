@@ -224,7 +224,7 @@
 [HD]湖北垄上,https://stream1.freetv.fun/de5488dfe42d8f411c4dc7bcdf6118734d41104c0d4de94cec73cef3506947c0.m3u8
 [HD]湖北教育,https://stream1.freetv.fun/e0c99472cb6326d5520668312aebbe45ff9b35a6195f62daf631c47fa78dad25.m3u8
 [HD]湖北生活,https://stream1.freetv.fun/a0b82b4e9481f63d3c5f29ca07af58ccc37a883250cb0434bfe584a7288798fb.m3u8
-[BD]湖南教育,https://stream1.freetv.fun/3a16c3b3c52d9cf75cc25a9dd8a4b506e35a7a7cb8e9100e127c6359494cd0ee.m3u8
+[HD]湖南教育,https://stream1.freetv.fun/354283335738ca823e457e68ba3f4cd00437a1ea7d1ab361f38b38fdde7423b6.m3u8
 [HD]湖州公共,https://stream1.freetv.fun/94f93241eec509bb5096d7980b36fe86b4c4d7de2ee93272030c2c62d34e9553.m3u8
 [HD]湖州娱乐,https://stream1.freetv.fun/8c0deff913dc9e1f960f84c0c8ffd1fca0db4a05a1670e16bc6eac393e9c8f7d.m3u8
 [BD]经济科教,https://stream1.freetv.fun/335a86a4b34384eeb26091cbe319c41d060db3bbd27f3531c5dc32559550d016.ctv
