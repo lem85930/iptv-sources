@@ -382,5 +382,6 @@
 | 376 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
 | 377 | CCTV-16 | IPv4 直链 | <http://74.91.26.218:82/live/cctv16hd.m3u8> |
 | 378 | CCTV-9 (576i) | xykt-fix.github.io | <https://xykt-fix.github.io/Y77.m3u8> |
+| 379 | CCTV-5+ (576i) | IPv4 直链 | <http://69.30.246.194/live/cctv5p.m3u8> |
 
-Updated at **Tue Apr 21 2026 20:58:10 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Apr 22 2026 01:46:27 GMT+0000 (Coordinated Universal Time)**
