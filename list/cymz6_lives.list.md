@@ -56,4 +56,4 @@
 | 50 | 浙江新闻 | IPv4 直链 | <http://101.66.199.163:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 51 | 金鹰卡通 | IPv4 直链 | <http://101.66.199.163:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Thu Apr 23 2026 19:08:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Apr 23 2026 19:39:49 GMT+0000 (Coordinated Universal Time)**
