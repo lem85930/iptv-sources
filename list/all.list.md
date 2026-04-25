@@ -478,7 +478,7 @@
 | 472 | [HD]globo news | stream1.freetv.fun | <https://stream1.freetv.fun/6dfb27b02726b25364b04ccecd5ffe293f7b7cfc87e5601eca7dbc2760b6a768.ctv> |
 | 473 | [VGA]golf channel | stream1.freetv.fun | <https://stream1.freetv.fun/4df28c459b1d0afa446bb6521c9b5b15c8d1a6eaf8cf1997f461d6a89e231a46.ctv> |
 | 474 | [HD]golf usa | stream1.freetv.fun | <https://stream1.freetv.fun/3264dee3a0eade5f8d7fc1894b5cf42aac5403faa4084efa167561b76dcec455.ctv> |
-| 475 | [HD]god tv | stream1.freetv.fun | <https://stream1.freetv.fun/32bda74dd6f85555ef3b3ed5594038268bbaf7620e4cd7dd576b572f14a583ba.m3u8> |
+| 475 | [BD]goodtv | stream1.freetv.fun | <https://stream1.freetv.fun/220bfc00ca9a3a881a2e77802a243fc44e57301639f9551321591966199d6a45.m3u8> |
 | 476 | [BD]gravitas movies | stream1.freetv.fun | <https://stream1.freetv.fun/b9a107ac79c37eb94c61b1b12fd63479ac95a7075346f1be76c886716173ee8b.m3u8> |
 | 477 | [SD]gulli girl | stream1.freetv.fun | <https://stream1.freetv.fun/52e778bf9f847f7664315ec26f65eda3b193edc4c1e32d45e72e2aac4fec7db6.m3u8> |
 | 478 | [BD]uma tv | stream1.freetv.fun | <https://stream1.freetv.fun/f305e13db6ca1c04374b661b72738bd1a968f3ad457752454de58b02e5f7d436.m3u8> |
@@ -853,7 +853,7 @@
 | 847 | [BD]sky news arabia | stream1.freetv.fun | <https://stream1.freetv.fun/2abf6e07cb7e0f6a3984232fa092b0374fa8d909f1b5374b20214e29733e425d.m3u8> |
 | 848 | [BD]sky sports premier league | stream1.freetv.fun | <https://stream1.freetv.fun/7f31b064278f2fb5ac41352f4ea7ed6634fc97c0d50cc10f195e6968760a4d71.m3u8> |
 | 849 | [HD]cbs sports usa | stream1.freetv.fun | <https://stream1.freetv.fun/09309d5a6190fe5fdf32bb990f703186b68aa19ee643280c230a0f744e23d10c.ctv> |
-| 850 | [HD]smithsonian channel pluto tv | stream1.freetv.fun | <https://stream1.freetv.fun/554ade631925d60d635bd9cfd88db9926af56dff9bf1c226bcf5181ac89b09dd.m3u8> |
+| 850 | [SD]smithsonian channel pluto tv | stream1.freetv.fun | <https://stream1.freetv.fun/554ade631925d60d635bd9cfd88db9926af56dff9bf1c226bcf5181ac89b09dd.m3u8> |
 | 851 | [BD]cirque du soleil | stream1.freetv.fun | <https://stream1.freetv.fun/8fbadb412a72af967c4d3e23eef2fb9fb915fd33bd4cb1406dac3704630b65b6.m3u8> |
 | 852 | [HD]soap latino | stream1.freetv.fun | <https://stream1.freetv.fun/0a48ebcfe67e0bfa17036b52f3ce43a0bc9bc464c45b565ad99ef07bed5652cc.m3u8> |
 | 853 | [SD]sony aath | stream1.freetv.fun | <https://stream1.freetv.fun/6ed0862fa8aa6c2b55ecc99a0f2f6b18d387854baa2bda1035807ef8c318160e.m3u8> |
@@ -1491,4 +1491,4 @@
 | 1485 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/1bb5d074aab559954dd989711eb5a8fcd9918bb610de77b7f68bb2c37976c3a1.ctv> |
 | 1486 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/e61ec6990715622e4b73cf6eb9b3b83a245bd96c7fa9a5d2cd066490f092289c.ctv> |
 
-Updated at **Sat Apr 25 2026 01:38:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Apr 25 2026 02:51:08 GMT+0000 (Coordinated Universal Time)**

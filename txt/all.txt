@@ -1029,7 +1029,7 @@ News,#genre#
 [BD]france24_英文,https://stream1.freetv.fun/1a227bccb208c67bfaee743c33fc21dec682f67a32159396a43d16c7253c787c.m3u8
 [HD]haber_global,https://stream1.freetv.fun/c6b55b22e83387248af6e6f11496a37a7621872264efddff9cf5d2e15c03c5d8.m3u8
 [HD]globo_news,https://stream1.freetv.fun/6dfb27b02726b25364b04ccecd5ffe293f7b7cfc87e5601eca7dbc2760b6a768.ctv
-[HD]god_tv,https://stream1.freetv.fun/32bda74dd6f85555ef3b3ed5594038268bbaf7620e4cd7dd576b572f14a583ba.m3u8
+[BD]goodtv,https://stream1.freetv.fun/220bfc00ca9a3a881a2e77802a243fc44e57301639f9551321591966199d6a45.m3u8
 [BD]uma_tv,https://stream1.freetv.fun/f305e13db6ca1c04374b661b72738bd1a968f3ad457752454de58b02e5f7d436.m3u8
 [BD]h20_tv,https://stream1.freetv.fun/87a952eac1c5feee6b8b7056bc8c3d19023e9af0a4981fc805a02cdd96bde344.m3u8
 [BD]hoy_tv,https://stream1.freetv.fun/46e229877cf43dbe3bb518a02d3f4dbd2b2288cf9b54b191145786eebf1a2648.ctv
@@ -1365,7 +1365,7 @@ Knowledge,#genre#
 [BD]rtg,https://stream1.freetv.fun/f9aaca8397440fb949021b53c1172a01a82bbb363109bb5544f5a1d35630bea5.m3u8
 [HD]studio_universal,https://stream1.freetv.fun/db08a23251f545c59ac44a5bce7b81097bcbf76940bd48f0196fbf768ebe5ed2.ctv
 [BD]pbs_nature,https://stream1.freetv.fun/ca9a6684747c091cd75416ef43f4771d38cf945cd816b7151508fba81e85b4a2.m3u8
-[HD]smithsonian_channel_pluto_tv,https://stream1.freetv.fun/554ade631925d60d635bd9cfd88db9926af56dff9bf1c226bcf5181ac89b09dd.m3u8
+[SD]smithsonian_channel_pluto_tv,https://stream1.freetv.fun/554ade631925d60d635bd9cfd88db9926af56dff9bf1c226bcf5181ac89b09dd.m3u8
 [BD]stiletv,https://stream1.freetv.fun/e15a1efdc1fb204728247488244911344eb438bb12d990e3ece2b0f1e814f9ae.m3u8
 [HD]tea_tv,https://stream1.freetv.fun/e73036eaadaa653eca10921c81326f9f6a6f0e4e7dc5f7fa3a1b0b059854531d.m3u8
 [HD]tlc,https://stream1.freetv.fun/4f71a0b99a14921f3da272a837127a9ba8cfc195a62fb7354284ec128b0bef6e.m3u8
