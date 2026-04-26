@@ -201,7 +201,7 @@
 | 195 | [SD]celeb reality | stream1.freetv.fun | <https://stream1.freetv.fun/fa33a2b3e981dc6f3d918bee73826fda846f048ecdaa52bedf0f06fa9cfd40c5.m3u8> |
 | 196 | [BD]cctv-8 | stream1.freetv.fun | <https://stream1.freetv.fun/2e306ebe387de83590a676b156f6db16f86d4c598cb04b945d3a9deb2a2f5f68.m3u8> |
 | 197 | [BD]documentary plus | stream1.freetv.fun | <https://stream1.freetv.fun/39c6ca9887b134e09b5b500e6b5e8bc96a925f65ef10e490ff3d1558b2f5cd5b.m3u8> |
-| 198 | [BD]cctv-11戏曲 | stream1.freetv.fun | <https://stream1.freetv.fun/fcb5c811d0b32e96680235181c937f92691c44facf0460f417eea6a1159f4375.ctv> |
+| 198 | [BD]cctv-11戏曲 | stream1.freetv.fun | <https://stream1.freetv.fun/dcf43a329fbf48a648a5e996bf0733183685702b8b6c150d89aff9a7ec34f2b3.ctv> |
 | 199 | [BD]cctv-1 | stream1.freetv.fun | <https://stream1.freetv.fun/9f1b84dd3a947a7915d0bc74607ef26453ecebe1bbc5d5c0fa624007ac18b0ec.m3u8> |
 | 200 | [SD]cctv10 | stream1.freetv.fun | <https://stream1.freetv.fun/669cea6595ab138a586e3fdbce19f189bcc74a4f683af84615a841bb19fbcf58.m3u8> |
 | 201 | [SD]cctv11 | stream1.freetv.fun | <https://stream1.freetv.fun/a1ee8a4f3954b5e76c7d40251197d089421f936e5f616960f16ff6494fff42bf.m3u8> |
@@ -326,7 +326,7 @@
 | 320 | [BD]dance tv | stream1.freetv.fun | <https://stream1.freetv.fun/e8b0aecc577f72d60bcd13f4f6ac5183292adced71e1b218a69093d6cdd7dbc4.m3u8> |
 | 321 | [HD]dazn1 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv731> |
 | 322 | [SD]dd punjabi | stream1.freetv.fun | <https://stream1.freetv.fun/ca576f56a2e5d337f500a76c03cd5de6a1381bc2eab381a0a59ee2fc3e001f72.m3u8> |
-| 323 | [VGA]tvs classic sports | stream1.freetv.fun | <https://stream1.freetv.fun/37f09154a3a81c26a950256415161280eca88a10501be812070e84b361406294.m3u8> |
+| 323 | [HD]tvs classic sports | stream1.freetv.fun | <https://stream1.freetv.fun/37f09154a3a81c26a950256415161280eca88a10501be812070e84b361406294.m3u8> |
 | 324 | [BD]dd national | stream1.freetv.fun | <https://stream1.freetv.fun/1912135cda1f95f25e7005eb813000202caccac50616d1549a689cfc07835994.m3u8> |
 | 325 | [BD]deejay tv | stream1.freetv.fun | <https://stream1.freetv.fun/e89fb042de8f650ffba0e8b2287470a51395aaed2acc534a40765404ce6f4de2.m3u8> |
 | 326 | [BD]deutsche welle | stream1.freetv.fun | <https://stream1.freetv.fun/f2787c65287c8d6f8086113f751130d0bbd7172b83f11175c26bd86c9b8ba5a9.m3u8> |
@@ -796,7 +796,7 @@
 | 790 | [BD]rotana aflam plus | stream1.freetv.fun | <https://stream1.freetv.fun/458c7d367fdcee2a0040a87a2f8f0e30e02152aa1f67869dbc42c2ab594177e0.m3u8> |
 | 791 | [BD]rotana music | stream1.freetv.fun | <https://stream1.freetv.fun/3da6ddc119a893dc69048896a6efcfa5355d8d9f8d886a665f27828f05afdb0c.m3u8> |
 | 792 | [SD]rugby pass tv | stream1.freetv.fun | <https://stream1.freetv.fun/ea5c527fc34add3567800704d6310140b8ed51b13ba6d5d35ea95e8a5d855cec.m3u8> |
-| 793 | [SD]runtime | stream1.freetv.fun | <https://stream1.freetv.fun/1b5d4babc0d5f86851624290fdc94600c200a3269b58b57c43a73e9ab2c98691.m3u8> |
+| 793 | [HD]runtime | stream1.freetv.fun | <https://stream1.freetv.fun/1b5d4babc0d5f86851624290fdc94600c200a3269b58b57c43a73e9ab2c98691.m3u8> |
 | 794 | [HD]rupavahini | stream1.freetv.fun | <https://stream1.freetv.fun/1e654048d63e5fa03fc2b05d51c36e463a257c6393b591d1b0ca0eb2c9eb0cec.ctv> |
 | 795 | [BD]music box | stream1.freetv.fun | <https://stream1.freetv.fun/6109e3573921712386c16132986f5ae43295772a85b87e48a2fd957a840ab4a0.m3u8> |
 | 796 | [SD]garfield and friends | stream1.freetv.fun | <https://stream1.freetv.fun/69b09979e090dca5929955538bf6eff5622b4049bb2c0bca55a1c89200a446fb.m3u8> |
@@ -1285,7 +1285,7 @@
 | 1279 | [BD]广西国际 | stream1.freetv.fun | <https://stream1.freetv.fun/183f2221f66a05a31ae1c3da27be6554f43b414aba3e4215f15cf9f244e3f24d.m3u8> |
 | 1280 | [BD]广西影视 | stream1.freetv.fun | <https://stream1.freetv.fun/c195e32cc07f3b756e1059536f1a336749ff48cacdd39b0bf69cf72fce5af3ad.m3u8> |
 | 1281 | [BD]广西新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/44a547e17ca72fe25d4c825563853ea2bf27c895c49aeb7932708d5b5709d436.m3u8> |
-| 1282 | [HD]广西移动 | stream1.freetv.fun | <https://stream1.freetv.fun/9edb6a51850843435817455b767982c01c0e429d5bd7daaa8a3d296b6abfd0d1.m3u8> |
+| 1282 | [BD]广西移动 | stream1.freetv.fun | <https://stream1.freetv.fun/9edb6a51850843435817455b767982c01c0e429d5bd7daaa8a3d296b6abfd0d1.m3u8> |
 | 1283 | [BD]广西综艺旅游 | stream1.freetv.fun | <https://stream1.freetv.fun/daf3dbf6d04bf3379c9219793315c3160019d47e28323281ac04e53c4372d579.m3u8> |
 | 1284 | [HD]广西卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.m3u8> |
 | 1285 | [BD]广西都市 | stream1.freetv.fun | <https://stream1.freetv.fun/d94b0f1dcfd4e590b149df8da26baf4d70057db60680580c4a4c62f21c66757e.m3u8> |
@@ -1475,4 +1475,4 @@
 | 1469 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/1bb5d074aab559954dd989711eb5a8fcd9918bb610de77b7f68bb2c37976c3a1.ctv> |
 | 1470 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/e61ec6990715622e4b73cf6eb9b3b83a245bd96c7fa9a5d2cd066490f092289c.ctv> |
 
-Updated at **Sun Apr 26 2026 13:16:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 26 2026 14:51:10 GMT+0000 (Coordinated Universal Time)**
