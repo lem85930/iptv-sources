@@ -8538,6 +8538,9 @@
 	<programme channel="咪咕足球" start="20260427211000 +0800" stop="20260427215000 +0800">
 		<title lang="zh">一球一城 科隆勒沃库森</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260427215000 +0800" stop="20260427220000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -30651,6 +30654,9 @@
 	<programme channel="newtv超级体育" start="20260427200000 +0800" stop="20260427213000 +0800">
 		<title lang="zh">世界斯诺克锦标赛1/8决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260427213000 +0800" stop="20260427220000 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -30695,6 +30701,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260427195400 +0800" stop="20260427215000 +0800">
 		<title lang="zh">西虹市首富</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260427215000 +0800" stop="20260427002600 +0800">
+		<title lang="zh">变形金刚5：最后的骑士</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -30878,6 +30887,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20260427205600 +0800" stop="20260427214200 +0800">
 		<title lang="zh">32_梅花红桃</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20260427214200 +0800" stop="20260427222300 +0800">
+		<title lang="zh">02_黑白森林（4K）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -31155,6 +31167,9 @@
 	<programme channel="newtv军旅剧场" start="20260427205600 +0800" stop="20260427213900 +0800">
 		<title lang="zh">06_潜渊</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20260427213900 +0800" stop="20260427222300 +0800">
+		<title lang="zh">07_潜渊</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -31335,6 +31350,9 @@
 	<programme channel="newtv热播精选" start="20260427204200 +0800" stop="20260427212700 +0800">
 		<title lang="zh">23_梦中的那片海</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20260427212700 +0800" stop="20260427221300 +0800">
+		<title lang="zh">24_梦中的那片海</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -31409,6 +31427,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20260427205100 +0800" stop="20260427213700 +0800">
 		<title lang="zh">36_小重逢</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20260427213700 +0800" stop="20260427222200 +0800">
+		<title lang="zh">37_小重逢</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -31622,6 +31643,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20260427203100 +0800" stop="20260427211800 +0800">
 		<title lang="zh">28_很想很想你</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260427211800 +0800" stop="20260427220400 +0800">
+		<title lang="zh">29_很想很想你</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -31902,6 +31926,9 @@
 	<programme channel="newtv炫舞未来" start="20260427200400 +0800" stop="20260427212800 +0800">
 		<title lang="zh">第5期上：男4男5强势入住搅乱心动线</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20260427212800 +0800" stop="20260427221600 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -31974,6 +32001,9 @@
 	<programme channel="newtv精品综合" start="20260427210000 +0800" stop="20260427214500 +0800">
 		<title lang="zh">35_承欢记</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20260427214500 +0800" stop="20260427223000 +0800">
+		<title lang="zh">36_承欢记</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -32021,6 +32051,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20260427201700 +0800" stop="20260427214200 +0800">
 		<title lang="zh">借你俩胆</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20260427214200 +0800" stop="20260427232100 +0800">
+		<title lang="zh">燃烧的国土</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -32111,6 +32144,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260427205100 +0800" stop="20260427213500 +0800">
 		<title lang="zh">05_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260427213500 +0800" stop="20260427221800 +0800">
+		<title lang="zh">06_潜渊</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
