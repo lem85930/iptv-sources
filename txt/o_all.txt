@@ -6886,6 +6886,7 @@ Hi-YAH!_(1080p),https://linear-59.frequency.stream/dist/plex/59/hls/master/playl
 Hiru_TV_(360p)_[Not_24/7],https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
 Hispania_TV,https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8
 Historia_(1080p),https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+HITS_(720p),https://cdn10jtedge.indihometv.com/atm/DASH/hits/manifest.mpd
 HOLA!_Play_(1080p),https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 Home_Drama_Channel_(544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
 HTV_Live_(1080p)_[Not_24/7],https://fox.hostlagarto.com:8081/canalhtv/tracks-v1a1/mono.m3u8
