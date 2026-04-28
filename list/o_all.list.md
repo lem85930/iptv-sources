@@ -10385,4 +10385,4 @@
 | 10379 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 | 10380 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
 
-Updated at **Tue Apr 28 2026 05:40:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Apr 28 2026 07:25:58 GMT+0000 (Coordinated Universal Time)**
