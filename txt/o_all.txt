@@ -5033,7 +5033,7 @@ PlusTV_(720p),https://streamer2.nexgen.bz/04-PLUS/index.m3u8
 Plzeň_TV_(1080p),https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
 Polar2_TV_(1080p),https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8
 Polar_TV_(1080p),https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
-Polsat_(1080p),https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
+Polsat_(1080p),https://srv7.flussonic111.com/PL_POLSAT_HD/index.m3u8
 Polsat_1_(1080p),http://78.130.250.2:8023/play/a065/index.m3u8
 Portal_Digital_TV_(720p)_[Not_24/7],https://mlb.essastream.com:8081/portaldigital/playlist.m3u8
 Porto_Canal_(720p),https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
@@ -5064,7 +5064,6 @@ Qaraqalpaqstan_(720p),https://stream8.cinerama.uz/1467/playlist.m3u8
 Qatar_Television_(1080p),https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
 Qatar_Television_2_(1080p),https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
 Qazaqstan_International_(1080p),https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
-Qazaqstan_TV_(720p)_[Not_24/7],https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 QTV_Gambia_(720p)_[Not_24/7],https://player.qtv.gm/hls/live.stream.m3u8
 QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 QTV-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
@@ -7602,7 +7601,6 @@ Loveworld_UK_(1080p)_[Not_24/7],https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/s
 LoveWorld_USA_(720p),https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/LWU/ngrp:lwu.stream_all/playlist.m3u8
 LoveworldSAT_(1080p),https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8
 Luz_Divina_TV_[Not_24/7],https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
-Lychnos_TV_(1080p),https://thor.mental-media.gr:19360/imp/imp.m3u8
 Madani_Channel_Bangla_(1080p),https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 Madani_Channel_English_(720p),https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
 Madani_Channel_Urdu_(720p),https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
@@ -10127,8 +10125,6 @@ YouDotGov,https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u
 Yuma77,https://securestream10.champds.com/LIVE/YumaCoAZLIVE/YumaCoAZLIVE.m3u8
 Yuma_AZ_CH_72_(1080p),https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 Yuma_AZ_CH_73_(1080p),https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-Βουλή_Τηλεόραση_2_(540p)_[Not_24/7],https://streamer-cache.grnet.gr/parliament/hls/webtv2.m3u8
-Βουλή_Τηλεόραση_3_(540p)_[Not_24/7],https://streamer-cache.grnet.gr/parliament/hls/webtv3.m3u8
 长沙政法,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
 
 Weather,#genre#
