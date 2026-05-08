@@ -22023,6 +22023,9 @@
 	<programme channel="newtv怡伴健康" start="20260509020800 +0800" stop="20260509025100 +0800">
 		<title lang="zh">22_前夜</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20260509025100 +0800" stop="20260509033800 +0800">
+		<title lang="zh">十大毒蛇榜b7阿拉伯半岛</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -22052,6 +22055,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20260509015500 +0800" stop="20260509024800 +0800">
 		<title lang="zh">刘飞保：绘彩蓝天上</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20260509024800 +0800" stop="20260509034200 +0800">
+		<title lang="zh">纪念中国人民志愿军抗美援朝出国作战75周年特别节目 英雄的征程（1）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
