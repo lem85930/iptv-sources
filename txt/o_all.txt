@@ -5287,7 +5287,7 @@ Su_Mundo_TV_(1080p)_[Not_24/7],https://appapi.sumundotv.com/api/stream-proxy/4pf
 Sula_TV_(1080p),https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 Super9_TV_(480p)_[Not_24/7],https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8
 Super_Channel_12_(1080p),https://servilive.com:3263/live/channel12live.m3u8
-Super_Digital_TV_(720p)_[Not_24/7],https://inliveserver.com:1936/11516/11516/playlist.m3u8
+Super_Digital_TV_(1080p)_[Not_24/7],https://stream.inliveserver.com:19360/8006/8006.m3u8
 Super_TV_55_(720p),https://ss2.tvrdomi.com:1936/supertv55/supertv55/playlist.m3u8
 Super_TV_Media_(720p),https://mirtv.club/live/mirtv/index.m3u8
 Super_TV_Oristano_(720p)_[Not_24/7],http://193.70.81.40:1935/supertvoristano/supertvoristano/playlist.m3u8
@@ -8856,6 +8856,7 @@ Failarmy_International_(720p),https://failarmy-international-au.samsung.wurl.tv/
 Funny_AF,https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8
 GEM_Comedy,https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
 Jordan_Comedy_(1080p),https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
+Kinokomedija_(576p),http://tmptv.sunduk.tv/CH47/index.m3u8
 KSHB-DT3_(720p),https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
 Laughter_Theater,http://49.113.179.174:4022/udp/238.125.2.159:5140
 LOL_Network_(1080p),https://aegis-cloudfront-1.tubi.video/54f95462-b44d-4c99-b74b-af49467454fa/playlist.m3u8
@@ -8911,7 +8912,7 @@ Movies;Series,#genre#
 @TV_(720p),http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 Amedia_Hit_(720p),http://31.148.48.15/Amedia_HIT_HD/index.m3u8
 Amedia_Premium_(1080p),http://tmptv.sunduk.tv/CH301/index.m3u8
-AXN_Asia_Indonesia_(1080p),http://103.58.160.157:8278/720-AXN/playlist.m3u8
+AXN_Asia_Indonesia_(720p),https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 Ebony_TV_by_Lionsgate_(1080p),https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
 OuterSphere_(1080p),https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 Pantalla_Clásica_EC_(512p)_[Not_24/7],https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
@@ -9428,6 +9429,9 @@ Jilin_Movie_Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c
 Kairali_We_(576p),https://cdn-3.pishow.tv/live/1530/master.m3u8
 Kino_24_(720p),http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 Kino_Barrandov_(720p),http://83.167.253.107/hdmi1_ext
+KinoHit_(576p),http://tmptv.sunduk.tv/CH57/index.m3u8
+Kinosemja_(576p),http://tmptv.sunduk.tv/CH25/index.m3u8
+Kinosvidanie_(576p),http://tmptv.sunduk.tv/CH21/index.m3u8
 Kinoteatr_(1080p),https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
 Klasik_TV_(576p)_[Not_24/7],https://178.253.194.105/klasiktv/playlist.m3u8
 Komsan_TV_[Not_24/7],http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
@@ -9526,6 +9530,7 @@ Rakuten_TV_Top_Movies_Finland_(1080p),https://1d1b0d4cb6ae4c31985d13221795695b.m
 Rakuten_TV_Top_Movies_Germany_(1080p),https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
 Rakuten_TV_Top_Movies_Italy_(1080p),https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
 Rakuten_TV_Top_Movies_Spain_(1080p),https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+Rodnoe_Kino_(576p),http://tmptv.sunduk.tv/CH23/index.m3u8
 Roja_Movies_(1080p),https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
 Romedy_Now_(576p),http://103.157.248.140:8000/play/a015/index.m3u8
 RTSH_Shqip_(1080p),http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8
@@ -9613,7 +9618,6 @@ Zylo_ScreamIN_(1080p),https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/pla
 КИНОСАТ_(576p),http://31.148.48.15/Kineko/index.m3u8
 Новый_Русский_(720p),https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
 Патриот_(576i),http://catchup.videoline.ru/asvtv/index.m3u8
-Родное_Кино_(576p),http://31.148.48.15/Rodnoe_kino/index.m3u8
 Русский_Бестселлер_(576p),http://31.148.48.15/Russkiy_Bestseller/index.m3u8
 Русский_Детектив_(576p),http://31.148.48.15/Russkiy_Detektiv/index.m3u8
 Русский_Иллюзион_(576p),http://31.148.48.15/Russkiy_illusion/index.m3u8
@@ -9635,6 +9639,7 @@ Zylo_ScreamIN_(1080p),https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/pla
 Auto,#genre#
 30A_We_Love_Cars_(720p),https://30a-tv.com/feeds/vidaa/cars.m3u8
 100%_Auto_Moto_TV_(406p)_[Not_24/7],http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+Auto_Plus_(576p),http://tmptv.sunduk.tv/CH49/index.m3u8
 Canal_Motor_(720p),https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 Drive_(576i),https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 Full_Custom_Garage,https://jmp2.uk/plu-5e78faa05a0e200007a6f487.m3u8
@@ -9644,7 +9649,6 @@ Motorvision.tv_(French),https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5c
 Pluto_TV_Cars,https://jmp2.uk/plu-5c12ba66eae03059cbdc77f2.m3u8
 PowerNation_(1080p),https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8
 wedotv_Auta_(480p),https://amg00735-amg00735c57-rakuten-de-10677.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedotvauta-rakutende/cb553d1e726c678e9cd43d67d3ef42a0df2416fc087a8d6933fb4b926bc10f41f4e2a581b212bb785d9914ce1c553f080132c0099c3a0bc6da73b6512d6c6021c9c3ed64d89d1b17b2c8797368e62c4119e10f11d93b53309dbb1858dd68ec2b005ebb0d6f577fdcec0fac6b5ac58402967a7c82fc8e68312f5e56cd543fa29a7c9b1f0f5d65e94693d1605aa34f1abbd31c9df63d81b2a13ebedf52bbc33eabe7b5c98c50d7acad5b3ef4ac466f6f236f8a816ed1b835750fce1b5bcd2552213354fcac85f74f76ee2d250ca9b29fe635ad50a6fd540358406cb1d865a44989e5902bf9691a80e7d6fa575336b4c1145626b2f6a19dc1d352d742d6adf3d47f7098b94136178925f92c2f2a9ff4cf54d5954ed69b2c87bd651863808353c1cce6daa1e0c40abb20c9ccfbd76c16172d5442a054b09f6bd4319229fc975d712e202ecabb5bc094d65734102dd7d6249b797c8cd5808dd01935b0163c5fe665cb52062ced3a686eea24fdda11638b2f06807751d65737894ef9f81cfda8d5e00c58e48e91a29ebd7f4ba5b486210eed8f29b009af85251fe39768f8/106/426x240_611520/index.m3u8
-Авто_Плюс_(576p),http://31.148.48.15/Avto_Plus/index.m3u8
 Сити_Эдем_АвтоГид_[Not_24/7],https://cityeden.catcast.tv/content/47515/index.m3u8
 
 Business;News,#genre#
