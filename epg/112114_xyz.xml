@@ -59340,6 +59340,9 @@
 	<programme channel="newtv热播精选" start="20260513143600 +0800" stop="20260513152100 +0800">
 		<title lang="zh">21_潜行者</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20260513152100 +0800" stop="20260513160700 +0800">
+		<title lang="zh">22_潜行者</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -59396,6 +59399,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20260513144200 +0800" stop="20260513153000 +0800">
 		<title lang="zh">42_遇见幸福</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20260513153000 +0800" stop="20260513161600 +0800">
+		<title lang="zh">01_金婚</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -59571,6 +59577,9 @@
 	<programme channel="newtv潮妈辣婆" start="20260513143500 +0800" stop="20260513151900 +0800">
 		<title lang="zh">35_千古玦尘</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260513151900 +0800" stop="20260513154900 +0800">
+		<title lang="zh">蛋黄酥好物推荐</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -59729,6 +59738,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20260513144700 +0800" stop="20260513152700 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20260513152700 +0800" stop="20260513160300 +0800">
+		<title lang="zh">读高中的“小家长”</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>

@@ -1293,4 +1293,4 @@
 | 1287 | [BD]龙华日韩 | stream1.freetv.fun | <https://stream1.freetv.fun/6c824fe570814a49e3ed36b57367fca68435c47c50d1d5d5127ae9b365ac4bda.ctv> |
 | 1288 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/b6547649e53198f1ba8f4096f237bdae6b35c84e0a2a57a023e47b33162e516d.m3u8> |
 
-Updated at **Wed May 13 2026 07:45:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed May 13 2026 07:52:36 GMT+0000 (Coordinated Universal Time)**
