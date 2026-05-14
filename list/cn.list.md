@@ -18,4 +18,4 @@
 | 12 | [BD]重庆卫视超高清 | stream1.freetv.fun | <https://stream1.freetv.fun/c2a65cf8328342868e7968488a2d9f5459f384ce97480c886b75ffed9cfe32ea.ctv> |
 | 13 | [BD]黑龙江卫视超高清 | stream1.freetv.fun | <https://stream1.freetv.fun/a2c8795818cae8840bfdde3c397185240df54b49a4224b15e2c052212a071e0b.ctv> |
 
-Updated at **Thu May 14 2026 19:56:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu May 14 2026 21:15:48 GMT+0000 (Coordinated Universal Time)**
