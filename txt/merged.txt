@@ -13,12 +13,8 @@ Sports,#genre#
 [HD]纬来体育,rtmp://f13h.mine.nu/sat/tv721
 
 News,#genre#
-[VGA]中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
-[BD]雅安新闻综合,https://stream1.freetv.fun/6f2396b100d3cd75c27ae3a05b76e07c4ee786300d904aa747266795cbb80d40.m3u8
+[VGA]中天新闻,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
 [HD]非凡新闻,rtmp://f13h.mine.nu/sat/tv581
-
-Other,#genre#
-[BD]湖州公共民生,https://stream1.freetv.fun/e7e0953e97ba421205349f909154f0f0224f9dfc94ab0a3877ae42f6dfc065c2.m3u8
 
 Entertainment,#genre#
 [HD]纬来日本,rtmp://f13h.mine.nu/sat/tv771
