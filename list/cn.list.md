@@ -16,4 +16,4 @@
 | 10 | [BD]西藏卫视高清 | stream1.freetv.fun | <https://stream1.freetv.fun/d07bb52e80e2df1c23107396b255603f965c5d9ee1f85745259d2e9dafa7e34e.ctv> |
 | 11 | [BD]陕西卫视高清 | stream1.freetv.fun | <https://stream1.freetv.fun/e18da45121d2a09f6609be4d547924ee48565a3cc8eb5a0e2ff6715c25523aae.ctv> |
 
-Updated at **Thu May 14 2026 01:33:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu May 14 2026 01:46:24 GMT+0000 (Coordinated Universal Time)**
