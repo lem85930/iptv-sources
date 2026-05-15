@@ -399,4 +399,4 @@
 | 393 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 | 394 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
 
-Updated at **Thu May 14 2026 21:15:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri May 15 2026 01:47:26 GMT+0000 (Coordinated Universal Time)**
