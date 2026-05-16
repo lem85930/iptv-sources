@@ -42,6 +42,3 @@ Sports,#genre#
 
 Kids,#genre#
 [BD]cartoon_head_tv_1,rtmp://vkvsd199.okcdn.ru/playback/13508853902259?stkn=sCzWr7_00CelDfuiAhev9Uqe8WKfnXTOzDQ8Lgj6ARgwc6phRiz-pt6i-Yq1NpX8dGGiG28Nd3AA&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-
-Other,#genre#
-[HD]杭州1综合,https://stream1.freetv.fun/9d05e1e744c8ad91998bf239769cd8249c2fb38bf1ceada38df8a4acdf3e23fb.ctv
