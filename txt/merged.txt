@@ -44,9 +44,6 @@ Kids,#genre#
 [BD]cartoon_head_tv_1,rtmp://vkvsd199.okcdn.ru/playback/13508853902259?stkn=sCzWr7_00CelDfuiAhev9Uqe8WKfnXTOzDQ8Lgj6ARgwc6phRiz-pt6i-Yq1NpX8dGGiG28Nd3AA&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 综合,#genre#
 [HD]内江新闻,rtmp://njzb.scnj.tv:1938/live/xwzh_xwzh800
-
-其它,#genre#
-[HD]杭州1综合,https://stream1.freetv.fun/9d05e1e744c8ad91998bf239769cd8249c2fb38bf1ceada38df8a4acdf3e23fb.ctv
 电影,#genre#
 [BD]chc动作电影[ipv6],https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8
 [BD]chc高清电影[ipv6],https://epg.pw/stream/3b471ad5f1aa57bac299045428922c098b2f6204a72ef8428b398db14eaa5c96.m3u8
