@@ -16,4 +16,4 @@
 | 10 | 嘉佳卡通 | IPv4 直链 | <http://125.42.150.192:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 11 | 金鹰卡通 | IPv4 直链 | <http://125.42.150.192:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sat May 16 2026 11:04:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat May 16 2026 13:41:40 GMT+0000 (Coordinated Universal Time)**
