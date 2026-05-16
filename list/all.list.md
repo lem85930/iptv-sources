@@ -37,4 +37,4 @@
 | 31 | [HD]华视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv111> |
 | 32 | [HD]非凡新闻 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv581> |
 
-Updated at **Sat May 16 2026 13:41:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat May 16 2026 15:00:45 GMT+0000 (Coordinated Universal Time)**
