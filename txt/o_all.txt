@@ -2447,7 +2447,6 @@ SVT1_(1080p),https://svt-live-channel.akamaized.net/l4/se/svt1/master-fmp4.m3u8?
 SVT2_(1080p),https://svt-live-channel.akamaized.net/l6/se/svt2/master-fmp4.m3u8?defaultSubLang=1&format=hls
 SVT_Barn/SVT24_(1080p),https://svt-live-channel.akamaized.net/l6/se/svtb/master-fmp4.m3u8?defaultSubLang=1&format=hls
 Swamp_People_(1080p),https://pb-fbdfahhani6sz.akamaized.net/Swamp_People.m3u8
-Swarnavahini_(720p),https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/playlist.m3u8
 SWR_3_Visual_Radio_(720p),https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
 SWR_Fernsehen_Baden-Wurttemberg_(720p)_[Geo-Blocked],https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8
 SWR_Fernsehen_Rheinland-Pfalz_(720p),https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
@@ -2932,7 +2931,6 @@ Un_Si_Grand_Soleil,https://jmp2.uk/plu-6683cd0f63a5f20008fb84a3.m3u8
 Un_Village_Français_(720p),https://jmp2.uk/plu-6304f2e2eb10450007298023.m3u8
 UNAH_UTV_(360p)_[Not_24/7],https://live-utv.unah.edu.hn/web/salida.m3u8
 Unchained_TV_(1080p),https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e6fe3169-15ec-4f33-b16c-c9fc37853d61/manifest.m3u8
-UNE_TV_(720p),https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
 Une_Vinalopó_(576p)_[Not_24/7],https://streamingtvi.gestec-video.com/hls/unesd.m3u8
 Unentdeckt_–_Mörder_unter_uns_(720p),https://jmp2.uk/plu-650adc3198020f000862eed4.m3u8
 Unforgettable,https://jmp2.uk/plu-650adb92a1217e00091a3eff.m3u8
@@ -4895,7 +4893,6 @@ Nelonen_(720p),https://live-fi.tvkaista.net/nelonen/live.m3u8
 NET_(1080p),https://stream.smashmalta.com:25463/live/webplayer/livestream/22.m3u8
 NET_TV_(720p),https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 NETALKOLE_TV_(720p)_[Not_24/7],https://watch.haitilive.net/naktvhd/index.m3u8
-Nethra_TV_(360p),https://edge3-moblive.yuppcdn.net/transsd/smil:chii02.smil/playlist.m3u8?dvr=
 Network_10,https://network10.livebox.co.in/network10hls/live.m3u8
 New_Canaan_Television_79_(NCTV79)_(New_Canaan_CT)_(1080p),https://livestream.telvue.com/nctv791/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 Newfoundland_Television_(480p),https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
@@ -5425,7 +5422,6 @@ TM1_(360p)_[Not_24/7],http://69.64.57.208/tm1/playlist.m3u8
 TM_TV_(720p),https://hls.tmtv.live/hls/stream.m3u8
 TMT_(1080p),https://live.teleradiocom.tj/9/3m.m3u8
 TNH_(720p),https://bozztv.com/dvrfl03/hdirect/hdirect-telecaraibes/index.m3u8
-TNL_TV_(360p),https://edge3-moblive.yuppcdn.net/transsd/smil:tnl12.smil/playlist.m3u8?dvr=
 TNO_Radio_(720p),https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
 TNTV_(1080p),https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 Tokyo_MX1_(544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
@@ -6532,6 +6528,7 @@ TVN24_(720p),https://ss2.tvrdomi.com:1936/vozzmedianetwork/vozzmedianetwork/play
 TVP_World_(1080p),https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8
 TVR_Info,https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/chunklist_b5160000.m3u8
 UN_Web_TV_(540p),https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+UNE_TV_(720p),https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
 UNews,https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8
 USA_Today_(1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
 UzReport_TV_(1080p),https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
