@@ -706,4 +706,4 @@
 | 700 | [BD]黑龙江卫视高清 | stream1.freetv.fun | <https://stream1.freetv.fun/0342355911b1783929522a5f6ba3f359188afd79f7b1e837d5cf6a9a9050f085.ctv> |
 | 701 | [SD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/9fe43260c5d15d7c31ff03bc8a43c724cb63c599e0349a42507e65b99357912d.m3u8> |
 
-Updated at **Wed May 20 2026 18:03:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed May 20 2026 18:28:49 GMT+0000 (Coordinated Universal Time)**

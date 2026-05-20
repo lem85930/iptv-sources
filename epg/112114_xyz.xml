@@ -50310,6 +50310,9 @@
 	<programme channel="newtv精品大剧" start="20260521011000 +0800" stop="20260521015600 +0800">
 		<title lang="zh">20_遇见幸福</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20260521015600 +0800" stop="20260521024100 +0800">
+		<title lang="zh">21_遇见幸福</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -50355,6 +50358,9 @@
 	<programme channel="newtv家庭剧场" start="20260521010600 +0800" stop="20260521015200 +0800">
 		<title lang="zh">27_故乡，别来无恙</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20260521015200 +0800" stop="20260521024000 +0800">
+		<title lang="zh">28_故乡，别来无恙</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -50367,41 +50373,8 @@
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
-	<programme channel="newtv爱情喜剧" start="20260521000000 +0800" stop="20260521020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20260521020000 +0800" stop="20260521040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20260521060000 +0800" stop="20260521080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20260521080000 +0800" stop="20260521100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20260521100600 +0800" stop="20260521120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20260521120000 +0800" stop="20260521140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20260521140000 +0800" stop="20260521160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20260521160000 +0800" stop="20260521180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20260521180000 +0800" stop="20260521190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20260521190000 +0800" stop="20260521200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20260521200000 +0800" stop="20260521220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20260521220000 +0800" stop="20260521235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv爱情喜剧" start="20260521014900 +0800" stop="20260521032900 +0800">
+		<title lang="zh">射雕英雄传之九阴白骨爪</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -50433,6 +50406,9 @@
 	<programme channel="newtv潮妈辣婆" start="20260521011800 +0800" stop="20260521014800 +0800">
 		<title lang="zh">涪陵榨菜好物推荐</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260521014800 +0800" stop="20260521023400 +0800">
+		<title lang="zh">03_雪鹰领主</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -50448,6 +50424,9 @@
 	<programme channel="newtv军事评论" start="20260521012300 +0800" stop="20260521014900 +0800">
 		<title lang="zh">探秘马奇诺防线</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260521014900 +0800" stop="20260521021600 +0800">
+		<title lang="zh">袁州古城的红色记忆</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -50459,6 +50438,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20260521013900 +0800" stop="20260521020000 +0800">
 		<title lang="zh">健身舞—我和我的祖国（20211007）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20260521020000 +0800" stop="20260521022200 +0800">
+		<title lang="zh">健身舞——广寒宫（20210921）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
