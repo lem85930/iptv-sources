@@ -49902,6 +49902,9 @@
 	<programme channel="newtv超级综艺" start="20260522023700 +0800" stop="20260522032300 +0800">
 		<title lang="zh">15_你比星光美丽</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260522032300 +0800" stop="20260522040900 +0800">
+		<title lang="zh">16_你比星光美丽</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49923,6 +49926,9 @@
 	<programme channel="newtv超级电影" start="20260522020900 +0800" stop="20260522031100 +0800">
 		<title lang="zh">外卖骑士</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260522031100 +0800" stop="20260522042600 +0800">
+		<title lang="zh">狄仁杰之伏妖篇</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -49937,6 +49943,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260522021800 +0800" stop="20260522030200 +0800">
 		<title lang="zh">26_林海雪原</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260522030200 +0800" stop="20260522034700 +0800">
+		<title lang="zh">27_林海雪原</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50138,6 +50147,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260522021400 +0800" stop="20260522025800 +0800">
 		<title lang="zh">48_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260522025800 +0800" stop="20260522034300 +0800">
+		<title lang="zh">49_秋蝉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
