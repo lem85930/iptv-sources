@@ -3133,6 +3133,7 @@ Wildest_Wish_TV_(1080p),https://streams2.sofast.tv/sofast3/v1/0197e8dd18f31ebd47
 Wildfire,https://jmp2.uk/plu-62b9b63d3bbe9000073c0a2d.m3u8
 Willkommen_bei_den_Louds,https://jmp2.uk/plu-627d2d1d05e09f00073ccdff.m3u8
 Win_TV_(576p),https://cdn-4.pishow.tv/live/1531/master.m3u8
+Window_TV_(720p),https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
 Wings_–_Die_Überflieger,https://jmp2.uk/plu-65b38e310d9ab400082bdec2.m3u8
 Winter_Vibes_(1080p),https://d11iakikomyd5e.cloudfront.net/playlist.m3u8
 Winthrop_Community_Access_TV_(WCAT_15)_(360p)_[Not_24/7],https://frontdoor.wcat-tv.org/live-12/live/live.m3u8
@@ -5673,6 +5674,8 @@ WDR_Fernsehen_Wuppertal_(720p),https://wdrlokalzeit.akamaized.net/hls/live/20180
 We_One_Kerala_(720p),http://kl.logicwebs.in:1935/sreemedia/sreemedia/playlist.m3u8
 WEEFF_TV_(1080p),https://takeoff.jetstre.am/?account=weeff&file=weeffradio&output=playlist.m3u8&protocol=https&service=wowza&type=live
 WeertFM_TV_(720p),https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8
+Whiplash_(720p),https://cdn.whiplash.cc/whiplash/index.m3u8
+Whiplash_II_(480p),https://cdn.whiplash.cc/whiplash-2/index.m3u8
 WHPS_Detroit,https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8
 Williams_TV_(480p),http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 WITN_22_(Wilmington_DE)_(1080p)_[Not_24/7],https://witn.cablecast.tv/live-4/live/live.m3u8
@@ -6089,7 +6092,7 @@ Halk_TV_(1080p),https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 Hamdard_TV_(1080p),https://tv.hamdardtv.com/hamdard/index.m3u8
 Har_Khabar_(576p),https://mumt01.tangotv.in/HARKHABAR/index.m3u8
 Harbin_Comprehensive_News_Channel,https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
-HCH,https://dvrfl03.bozztv.com/hondu-hchtv/index.m3u8
+HCH_(720p),https://live.streamhch.com/live/streams/hch1.m3u8
 Hermanas_Mirabal_TV_(720p)_[Not_24/7],https://fox.hostlagarto.com:8081/hmtv/index.m3u8
 High_News_(480p),https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 Hindi_Khabar_(576p),https://cdn-2.pishow.tv/live/1041/master.m3u8
@@ -6915,7 +6918,7 @@ KRGV-DT2,https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-somos.smil/pl
 KTIV-DT6_(404p),http://txc4-swbb-mn.fibernet-tv.com/KABY-CW-2364/index.m3u8
 KurdMax_Show_(720p),https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8
 KurdMax_Sorani_(1080p),https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8
-Kurdsat_(1080p),https://iko-live.akamaized.net/KurdsatTV/master.m3u8
+Kurdsat_(1080p),https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 KVIE-DT2_(1080p),https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
 KVVB-TV_33_Victor_Valley_(1080p)_[Not_24/7],https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
 La5,https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
@@ -7052,7 +7055,7 @@ ROCK_Entertainment_(720p),http://cdn10jtedge.indihometv.com/atm/DASH/rock_entert
 Roja_TV_(1080p),https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
 ROTV_Valencia_(720p),https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 Royal_Time_Television_(1080p),https://tixbolt.com/royaltv/index.fmp4.m3u8
-RSV_Honduras,https://live20.bozztv.com/dvrfl03/hondu/hondu-rsvhonduras/index.m3u8
+RSV_Honduras_(720p),https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
 RTL9_(720p)_[Geo-Blocked],https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd
 Rupasi_Bangla_(720p),https://cdn-4.pishow.tv/live/1039/master.m3u8
 SAB_TV_(1080p),https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
@@ -8261,7 +8264,6 @@ Mastiii_(576p),https://mumt02.tangotv.in/MASTIII/index.m3u8
 Max_Music_(1080p),https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
 Max_TV_(1080p),https://streamer2.nexgen.bz/14-MAX/index.m3u8
 MBC_FM_(1080p),https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
-MBC_Loud_(1080p),https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8
 MCM_Top_(576p),http://tmptv.sunduk.tv/CH77/index.m3u8
 Med_Muzik_(1080p),http://54.36.110.140/live3/live3.m3u8
 MegaBox_(720p)_[Not_24/7],https://hdbox.chunklistv.com/live?stream=megabox
@@ -9157,7 +9159,6 @@ Ten_Sports_Pakistan,http://121.91.61.106:8000/play/a04h/index.m3u8
 TennisChannel_2_(720p),https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
 The_Cycling_Channel,https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
 Thmanyah_1_(1080p),https://dflive.app.tc/20.m3u8
-Thmanyah_2_(1080p),https://dflive.app.tc/60.m3u8
 Thmanyah_3_(1080p),https://dflive.app.tc/61.m3u8
 Tigo_Sports_(720p),https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8
 Tigo_Sports_TV_El_Salvador_(720p),https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
@@ -9561,6 +9562,7 @@ viju_TV1000_action_(576p),http://tmptv.sunduk.tv/CH143/index.m3u8
 viju_TV1000_russkoe_(576p),http://tmptv.sunduk.tv/CH139/index.m3u8
 viju+_Megahit_(1080p),http://tmptv.sunduk.tv/CH313/index.m3u8
 viju+_Premiere_(1080p),http://tmptv.sunduk.tv/CH315/index.m3u8
+Whiplash_Cinema_(480p),https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 Wildside_TV_(720p),https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 WOWOW_Cinema_(544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 Wu_Tang_Collection_(720p),https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
