@@ -49662,6 +49662,9 @@
 	<programme channel="newtv超级综艺" start="20260523021800 +0800" stop="20260523030400 +0800">
 		<title lang="zh">21_你比星光美丽</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260523030400 +0800" stop="20260523035000 +0800">
+		<title lang="zh">22_你比星光美丽</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49680,6 +49683,9 @@
 	<programme channel="newtv超级电影" start="20260523013700 +0800" stop="20260523030300 +0800">
 		<title lang="zh">永不消失的广播</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260523030300 +0800" stop="20260523043400 +0800">
+		<title lang="zh">路尽骄阳</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -49694,6 +49700,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260523021500 +0800" stop="20260523025900 +0800">
 		<title lang="zh">31_林海雪原</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260523025900 +0800" stop="20260523034400 +0800">
+		<title lang="zh">32_林海雪原</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50252,6 +50261,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260523015900 +0800" stop="20260523024400 +0800">
 		<title lang="zh">02_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260523024400 +0800" stop="20260523033000 +0800">
+		<title lang="zh">03_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260523033000 +0800" stop="20260523041600 +0800">
+		<title lang="zh">04_红蔷薇（DVD版）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
