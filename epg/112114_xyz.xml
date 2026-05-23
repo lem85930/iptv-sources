@@ -59559,6 +59559,9 @@
 	<programme channel="newtv超级综艺" start="20260523130000 +0800" stop="20260523141700 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260523141700 +0800" stop="20260523154700 +0800">
+		<title lang="zh">神采正飞扬——中国郎之夜</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59597,6 +59600,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260523125900 +0800" stop="20260523140000 +0800">
 		<title lang="zh">实况录像-2026年艺术体操世界杯 巴库站1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260523140000 +0800" stop="20260523160000 +0800">
+		<title lang="zh">2026年国际皮划艇联合会皮划艇马拉松世界杯-专业组短距离决赛</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
