@@ -33453,6 +33453,9 @@
 	<programme channel="newtv超级电影" start="20260527015100 +0800" stop="20260527030400 +0800">
 		<title lang="zh">楚留香之盗帅觉醒</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260527030400 +0800" stop="20260527050400 +0800">
+		<title lang="zh">海大鱼</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -34028,6 +34031,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260527020500 +0800" stop="20260527025100 +0800">
 		<title lang="zh">23_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260527025100 +0800" stop="20260527033600 +0800">
+		<title lang="zh">24_红蔷薇（DVD版）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
