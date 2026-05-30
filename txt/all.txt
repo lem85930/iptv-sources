@@ -1449,7 +1449,7 @@ News,#genre#
 [HD]africanews,https://stream1.freetv.fun/2d8c78aa149d2b7d544f7b6c07458aa516ec7a73c1291ed5e9dc6034b0785d42.m3u8
 [BD]tv_flow,https://stream1.freetv.fun/0d87656e00b4be1b199f2786d8a7952ad13e380f9d39740107a24a733f73e41e.m3u8
 [BD]ми_україна,https://stream1.freetv.fun/43a67aeea8f14f7498ca464aacace117aedceba37d489f8da857ca3490721dc4.ctv
-[HD]tv_nrsr,https://stream1.freetv.fun/7418f1472c353368645c2ee8b780e4c0e739d75a640d8c1133a11c1175ea5c75.m3u8
+[BD]rakuten_tv_action_movies_finland,https://stream1.freetv.fun/0934963b270543194dff9e2585327a0837630cca8498755e879218af8f6fc8f4.m3u8
 [HD]red_social_codi_tv,https://stream1.freetv.fun/df4518cdc40b14c07a3a536a1dc883c893246362e40b04c8f9a060e98c1e7fbc.m3u8
 [SD]柳河综合,https://stream1.freetv.fun/ca091aca0938edeb273829f85efd145958cc0000b8e030345c691c4d2f8f238f.m3u8
 [BD]乌克兰_24_канал,https://stream1.freetv.fun/a3fb9115d8fa17359b3b191ce780b7239d158c57e8539a1d8ea670495dcd6b95.m3u8

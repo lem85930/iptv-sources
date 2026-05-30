@@ -25,7 +25,7 @@
 | 19 | [VGA]musayof | stream1.freetv.fun | <https://stream1.freetv.fun/a9dbf335da306ebe997ac28e8038fe3469bf2ee4e8724e9cf76eb30049e199bd.m3u8> |
 | 20 | [VGA]tv 2000 | stream1.freetv.fun | <https://stream1.freetv.fun/b5d481aca7dea908952c87b02185e9a9a817703d135c6bbf2155e64e09b82d2b.m3u8> |
 | 21 | [BD]cna | stream1.freetv.fun | <https://stream1.freetv.fun/206e3b04525e02c7c1afa88cbcb2bd2905209075dce5f44f41f4ca9e46ce9b76.m3u8> |
-| 22 | [HD]tv nrsr | stream1.freetv.fun | <https://stream1.freetv.fun/7418f1472c353368645c2ee8b780e4c0e739d75a640d8c1133a11c1175ea5c75.m3u8> |
+| 22 | [BD]rakuten tv action movies finland | stream1.freetv.fun | <https://stream1.freetv.fun/0934963b270543194dff9e2585327a0837630cca8498755e879218af8f6fc8f4.m3u8> |
 | 23 | [HD]red social codi tv | stream1.freetv.fun | <https://stream1.freetv.fun/df4518cdc40b14c07a3a536a1dc883c893246362e40b04c8f9a060e98c1e7fbc.m3u8> |
 | 24 | [HD]in the kitchen | stream1.freetv.fun | <https://stream1.freetv.fun/57e4788a3db1d29cfea64c5df7e7902bcbd7a85cb0713a0fb397b02a5f96d5a4.m3u8> |
 | 25 | [SD]柳河综合 | stream1.freetv.fun | <https://stream1.freetv.fun/ca091aca0938edeb273829f85efd145958cc0000b8e030345c691c4d2f8f238f.m3u8> |
@@ -2101,4 +2101,4 @@
 | 2095 | [HD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/7231358b510145c7e360795559c8c999a54700cc2503a465188e211682ce3903.m3u8> |
 | 2096 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 
-Updated at **Sat May 30 2026 06:57:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat May 30 2026 10:03:59 GMT+0000 (Coordinated Universal Time)**
