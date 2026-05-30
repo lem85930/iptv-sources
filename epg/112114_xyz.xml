@@ -59850,6 +59850,9 @@
 	<programme channel="newtv超级综艺" start="20260530130200 +0800" stop="20260530143200 +0800">
 		<title lang="zh">味你而来</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260530143200 +0800" stop="20260530154900 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59891,6 +59894,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260530125900 +0800" stop="20260530143000 +0800">
 		<title lang="zh">实况录像-2025/2026赛季世界斯诺克锦标赛 4</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260530143000 +0800" stop="20260530160000 +0800">
+		<title lang="zh">2025/2026意大利足球甲级联赛-第38轮1(4K)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -60596,6 +60602,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260530134100 +0800" stop="20260530142600 +0800">
 		<title lang="zh">03_风声</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260530142600 +0800" stop="20260530151100 +0800">
+		<title lang="zh">04_风声</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
