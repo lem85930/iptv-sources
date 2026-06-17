@@ -30,9 +30,9 @@
 | 24 | [BD]cctv7 | stream1.freetv.fun | <https://stream1.freetv.fun/b455a784117753f80bc07ced769e86993b97dca8be5a6c9df9f323016b04973e.m3u8> |
 | 25 | [BD]cctv8 | stream1.freetv.fun | <https://stream1.freetv.fun/e4572ac26b27e6ee3b088fa10fb72f9c24e934a5597929396a692b0c59ddb0b5.m3u8> |
 | 26 | [BD]cctv-9 | stream1.freetv.fun | <https://stream1.freetv.fun/fc736fc666b40ceb27c58aab6a2c81ab33d5b7e60fcbdccaaa15ffc3285a27a1.ctv> |
-| 27 | [VGA]cctv-第一剧场 | stream1.freetv.fun | <https://stream1.freetv.fun/5c03c18abbad8f907a7c89bcc00ff8bade258b74b707cba8433c1b9bea324c37.m3u8> |
+| 27 | [BD]cctv-第一剧场 | stream1.freetv.fun | <https://stream1.freetv.fun/62caf261ff5c23c742e464f4875e53eaff8f262cdd1ea1b612a6537163a32a7a.m3u8> |
 | 28 | [BD]cctv-风云足球 | stream1.freetv.fun | <https://stream1.freetv.fun/2938fff94d8309aabb9c1df0ab8668be2a326e05c78df4d3a20a6c0a976f3724.m3u8> |
-| 29 | [HD]cctv-风云音乐 | stream1.freetv.fun | <https://stream1.freetv.fun/6224290ea7d17738447d9d6c02c1d33ee4f0a39d9f668426a6f313a52b5ddb7e.m3u8> |
+| 29 | [BD]cctv-风云音乐 | stream1.freetv.fun | <https://stream1.freetv.fun/dbde4db34c80d50363cf6cce549f2103f3ebc0a5b13765774f0f9bec4e79e10b.m3u8> |
 | 30 | [SD]cetv1 | stream1.freetv.fun | <https://stream1.freetv.fun/f3ae1dadd66863a3d8d2d948a4ab7ee00b38a1bc8bcfac8b6b51cd210d5fcf2e.m3u8> |
 | 31 | [HD]cgtn | stream1.freetv.fun | <https://stream1.freetv.fun/ebfc70216ae7a55ce8252f8904975b24136bb105c80c05f76b473ddf633345cc.m3u8> |
 | 32 | [HD]cgtn纪录 | stream1.freetv.fun | <https://stream1.freetv.fun/5d37a323b1660d123060f21eaa3e0b954c28b4457a5c3a23dbda2ae6665238cd.m3u8> |
@@ -214,4 +214,4 @@
 | 208 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8> |
 | 209 | [SD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/801369b8eee6983587b79881b7cd7c5de7c90b20544f9eb004128d7fd7ae72a2.m3u8> |
 
-Updated at **Wed Jun 17 2026 11:04:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 17 2026 17:25:33 GMT+0000 (Coordinated Universal Time)**
