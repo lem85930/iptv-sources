@@ -204,7 +204,7 @@
 | 198 | [HD]cctv4中文国际 | stream1.freetv.fun | <https://stream1.freetv.fun/8a07250a04529fe52772a7995691f04a3153bf67960964ad6a63dd6cc7878659.ctv> |
 | 199 | [BD]cctv5 | stream1.freetv.fun | <https://stream1.freetv.fun/61df3be1490c927a746d671e52c9f9cb197fba5a08184c147a68eb80f84c4824.m3u8> |
 | 200 | [HD]cctv-5hd | stream1.freetv.fun | <https://stream1.freetv.fun/03c40432c3fdb16157d8e5df6ac2a5c5eb126a361dc3f8cc927b6466fc511760.m3u8> |
-| 201 | [BD]cctv5 plus | stream1.freetv.fun | <https://stream1.freetv.fun/bc347f479c5117db082bde2602af2de646971c878f683cddeb7b981bf205b10e.m3u8> |
+| 201 | [BD]cctv5 plus | stream1.freetv.fun | <https://stream1.freetv.fun/2e8689323e52e4ec6e81d841ca896be35176372a6d9659185068546585e8dbd5.m3u8> |
 | 202 | [BD]cctv5 plus | stream1.freetv.fun | <https://stream1.freetv.fun/46118cd0438ddbb2d6f349706132ced2104495cf4cf1019ef84d89465e048ca6.m3u8> |
 | 203 | [BD]cctv-6hd | stream1.freetv.fun | <https://stream1.freetv.fun/552690b9478fb5a4c63090f7b4a791b9898481eb4f637dea1af4cc56150ba31d.m3u8> |
 | 204 | [BD]cctv7 | stream1.freetv.fun | <https://stream1.freetv.fun/b455a784117753f80bc07ced769e86993b97dca8be5a6c9df9f323016b04973e.m3u8> |
@@ -605,7 +605,7 @@
 | 599 | [HD]newkid4 | stream1.freetv.fun | <https://stream1.freetv.fun/c643164ff091355106b03b1fb8476ea877ec8367c4b1d40f07b5f43d0abcfa25.m3u8> |
 | 600 | [BD]newsnation | stream1.freetv.fun | <https://stream1.freetv.fun/e204d18d15472171cd6bb15fa7b8a1eb469b8eaf9075fc2992c58fb74ef893c9.ctv> |
 | 601 | [BD]newsmax 2 | stream1.freetv.fun | <https://stream1.freetv.fun/e7a1c209bc7e1b78b90dae231abcebe48e65c02f4c9755560cefee829b27fffa.m3u8> |
-| 602 | [HD]nick | stream1.freetv.fun | <https://stream1.freetv.fun/ef37709649704e57ff5a88807303a26ea5fad7c7d91016002d5d3bc2a52e3e4b.ctv> |
+| 602 | [BD]nick | stream1.freetv.fun | <https://stream1.freetv.fun/22946f15ad1531ad5c5dcc2154af1c575b74a8e7d418d068c4f33785c779d31b.ctv> |
 | 603 | [HD]nick jr. | stream1.freetv.fun | <https://stream1.freetv.fun/f2d3264bc7e49bf41abca1c3b2cb138134af1369e3b54e5c211c46f7130251a5.ctv> |
 | 604 | [HD]NIcktoons *tv | stream1.freetv.fun | <https://stream1.freetv.fun/5a99ec7172c64d193fdd0c30f8ec99fa8ff59be028b3850382a35bbf88d308dd.ctv> |
 | 605 | [BD]nickelodeon | stream1.freetv.fun | <https://stream1.freetv.fun/f72ed679c5b7dabd2934d8a07011aa24c7b8af2e40dd2ced7ad45bfc5d8c70a9.ctv> |
@@ -1260,4 +1260,4 @@
 | 1254 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8> |
 | 1255 | [SD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/801369b8eee6983587b79881b7cd7c5de7c90b20544f9eb004128d7fd7ae72a2.m3u8> |
 
-Updated at **Sat Jun 20 2026 09:24:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 20 2026 11:59:52 GMT+0000 (Coordinated Universal Time)**
