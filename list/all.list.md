@@ -257,7 +257,7 @@
 | 251 | [BD]cnn fast | stream1.freetv.fun | <https://stream1.freetv.fun/f5f6b06390027910a4a12cc038116d20b51ff9d440317ad659be3c1a65b5b294.ctv> |
 | 252 | [HD]cnn | stream1.freetv.fun | <https://stream1.freetv.fun/2db6b0ef79044f857c554b986c80578ffd5584e1ff0ee6a29b3535e32549a9db.m3u8> |
 | 253 | [BD]hln | stream1.freetv.fun | <https://stream1.freetv.fun/12e899d17f9fd5f61f494312904ce9f0a6412e54c3ba0565c53be0ae63670ed6.m3u8> |
-| 254 | [HD]cnbc indonesia | stream1.freetv.fun | <https://stream1.freetv.fun/216b3ec9e861b693bdea2bc8ee215663e4e065cd8c8970492d98b3cf766d8350.m3u8> |
+| 254 | [HD]cnbc indonesia | stream1.freetv.fun | <https://stream1.freetv.fun/16ea61f78343808d95bfa5d7f81908eb0d36fc230ab5161bef85d2362a264d4f.m3u8> |
 | 255 | [BD]cnn en español | stream1.freetv.fun | <https://stream1.freetv.fun/cfa8a5307bba2dfaae57924f800c6fc46f8c7f726c284cc2a6cff6750a89b661.ctv> |
 | 256 | [BD]cn卡通 | stream1.freetv.fun | <https://stream1.freetv.fun/efa4acdd7bac4500d7384675fbc0f5d68e08c038084a3dba971cc682dc3f0535.m3u8> |
 | 257 | [VGA]crtv | stream1.freetv.fun | <https://stream1.freetv.fun/55a209645909f1f6c2a5cd7775ad694da1c06b37b354a72b1499b5c3c486824e.m3u8> |
@@ -993,7 +993,7 @@
 | 987 | [HD]yemen tv | stream1.freetv.fun | <https://stream1.freetv.fun/15017e606ae1adba1c3e979a63a1bf93b215b262980f16b96cc6d85680dac080.m3u8> |
 | 988 | [BD]zee tv | stream1.freetv.fun | <https://stream1.freetv.fun/3edc215bf50e8dd4d4096d1fd16b835be06433b69daf11927d8d0ab6f796df54.ctv> |
 | 989 | [BD]tv zoom | stream1.freetv.fun | <https://stream1.freetv.fun/104ecf3bc330cffbaacf14a6065b4ad6a79d1a55dd02650360c834d5f471a05a.m3u8> |
-| 990 | [HD]zee bangla | stream1.freetv.fun | <https://stream1.freetv.fun/024afc1d04f8c1b5cdea102df1cdf47575f85df81a8f546b088350ab101fc237.m3u8> |
+| 990 | [SD]dd bangla | stream1.freetv.fun | <https://stream1.freetv.fun/b554d8dc8ac7d8852574e3dc4f7c6e52aa603edf1c28eca57ac09c37e5150bd4.m3u8> |
 | 991 | [HD]zee cinema uk | stream1.freetv.fun | <https://stream1.freetv.fun/bc3b0c8dc34bef0ae8a28299e4f205dd6a6390ccc44412c98cc2623984018ed8.m3u8> |
 | 992 | [HD]rtp | stream1.freetv.fun | <https://stream1.freetv.fun/b1bd8f8242335a5f8dc7c1157d1c4b0af1d6de9df62e77780282a26cfc8af8fe.m3u8> |
 | 993 | [BD]zvezda | stream1.freetv.fun | <https://stream1.freetv.fun/bfe3d850dfcdfaf483b2d475ae41caacbddf32470c3867413c9ed61bb8d8daf2.m3u8> |
@@ -1317,4 +1317,4 @@
 | 1311 | [BD]龙华经典 *tv | stream1.freetv.fun | <https://stream1.freetv.fun/77aa2cafc3c82ad4adf8bb3a707375c68f21f0de8cbd6f37c13b8ba92e694674.ctv> |
 | 1312 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/e61ec6990715622e4b73cf6eb9b3b83a245bd96c7fa9a5d2cd066490f092289c.ctv> |
 
-Updated at **Tue Jun 23 2026 05:56:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 23 2026 07:55:02 GMT+0000 (Coordinated Universal Time)**
