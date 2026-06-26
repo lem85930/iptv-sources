@@ -18078,6 +18078,9 @@
 	<programme channel="咪咕足球" start="20260626192000 +0800" stop="20260626193000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260626193000 +0800" stop="20260626203000 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -59534,6 +59537,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260626190300 +0800" stop="20260626194400 +0800">
 		<title lang="zh">32_暗夜与黎明</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260626194400 +0800" stop="20260626202600 +0800">
+		<title lang="zh">33_暗夜与黎明</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
