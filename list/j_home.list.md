@@ -1,6 +1,6 @@
-# List for **cymz6/AutoIPTV-Hotel lives**
+# List for **joevess/IPTV home**(Rollback)
 
-> M3U: [cymz6_lives.m3u](/cymz6_lives.m3u), TXT: [cymz6_lives.txt](/txt/cymz6_lives.txt)
+> M3U: [j_home.m3u](/j_home.m3u), TXT: [j_home.txt](/txt/j_home.txt)
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
