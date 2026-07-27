@@ -1,4 +1,4 @@
-# List for **iptv.org stream China**(Rollback)
+# List for **iptv.org stream China**
 
 > M3U: [o_s_cn.m3u](/o_s_cn.m3u), TXT: [o_s_cn.txt](/txt/o_s_cn.txt)
 
@@ -380,4 +380,4 @@
 | 374 | Lanzhou Comprehensive News Channel | liveplus.lzr.com.cn | <https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8> |
 | 375 | Lanzhou Culture & Tourism Channel | liveplus.lzr.com.cn | <https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8> |
 
-Updated at **Mon Jul 27 2026 14:45:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jul 27 2026 17:45:43 GMT+0000 (Coordinated Universal Time)**
