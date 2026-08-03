@@ -440,7 +440,7 @@
 | 434 | [SD]noursat | stream1.freetv.fun | <https://stream1.freetv.fun/74a6cb1a72d5ed95d17dc15bf7339d0ff94cb268740cdad4c1b5be27056f11e1.m3u8> |
 | 435 | [HD]rts 3 | stream1.freetv.fun | <https://stream1.freetv.fun/4af00665b62ab5db051418eea234643832392f16bd2eb89f62059ed171e0e6b9.ctv> |
 | 436 | [HD]ntn | stream1.freetv.fun | <https://stream1.freetv.fun/e0f0cbb85941155e33ae6cf847ce8014d1fd916509e8f09827724c225ee4ba60.m3u8> |
-| 437 | [BD]ntv | stream1.freetv.fun | <https://stream1.freetv.fun/9aab7bc1916fc47c18f67c475388d769346b9177985583dad5a5d39f139f2ba9.m3u8> |
+| 437 | [HD]ntv | stream1.freetv.fun | <https://stream1.freetv.fun/1724ed1247341d4368124d87d457318609ba4bae78d6eb974caa6f17fa89da5b.m3u8> |
 | 438 | [SD]ntv mir | stream1.freetv.fun | <https://stream1.freetv.fun/90579c6f780819fa72035e1adc9eb1bed18ee8ea3ea7c99c3aba41d2ad59889e.m3u8> |
 | 439 | [VGA]nation tv | stream1.freetv.fun | <https://stream1.freetv.fun/70bf9b51e18f1a62309612a1b104fb349a671362404e447097bd39767e938d7e.m3u8> |
 | 440 | [BD]national geographic wild | stream1.freetv.fun | <https://stream1.freetv.fun/06303c5ca6227c45282da33a3d1f5b9d3d77801f709b23dbac67ea2b7c24babc.m3u8> |
@@ -1019,4 +1019,4 @@
 | 1013 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/1bb5d074aab559954dd989711eb5a8fcd9918bb610de77b7f68bb2c37976c3a1.ctv> |
 | 1014 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/e61ec6990715622e4b73cf6eb9b3b83a245bd96c7fa9a5d2cd066490f092289c.ctv> |
 
-Updated at **Mon Aug 03 2026 21:08:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Aug 03 2026 23:33:30 GMT+0000 (Coordinated Universal Time)**

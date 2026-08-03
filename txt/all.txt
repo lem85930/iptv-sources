@@ -621,7 +621,7 @@ News,#genre#
 [HD]ndtv_24x7,https://stream1.freetv.fun/ccaf519e24c0605eb1c01ea3397a85aeb860de560b265e6a449c35da57abe292.m3u8
 [BD]eko_tv,https://stream1.freetv.fun/90f70dddf466f295299c2f7ca819edff50df6ccada1a213696dd494be96b75d1.ctv
 [HD]rts_3,https://stream1.freetv.fun/4af00665b62ab5db051418eea234643832392f16bd2eb89f62059ed171e0e6b9.ctv
-[BD]ntv,https://stream1.freetv.fun/9aab7bc1916fc47c18f67c475388d769346b9177985583dad5a5d39f139f2ba9.m3u8
+[HD]ntv,https://stream1.freetv.fun/1724ed1247341d4368124d87d457318609ba4bae78d6eb974caa6f17fa89da5b.m3u8
 [HD]newkid4,https://stream1.freetv.fun/c643164ff091355106b03b1fb8476ea877ec8367c4b1d40f07b5f43d0abcfa25.m3u8
 [VGA]news_11,https://stream1.freetv.fun/b139bb5fff8be8a67dd111eb1aee400bd5661d6bba7e8812ca03fe51185c2d93.m3u8
 [HD]newsnation,https://stream1.freetv.fun/e204d18d15472171cd6bb15fa7b8a1eb469b8eaf9075fc2992c58fb74ef893c9.m3u8

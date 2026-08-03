@@ -871,8 +871,8 @@ https://stream1.freetv.fun/74a6cb1a72d5ed95d17dc15bf7339d0ff94cb268740cdad4c1b5b
 https://stream1.freetv.fun/4af00665b62ab5db051418eea234643832392f16bd2eb89f62059ed171e0e6b9.ctv
 #EXTINF:-1 tvg-name="NTN" tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/05/13/20170513000538955338_75.jpg" group-title="Entertainment",[HD]ntn
 https://stream1.freetv.fun/e0f0cbb85941155e33ae6cf847ce8014d1fd916509e8f09827724c225ee4ba60.m3u8
-#EXTINF:-1 tvg-name="NTV HD" tvg-id="12244" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/25/20170325213913711970_32.jpg" group-title="News",[BD]ntv
-https://stream1.freetv.fun/9aab7bc1916fc47c18f67c475388d769346b9177985583dad5a5d39f139f2ba9.m3u8
+#EXTINF:-1 tvg-name="NTV HD" tvg-id="12244" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/25/20170325213913711970_32.jpg" group-title="News",[HD]ntv
+https://stream1.freetv.fun/1724ed1247341d4368124d87d457318609ba4bae78d6eb974caa6f17fa89da5b.m3u8
 #EXTINF:-1 tvg-name="NTV MIR" tvg-id="" tvg-country="Russia" tvg-language="Русский" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/23/20140523214645093159_88.jpg" group-title="Other",[SD]ntv mir
 https://stream1.freetv.fun/90579c6f780819fa72035e1adc9eb1bed18ee8ea3ea7c99c3aba41d2ad59889e.m3u8
 #EXTINF:-1 tvg-name="Nation TV Thailand" tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/" group-title="Generic",[VGA]nation tv
