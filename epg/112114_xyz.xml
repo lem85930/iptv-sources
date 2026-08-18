@@ -58818,6 +58818,9 @@
 	<programme channel="newtv超级综艺" start="20260818133500 +0800" stop="20260818142500 +0800">
 		<title lang="zh">远山之约</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260818142500 +0800" stop="20260818154800 +0800">
+		<title lang="zh">会唱歌的院子</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -58952,6 +58955,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260818133300 +0800" stop="20260818141900 +0800">
 		<title lang="zh">22_家事法庭</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260818141900 +0800" stop="20260818150400 +0800">
+		<title lang="zh">23_家事法庭</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59564,6 +59570,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260818134700 +0800" stop="20260818142200 +0800">
 		<title lang="zh">美国Spruce铂金水蛭素9000-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260818142200 +0800" stop="20260818150500 +0800">
+		<title lang="zh">30_潜渊</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
