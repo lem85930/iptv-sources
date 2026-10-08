@@ -343,4 +343,4 @@
 | 337 | Chaozhou Public Channel | IPv4 直链 | <http://113.64.146.48:1688/hls/4/index.m3u8> |
 | 338 | Xizang TV Chinese | pili-live-hls-zdzz-tv.zzxwcm.cn | <https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8> |
 
-Updated at **Wed Oct 07 2026 19:48:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 08 2026 00:04:36 GMT+0000 (Coordinated Universal Time)**
