@@ -1,4 +1,4 @@
-# List for **iptv.org China**(Rollback)
+# List for **iptv.org China**
 
 > M3U: [o_cn.m3u](/o_cn.m3u), TXT: [o_cn.txt](/txt/o_cn.txt)
 
@@ -151,4 +151,4 @@
 | 145 | Zhejiang International Channel | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8> |
 | 146 | Zhejiang Satellite TV (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8> |
 
-Updated at **Tue Oct 20 2026 11:11:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Oct 20 2026 16:36:02 GMT+0000 (Coordinated Universal Time)**
