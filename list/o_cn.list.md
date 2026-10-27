@@ -1,4 +1,4 @@
-# List for **iptv.org China**(Rollback)
+# List for **iptv.org China**
 
 > M3U: [o_cn.m3u](/o_cn.m3u), TXT: [o_cn.txt](/txt/o_cn.txt)
 
@@ -22,7 +22,7 @@
 | 16 | CCTV-2 (720p) | IPv4 直链 | <http://74.91.26.218:82/live/cctv2hd.m3u8> |
 | 17 | CCTV-3 (720p) | IPv4 直链 | <http://74.91.26.218:82/live/cctv3hd.m3u8> |
 | 18 | CCTV-4K HD (1080p) | IPv4 直链 | <http://198.204.240.250:82/live/cctv4k.m3u8> |
-| 19 | CCTV-5+ | myip.pdtvhd.com | <https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8> |
+| 19 | CCTV-5+ (1080p) | php.jdshipin.com | <https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p> |
 | 20 | CCTV-6 | live.eac-news.com | <https://live.eac-news.com/CCTV/streams/cctv6.m3u8> |
 | 21 | CCTV-6 HD (1080p) | IPv4 直链 | <http://69.30.245.50/live/cctv6.m3u8> |
 | 22 | CCTV-7 (720p) | IPv4 直链 | <http://74.91.26.218:82/live/cctv7hd.m3u8> |
@@ -153,4 +153,4 @@
 | 147 | Zhejiang International Channel | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8> |
 | 148 | Zhejiang Satellite TV (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8> |
 
-Updated at **Mon Oct 26 2026 23:39:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Oct 27 2026 04:23:09 GMT+0000 (Coordinated Universal Time)**
